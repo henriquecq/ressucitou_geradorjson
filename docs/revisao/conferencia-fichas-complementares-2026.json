@@ -1,0 +1,75 @@
+{
+  "edition": 2026,
+  "scope": "Independent visual and character-coordinate review of three complete complementary sheets; normal and extended HTML checked against the reviewed transcription.",
+  "pagesReviewed": [
+    130,
+    154,
+    167
+  ],
+  "sourceRowsChecked": 77,
+  "sourceChordsChecked": 104,
+  "sourceChordAnchorsWithinOneCharacter": 104,
+  "findings": [
+    "Missing lower-case solist strophes in Muito me perseguiram restored; printed normal references retain abbreviated refrains and extended references expand appropriate full refrains.",
+    "Entry La- from both abbreviated endings of Muito me perseguiram retained in extended full refrains.",
+    "Full final vocalization in Por amor de meus amigos retained; Mi- chord labels normalized to standard case.",
+    "Salve Rainha follows2026 text, final A.response and final three S.lines; old Amem absent from2026 is not emitted.",
+    "Capo2ndfret in Por amor de meus amigos agrees with source."
+  ],
+  "formattingNotes": [
+    "S.role retained at initial SalveRainha as existing solist convention; the PDF text object exists but is not visible under the white rendered mask in local private rendering."
+  ],
+  "privacy": "No source PDF or rendered source image included.",
+  "approval": "approved-within-stated-scope",
+  "variants": [
+    {
+      "html": "MUITO ME PERSEGUIRAM",
+      "variant": "normal",
+      "sha256": "4b0797e4dc3972ada9aba2d89a945434dd099b8d484105173e7e8ebcb6f073d0",
+      "renderedTextAndNotesMatchReviewedSource": true,
+      "renderedRows": 28,
+      "renderedChordCount": 29
+    },
+    {
+      "html": "MUITO ME PERSEGUIRAM",
+      "variant": "estendido",
+      "sha256": "a547c7496d92b5bcd16b4de9bfa5ce0d391e0f8efa4474034ab1f5bc98764309",
+      "renderedTextAndNotesMatchReviewedSource": true,
+      "renderedRows": 32,
+      "renderedChordCount": 32
+    },
+    {
+      "html": "POR AMOR DE MEUS AMIGOS",
+      "variant": "normal",
+      "sha256": "e5fd63cb59bbefb461045d1156f3bc5004694accbeb4cc35f581c93963258e0f",
+      "renderedTextAndNotesMatchReviewedSource": true,
+      "renderedRows": 32,
+      "renderedChordCount": 42
+    },
+    {
+      "html": "POR AMOR DE MEUS AMIGOS",
+      "variant": "estendido",
+      "sha256": "0212c9adf8f6376ce0ef302b16630449d0c87c2b3f7d6b93f75bcc8381bd0bc1",
+      "renderedTextAndNotesMatchReviewedSource": true,
+      "renderedRows": 52,
+      "renderedChordCount": 66
+    },
+    {
+      "html": "SALVE RAINHA",
+      "variant": "normal",
+      "sha256": "c18cdbf44b6d2a2b15b5409df09ceb3f4de623b6f70807b6f5a20e9fd2e3cb41",
+      "renderedTextAndNotesMatchReviewedSource": true,
+      "renderedRows": 17,
+      "renderedChordCount": 33
+    },
+    {
+      "html": "SALVE RAINHA",
+      "variant": "estendido",
+      "sha256": "c18cdbf44b6d2a2b15b5409df09ceb3f4de623b6f70807b6f5a20e9fd2e3cb41",
+      "renderedTextAndNotesMatchReviewedSource": true,
+      "renderedRows": 17,
+      "renderedChordCount": 33
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,85 @@
+{
+  "edition": 2026,
+  "scope": "Independent verification of both complete Eucharistic prayer sheets against 2026 pages220–226, normal and extended variants.",
+  "sourcePrivacy": "Original PDF read privately; no page raster/path or PDF bytes included.",
+  "visualPagesReviewed": [
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226
+  ],
+  "independentTextRowsChecked": 252,
+  "independentChordCountChecked": 285,
+  "independentAnchorsWithinOneCharacter": 282,
+  "remainingAnchorExceptions": [
+    {
+      "reason": "Name placeholders N are separate red spans; three chord positions in two placeholder lines were checked visually instead of alphanumeric matching."
+    }
+  ],
+  "checks": [
+    "Complete lyric and spoken/recited rubric rows compared independently.",
+    "285 source chord identities and sequence agree.",
+    "282 chord anchors agree within one monospaced character; remaining3 checked visually with the two name-placeholder lines.",
+    "II title/subtitle ModeloI and IV subtitle1988 agree.",
+    "Normal has1II and2IV bracketed BIS blocks; extended expands only those blocks with appropriate A.role.",
+    "II optionalSunday block, asterisk/footnote and alternative doxology retained.",
+    "Repeated written responses are retained literally rather than replaced by invented BIS.",
+    "No inferred PREFACIO/DOXOLOGIA headings carried over from old HTML."
+  ],
+  "songs": [
+    {
+      "html": "ORACAO EUCARISTICA II",
+      "pages": [
+        220,
+        221,
+        222
+      ],
+      "sourceRows": 109,
+      "sourceChords": 125,
+      "variants": {
+        "normal": {
+          "sha256": "e02ca39b8a751e1bf76e2eb892224592d4427efcf59391b8dd656a62de7fd2dd",
+          "htmlContractPreserved": true,
+          "fullTextAndChordSequenceAgainstReviewedSource": true,
+          "bisExpanded": false
+        },
+        "estendido": {
+          "sha256": "6906c60e0bde0895844664fc3e6b96a47553b99a13512e3f16064515e1d4f8dc",
+          "htmlContractPreserved": true,
+          "fullTextAndChordSequenceAgainstReviewedSource": true,
+          "bisExpanded": true
+        }
+      }
+    },
+    {
+      "html": "ORACAO EUCARISTICA IV",
+      "pages": [
+        223,
+        224,
+        225,
+        226
+      ],
+      "sourceRows": 144,
+      "sourceChords": 160,
+      "variants": {
+        "normal": {
+          "sha256": "0c51c82a4d7e731e3a3b0760ab54a1b0898b742fd43e797dce6e11522205fe65",
+          "htmlContractPreserved": true,
+          "fullTextAndChordSequenceAgainstReviewedSource": true,
+          "bisExpanded": false
+        },
+        "estendido": {
+          "sha256": "8ae6c1ebdbcd7b6301b6e24534d4aaa367e0ddca061035fecdf6f2dd95b2eaae",
+          "htmlContractPreserved": true,
+          "fullTextAndChordSequenceAgainstReviewedSource": true,
+          "bisExpanded": true
+        }
+      }
+    }
+  ],
+  "approval": "approved-within-stated-scope",
+  "pending": []
+}

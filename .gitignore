@@ -2,6 +2,11 @@
 *.class
 *.log
 *.pyc
+# Source books and rendered book pages are private local review material.
+*.pdf
+pdf-*.png
+pdf-*.jpg
+tmp/pdfs/
 *.swp
 .DS_Store
 .atom/

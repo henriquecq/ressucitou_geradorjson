@@ -1,0 +1,3745 @@
+[
+  {
+    "html": "ORACAO EUCARISTICA II",
+    "title": "ORAÇÃO EUCARÍSTICA II",
+    "subtitle": "Modelo I",
+    "color": "#FFF4B3",
+    "sourcePages": [
+      220,
+      221,
+      222
+    ],
+    "rows": [
+      {
+        "text": "O Senhor esteja convosco.",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            19,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "ELE ESTÁ NO MEIO DE NÓS.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            20,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 116.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Corações ao alto.",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            12,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 140.7,
+        "blankBefore": true
+      },
+      {
+        "text": "O NOSSO CORAÇÃO ESTÁ EM DEUS.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Fa"
+          ],
+          [
+            24,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 164.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Demos graças ao Senhor, nosso Deus.",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            30,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 188.7,
+        "blankBefore": true
+      },
+      {
+        "text": "É NOSSO DEVER E NOSSA SALVAÇÃO.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Sol"
+          ],
+          [
+            27,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 212.7,
+        "blankBefore": true
+      },
+      {
+        "text": "É NOSSO DEVER E NOSSA SALVAÇÃO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Sol"
+          ],
+          [
+            27,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 236.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Na verdade, é digno e justo,",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            22,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 272.7,
+        "blankBefore": true
+      },
+      {
+        "text": "é nosso dever e salvação",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 296.7,
+        "blankBefore": false
+      },
+      {
+        "text": "dar-vos graças, sempre e em todo lugar,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            8,
+            "Do"
+          ],
+          [
+            35,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 320.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Senhor, Pai Santo,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 344.7,
+        "blankBefore": false
+      },
+      {
+        "text": "por vosso amado Filho,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 220,
+        "sourceY": 368.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Jesus Cristo.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 392.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Ele é a vossa Palavra,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            16,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 428.7,
+        "blankBefore": true
+      },
+      {
+        "text": "pela qual tudo criastes.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 452.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Ele é o nosso Salvador e Redentor,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "Do"
+          ],
+          [
+            30,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 476.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que se encarnou pelo Espírito Santo",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 500.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e nasceu da Virgem Maria.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 524.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Ele, para cumprir a vossa vontade",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            29,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "e adquirir para vós um povo santo,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Fa"
+          ],
+          [
+            28,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "estendeu os braços na hora da sua paixão,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "La-"
+          ],
+          [
+            37,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "a fim de vencer a morte e manifestar a ressurreição.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "Fa"
+          ],
+          [
+            48,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 164.7,
+        "blankBefore": false
+      },
+      {
+        "text": "MORRENDO,",
+        "role": "P.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 200.7,
+        "blankBefore": true
+      },
+      {
+        "text": "DESTRUIU A NOSSA MORTE,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            15,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 224.7,
+        "blankBefore": false
+      },
+      {
+        "text": "RESSUSCITANDO,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            8,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 248.7,
+        "blankBefore": false
+      },
+      {
+        "text": "RESTAUROU NOSSA VIDA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            16,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 272.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Por isso, com os anjos e todos os santos",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "La-"
+          ],
+          [
+            34,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 308.7,
+        "blankBefore": true
+      },
+      {
+        "text": "proclamamos vossa glória,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 220,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "cantando a uma só voz:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "La-"
+          ]
+        ],
+        "sourcePage": 220,
+        "sourceY": 356.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Cantar o Santo do tempo litúrgico correspondente.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 220,
+        "sourceY": 380.7,
+        "recited": true,
+        "rubric": true,
+        "blankBefore": false
+      },
+      {
+        "text": "SANTO, SANTO, SANTO, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 220,
+        "sourceY": 404.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Na verdade, ó Pai, vós sois santo, fonte de toda santidade.",
+        "role": "P.",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 220,
+        "sourceY": 440.7,
+        "recited": true,
+        "blankBefore": true
+      },
+      {
+        "text": "Santificai, pois, estes dons, derramando sobre eles o",
+        "role": "P.",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 220,
+        "sourceY": 476.7,
+        "recited": true,
+        "blankBefore": true
+      },
+      {
+        "text": "vosso Espírito, a fim de que se tornem para nós o Corpo",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 220,
+        "sourceY": 488.7,
+        "recited": true,
+        "blankBefore": false
+      },
+      {
+        "text": "e o Sangue de nosso Senhor Jesus Cristo.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 220,
+        "sourceY": 500.7,
+        "recited": true,
+        "blankBefore": false
+      },
+      {
+        "text": "Estando para ser entregue",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "e abraçando livremente a paixão,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 221,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Jesus tomou o pão,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 221,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e elevou os olhos a Vós, Pai, Pai,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 221,
+        "sourceY": 164.7,
+        "blankBefore": false
+      },
+      {
+        "text": "pronunciou a bênção de ação de graças,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 188.7,
+        "blankBefore": false
+      },
+      {
+        "text": "partiu e o deu a seus discípulos, dizendo:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Sol-"
+          ],
+          [
+            36,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 212.7,
+        "blankBefore": false
+      },
+      {
+        "text": "“Tomai, todos, e comei:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            19,
+            "La"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 248.7,
+        "blankBefore": true
+      },
+      {
+        "text": "isto é o meu Corpo,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 272.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que será entregue por vós”.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            11,
+            "La"
+          ],
+          [
+            22,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 296.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Do mesmo modo, no fim da Ceia,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 332.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Ele tomou o cálice em suas mãos,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 221,
+        "sourceY": 356.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e elevou os olhos a Vós, Pai, Pai,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 221,
+        "sourceY": 380.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e, dando graças novamente,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 404.7,
+        "blankBefore": false
+      },
+      {
+        "text": "o entregou a seus discípulos, dizendo:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Sol-"
+          ],
+          [
+            31,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 428.7,
+        "blankBefore": false
+      },
+      {
+        "text": "“Tomai, todos, e bebei:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            19,
+            "La7"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 464.7,
+        "blankBefore": true
+      },
+      {
+        "text": "este é o cálice do meu Sangue,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 488.7,
+        "blankBefore": false
+      },
+      {
+        "text": "o Sangue da nova e eterna aliança,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            27,
+            "La7"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 512.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que será derramado por vós e por todos",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Re-"
+          ],
+          [
+            33,
+            "La"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 536.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para remissão dos pecados.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Fazei isso em memória de mim”.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "La"
+          ],
+          [
+            25,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Mistério da Fé!",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ],
+          [
+            11,
+            "La"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 164.7,
+        "blankBefore": true
+      },
+      {
+        "text": "ANUNCIAMOS, SENHOR, A VOSSA MORTE",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 200.7,
+        "blankBefore": true
+      },
+      {
+        "text": "E PROCLAMAMOS A VOSSA RESSURREIÇÃO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Sol-"
+          ],
+          [
+            31,
+            "La"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 224.7,
+        "blankBefore": false
+      },
+      {
+        "text": "MARANATHÁ! MARANATHÁ!",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            7,
+            "La"
+          ],
+          [
+            18,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 248.7,
+        "blankBefore": false
+      },
+      {
+        "text": "MARANATHÁ!",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            7,
+            "La"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 272.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Vinde, Senhor Jesus!",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 296.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Celebrando, pois, o memorial",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 356.7,
+        "blankBefore": true
+      },
+      {
+        "text": "da morte e ressurreição do vosso Filho,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            33,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 380.7,
+        "blankBefore": false
+      },
+      {
+        "text": "nós vos oferecemos, ó Pai, o Pão da vida",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            13,
+            "La-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 404.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e o Cálice da salvação;",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 428.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e vos agradecemos porque nos tornastes dignos",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "La-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 452.7,
+        "blankBefore": false
+      },
+      {
+        "text": "de estar aqui na vossa presença e vos servir.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            39,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 476.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Suplicantes, vos pedimos",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 221,
+        "sourceY": 536.7,
+        "blankBefore": true
+      },
+      {
+        "text": "que, participando do Corpo",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 222,
+        "sourceY": 68.7,
+        "blankBefore": true
+      },
+      {
+        "text": "e Sangue de Cristo, sejamos reunidos",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            22,
+            "La-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 92.7,
+        "blankBefore": false
+      },
+      {
+        "text": "pelo Espírito Santo num só corpo.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            20,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Lembrai-vos, ó Pai, da vossa Igreja",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 164.7,
+        "blankBefore": true
+      },
+      {
+        "text": "que se faz presente pelo mundo inteiro:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            33,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 188.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e aqui convocada no dia em que Cristo venceu a morte",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "La-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 212.7,
+        "blankBefore": false,
+        "optional": true
+      },
+      {
+        "text": "e nos fez participantes de sua vida imortal;",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 236.7,
+        "blankBefore": false,
+        "optional": true
+      },
+      {
+        "text": "que ela cresça na caridade,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "La-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 260.7,
+        "blankBefore": false
+      },
+      {
+        "text": "em comunhão com o papa N., com o nosso bispo N.,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Mi-"
+          ],
+          [
+            33,
+            "La-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 284.7,
+        "inlineRed": [
+          [
+            23,
+            "N"
+          ],
+          [
+            24,
+            "."
+          ],
+          [
+            45,
+            "N"
+          ],
+          [
+            46,
+            "."
+          ]
+        ],
+        "blankBefore": false
+      },
+      {
+        "text": "os bispos do mundo inteiro, os presbíteros,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 222,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "os diáconos e todos os ministros do vosso povo.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            14,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Lembrai-vos também, na vossa misericórdia,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 356.7,
+        "blankBefore": false
+      },
+      {
+        "text": "dos nossos irmãos",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 222,
+        "sourceY": 380.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que adormeceram na esperança da ressurreição",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 404.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e de todos os que partiram desta vida;",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "La-"
+          ],
+          [
+            33,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 428.7,
+        "blankBefore": false
+      },
+      {
+        "text": "acolhei-os junto a vós na luz da vossa face.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "Sol"
+          ],
+          [
+            19,
+            "Si-"
+          ],
+          [
+            39,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 452.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Enfim, nós vos pedimos, tende piedade de todos nós",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            47,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 500.7,
+        "blankBefore": true
+      },
+      {
+        "text": "e dai-nos participar da vida eterna,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "La-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 524.7,
+        "blankBefore": false
+      },
+      {
+        "text": "com a Virgem Maria, Mãe de Deus,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 548.7,
+        "blankBefore": false
+      },
+      {
+        "text": "São José, seu esposo, os Apóstolos,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "La-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 572.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e todos os Santos que neste mundo",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 222,
+        "sourceY": 68.7,
+        "blankBefore": true
+      },
+      {
+        "text": "viveram na vossa amizade,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 222,
+        "sourceY": 92.7,
+        "blankBefore": false
+      },
+      {
+        "text": "a fim de vos louvarmos e glorificarmos",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "por Jesus Cristo",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            10,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "por Jesus Cristo, vosso Filho.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            10,
+            "La"
+          ],
+          [
+            25,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 164.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Por Cristo, com Cristo, em Cristo,",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 212.7,
+        "blankBefore": true
+      },
+      {
+        "text": "a vós, Deus Pai todo-poderoso,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 236.7,
+        "blankBefore": false
+      },
+      {
+        "text": "na unidade do Espírito Santo.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "La-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 260.7,
+        "blankBefore": false
+      },
+      {
+        "text": "toda a honra e toda a glória,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 284.7,
+        "blankBefore": false
+      },
+      {
+        "text": "por todos os séculos dos séculos.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "AMÉM, AMÉM, AMÉM.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Si-"
+          ],
+          [
+            7,
+            "La"
+          ],
+          [
+            13,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 332.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Quando o “MEMORIAL E A OFERENDA” faz-se recitada,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 222,
+        "sourceY": 356.7,
+        "recited": true,
+        "rubric": true,
+        "blankBefore": false
+      },
+      {
+        "text": "pode-se cantar a Doxologia com a seguinte melodia:",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 222,
+        "sourceY": 368.7,
+        "recited": true,
+        "rubric": true,
+        "blankBefore": false
+      },
+      {
+        "text": "Por Cristo, com Cristo, em Cristo,",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ],
+          [
+            28,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 392.7,
+        "blankBefore": true
+      },
+      {
+        "text": "a vós Deus Pai Todo-Poderoso,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            25,
+            "Do"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 416.7,
+        "blankBefore": false
+      },
+      {
+        "text": "na unidade do Espírito Santo,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            24,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 440.7,
+        "blankBefore": false
+      },
+      {
+        "text": "toda a honra e toda a glória,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            24,
+            "La-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 464.7,
+        "blankBefore": false
+      },
+      {
+        "text": "por todos os séculos dos séculos.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            25,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 488.7,
+        "blankBefore": false
+      },
+      {
+        "text": "AMÉM, AMÉM, AMÉM.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 512.7,
+        "blankBefore": false
+      },
+      {
+        "text": "AMÉM, AMÉM, AMÉM.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 536.7,
+        "blankBefore": false
+      },
+      {
+        "text": "AMÉM, AMÉM, AMÉM.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            14,
+            "Do"
+          ]
+        ],
+        "sourcePage": 222,
+        "sourceY": 560.7,
+        "blankBefore": false
+      }
+    ],
+    "repeatBlocks": [
+      [
+        22,
+        26,
+        "BIS A."
+      ]
+    ],
+    "footnote": "* Aos Domingos (exceto quando houver outro texto próprio)"
+  },
+  {
+    "html": "ORACAO EUCARISTICA IV",
+    "title": "ORAÇÃO EUCARÍSTICA IV",
+    "subtitle": "(1988)",
+    "color": "#FFF4B3",
+    "sourcePages": [
+      223,
+      224,
+      225,
+      226
+    ],
+    "rows": [
+      {
+        "text": "O Senhor esteja convosco.",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            19,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "ELE ESTÁ NO MEIO DE NÓS.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            20,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 116.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Corações ao alto.",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            12,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 140.7,
+        "blankBefore": true
+      },
+      {
+        "text": "O NOSSO CORAÇÃO ESTÁ EM DEUS.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Fa"
+          ],
+          [
+            24,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 164.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Demos graças ao Senhor, nosso Deus.",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            31,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 188.7,
+        "blankBefore": true
+      },
+      {
+        "text": "É NOSSO DEVER E NOSSA SALVAÇÃO.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Sol"
+          ],
+          [
+            27,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 212.7,
+        "blankBefore": true
+      },
+      {
+        "text": "É NOSSO DEVER E NOSSA SALVAÇÃO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Sol"
+          ],
+          [
+            27,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 236.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Na verdade, ó Pai, é nosso dever dar-vos graças,",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            42,
+            "Do"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 272.7,
+        "blankBefore": true
+      },
+      {
+        "text": "é nossa salvação dar-vos glória.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "Re"
+          ],
+          [
+            26,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 296.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Só vós sois o Deus vivo e verdadeiro",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "Do"
+          ],
+          [
+            31,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 320.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que existis antes de todo o tempo e permaneceis",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 344.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para sempre, habitando em luz inacessível.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            26,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 368.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Mas, porque sois o Deus de bondade e a fonte da vida,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            48,
+            "Do"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 404.7,
+        "blankBefore": true
+      },
+      {
+        "text": "fizestes todas as coisas",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Re"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 428.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para cobrir de bênçãos as vossas criaturas",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            37,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 452.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e a muitos alegrar com o esplendor da vossa luz.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            15,
+            "Do"
+          ],
+          [
+            44,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 476.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Eis, pois, diante de vós os inumeráveis coros dos Anjos",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ],
+          [
+            50,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 512.7,
+        "blankBefore": true
+      },
+      {
+        "text": "que dia e noite vos servem e, contemplando a glória",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            20,
+            "Re"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 536.7,
+        "blankBefore": false
+      },
+      {
+        "text": "de vossa face, vos louvam sem cessar.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            32,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 560.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Com eles, também nós e, por nossa voz,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            17,
+            "La-"
+          ],
+          [
+            33,
+            "Do"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "tudo o que criastes celebramos vosso Nome e,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            24,
+            "Re"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "exultantes de alegria, cantamos a uma só voz:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            41,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Cantar o Santo do tempo litúrgico correspondente.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 223,
+        "sourceY": 164.7,
+        "recited": true,
+        "rubric": true,
+        "blankBefore": false
+      },
+      {
+        "text": "SANTO, SANTO, SANTO, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 223,
+        "sourceY": 188.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Nós proclamamos vossa grandeza, Pai santo,",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            36,
+            "Do"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 248.7,
+        "blankBefore": true
+      },
+      {
+        "text": "a sabedoria e o amor",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "Re"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 272.7,
+        "blankBefore": false
+      },
+      {
+        "text": "com que fizestes todas as coisas.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            27,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 296.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Criastes o ser humano à vossa imagem",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            31,
+            "Do"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 332.7,
+        "blankBefore": true
+      },
+      {
+        "text": "e lhe confiastes todo o universo",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            10,
+            "Re"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 356.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para que, servindo somente a vós, seu Criador,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            13,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 380.7,
+        "blankBefore": false
+      },
+      {
+        "text": "cuidasse de toda criatura.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            12,
+            "Sol"
+          ],
+          [
+            22,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 404.7,
+        "blankBefore": false
+      },
+      {
+        "text": "E quando pela desobediência",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 440.7,
+        "blankBefore": true
+      },
+      {
+        "text": "perdeu a vossa amizade,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "La-"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 464.7,
+        "blankBefore": false
+      },
+      {
+        "text": "não o abandonastes ao poder da morte.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            13,
+            "Do"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 488.7,
+        "blankBefore": false
+      },
+      {
+        "text": "A todos, porém, socorrestes com misericórdia,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            39,
+            "Re"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 512.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para que, ao procurar-vos,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 536.7,
+        "blankBefore": false
+      },
+      {
+        "text": "vos encontrassem.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re"
+          ],
+          [
+            10,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 223,
+        "sourceY": 560.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Muitas vezes oferecestes aliança",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "à família humana e a instruístes",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "pelos profetas na esperança da salvação.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            37,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "E de tal modo, Pai santo, amastes o mundo",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 176.7,
+        "blankBefore": true
+      },
+      {
+        "text": "que, chegada a plenitude dos tempos,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            30,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 200.7,
+        "blankBefore": false
+      },
+      {
+        "text": "nos enviastes vosso próprio Filho",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 224,
+        "sourceY": 224.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para ser o nosso Salvador.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            22,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 248.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Encarnado",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Do"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 284.7,
+        "blankBefore": true
+      },
+      {
+        "text": "pelo poder do Espírito Santo",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "Re"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e nascido da Virgem Maria,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            22,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Jesus viveu em tudo",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 356.7,
+        "blankBefore": false
+      },
+      {
+        "text": "a condição humana,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 224,
+        "sourceY": 380.7,
+        "blankBefore": false
+      },
+      {
+        "text": "menos o pecado;",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            11,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 404.7,
+        "blankBefore": false
+      },
+      {
+        "text": "anunciou aos pobres a salvação,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ],
+          [
+            27,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 428.7,
+        "blankBefore": false
+      },
+      {
+        "text": "aos oprimidos, a liberdade,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 452.7,
+        "blankBefore": false
+      },
+      {
+        "text": "aos tristes, a alegria.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 476.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Para cumprir o vosso plano de amor,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            31,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 512.7,
+        "blankBefore": true
+      },
+      {
+        "text": "entregou-se à morte e, ressuscitando,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            15,
+            "La-"
+          ],
+          [
+            31,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 536.7,
+        "blankBefore": false
+      },
+      {
+        "text": "destruiu a morte e renovou a vida.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            29,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 560.7,
+        "blankBefore": false
+      },
+      {
+        "text": "RESSUSCITANDO DOS MORTOS,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "DESTRUIU A MORTE",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 224,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "E RENOVOU A VIDA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            13,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "E, a fim de não mais vivermos para nós,",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            35,
+            "Do"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 176.7,
+        "blankBefore": true
+      },
+      {
+        "text": "mas para Ele,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "Re"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 200.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que por nós morreu e ressuscitou,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 224,
+        "sourceY": 224.7,
+        "blankBefore": false
+      },
+      {
+        "text": "enviou de vós, ó Pai, como primeiro dom",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            11,
+            "La-"
+          ],
+          [
+            27,
+            "Sol"
+          ],
+          [
+            37,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 248.7,
+        "blankBefore": false
+      },
+      {
+        "text": "aos vossos fiéis, o Espírito Santo,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 272.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que continua sua obra no mundo",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 224,
+        "sourceY": 296.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para levar à plenitude toda a santificação.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 320.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Por isso, nós vos pedimos, ó Pai, que o mesmo",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 380.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Espírito Santo santifique estas oferendas,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "Re"
+          ],
+          [
+            35,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 404.7,
+        "blankBefore": false
+      },
+      {
+        "text": "a fim de que se tornem o Corpo e o Sangue",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 428.7,
+        "blankBefore": false
+      },
+      {
+        "text": "de Jesus Cristo, vosso Filho e Senhor nosso,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            31,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 452.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para celebrarmos este grande mistério",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            1,
+            "Re"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 476.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que Ele nos deixou em sinal de eterna aliança.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            16,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 500.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Quando, pois, chegou a hora",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 536.7,
+        "blankBefore": true
+      },
+      {
+        "text": "em que por vós, ó Pai, ia ser glorificado,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "La-"
+          ]
+        ],
+        "sourcePage": 224,
+        "sourceY": 560.7,
+        "blankBefore": false
+      },
+      {
+        "text": "tendo amado os seus que estavam no mundo,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "amou-os até o fim.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            15,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Enquanto ceavam,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Jesus tomou o pão, pronunciou a bênção",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 164.7,
+        "blankBefore": false
+      },
+      {
+        "text": "de ação de graças, partiu",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 188.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e o deu a seus discípulos, dizendo:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            29,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 212.7,
+        "blankBefore": false
+      },
+      {
+        "text": "“Tomai, todos, e comei:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            8,
+            "Sol"
+          ],
+          [
+            19,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 248.7,
+        "blankBefore": true
+      },
+      {
+        "text": "isto é o meu corpo, que será entregue por vós”.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            42,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 272.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Do mesmo modo,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 308.7,
+        "blankBefore": true
+      },
+      {
+        "text": "ele tomou em suas mãos o cálice",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 225,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "com vinho, deu-vos graças novamente,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            19,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 356.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e o deu a seus discípulos, dizendo:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            30,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 380.7,
+        "blankBefore": false
+      },
+      {
+        "text": "“Tomai, todos, e bebei:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            18,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 416.7,
+        "blankBefore": true
+      },
+      {
+        "text": "este é o cálice do meu Sangue,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 440.7,
+        "blankBefore": false
+      },
+      {
+        "text": "o Sangue da nova e eterna aliança,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            28,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 464.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que será derramado por vós e por todos",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 488.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para remissão dos pecados.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            20,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 512.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Fazei isto em memória de mim”.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            26,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 536.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Mistério da fé!",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            11,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "ANUNCIAMOS, SENHOR, A VOSSA MORTE,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 128.7,
+        "blankBefore": true
+      },
+      {
+        "text": "E PROCLAMAMOS A VOSSA RESSURREIÇÃO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            32,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 152.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Vinde, Senhor Jesus!",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            16,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 176.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Celebrando, agora, ó Pai,",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 212.7,
+        "blankBefore": true
+      },
+      {
+        "text": "o memorial da nossa redenção,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            14,
+            "Fa"
+          ],
+          [
+            25,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 236.7,
+        "blankBefore": false
+      },
+      {
+        "text": "anunciamos a morte de Cristo",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            19,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 260.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e sua descida entre os mortos,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 284.7,
+        "blankBefore": false
+      },
+      {
+        "text": "proclamamos a sua ressurreição",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e ascensão à vossa direita,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e, esperando a sua vinda gloriosa,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            19,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 356.7,
+        "blankBefore": false
+      },
+      {
+        "text": "nós vos oferecemos o seu Corpo e Sangue,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 380.7,
+        "blankBefore": false
+      },
+      {
+        "text": "sacrifício do vosso agrado",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 404.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e salvação para o mundo inteiro.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Sol"
+          ],
+          [
+            26,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 428.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Olhai, com bondade,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 464.7,
+        "blankBefore": true
+      },
+      {
+        "text": "a oblação que destes à vossa Igreja",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            31,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 488.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e concedei aos que vamos participar",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 512.7,
+        "blankBefore": false
+      },
+      {
+        "text": "do mesmo pão e do mesmo cálice",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            24,
+            "La-"
+          ]
+        ],
+        "sourcePage": 225,
+        "sourceY": 536.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que, reunidos pelo Espírito Santo",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "num só corpo,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "nos tornemos em Cristo uma oferenda viva",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            1,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "PARA O LOUVOR DA VOSSA GLÓRIA.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi7"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 176.7,
+        "blankBefore": true
+      },
+      {
+        "text": "PARA O LOUVOR DA VOSSA GLÓRIA.",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 200.7,
+        "blankBefore": false
+      },
+      {
+        "text": "E agora, ó Pai, lembrai-vos de todos",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 236.7,
+        "blankBefore": true
+      },
+      {
+        "text": "pelos quais vos oferecemos este sacrifício:",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 260.7,
+        "blankBefore": false
+      },
+      {
+        "text": "o vosso servo o Papa ...N, o nosso Bispo ...N,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 284.7,
+        "inlineRed": [
+          [
+            21,
+            "."
+          ],
+          [
+            22,
+            "."
+          ],
+          [
+            23,
+            "."
+          ],
+          [
+            24,
+            "N"
+          ],
+          [
+            41,
+            "."
+          ],
+          [
+            42,
+            "."
+          ],
+          [
+            43,
+            "."
+          ],
+          [
+            44,
+            "N"
+          ]
+        ],
+        "blankBefore": false
+      },
+      {
+        "text": "os bispos do mundo inteiro, os presbíteros,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "os diáconos, e todos os ministros da vossa Igreja,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "os fiéis que, ao redor deste altar,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 356.7,
+        "blankBefore": false
+      },
+      {
+        "text": "se unem à nossa oferta,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 380.7,
+        "blankBefore": false
+      },
+      {
+        "text": "o povo que vos pertence e aqueles",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 404.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que vos procuram de coração sincero.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            31,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 428.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Lembrai-vos também dos que morreram",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 452.7,
+        "blankBefore": false
+      },
+      {
+        "text": "na paz do vosso Cristo",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 476.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e de todos os defuntos",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 500.7,
+        "blankBefore": false
+      },
+      {
+        "text": "dos quais só vós conhecestes a fé.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            30,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 524.7,
+        "blankBefore": false
+      },
+      {
+        "text": "E a todos nós, vossos filhos,",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "concedei, ó Pai de bondade,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "alcançar a herança eterna,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "com a Virgem Maria, Mãe de Deus,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 164.7,
+        "blankBefore": false
+      },
+      {
+        "text": "São José, seu esposo,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 188.7,
+        "blankBefore": false
+      },
+      {
+        "text": "os Apóstolos e todos os Santos,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            24,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 212.7,
+        "blankBefore": false
+      },
+      {
+        "text": "no vosso reino, onde, com todas as criaturas,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            41,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 236.7,
+        "blankBefore": false
+      },
+      {
+        "text": "libertas da corrupção do pecado e da morte,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 226,
+        "sourceY": 260.7,
+        "blankBefore": false
+      },
+      {
+        "text": "vos glorificaremos por Cristo, Senhor nosso,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            38,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 284.7,
+        "blankBefore": false
+      },
+      {
+        "text": "por quem dais ao mundo todo bem e toda graça.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            40,
+            "La-"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Por Cristo, com Cristo, e em Cristo,",
+        "role": "P.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi7"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 344.7,
+        "blankBefore": true
+      },
+      {
+        "text": "a vós, Deus Pai todo-poderoso,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 368.7,
+        "blankBefore": false
+      },
+      {
+        "text": "na unidade do Espírito Santo,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            23,
+            "Mi7"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 392.7,
+        "blankBefore": false
+      },
+      {
+        "text": "toda honra e toda glória,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 416.7,
+        "blankBefore": false
+      },
+      {
+        "text": "por todos os séculos dos séculos.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            26,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 440.7,
+        "blankBefore": false
+      },
+      {
+        "text": "AMÉM, AMÉM, AMÉM, AMÉM.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            13,
+            "Fa"
+          ],
+          [
+            19,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 226,
+        "sourceY": 476.7,
+        "blankBefore": true
+      }
+    ],
+    "repeatBlocks": [
+      [
+        56,
+        59,
+        "BIS"
+      ],
+      [
+        93,
+        95,
+        "BIS"
+      ]
+    ]
+  }
+]

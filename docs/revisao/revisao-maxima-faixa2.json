@@ -1,0 +1,2743 @@
+{
+  "edition": 2026,
+  "range": [
+    101,
+    180
+  ],
+  "counts": {
+    "songs": 79,
+    "physicalPages": 80,
+    "variants": 158,
+    "previousAuthorizedOperations": 38,
+    "newFindingGroupsApplied": 13,
+    "newlyChangedSongs": 9,
+    "newlyChangedVariants": 18
+  },
+  "scope": "Restarted maximum review from saved independent page-overview inventory; second detailed source inspection and application of confirmed pending differences. No claim of per-character visual certification of every unchanged row.",
+  "appliedPreviously": [
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "normal",
+      "line": 9,
+      "before": "<FONT COLOR=\"#FF0000\">    Re                                                  </font>|",
+      "after": "<FONT COLOR=\"#FF0000\">    Do                                                  </font>|",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "normal",
+      "line": 11,
+      "before": "<FONT COLOR=\"#FF0000\">              Si-   Sol                                 </font>|",
+      "after": "<FONT COLOR=\"#FF0000\">              La-   Fa                                 </font>|",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "normal",
+      "line": 13,
+      "before": "<FONT COLOR=\"#FF0000\">       La                                               </font>| BIS A.",
+      "after": "<FONT COLOR=\"#FF0000\">       Sol                                               </font>| BIS A.",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "normal",
+      "line": 15,
+      "before": "<FONT COLOR=\"#FF0000\">               Re                                       </font>|",
+      "after": "<FONT COLOR=\"#FF0000\">               Do                                       </font>|",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "normal",
+      "line": 18,
+      "before": "<FONT COLOR=\"#FF0000\">    Si-                          Fa#",
+      "after": "<FONT COLOR=\"#FF0000\">    La-                          Mi",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "normal",
+      "line": 22,
+      "before": "<FONT COLOR=\"#FF0000\">            Sol                 Fa#",
+      "after": "<FONT COLOR=\"#FF0000\">            Fa                 Mi",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "normal",
+      "line": 32,
+      "before": "<FONT COLOR=\"#FF0000\">                     Si-",
+      "after": "<FONT COLOR=\"#FF0000\">                     La-",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "variant": "normal",
+      "line": 12,
+      "before": "<FONT COLOR=\"#000000\">‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎ ‏‏‎  ‏‏‎ ‎‏‏‎‏‏<b>E CHEGAM OS REIS MAGOS, QUE SÃO UM, DOIS E TRÊS</b>",
+      "after": "<FONT COLOR=\"#000000\">‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎ ‏‏‎  ‏‏‎ ‎‏‏‎‏‏<b>E CHEGAM OS REIS MAGOS, QUE SÃO UM, DOIS E TRÊS.</b>",
+      "kind": "2026-lyric-update",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "variant": "normal",
+      "line": 38,
+      "before": "<FONT COLOR=\"#000000\">          do país de flores e perfume,",
+      "after": "<FONT COLOR=\"#000000\">          do país das flores e perfumes,",
+      "kind": "2026-lyric-update",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "variant": "normal",
+      "line": 49,
+      "before": "<FONT COLOR=\"#000000\">Baltazar  Venho do Oriente distante, do país de pobres e enfermos,",
+      "after": "<FONT COLOR=\"#000000\">Baltasar  Venho do Oriente distante, do país da mirra e de aloés,",
+      "kind": "2026-lyric-update",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "variant": "normal",
+      "line": 83,
+      "before": "<FONT COLOR=\"#000000\">‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎ ‏‏‎  ‏‏‎ ‎‏‏‎‏‏<b>E VIRAM A ESTRELA NA CASA DE JESUS.</b>",
+      "after": "<FONT COLOR=\"#000000\">‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎ ‏‏‎  ‏‏‎ ‎‏‏‎‏‏<b>E LÁ ESTÁ A ESTRELA NA CASA DE JESUS.</b>",
+      "kind": "2026-lyric-update",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 9,
+      "before": "<FONT COLOR=\"#FF0000\">    Re",
+      "after": "<FONT COLOR=\"#FF0000\">    Do",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 11,
+      "before": "<FONT COLOR=\"#FF0000\">              Si-   Sol",
+      "after": "<FONT COLOR=\"#FF0000\">              La-   Fa",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 13,
+      "before": "<FONT COLOR=\"#FF0000\">       La",
+      "after": "<FONT COLOR=\"#FF0000\">       Sol",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 15,
+      "before": "<FONT COLOR=\"#FF0000\">               Re",
+      "after": "<FONT COLOR=\"#FF0000\">               Do",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 18,
+      "before": "<FONT COLOR=\"#FF0000\">    Re",
+      "after": "<FONT COLOR=\"#FF0000\">    Do",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 20,
+      "before": "<FONT COLOR=\"#FF0000\">              Si-   Sol",
+      "after": "<FONT COLOR=\"#FF0000\">              La-   Fa",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 22,
+      "before": "<FONT COLOR=\"#FF0000\">       La",
+      "after": "<FONT COLOR=\"#FF0000\">       Sol",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 24,
+      "before": "<FONT COLOR=\"#FF0000\">               Re",
+      "after": "<FONT COLOR=\"#FF0000\">               Do",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 27,
+      "before": "<FONT COLOR=\"#FF0000\">    Si-                          Fa#",
+      "after": "<FONT COLOR=\"#FF0000\">    La-                          Mi",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 31,
+      "before": "<FONT COLOR=\"#FF0000\">            Sol                 Fa#",
+      "after": "<FONT COLOR=\"#FF0000\">            Fa                 Mi",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 34,
+      "before": "<FONT COLOR=\"#FF0000\">    Re",
+      "after": "<FONT COLOR=\"#FF0000\">    Do",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 36,
+      "before": "<FONT COLOR=\"#FF0000\">              Si-   Sol",
+      "after": "<FONT COLOR=\"#FF0000\">              La-   Fa",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 38,
+      "before": "<FONT COLOR=\"#FF0000\">       La",
+      "after": "<FONT COLOR=\"#FF0000\">       Sol",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 40,
+      "before": "<FONT COLOR=\"#FF0000\">               Re",
+      "after": "<FONT COLOR=\"#FF0000\">               Do",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 47,
+      "before": "<FONT COLOR=\"#FF0000\">                     Si-",
+      "after": "<FONT COLOR=\"#FF0000\">                     La-",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 55,
+      "before": "<FONT COLOR=\"#FF0000\">    Re",
+      "after": "<FONT COLOR=\"#FF0000\">    Do",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 57,
+      "before": "<FONT COLOR=\"#FF0000\">              Si-   Sol",
+      "after": "<FONT COLOR=\"#FF0000\">              La-   Fa",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 59,
+      "before": "<FONT COLOR=\"#FF0000\">       La",
+      "after": "<FONT COLOR=\"#FF0000\">       Sol",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 61,
+      "before": "<FONT COLOR=\"#FF0000\">               Re",
+      "after": "<FONT COLOR=\"#FF0000\">               Do",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 78,
+      "before": "<FONT COLOR=\"#FF0000\">    Re",
+      "after": "<FONT COLOR=\"#FF0000\">    Do",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 80,
+      "before": "<FONT COLOR=\"#FF0000\">              Si-   Sol",
+      "after": "<FONT COLOR=\"#FF0000\">              La-   Fa",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 82,
+      "before": "<FONT COLOR=\"#FF0000\">       La",
+      "after": "<FONT COLOR=\"#FF0000\">       Sol",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "variant": "estendido",
+      "line": 84,
+      "before": "<FONT COLOR=\"#FF0000\">               Re",
+      "after": "<FONT COLOR=\"#FF0000\">               Do",
+      "kind": "mixed-tonality-chord-correction",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "variant": "estendido",
+      "line": 12,
+      "before": "<FONT COLOR=\"#000000\">‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎ ‏‏‎  ‏‏‎ ‎‏‏‎‏‏<b>E CHEGAM OS REIS MAGOS, QUE SÃO UM, DOIS E TRÊS</b>",
+      "after": "<FONT COLOR=\"#000000\">‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎ ‏‏‎  ‏‏‎ ‎‏‏‎‏‏<b>E CHEGAM OS REIS MAGOS, QUE SÃO UM, DOIS E TRÊS.</b>",
+      "kind": "2026-lyric-update",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "variant": "estendido",
+      "line": 38,
+      "before": "<FONT COLOR=\"#000000\">          do país de flores e perfume,",
+      "after": "<FONT COLOR=\"#000000\">          do país das flores e perfumes,",
+      "kind": "2026-lyric-update",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "variant": "estendido",
+      "line": 49,
+      "before": "<FONT COLOR=\"#000000\">Baltazar  Venho do Oriente distante, do país de pobres e enfermos,",
+      "after": "<FONT COLOR=\"#000000\">Baltasar  Venho do Oriente distante, do país da mirra e de aloés,",
+      "kind": "2026-lyric-update",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "variant": "estendido",
+      "line": 83,
+      "before": "<FONT COLOR=\"#000000\">‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎ ‏‏‎  ‏‏‎ ‎‏‏‎‏‏<b>E VIRAM A ESTRELA NA CASA DE JESUS.</b>",
+      "after": "<FONT COLOR=\"#000000\">‏‏‎  ‏‏‎  ‏‏‎  ‏‏‎ ‏‏‎  ‏‏‎ ‎‏‏‎‏‏<b>E LÁ ESTÁ A ESTRELA NA CASA DE JESUS.</b>",
+      "kind": "2026-lyric-update",
+      "verification": "executor visual PDF and root independent visual confirmation"
+    }
+  ],
+  "appliedFinal": [
+    {
+      "html": "FILHAS DE JERUSALEM",
+      "page": 101,
+      "variant": "normal",
+      "beforeHash": "2f06487aedb91b984c67ed2e0a7849c1948204331a998a80b0475fd50a3f2fd6",
+      "afterHash": "a88b1069d7a6c225a2d9bd79dd11f582e01f27e895877a50621463bb9beafdff",
+      "beforeLineCount": 66,
+      "afterLineCount": 66
+    },
+    {
+      "html": "FILHAS DE JERUSALEM",
+      "page": 101,
+      "variant": "estendido",
+      "beforeHash": "b6506fe6adfb2a53ef73793c63b11ba49123de9f4bc46379ee18c428a5068526",
+      "afterHash": "f017773761c68c6dbd0d5de3b996afb2da70c88f70b59bbb2180a9b1e8c8d67f",
+      "beforeLineCount": 89,
+      "afterLineCount": 89
+    },
+    {
+      "html": "MARIA DE JASNA GORA",
+      "page": 123,
+      "variant": "normal",
+      "beforeHash": "5b070353128967e052c7748d8ecd539ed3aae8addca8cb822365e1533c50fc05",
+      "afterHash": "384d3064c8048ee065a52f294863f922f2ff8cacf0a04d1d5c423d2f3da8537c",
+      "beforeLineCount": 47,
+      "afterLineCount": 47
+    },
+    {
+      "html": "MARIA DE JASNA GORA",
+      "page": 123,
+      "variant": "estendido",
+      "beforeHash": "2e42ac2d6a1025a14b304ea056e6577121b215c12fecc58c497dd0866ccde0bd",
+      "afterHash": "399bad56e57ec301b688fce2d1b9342447155132de323ba127c217fb28e49ee6",
+      "beforeLineCount": 67,
+      "afterLineCount": 67
+    },
+    {
+      "html": "O COMBATE ESCATOLOGICO",
+      "page": 135,
+      "variant": "normal",
+      "beforeHash": "91840a1711f296d3bfc816c135eb1b580941ede25b59638992a99ad1179a9b87",
+      "afterHash": "0af22fca6e8718d28d620921b50e1c39359b27bbf34526175a977322ffbea835",
+      "beforeLineCount": 87,
+      "afterLineCount": 87
+    },
+    {
+      "html": "O COMBATE ESCATOLOGICO",
+      "page": 135,
+      "variant": "estendido",
+      "beforeHash": "4ed7022ed66338d7dc8fc43e61da9cd5b11b9cd8cb0276b2ea91964926956faa",
+      "afterHash": "3790818b8a2f293973dadc8d8285bc958b4d6483ea74b88aa807593c94e8cd4a",
+      "beforeLineCount": 113,
+      "afterLineCount": 113
+    },
+    {
+      "html": "POR QUE CONFABULAM AS NACOES",
+      "page": 155,
+      "variant": "normal",
+      "beforeHash": "6eca4ecc6706b24af5bbf768876c163d03594c52d4de74c43543d607234b90dd",
+      "afterHash": "62faf9bb2af8a0f1b0473ebe4d8b19b28702c68886ac8b0d95cc8fa445b6a5a4",
+      "beforeLineCount": 90,
+      "afterLineCount": 90
+    },
+    {
+      "html": "POR QUE CONFABULAM AS NACOES",
+      "page": 155,
+      "variant": "estendido",
+      "beforeHash": "313c8304a8e438d40bee980b1f259045b6c772452a3d5d178d525c08852c375a",
+      "afterHash": "0fe03908e023cb96d43e8c792bd72c408a8a43075a0a93d8599b48f268fafc6e",
+      "beforeLineCount": 109,
+      "afterLineCount": 109
+    },
+    {
+      "html": "SE ME REFUGIEI NO SENHOR",
+      "page": 170,
+      "variant": "normal",
+      "beforeHash": "b8bc9eb9868f9709e668cc55f13ab5391456586d5ee8bc9db638a10280fec87a",
+      "afterHash": "6c0eebd807bfbefd2d010a725d333fd81d8ded9fe7341773cfe64159c3c77b88",
+      "beforeLineCount": 61,
+      "afterLineCount": 61
+    },
+    {
+      "html": "SE ME REFUGIEI NO SENHOR",
+      "page": 170,
+      "variant": "estendido",
+      "beforeHash": "28ef76a29ae131a42c3052b434c84cda8be291f3afb44e6d97a562df190dee90",
+      "afterHash": "7d61f832a82bf97f9e507a787f85c0f9fc4e0161551f9cd216d5a6db14ece488",
+      "beforeLineCount": 69,
+      "afterLineCount": 69
+    },
+    {
+      "html": "SEDUZISTE ME SENHOR",
+      "page": 173,
+      "variant": "normal",
+      "beforeHash": "e7fc54e55a02fda3a55a196e7e3ee75b7790bf7b4db2a5593834363e0c65719f",
+      "afterHash": "ee447a2e37b09b70659db04297a6bf8dcd0a9cd3189e50db5fd0df2384b636c2",
+      "beforeLineCount": 84,
+      "afterLineCount": 84
+    },
+    {
+      "html": "SEDUZISTE ME SENHOR",
+      "page": 173,
+      "variant": "estendido",
+      "beforeHash": "2dc6bb0caa396d45bad6cb6b70cb1a0011d1f59110b41b11fa9465cb80c602bf",
+      "afterHash": "c6d60ef575c595d034455da1231f47aabd4fee8526e5f1210109c9e39b354d21",
+      "beforeLineCount": 122,
+      "afterLineCount": 122
+    },
+    {
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI",
+      "page": 174,
+      "variant": "normal",
+      "beforeHash": "11499ca266282fcd2796ea5f7d4cc33eed2d1cba808fef41483a5606313838af",
+      "afterHash": "31357e52fad3620093f11e4f4b899b53d2a0ea22fd2d2ab2d94350a02c0718bb",
+      "beforeLineCount": 67,
+      "afterLineCount": 69
+    },
+    {
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI",
+      "page": 174,
+      "variant": "estendido",
+      "beforeHash": "159019bc899c7f77671c574af291432e5fdde51bd4095fc0a52f4b6003dcf493",
+      "afterHash": "fcdbee2934d3be76d2f71fbb3d6885e9fcedb2700668fe9d8447b4c59512d931",
+      "beforeLineCount": 78,
+      "afterLineCount": 78
+    },
+    {
+      "html": "SERMAO DA MONTANHA",
+      "page": 178,
+      "variant": "normal",
+      "beforeHash": "c44dfd960c278729ce97316090c82038fae9340b682437f735dda8b7b1931362",
+      "afterHash": "01653628e795183bcc144e4f7dd8c14585435ee5519ab0e094614f7be6089654",
+      "beforeLineCount": 94,
+      "afterLineCount": 94
+    },
+    {
+      "html": "SERMAO DA MONTANHA",
+      "page": 178,
+      "variant": "estendido",
+      "beforeHash": "3dc502a05c36623eee7e1b012c2bba79d91ca40ff1d99f3cb839d0b678f3d5c2",
+      "afterHash": "b719f60aef1547c6b4fdfbd7aa038d926e5d67c48021f10113d7bb3f4c170e15",
+      "beforeLineCount": 93,
+      "afterLineCount": 93
+    },
+    {
+      "html": "SHLOM-LEJ MARIAM",
+      "page": 179,
+      "variant": "normal",
+      "beforeHash": "7c605cf49b5bcae1c4dc2cfc6aad538c75ab254384411fc9712594208c333446",
+      "afterHash": "e28c11bf8600588faf3fcf0badf0021c153312a50c280788d7479bff38afd40a",
+      "beforeLineCount": 68,
+      "afterLineCount": 68
+    },
+    {
+      "html": "SHLOM-LEJ MARIAM",
+      "page": 179,
+      "variant": "estendido",
+      "beforeHash": "3aef9e898120c2d97f803487c93af2e6f1a7b40a67f0e25ce943fa7f1bfaaac2",
+      "afterHash": "519f28f157feade86237cc7df455add4b716ac68253edab9c869e797cf8f6e81",
+      "beforeLineCount": 103,
+      "afterLineCount": 103
+    }
+  ],
+  "findings": [
+    {
+      "kind": "vocalization-and-obsolete-rubric",
+      "before": "Ah! Ah! Aaah! Ai! (melisma)",
+      "after": "Ah! Ah! Ah!",
+      "page": 101,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "Physical PDF visible right-column terminal vocalization has three Ah and no red melisma rubric. HTML retains older expanded vocalization.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "FILHAS DE JERUSALEM"
+    },
+    {
+      "kind": "chord-identity",
+      "before": "La- above ensina-nos a seguir as pegadas de Cristo,",
+      "after": "Re-",
+      "page": 123,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "Private detailed crop confirms Re- at start of this verse, following La- on Mãe do céu.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "MARIA DE JASNA GORA"
+    },
+    {
+      "kind": "missing-chord",
+      "before": "No chord above MARIA, ...",
+      "after": "Mi",
+      "page": 123,
+      "variants": [
+        "normal"
+      ],
+      "evidence": "Two abbreviated assembly calls printed with Mi above them, while normal HTML note lines are blank.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "MARIA DE JASNA GORA"
+    },
+    {
+      "kind": "obsolete-rubric",
+      "before": "canta por nós como Ana, (melisma)",
+      "after": "canta por nós como Ana,",
+      "page": 123,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "Full-page overview and extracted colored spans show no melisma rubric here; first-title asterisk instead refers to Latin alternative.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "MARIA DE JASNA GORA"
+    },
+    {
+      "kind": "missing-chord",
+      "before": "No chord above second cheio de sangue.",
+      "after": "Mi",
+      "page": 135,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "Private source crop confirms terminal Mi above final repeated phrase; normal and extended HTML are blank after previous split.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "O COMBATE ESCATOLOGICO"
+    },
+    {
+      "kind": "missing-chord",
+      "before": "No chord above Quebremos os seus grilhões,",
+      "after": "Mi-",
+      "page": 155,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "Private detailed crop confirms Mi- on this solo opening phrase; next La- belongs to sacudamos as suas cadeias.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "POR QUE CONFABULAM AS NACOES"
+    },
+    {
+      "kind": "chord-spelling",
+      "before": "Sì7",
+      "after": "Si7",
+      "page": 170,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "PDF prints Si7; HTML grave-accent spelling Sì7 is not parsed by standard note handling.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "SE ME REFUGIEI NO SENHOR"
+    },
+    {
+      "kind": "lyric",
+      "before": "E DOMINASTE.",
+      "after": "ME DOMINASTE.",
+      "page": 173,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "PDF full refrain ends ME DOMINASTE. HTML normal and three extended copies omit initial M.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "SEDUZISTE ME SENHOR"
+    },
+    {
+      "kind": "obsolete-rubric",
+      "before": "se somente devo ver penas e aflição? (melisma)",
+      "after": "se somente devo ver penas e aflição?",
+      "page": 173,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "Full physical PDF overview contains no red melisma rubric at this question; HTML retains it.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "SEDUZISTE ME SENHOR"
+    },
+    {
+      "kind": "incorrect-expanded-response",
+      "before": "Final A NÃO DUVIDAR DE TI! with Fa#",
+      "after": "A NÃO DUVIDAR NUNCA DO TEU AMOR! with Sol ... Fa#",
+      "page": 174,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "Last response after obscura verse differs from first refrain in PDF; extended HTML copied first response, normal abbreviated away actual second line.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI"
+    },
+    {
+      "kind": "missing-chord",
+      "before": "Re only above E NESTA CHAMA DE TEU AMOR OBSCURA,",
+      "after": "Re ... La",
+      "page": 174,
+      "variants": [
+        "estendido"
+      ],
+      "evidence": "PDF full assembly repeat prints Re and La; full solo preceding verse already contains both in HTML.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI"
+    },
+    {
+      "kind": "concatenated-chords",
+      "before": "SolRe / LaMi / SiFa#",
+      "after": "Sol Re / La Mi / Si Fa#",
+      "page": 178,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "Distinct red chord names in physical PDF; raw HTML concatenates them, masking second note from standard tokenizer. Root independently identified same issue.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "SERMAO DA MONTANHA"
+    },
+    {
+      "kind": "missing-chord",
+      "before": "Do ... Si7 above e bendito é o fruto do vosso ventre, Jesus.",
+      "after": "Do ... La- ... Si7",
+      "page": 179,
+      "variants": [
+        "normal",
+        "estendido"
+      ],
+      "evidence": "Physical PDF red spans x67.3 Do,x104.9 La-,x214.7 Si7 at same baseline above e bendito. Raw HTML lacks middle La-.",
+      "confidence": "high",
+      "status": "applied-and-privately-verified",
+      "html": "SHLOM-LEJ MARIAM"
+    }
+  ],
+  "humanReview": [
+    {
+      "html": "MARIA POMBA INCORRUPTA",
+      "page": 127,
+      "kind": "possible-editorial-grammar",
+      "printed": "Hino inspirado nos Kontákion de São Romano, o Melodista",
+      "reason": "Article/loanword number may be editorial; uncertain, requires human/editor review. HTML not silently normalized.",
+      "confidence": "low",
+      "status": "human-review-required"
+    }
+  ],
+  "sourcePrivacy": "No PDF pages, source images or extracted page documents included in repository. Private renders kept in local work directory only.",
+  "validation": [
+    "Source notes/words and specific page areas independently inspected against 2026 before applying.",
+    "Six final HTML renders for Seduziste, Senhor Ajuda and Sermão privately inspected.",
+    "validate_edicao.py passed.",
+    "validate_tratamento.py passed.",
+    "JSON/version not generated by range agent."
+  ],
+  "songs": [
+    {
+      "html": "FILHAS DE JERUSALEM",
+      "page": 101,
+      "pages": [
+        101
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [
+        {
+          "kind": "vocalization-and-obsolete-rubric",
+          "before": "Ah! Ah! Aaah! Ai! (melisma)",
+          "after": "Ah! Ah! Ah!",
+          "page": 101,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "Physical PDF visible right-column terminal vocalization has three Ah and no red melisma rubric. HTML retains older expanded vocalization.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "FILHAS DE JERUSALEM"
+        }
+      ],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "a88b1069d7a6c225a2d9bd79dd11f582e01f27e895877a50621463bb9beafdff"
+        },
+        "estendido": {
+          "sha256": "f017773761c68c6dbd0d5de3b996afb2da70c88f70b59bbb2180a9b1e8c8d67f"
+        }
+      }
+    },
+    {
+      "html": "FOGE O MEU AMADO",
+      "page": 102,
+      "pages": [
+        102
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "b4a516f8924c1256464b74b7ee9a064671911a6dcd801329829947f7001d782e"
+        },
+        "estendido": {
+          "sha256": "b2778c29e617f56b3088e0340080c3b643a09a5a87e7d9f482088fecbe3d2a3e"
+        }
+      }
+    },
+    {
+      "html": "GRACAS A IAHWEH",
+      "page": 103,
+      "pages": [
+        103
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "82fd34f49f755570eae9895314eaf22bd7d5c2e0e0df672a90deae2173e36541"
+        },
+        "estendido": {
+          "sha256": "bcc643a036cab73d364d7ff245e566ed60837c5f8f243aa87ce7278013816a60"
+        }
+      }
+    },
+    {
+      "html": "GRITAI JUBILOSOS",
+      "page": 104,
+      "pages": [
+        104
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "f089a12b42e09f3b8b350971a7edba605117424669f2ee7ef3dc9f2077bd53c6"
+        },
+        "estendido": {
+          "sha256": "0670c877d7d5a05a715f766fb1712d480240de096410c68ce9a1afa39373515c"
+        }
+      }
+    },
+    {
+      "html": "HINO A CARIDADE",
+      "page": 105,
+      "pages": [
+        105
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "1d04ef31640a5d66ab598edf3fdf0585a832cb38d4d5eaff089412743adbfece"
+        },
+        "estendido": {
+          "sha256": "cf5ef5899e5db1dd037470070de5098fdbed4a6e57895cbe3f1b1311967f18ba"
+        }
+      }
+    },
+    {
+      "html": "HINO A CRISTO LUZ",
+      "page": 106,
+      "pages": [
+        106
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "d79a0da23e5433385a1c1b52f1e4c43d5a4bda3e266cbf892abd091738e81a80"
+        },
+        "estendido": {
+          "sha256": "a033f506b0d340c3aba301b0cad74dcbcf9d0556fe1d0e459abd97d8b5b88b57"
+        }
+      }
+    },
+    {
+      "html": "HINO A KENOSIS",
+      "page": 107,
+      "pages": [
+        107
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "a57e8c3289db5ce40fc93acf1db3ec488ac1f06adc10f0167eaf49e6835b48f7"
+        },
+        "estendido": {
+          "sha256": "630d9a039f6c1968eb1e97e2de8547ef82c93b0ceb24c154beaa808ae1d8af30"
+        }
+      }
+    },
+    {
+      "html": "HINO DA ASCENSAO",
+      "page": 108,
+      "pages": [
+        108
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "94dfc16992ab25b646a0ee1ee7a712c933fc2ea9a4b6dc643289b8787e7b25fe"
+        },
+        "estendido": {
+          "sha256": "be09e916f0a664e9e708272cd70818118c93d2815c3aace2f4f3ec8019878f73"
+        }
+      }
+    },
+    {
+      "html": "HINO DA PASCOA",
+      "page": 109,
+      "pages": [
+        109
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "0b86baf7e3969159885c3d02deaf9ffbf370d7a9b5bf14506c33179a7c2b372e"
+        },
+        "estendido": {
+          "sha256": "33008eda4c16bf19dbdcc36f08645b5f2cfbcee15b414d290f3c45d470aae9df"
+        }
+      }
+    },
+    {
+      "html": "HINO DO ADVENTO",
+      "page": 110,
+      "pages": [
+        110
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "ff1de304444d19374d6b847b3a15ca316c7f6a1606ff69aab0d8d10b23f48d12"
+        },
+        "estendido": {
+          "sha256": "ff1de304444d19374d6b847b3a15ca316c7f6a1606ff69aab0d8d10b23f48d12"
+        }
+      }
+    },
+    {
+      "html": "IAHWEH TU ES MEU DEUS",
+      "page": 111,
+      "pages": [
+        111
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "f41ed02dc0c4e21c6a6ec389fa39a6991a8d9c8313bacf81c2910c19f175ac87"
+        },
+        "estendido": {
+          "sha256": "448aeb6bad94ca082911613849504dcd4d50316ffd0c4050749ab257954b9dfa"
+        }
+      }
+    },
+    {
+      "html": "IDE E ANUNCIAI A MEUS IRMAOS",
+      "page": 112,
+      "pages": [
+        112
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "651f5e07e4f4c38ceeab855b383495b3cd3232873016f21fc1582cbedcee7392"
+        },
+        "estendido": {
+          "sha256": "ffbc1d7121c86929914b28af4235091c01f85ffa4aa689a9f3ecd3e62c20fcea"
+        }
+      }
+    },
+    {
+      "html": "IMPROPERIOS",
+      "page": 113,
+      "pages": [
+        113
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "2718f7b63472b99855551d1b3b77c90f8829cc37ea1bc55c9898a60db37a6ae8"
+        },
+        "estendido": {
+          "sha256": "94bfbe8d4cbb459dc4df3130baf746c0e2e6f52641ebbb4fd1fb8548a7470c91"
+        }
+      }
+    },
+    {
+      "html": "JA VEM O MEU DEUS",
+      "page": 114,
+      "pages": [
+        114
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "81fe110311e2b97a5552d977662fe5efb677995656938b8ca55f3dbb0b04f05e"
+        },
+        "estendido": {
+          "sha256": "737d76afca8f7054cd07d5eeae4a8c36782dd8728f6ae1437f39ba47755e8707"
+        }
+      }
+    },
+    {
+      "html": "JERUSALEM RECONSTRUIDA",
+      "page": 115,
+      "pages": [
+        115
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "0e03d2a678f5430b47bbecf4396e09c4a9ce70348ef164afd7541b01c24e7812"
+        },
+        "estendido": {
+          "sha256": "5fe949f563c4be971a608570f3a9d7ca5bd8736938952a8d3b33f931b5bb1fdb"
+        }
+      }
+    },
+    {
+      "html": "JESUS PERCORRIA TODAS AS CIDADES",
+      "page": 116,
+      "pages": [
+        116
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "a2957812aabf5f34fe08a99513952814bafb02d4f1f2e65a7e81230542607bd5"
+        },
+        "estendido": {
+          "sha256": "7dbf33b3878f1719aa7a74035d5545d760bac97d6ce77dfff6960f83744d2cc0"
+        }
+      }
+    },
+    {
+      "html": "LEVA ME AO CEU",
+      "page": 117,
+      "pages": [
+        117
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "e9fbdf35ab5bd26f0fcd1b12ab8b0f64d2a2f29fccedcc385474da82c2148730"
+        },
+        "estendido": {
+          "sha256": "3ff267b0842387a63ed7dc4449e9e7cadd7698192779b1287ebb241e67a6f94e"
+        }
+      }
+    },
+    {
+      "html": "LEVANTO MEUS OLHOS PARA OS MONTES",
+      "page": 118,
+      "pages": [
+        118
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "c6e678662bc3422c963890a23ba1ea42c61ce697c7e0d185f620d3b983c18415"
+        },
+        "estendido": {
+          "sha256": "9dcb43bec1130f3856cc0946deafc78830d23bff6b3c8b90187c8ff3e776b4e2"
+        }
+      }
+    },
+    {
+      "html": "LOUVAI O SENHOR",
+      "page": 119,
+      "pages": [
+        119
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "b47996b7595bcf070208997dc3fcb3cb523053968359adc3eda36336f69f934c"
+        },
+        "estendido": {
+          "sha256": "9c749e3961af0f4cdb900547798787a4a03a7202a41474e4d368a1def582a491"
+        }
+      }
+    },
+    {
+      "html": "LOUVAI O SENHOR NOS CEUS",
+      "page": 120,
+      "pages": [
+        120
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "d3f9ea14818a96ddf2f4a4c35b7c19cc170f08732a6afdca358a23409c61866c"
+        },
+        "estendido": {
+          "sha256": "d3f9ea14818a96ddf2f4a4c35b7c19cc170f08732a6afdca358a23409c61866c"
+        }
+      }
+    },
+    {
+      "html": "MAGNIFICAT",
+      "page": 121,
+      "pages": [
+        121
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "d40fa1ca0423d4c81ac0936747f60ced88f5dc43b070f887a02064403255f35b"
+        },
+        "estendido": {
+          "sha256": "946479807225c74cf70c6a4de05520275a820d1e5a2c0a4e90f3a9a6725e82d8"
+        }
+      }
+    },
+    {
+      "html": "MARIA CASA DA BENCAO",
+      "page": 122,
+      "pages": [
+        122
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "77ff2be9274814006be49c9eac2360fbcf51c7544a673633ad8554a72b49d5a7"
+        },
+        "estendido": {
+          "sha256": "d968b03744778abf975c462004c538fc08b39e9f07ef6bf8b3ea468b3d629562"
+        }
+      }
+    },
+    {
+      "html": "MARIA DE JASNA GORA",
+      "page": 123,
+      "pages": [
+        123
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [
+        {
+          "kind": "chord-identity",
+          "before": "La- above ensina-nos a seguir as pegadas de Cristo,",
+          "after": "Re-",
+          "page": 123,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "Private detailed crop confirms Re- at start of this verse, following La- on Mãe do céu.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "MARIA DE JASNA GORA"
+        },
+        {
+          "kind": "missing-chord",
+          "before": "No chord above MARIA, ...",
+          "after": "Mi",
+          "page": 123,
+          "variants": [
+            "normal"
+          ],
+          "evidence": "Two abbreviated assembly calls printed with Mi above them, while normal HTML note lines are blank.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "MARIA DE JASNA GORA"
+        },
+        {
+          "kind": "obsolete-rubric",
+          "before": "canta por nós como Ana, (melisma)",
+          "after": "canta por nós como Ana,",
+          "page": 123,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "Full-page overview and extracted colored spans show no melisma rubric here; first-title asterisk instead refers to Latin alternative.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "MARIA DE JASNA GORA"
+        }
+      ],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "384d3064c8048ee065a52f294863f922f2ff8cacf0a04d1d5c423d2f3da8537c"
+        },
+        "estendido": {
+          "sha256": "399bad56e57ec301b688fce2d1b9342447155132de323ba127c217fb28e49ee6"
+        }
+      }
+    },
+    {
+      "html": "MARIA MAE DA IGREJA",
+      "page": 124,
+      "pages": [
+        124
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "6d602a00b246c565f9c0549e854c12b4cf447da22a069e8b9fcfc9ef32197e40"
+        },
+        "estendido": {
+          "sha256": "902f8a95f70cc56b356aea74dca83bb782609bcb801b0564fa922b28eb619107"
+        }
+      }
+    },
+    {
+      "html": "MARIA MAE DO CAMINHO ARDENTE",
+      "page": 125,
+      "pages": [
+        125
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "dc1cb85fd8d49911383532041c9d689a4d93e637751447d53d19dce7c5f7666e"
+        },
+        "estendido": {
+          "sha256": "42798782aae4501590630b9e85993514025e8301ea65c7e4b10187378a71aa88"
+        }
+      }
+    },
+    {
+      "html": "MARIA PEQUENA MARIA",
+      "page": 126,
+      "pages": [
+        126
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "cc722dd825288529c462588da6ae4e0d5c2cb58ba69bf9895b622ef4192c005e"
+        },
+        "estendido": {
+          "sha256": "7555615d680d80e8a767bebf5aacc9b5efeade09b64da86d8951c8a2c55a558f"
+        }
+      }
+    },
+    {
+      "html": "MARIA POMBA INCORRUPTA",
+      "page": 127,
+      "pages": [
+        127
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [
+        {
+          "page": 127,
+          "kind": "possible-editorial-grammar",
+          "printed": "Hino inspirado nos Kontákion de São Romano, o Melodista",
+          "reason": "Plural article nos with singular loanword Kontákion may be editorial; verify desired wording with book editors, do not silently normalize.",
+          "confidence": "low"
+        }
+      ],
+      "variants": {
+        "normal": {
+          "sha256": "8b8deefebd831190baf5f00c5d7c27147a5b0ef84ab9cea75e4ebd0fb5926cdd"
+        },
+        "estendido": {
+          "sha256": "ec86a720ca95581f9551250c0ec2a499fe1e6c0c0f3c3bdbac4d23a5af7b37c7"
+        }
+      }
+    },
+    {
+      "html": "MISERICORDIA MINHA MISERICORDIA",
+      "page": 128,
+      "pages": [
+        128
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "0f2fe36743f7c8cc00712ce0580309fff394e5b009748c72907afa2afcd64502"
+        },
+        "estendido": {
+          "sha256": "1342c32eb65886510d46c705a62c0c0d7d424b01359341057ae122b610feace9"
+        }
+      }
+    },
+    {
+      "html": "MOSTRAR ME AS O CAMINHO DA VIDA",
+      "page": 129,
+      "pages": [
+        129
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "2aaf0989710aae6b3c7d3e356fa137c19d5881c4a7c3226f608657ad2b6acb23"
+        },
+        "estendido": {
+          "sha256": "3bedfb87debb2d33475ca8615683585aadd8f147f7d6070b718c525cfbbf8256"
+        }
+      }
+    },
+    {
+      "html": "MUITO ME PERSEGUIRAM",
+      "page": 130,
+      "pages": [
+        130
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "4b0797e4dc3972ada9aba2d89a945434dd099b8d484105173e7e8ebcb6f073d0"
+        },
+        "estendido": {
+          "sha256": "a547c7496d92b5bcd16b4de9bfa5ce0d391e0f8efa4474034ab1f5bc98764309"
+        }
+      }
+    },
+    {
+      "html": "NAO ESTA AQUI RESSUSCITOU",
+      "page": 131,
+      "pages": [
+        131
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "fc6cffca2b3f4c79912aa67a9bb57990133e26e4493cc6797027db0fcf84db55"
+        },
+        "estendido": {
+          "sha256": "fc6cffca2b3f4c79912aa67a9bb57990133e26e4493cc6797027db0fcf84db55"
+        }
+      }
+    },
+    {
+      "html": "NAO HA NELE APARENCIA",
+      "page": 132,
+      "pages": [
+        132
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "1415982a59ec026636e9fdc24a4de900651f18cce0a08278d6f70817ef0b67f0"
+        },
+        "estendido": {
+          "sha256": "6d75e2cfd0f939c3c370ae5d8239d322d15cd37de8f248b731e9594e9010abc1"
+        }
+      }
+    },
+    {
+      "html": "NOLI ME TANGERE",
+      "page": 133,
+      "pages": [
+        133
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "8dda4550091277081d29badef9204f2497980275f2aed7159da607b2dacce946"
+        },
+        "estendido": {
+          "sha256": "ce5b39f97aa62efe000cfd176684e224f6d8eaba4dcc15194ecb6f9c8c18c867"
+        }
+      }
+    },
+    {
+      "html": "O CEUS CHOVEI DO ALTO",
+      "page": 134,
+      "pages": [
+        134
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "cda5e2ca1ec70f0b237e46916c2e797bb1caaecf633bec150270f580cc743cf2"
+        },
+        "estendido": {
+          "sha256": "717383b37179c7cf4df1e3fa5d2d0811ad5b02e735de3edc1e9766be5c6e3bf3"
+        }
+      }
+    },
+    {
+      "html": "O COMBATE ESCATOLOGICO",
+      "page": 135,
+      "pages": [
+        135
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [
+        {
+          "kind": "missing-chord",
+          "before": "No chord above second cheio de sangue.",
+          "after": "Mi",
+          "page": 135,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "Private source crop confirms terminal Mi above final repeated phrase; normal and extended HTML are blank after previous split.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "O COMBATE ESCATOLOGICO"
+        }
+      ],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "0af22fca6e8718d28d620921b50e1c39359b27bbf34526175a977322ffbea835"
+        },
+        "estendido": {
+          "sha256": "3790818b8a2f293973dadc8d8285bc958b4d6483ea74b88aa807593c94e8cd4a"
+        }
+      }
+    },
+    {
+      "html": "O DEUS PELO TEU NOME SALVA-ME",
+      "page": 136,
+      "pages": [
+        136
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "6adf84fcae703987d00a1afd70fbe27a5420a0e8b94df565c90009bbf0d15445"
+        },
+        "estendido": {
+          "sha256": "be832674e166388e3450fb15f96beb9834c3b0e0bf9adc27c109134bbbe12db2"
+        }
+      }
+    },
+    {
+      "html": "O DEUS TU ES MEU DEUS",
+      "page": 137,
+      "pages": [
+        137
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "eeacf6d5c91dabf65b9edc8a64ebe0d29560f5b9678c753abf39d92fe48c83f8"
+        },
+        "estendido": {
+          "sha256": "9e25dc83c3c234976b39b07b418711dc591c00c55b1fa1fea93fbdcd66fa4a5b"
+        }
+      }
+    },
+    {
+      "html": "O ESPIRITO DO SENHOR ESTA SOBRE MIM",
+      "page": 138,
+      "pages": [
+        138
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "e3652a39d82bceb8e1e26bf8dfc3aeda6c3ac6fd634766d5279ae819875b11c6"
+        },
+        "estendido": {
+          "sha256": "cc00d2caee53a28590f60f89d6117fd7148e10238255e31c8a3be834956aa1bc"
+        }
+      }
+    },
+    {
+      "html": "O JESUS MEU AMOR",
+      "page": 139,
+      "pages": [
+        139
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "337ec3a4839fd65a17ff5c7c6e59d54ccd207526c2134916aac6952eab70033b"
+        },
+        "estendido": {
+          "sha256": "c304b81357b1659f002647c3f67420cfeb18979f91b73827b1afe3f017745431"
+        }
+      }
+    },
+    {
+      "html": "O LAGAREIRO",
+      "page": 140,
+      "pages": [
+        140
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "55273fbc4966a245d1156d9dcf8cd631450591cd66a3a3f211673284453dfcb0"
+        },
+        "estendido": {
+          "sha256": "997eae142a3fddf5ec359080f6573bd4aa6b36ff1b5b45a6075551e9a468821f"
+        }
+      }
+    },
+    {
+      "html": "O MESSIAS LEAO PARA VENCER",
+      "page": 141,
+      "pages": [
+        141
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "e50ed2afb55f7eb647e8d7774db8deeeeb8340a36ab085d6b4dfa4cbe97bba00"
+        },
+        "estendido": {
+          "sha256": "e5107c40280fc2ac1e3ed99a531b8ed41d879eb170062a99b4f9e54e9043217e"
+        }
+      }
+    },
+    {
+      "html": "O MORTE ONDE ESTA TUA VITORIA",
+      "page": 142,
+      "pages": [
+        142
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "ae59f1f4101f30bc426bee53df94a5755ba44771d9fc829dbf4e7b5db0b86bef"
+        },
+        "estendido": {
+          "sha256": "fa33adbb65eaab40e73b6c22609371ccaefe84afc43061b83479eabc4d354da2"
+        }
+      }
+    },
+    {
+      "html": "O NESCIO PENSA QUE DEUS NAO EXISTE",
+      "page": 143,
+      "pages": [
+        143
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "cae5302d2001a0cc330608ebe292c03397faa8d93a83d06416df9a86099148ba"
+        },
+        "estendido": {
+          "sha256": "499456e00413b02d0f77d46c9a0aabc3e7e3440a2dbc9b6fbf014df0671f34ac"
+        }
+      }
+    },
+    {
+      "html": "O POVO QUE CAMINHAVA NAS TREVAS",
+      "page": 144,
+      "pages": [
+        144
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "e646fb170572243afbd57dc351d57ddbdd8d37261cd59da0ebdf3f3495417ef1"
+        },
+        "estendido": {
+          "sha256": "693259908e02c4887a59c64a55ee61f73f0b797d5745b18b4fa3e73c7f8c4af4"
+        }
+      }
+    },
+    {
+      "html": "O SENHOR ANUNCIA UMA NOTICIA",
+      "page": 145,
+      "pages": [
+        145
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "dc57d9302079ae3b5f83fa65f6ba855feed843150672ad22e4db3f8af964dda0"
+        },
+        "estendido": {
+          "sha256": "80893d5b9e8f4e453f03507a1fe78de4fd61b027acf87c88233e1422df51b5b2"
+        }
+      }
+    },
+    {
+      "html": "O SENHOR E MEU PASTOR",
+      "page": 146,
+      "pages": [
+        146
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "6b4ab3b65b34c581963eadaaf9a503d48a819955c5ab552a22c8b46863b7bba1"
+        },
+        "estendido": {
+          "sha256": "c787bec1fbbc951ae78ec5b105fcba6e5deedaf50860c2660858839491cac603"
+        }
+      }
+    },
+    {
+      "html": "O SENHOR E MINHA LUZ E SALVACAO",
+      "page": 147,
+      "pages": [
+        147
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "938d0bb490b03809ad476b9e7d738e266a2a8c28e352d1cbb32097959ca25ae7"
+        },
+        "estendido": {
+          "sha256": "0e7ad7be647e94f951587f706e761cdf0a022b2c59f2e822a5b6369cd0dd65ba"
+        }
+      }
+    },
+    {
+      "html": "O SENHOR ME DEU",
+      "page": 148,
+      "pages": [
+        148
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "4a8810a81827e199e9236dc10767a3c43e8bb68dd238ea0dd75f4d9b3b4aa485"
+        },
+        "estendido": {
+          "sha256": "717c1af34de73e21fede6c113c5b58900378e93e49a473b853d4a8d4ddcf5230"
+        }
+      }
+    },
+    {
+      "html": "O SENHOR NOSSO DEUS",
+      "page": 149,
+      "pages": [
+        149
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "488bc56c84a5d8f7a8894187091761dfdec77fe6a411e1eb32030888fc8f6eb2"
+        },
+        "estendido": {
+          "sha256": "823995b78e6e48f17fee0d3ac0622609dbaa84c9f4165bbce49fd1df9cf795ce"
+        }
+      }
+    },
+    {
+      "html": "OLHAI QUE ESTUPENDO",
+      "page": 150,
+      "pages": [
+        150
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "5474f28369e8f4374c25b756a4c881cce51b3afc7e685f8a6df0083a9a33f78b"
+        },
+        "estendido": {
+          "sha256": "10e3ebfe702fa9fc53eeed486b7c46776a5e7a9530ec83a662d5765f6b85bc3f"
+        }
+      }
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "page": 151,
+      "pages": [
+        151
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "5a941f17e5003fd17d206d5292bd1e54cdfc1784fe84f83386967868562c96d8"
+        },
+        "estendido": {
+          "sha256": "10166804d5ad99b824c400a970c79a2b616de7942ed05d4cb81e7fee35d6628f"
+        }
+      }
+    },
+    {
+      "html": "PARA TI MORADA SANTA",
+      "page": 152,
+      "pages": [
+        152
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "d714df8891a56a293cebdd0ed49dff1e92ea13da2b298de85f1f8095565463c1"
+        },
+        "estendido": {
+          "sha256": "bfea7386564ded3d00bf4e4696e88fd32cf16f311a29ac39a5524804448750d1"
+        }
+      }
+    },
+    {
+      "html": "PENTECOSTES",
+      "page": 153,
+      "pages": [
+        153
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "e77e5d1bf164b962d85d4b5d7598ee714168b7f8080884fd0851152cd83cc0b2"
+        },
+        "estendido": {
+          "sha256": "bc911d0bcd7081e63d221941f88098c00f90a9aa2047ab35ff0e9815fc70b0e1"
+        }
+      }
+    },
+    {
+      "html": "POR AMOR DE MEUS AMIGOS",
+      "page": 154,
+      "pages": [
+        154
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "e5fd63cb59bbefb461045d1156f3bc5004694accbeb4cc35f581c93963258e0f"
+        },
+        "estendido": {
+          "sha256": "0212c9adf8f6376ce0ef302b16630449d0c87c2b3f7d6b93f75bcc8381bd0bc1"
+        }
+      }
+    },
+    {
+      "html": "POR QUE CONFABULAM AS NACOES",
+      "page": 155,
+      "pages": [
+        155
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [
+        {
+          "kind": "missing-chord",
+          "before": "No chord above Quebremos os seus grilhões,",
+          "after": "Mi-",
+          "page": 155,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "Private detailed crop confirms Mi- on this solo opening phrase; next La- belongs to sacudamos as suas cadeias.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "POR QUE CONFABULAM AS NACOES"
+        }
+      ],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "62faf9bb2af8a0f1b0473ebe4d8b19b28702c68886ac8b0d95cc8fa445b6a5a4"
+        },
+        "estendido": {
+          "sha256": "0fe03908e023cb96d43e8c792bd72c408a8a43075a0a93d8599b48f268fafc6e"
+        }
+      }
+    },
+    {
+      "html": "POR QUE ESTA NOITE E DIFERENTE",
+      "page": 156,
+      "pages": [
+        156
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "8816c91482e0c5afca09aefd7e9b8a927f82ea23f1a8ddeee97765c1cfb7d624"
+        },
+        "estendido": {
+          "sha256": "d1e425b2bc232e86772751738d10718e93f6511404a6ff4654148732470c814a"
+        }
+      }
+    },
+    {
+      "html": "PORQUE O MEU JUGO E SUAVE",
+      "page": 157,
+      "pages": [
+        157
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "e8cb6805840bdacd9fbf57eae994896458bde6fdb8d598c3776c8e4264a87249"
+        },
+        "estendido": {
+          "sha256": "32f43e9db5d4f9cbcd8ab0646861c8ca40fc95404517bfa8ab5d003823e3efa3"
+        }
+      }
+    },
+    {
+      "html": "QUANDO ISRAEL SAIU DO EGITO",
+      "page": 158,
+      "pages": [
+        158
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "a5510f6435e1c679fd51abd5d0a2c9bdc041cc400e13211ecf84eca07933904a"
+        },
+        "estendido": {
+          "sha256": "154b49f0000c976efbedb858faa96fd1bdc83bfe0d55ae6727d5ee3a8e97d991"
+        }
+      }
+    },
+    {
+      "html": "QUANDO O SENHOR",
+      "page": 159,
+      "pages": [
+        159
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "c39af3529d95f8cd65f28d029344139f0b0a9e205b4519fca61604bc8ab43d2e"
+        },
+        "estendido": {
+          "sha256": "1f1fc615c6c180bedfd0e4bfbe5d44cd4d5e4237b9f72772aac8cf5bfd56f1b4"
+        }
+      }
+    },
+    {
+      "html": "QUE ESTUPENDO QUE ALEGRIA",
+      "page": 160,
+      "pages": [
+        160
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "8c3cbead1274ab0d96749c512a8f54cf93f8ef8bab62282d82af21d921d969d6"
+        },
+        "estendido": {
+          "sha256": "8e9ad93b3e6f7d5cd56bfbd8d22b902bf50c715e28606f81b718bace5c8db357"
+        }
+      }
+    },
+    {
+      "html": "QUEM E ESTA QUE SOBE DO DESERTO",
+      "page": 161,
+      "pages": [
+        161
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "c9e58abfc2f9822cc89fa1534c9668cfcf5367f0e2e0ee1ae4c319415393bd42"
+        },
+        "estendido": {
+          "sha256": "a5edbe79852b1797ecb5094f56c811b5418cb1a0b07251d1ddbbc23f77cdb08f"
+        }
+      }
+    },
+    {
+      "html": "QUEM NOS SEPARARA",
+      "page": 162,
+      "pages": [
+        162
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "9a268dbb405a61f91ebe0a9437d961c46de4f1629063c8ff7a704dc5703fe7ff"
+        },
+        "estendido": {
+          "sha256": "c8ae8cfb90feeebec1551176d7ab9d10e392d028fa89fedb33cf124407e648b3"
+        }
+      }
+    },
+    {
+      "html": "QUERO ANDAR",
+      "page": 163,
+      "pages": [
+        163
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "2edad8257072f30fddb94e5fd8ace3fbb655ee94d9e241daa86a2d8e423d5747"
+        },
+        "estendido": {
+          "sha256": "f9bf9e7953f51d7f17cf7e20e52c3a0e31636248fa55762a62d349a12872db3a"
+        }
+      }
+    },
+    {
+      "html": "QUERO CANTAR",
+      "page": 164,
+      "pages": [
+        164
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "004b80cfa4f01afaaed6ffe1d05c2bbecaf2010e5ea6ea8e13b66818933fb668"
+        },
+        "estendido": {
+          "sha256": "f288d5b261a5a84dc38027494ac841d1f9c314d85e70a8d170eed502a3dd2308"
+        }
+      }
+    },
+    {
+      "html": "RESSUSCITOU",
+      "page": 165,
+      "pages": [
+        165
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "08f5642eac715d6692cc0efb0d3a36c53f59197d77ba5aec8f372407a1fe0fda"
+        },
+        "estendido": {
+          "sha256": "0967dfc28534544ef38ebdacfd2b9a9ecb995da0f47f95e9cfa19f57bbe3f3b7"
+        }
+      }
+    },
+    {
+      "html": "RESURREXIT",
+      "page": 166,
+      "pages": [
+        166
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "2b0ee94daae83e31d2d06b10818abaf998267d4a2b8b57dcfd991e0d60254d4b"
+        },
+        "estendido": {
+          "sha256": "2b0ee94daae83e31d2d06b10818abaf998267d4a2b8b57dcfd991e0d60254d4b"
+        }
+      }
+    },
+    {
+      "html": "SALVE RAINHA",
+      "page": 167,
+      "pages": [
+        167
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "c18cdbf44b6d2a2b15b5409df09ceb3f4de623b6f70807b6f5a20e9fd2e3cb41"
+        },
+        "estendido": {
+          "sha256": "c18cdbf44b6d2a2b15b5409df09ceb3f4de623b6f70807b6f5a20e9fd2e3cb41"
+        }
+      }
+    },
+    {
+      "html": "SALVE RAINHA DOS CEUS",
+      "page": 168,
+      "pages": [
+        168
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "616c8c64b18f7402d103759bf8b8dc2b768692e92909996127b72c7e184d302d"
+        },
+        "estendido": {
+          "sha256": "f7f57e9f18d00b786ec2f021ce5ea5dec03f2b057ded614163f66bc1872aa3aa"
+        }
+      }
+    },
+    {
+      "html": "SE HOJE ESCUTARDES A SUA VOZ",
+      "page": 169,
+      "pages": [
+        169
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "a13ca2b4bc2a28bc718c02d2e613d6ca6823ff820f47d9fd640f7d0d29fbb270"
+        },
+        "estendido": {
+          "sha256": "6704806bfd208c7f9f5aa967b3a03887bc5e71d9304cd06ea456439afc5c39ac"
+        }
+      }
+    },
+    {
+      "html": "SE ME REFUGIEI NO SENHOR",
+      "page": 170,
+      "pages": [
+        170
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [
+        {
+          "kind": "chord-spelling",
+          "before": "Sì7",
+          "after": "Si7",
+          "page": 170,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "PDF prints Si7; HTML grave-accent spelling Sì7 is not parsed by standard note handling.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "SE ME REFUGIEI NO SENHOR"
+        }
+      ],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "6c0eebd807bfbefd2d010a725d333fd81d8ded9fe7341773cfe64159c3c77b88"
+        },
+        "estendido": {
+          "sha256": "7d61f832a82bf97f9e507a787f85c0f9fc4e0161551f9cd216d5a6db14ece488"
+        }
+      }
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "page": 171,
+      "pages": [
+        171
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "a91ccbe560b57b1e51c4f5665b8ad8c744ae7cb9467b4e7bfbe2e04438acc963"
+        },
+        "estendido": {
+          "sha256": "8e420709e57f55e20825ca307af9f54c1e9bfac1f4946eccaa8e375079155c04"
+        }
+      }
+    },
+    {
+      "html": "SE VOS RESSUSCITASTES COM CRISTO",
+      "page": 172,
+      "pages": [
+        172
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "f4abe7c8a71a7fa76971666f8574be20b1fc4fee5cd08064c262515d5eb2ef44"
+        },
+        "estendido": {
+          "sha256": "b1acf79fcdbbd1ade010939d6133d87e236c76d9f883f4822c6b4d66e431064a"
+        }
+      }
+    },
+    {
+      "html": "SEDUZISTE ME SENHOR",
+      "page": 173,
+      "pages": [
+        173
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [
+        {
+          "kind": "lyric",
+          "before": "E DOMINASTE.",
+          "after": "ME DOMINASTE.",
+          "page": 173,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "PDF full refrain ends ME DOMINASTE. HTML normal and three extended copies omit initial M.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "SEDUZISTE ME SENHOR"
+        },
+        {
+          "kind": "obsolete-rubric",
+          "before": "se somente devo ver penas e aflição? (melisma)",
+          "after": "se somente devo ver penas e aflição?",
+          "page": 173,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "Full physical PDF overview contains no red melisma rubric at this question; HTML retains it.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "SEDUZISTE ME SENHOR"
+        }
+      ],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "ee447a2e37b09b70659db04297a6bf8dcd0a9cd3189e50db5fd0df2384b636c2"
+        },
+        "estendido": {
+          "sha256": "c6d60ef575c595d034455da1231f47aabd4fee8526e5f1210109c9e39b354d21"
+        }
+      }
+    },
+    {
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI",
+      "page": 174,
+      "pages": [
+        174
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [
+        {
+          "kind": "incorrect-expanded-response",
+          "before": "Final A NÃO DUVIDAR DE TI! with Fa#",
+          "after": "A NÃO DUVIDAR NUNCA DO TEU AMOR! with Sol ... Fa#",
+          "page": 174,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "Last response after obscura verse differs from first refrain in PDF; extended HTML copied first response, normal abbreviated away actual second line.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI"
+        },
+        {
+          "kind": "missing-chord",
+          "before": "Re only above E NESTA CHAMA DE TEU AMOR OBSCURA,",
+          "after": "Re ... La",
+          "page": 174,
+          "variants": [
+            "estendido"
+          ],
+          "evidence": "PDF full assembly repeat prints Re and La; full solo preceding verse already contains both in HTML.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI"
+        }
+      ],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "31357e52fad3620093f11e4f4b899b53d2a0ea22fd2d2ab2d94350a02c0718bb"
+        },
+        "estendido": {
+          "sha256": "fcdbee2934d3be76d2f71fbb3d6885e9fcedb2700668fe9d8447b4c59512d931"
+        }
+      }
+    },
+    {
+      "html": "SENHOR NAO ME CORRIJAS NA SUA COLERA",
+      "page": 175,
+      "pages": [
+        175
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "514d034ab1b30daa68d000fb5aa0dd1ddd13019d45fee414bdb59a12dbd553ea"
+        },
+        "estendido": {
+          "sha256": "050e259b15af607ea83517e2e51527681cdaa5103bd3b8e4d547bc53a56649b5"
+        }
+      }
+    },
+    {
+      "html": "SEQUENCIA DE CORPUS CHRISTI",
+      "page": 176,
+      "pages": [
+        176,
+        177
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "0e10ff668bce6e007f2ea97678041f350589a6903e274e4f32027a708cd64f7f"
+        },
+        "estendido": {
+          "sha256": "0821246d3092201ba0344c3d976ac18763d5e040087392a81221e7cf964c1fad"
+        }
+      }
+    },
+    {
+      "html": "SERMAO DA MONTANHA",
+      "page": 178,
+      "pages": [
+        178
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [
+        {
+          "kind": "concatenated-chords",
+          "before": "SolRe / LaMi / SiFa#",
+          "after": "Sol Re / La Mi / Si Fa#",
+          "page": 178,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "Distinct red chord names in physical PDF; raw HTML concatenates them, masking second note from standard tokenizer. Root independently identified same issue.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "SERMAO DA MONTANHA"
+        }
+      ],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "01653628e795183bcc144e4f7dd8c14585435ee5519ab0e094614f7be6089654"
+        },
+        "estendido": {
+          "sha256": "b719f60aef1547c6b4fdfbd7aa038d926e5d67c48021f10113d7bb3f4c170e15"
+        }
+      }
+    },
+    {
+      "html": "SHLOM-LEJ MARIAM",
+      "page": 179,
+      "pages": [
+        179
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": true,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [
+        {
+          "kind": "missing-chord",
+          "before": "Do ... Si7 above e bendito é o fruto do vosso ventre, Jesus.",
+          "after": "Do ... La- ... Si7",
+          "page": 179,
+          "variants": [
+            "normal",
+            "estendido"
+          ],
+          "evidence": "Physical PDF red spans x67.3 Do,x104.9 La-,x214.7 Si7 at same baseline above e bendito. Raw HTML lacks middle La-.",
+          "confidence": "high",
+          "status": "applied-and-privately-verified",
+          "html": "SHLOM-LEJ MARIAM"
+        }
+      ],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "e28c11bf8600588faf3fcf0badf0021c153312a50c280788d7479bff38afd40a"
+        },
+        "estendido": {
+          "sha256": "519f28f157feade86237cc7df455add4b716ac68253edab9c869e797cf8f6e81"
+        }
+      }
+    },
+    {
+      "html": "SIAO MAE DE TODOS OS POVOS",
+      "page": 180,
+      "pages": [
+        180
+      ],
+      "coverage": {
+        "automatic": true,
+        "visualOverview": true,
+        "visualDetails": false,
+        "description": "All physical page overviews privately inspected; all HTML variants examined by lexical/chord extraction. Detailed crops inspected for flagged source evidence; not a claim of per-character visual proof of every unchanged HTML row."
+      },
+      "findings": [],
+      "humanPdfReview": [],
+      "variants": {
+        "normal": {
+          "sha256": "b72fa3012cfec6dc51c900f18ba1548c3f1edc6d64f36cd149ee6fbc5135f5d8"
+        },
+        "estendido": {
+          "sha256": "c109f080d24edab78ec8470572b76b20a88891fa26a97e5978baa45d1c8026a0"
+        }
+      }
+    }
+  ]
+}

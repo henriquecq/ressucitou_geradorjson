@@ -1,0 +1,62 @@
+[
+  {
+    "id": "advento-natal",
+    "nome": "Advento - Natal",
+    "ordem": 1,
+    "grupoFonte": "ADVENTO - NATAL"
+  },
+  {
+    "id": "quaresma",
+    "nome": "Quaresma",
+    "ordem": 2,
+    "grupoFonte": "QUARESMA"
+  },
+  {
+    "id": "pascoa-pentecostes",
+    "nome": "Páscoa - Pentecostes",
+    "ordem": 3,
+    "grupoFonte": "PÁSCOA - PENTECOSTES"
+  },
+  {
+    "id": "virgem",
+    "nome": "Cantos à Virgem",
+    "ordem": 4,
+    "grupoFonte": "CANTOS À VIRGEM"
+  },
+  {
+    "id": "criancas",
+    "nome": "Cantos para as crianças",
+    "ordem": 5,
+    "grupoFonte": "CANTOS PARA AS CRIANÇAS"
+  },
+  {
+    "id": "entrada",
+    "nome": "Cantos de entrada",
+    "ordem": 6,
+    "grupoFonte": "CANTOS DE ENTRADA"
+  },
+  {
+    "id": "paz-oferendas",
+    "nome": "Paz - Apresentação das oferendas",
+    "ordem": 7,
+    "grupoFonte": "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+  },
+  {
+    "id": "fracao-pao",
+    "nome": "Fração do pão",
+    "ordem": 8,
+    "grupoFonte": "FRAÇÃO DO PÃO"
+  },
+  {
+    "id": "comunhao-calice",
+    "nome": "Comunhão com o cálice",
+    "ordem": 9,
+    "grupoFonte": "COMUNHÃO COM O CÁLICE"
+  },
+  {
+    "id": "final",
+    "nome": "Canto final",
+    "ordem": 10,
+    "grupoFonte": "CANTO FINAL"
+  }
+]

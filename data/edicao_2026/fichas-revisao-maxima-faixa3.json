@@ -1,0 +1,2319 @@
+[
+  {
+    "html": "COMO LIRIO ENTRE OS ESPINHOS",
+    "page": 264,
+    "title": "COMO LÍRIO ENTRE OS ESPINHOS",
+    "subtitle": "Cântico dos Cânticos 1, 13ss",
+    "color": "#d6ffba",
+    "capo": "Braçadeira 2º Traste",
+    "rows": [
+      {
+        "text": "Como perfume de mirra é meu amado,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            29,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "assim é o meu amado,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            15,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "repousa sobre meu peito.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "Fa"
+          ],
+          [
+            19,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Como lírio entre os espinhos é minha amada,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            38,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 176.7,
+        "blankBefore": true
+      },
+      {
+        "text": "assim é minha amada,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            15,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 200.7,
+        "blankBefore": false
+      },
+      {
+        "text": "minha amada entre as donzelas.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Fa"
+          ],
+          [
+            24,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 224.7,
+        "blankBefore": false
+      },
+      {
+        "text": "COMO ÉS BELA, AMADA MINHA,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            8,
+            "Fa"
+          ],
+          [
+            20,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 260.7,
+        "blankBefore": true
+      },
+      {
+        "text": "COMO ÉS BELA, COMO ÉS BELA!",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            8,
+            "Fa"
+          ],
+          [
+            23,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 284.7,
+        "blankBefore": false
+      },
+      {
+        "text": "POMBAS SÃO TEUS OLHOS,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            16,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "POMBAS SÃO TEUS OLHOS!",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            16,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "COMO ÉS FORMOSO, MEU AMADO,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            11,
+            "Fa"
+          ],
+          [
+            22,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 368.7,
+        "blankBefore": true
+      },
+      {
+        "text": "COMO ÉS FORMOSO, QUE DELICIOSO!",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            11,
+            "Fa"
+          ],
+          [
+            27,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 392.7,
+        "blankBefore": false
+      },
+      {
+        "text": "A RELVA É NOSSO LEITO,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            16,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 416.7,
+        "blankBefore": false
+      },
+      {
+        "text": "A RELVA É NOSSO LEITO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            16,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 440.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Como a macieira entre árvores silvestres,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            33,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 476.7,
+        "blankBefore": true
+      },
+      {
+        "text": "assim é o meu amado,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            15,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 500.7,
+        "blankBefore": false
+      },
+      {
+        "text": "meu amado entre os jovens.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Fa"
+          ],
+          [
+            19,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 524.7,
+        "blankBefore": false
+      },
+      {
+        "text": "À sua sombra que ansiava estou sentada,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            34,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "e é doce seu fruto,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            13,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "como é doce ao paladar.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Fa"
+          ],
+          [
+            19,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "INTRODUZIU-ME",
+        "role": "S.",
+        "bold": true,
+        "notes": [
+          [
+            7,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 176.7,
+        "blankBefore": true
+      },
+      {
+        "text": "NA SALA DO BANQUETE,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            15,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 200.7,
+        "blankBefore": false
+      },
+      {
+        "text": "E A BANDEIRA QUE DESFRALDA",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            7,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 224.7,
+        "blankBefore": true
+      },
+      {
+        "text": "SOBRE MIM É O AMOR.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            15,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 248.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Sua mão esquerda está sobre minha cabeça,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            11,
+            "Re-"
+          ],
+          [
+            36,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 284.7,
+        "blankBefore": true
+      },
+      {
+        "text": "e com sua direita abraça-me.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            12,
+            "Re-"
+          ],
+          [
+            19,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "EU VOS CONJURO, FILHAS DE JERUSALÉM,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            11,
+            "La-"
+          ],
+          [
+            23,
+            "Re-"
+          ],
+          [
+            32,
+            "La-"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 344.7,
+        "blankBefore": true
+      },
+      {
+        "text": "NÃO DESPERTEIS O AMOR,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            18,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 368.7,
+        "blankBefore": false
+      },
+      {
+        "text": "ATÉ QUE ELE QUEIRA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            13,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 264,
+        "sourceY": 392.7,
+        "blankBefore": false
+      }
+    ],
+    "repeatBlocks": [
+      [
+        20,
+        22
+      ],
+      [
+        22,
+        24
+      ]
+    ]
+  },
+  {
+    "html": "EIS QUE O NOSSO ESPELHO E O SENHOR",
+    "page": 247,
+    "title": "EIS QUE O NOSSO ESPELHO É O SENHOR",
+    "subtitle": "Ode XIII de Salomão",
+    "color": "#c7d7e8",
+    "rows": [
+      {
+        "text": "Eis que o nosso espelho é o Senhor,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            35,
+            "La-"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "abri os vossos olhos e olhai-vos Nele",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            36,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e aprendei como é a vossa imagem.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            27,
+            "La"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "ALELUIA, ALELUIA, ALELUIA.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            25,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 176.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Aleluia, aleluia, aleluia.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            25,
+            "La"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 200.7,
+        "blankBefore": true
+      },
+      {
+        "text": "DAI GLÓRIA AO SEU ESPÍRITO,",
+        "role": "A.",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 247,
+        "sourceY": 224.7,
+        "blankBefore": true
+      },
+      {
+        "text": "DAI GLÓRIA AO SEU ESPÍRITO.",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 247,
+        "sourceY": 248.7,
+        "blankBefore": false
+      },
+      {
+        "text": "E limpai a imundície do vosso rosto,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            35,
+            "La-"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 284.7,
+        "blankBefore": true
+      },
+      {
+        "text": "amai sua santidade e dela revesti-vos,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            37,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e sereis imaculados sempre diante dele.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            30,
+            "La"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "ALELUIA, ALELUIA, ALELUIA.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            25,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 368.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Aleluia, aleluia, aleluia.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            25,
+            "La"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 392.7,
+        "blankBefore": true
+      },
+      {
+        "text": "DAI GLÓRIA AO SEU ESPÍRITO,",
+        "role": "A.",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 247,
+        "sourceY": 416.7,
+        "blankBefore": true
+      },
+      {
+        "text": "DAI GLÓRIA AO SEU ESPÍRITO,",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 247,
+        "sourceY": 440.7,
+        "blankBefore": false
+      },
+      {
+        "text": "DAI GLÓRIA AO SEU ESPÍRITO.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            20,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 247,
+        "sourceY": 476.7,
+        "blankBefore": true
+      }
+    ],
+    "repeatBlocks": [
+      [
+        3,
+        7
+      ],
+      [
+        10,
+        14
+      ]
+    ],
+    "repeatLabels": {
+      "7": "BIS",
+      "14": "BIS"
+    }
+  },
+  {
+    "html": "PAI NOSSO",
+    "page": 227,
+    "title": "PAI NOSSO*",
+    "subtitle": "",
+    "color": "#FFF4B3",
+    "rows": [
+      {
+        "text": "ABBA, ABBA PAI.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "PAI NOSSO QUE ESTAIS NOS CÉUS,",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 227,
+        "sourceY": 128.7,
+        "blankBefore": true
+      },
+      {
+        "text": "SANTIFICADO SEJA O VOSSO NOME;",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            12,
+            "La-"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 152.7,
+        "blankBefore": false
+      },
+      {
+        "text": "VENHA A NÓS O VOSSO REINO,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ],
+          [
+            20,
+            "La"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 176.7,
+        "blankBefore": false
+      },
+      {
+        "text": "SEJA FEITA A VOSSA VONTADE,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sib"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 200.7,
+        "blankBefore": false
+      },
+      {
+        "text": "ASSIM NA TERRA COMO NO CÉU.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            23,
+            "La"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 224.7,
+        "blankBefore": false
+      },
+      {
+        "text": "O PÃO NOSSO DE CADA DIA",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 260.7,
+        "blankBefore": true
+      },
+      {
+        "text": "NOS DAI HOJE;",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 227,
+        "sourceY": 284.7,
+        "blankBefore": false
+      },
+      {
+        "text": "PERDOAI-NOS AS NOSSAS OFENSAS;",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            23,
+            "La-"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "ASSIM COMO NÓS PERDOAMOS",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "A QUEM NOS TEM OFENDIDO;",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            19,
+            "La"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 356.7,
+        "blankBefore": false
+      },
+      {
+        "text": "E NÃO NOS DEIXEIS CAIR EM TENTAÇÃO,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sib"
+          ],
+          [
+            29,
+            "La"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 380.7,
+        "blankBefore": false
+      },
+      {
+        "text": "MAS LIVRAI-NOS DO MAL.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            18,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 227,
+        "sourceY": 404.7,
+        "blankBefore": false
+      }
+    ],
+    "repeatBlocks": [],
+    "footnote": "* Para as comunidades que viveram a última etapa do Pai Nosso."
+  },
+  {
+    "html": "SOBE DEUS ENTRE ACLAMACOES",
+    "page": 182,
+    "title": "SOBE DEUS ENTRE ACLAMAÇÕES",
+    "subtitle": "Salmo 47 (46)",
+    "color": "#FFFFFF",
+    "rows": [
+      {
+        "text": "Sobe Deus entre aclamações,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            22,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "ao clangor da trombeta.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "SOBE DEUS ENTRE ACLAMAÇÕES,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            22,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 140.7,
+        "blankBefore": true
+      },
+      {
+        "text": "AO CLANGOR DA TROMBETA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            18,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 164.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Povos todos, batei palmas,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            19,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 200.7,
+        "blankBefore": true
+      },
+      {
+        "text": "POVOS TODOS, BATEI PALMAS;",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            19,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 224.7,
+        "blankBefore": true
+      },
+      {
+        "text": "POVOS TODOS, BATEI PALMAS;",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            19,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 248.7,
+        "blankBefore": false
+      },
+      {
+        "text": "POVOS TODOS, BATEI PALMAS.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            19,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 272.7,
+        "blankBefore": false
+      },
+      {
+        "text": "SOBE DEUS ENTRE ACLAMAÇÕES ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            22,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 308.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Cantai a Deus, cantai,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            18,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 344.7,
+        "blankBefore": true
+      },
+      {
+        "text": "CANTAI A DEUS, CANTAI;",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            18,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 368.7,
+        "blankBefore": true
+      },
+      {
+        "text": "CANTAI A DEUS, CANTAI;",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            18,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 392.7,
+        "blankBefore": false
+      },
+      {
+        "text": "CANTAI A DEUS, CANTAI.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            18,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 416.7,
+        "blankBefore": false
+      },
+      {
+        "text": "SOBE DEUS ENTRE ACLAMAÇÕES ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            22,
+            "Sol-"
+          ]
+        ],
+        "sourcePage": 182,
+        "sourceY": 452.7,
+        "blankBefore": true
+      }
+    ],
+    "repeatBlocks": [
+      [
+        8,
+        9
+      ],
+      [
+        13,
+        14
+      ]
+    ],
+    "expansions": {
+      "8": [
+        2,
+        4
+      ],
+      "13": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "html": "AMEM AMEM AMEM",
+    "page": 208,
+    "title": "AMÉM, AMÉM, AMÉM",
+    "subtitle": "Apocalipse 7, 12-14",
+    "color": "#FFF4B3",
+    "rows": [
+      {
+        "text": "AMÉM, AMÉM, AMÉM.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "AMÉM, AMÉM, AMÉM.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            1,
+            "La-"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "AMÉM, AMÉM, AMÉM.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            1,
+            "Sol7"
+          ],
+          [
+            14,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "LOUVOR E GLÓRIA,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 176.7,
+        "blankBefore": true
+      },
+      {
+        "text": "SABEDORIA,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            6,
+            "Sol7"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 200.7,
+        "blankBefore": false
+      },
+      {
+        "text": "AÇÃO DE GRAÇAS",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 208,
+        "sourceY": 224.7,
+        "blankBefore": false
+      },
+      {
+        "text": "DEMOS A DEUS.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            9,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 248.7,
+        "blankBefore": false
+      },
+      {
+        "text": "AMÉM, AMÉM, AMÉM ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 284.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Honra e poder",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ],
+          [
+            10,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 320.7,
+        "blankBefore": true
+      },
+      {
+        "text": "e fortaleza;",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            8,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 344.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Honra e poder",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            10,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 368.7,
+        "blankBefore": false
+      },
+      {
+        "text": "demos a Deus.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 392.7,
+        "blankBefore": false
+      },
+      {
+        "text": "LOUVOR E GLÓRIA, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol7"
+          ],
+          [
+            11,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 428.7,
+        "blankBefore": true
+      },
+      {
+        "text": "AMÉM, AMÉM, AMÉM ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 464.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Quem são",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "e de onde vêm?",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            10,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "QUEM SÃO",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            5,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 140.7,
+        "blankBefore": true
+      },
+      {
+        "text": "E DE ONDE VÊM?",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            11,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 164.7,
+        "blankBefore": false
+      },
+      {
+        "text": "ESTES SÃO OS QUE VÊM",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol7"
+          ],
+          [
+            18,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 200.7,
+        "blankBefore": true
+      },
+      {
+        "text": "DA GRANDE TRIBULAÇÃO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            4,
+            "Sol"
+          ],
+          [
+            18,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 224.7,
+        "blankBefore": false
+      },
+      {
+        "text": "E LAVARAM SUAS TÚNICAS",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            5,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 260.7,
+        "blankBefore": true
+      },
+      {
+        "text": "E AS ALVEJARAM",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 284.7,
+        "blankBefore": false
+      },
+      {
+        "text": "NO SANGUE DO CORDEIRO,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            3,
+            "Fa"
+          ],
+          [
+            17,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "NO SANGUE DO CORDEIRO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            3,
+            "Fa"
+          ],
+          [
+            17,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "ESTES SÃO OS QUE VÊM ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol7"
+          ],
+          [
+            18,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 368.7,
+        "blankBefore": true
+      },
+      {
+        "text": "AMÉM, AMÉM, AMÉM ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 208,
+        "sourceY": 404.7,
+        "blankBefore": true
+      }
+    ],
+    "repeatBlocks": [
+      [
+        18,
+        20
+      ]
+    ],
+    "expansions": {
+      "7": [
+        0,
+        3
+      ],
+      "12": [
+        3,
+        7
+      ],
+      "13": [
+        0,
+        3
+      ],
+      "24": [
+        18,
+        20
+      ],
+      "25": [
+        0,
+        3
+      ]
+    },
+    "repeatLabels": {
+      "20": "BIS"
+    }
+  },
+  {
+    "html": "VOS SOIS A LUZ DO MUNDO",
+    "page": 199,
+    "title": "VÓS SOIS A LUZ DO MUNDO",
+    "subtitle": "Mateus 5, 14-16",
+    "color": "#FFFFFF",
+    "rows": [
+      {
+        "text": "VÓS* SOIS A LUZ DO MUNDO,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            5,
+            "Mi"
+          ],
+          [
+            19,
+            "La-"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "SOIS A LUZ, A LUZ DO MUNDO,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            7,
+            "Mi"
+          ],
+          [
+            14,
+            "Re-"
+          ],
+          [
+            21,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "A LUZ DO MUNDO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            9,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Não se pode esconder",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            17,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 176.7,
+        "blankBefore": true
+      },
+      {
+        "text": "uma cidade sobre um monte;",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "La-"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 200.7,
+        "blankBefore": false
+      },
+      {
+        "text": "não se pode esconder",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            17,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 224.7,
+        "blankBefore": false
+      },
+      {
+        "text": "uma cidade sobre um monte.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            20,
+            "La-"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 248.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Nem se acende uma lâmpada,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            19,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 284.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e se coloca debaixo do alqueire,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            26,
+            "La-"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 308.7,
+        "blankBefore": false
+      },
+      {
+        "text": "mas se põe sobre o candelabro,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            24,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 332.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para que dê luz a todos aqueles que estão na casa.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            45,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 356.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Resplandeça assim a vossa luz",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ],
+          [
+            13,
+            "Mi"
+          ],
+          [
+            26,
+            "La-"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 392.7,
+        "blankBefore": false
+      },
+      {
+        "text": "diante dos homens,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            1,
+            "Fa"
+          ],
+          [
+            11,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 416.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para que vejam as vossas obras",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            25,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 440.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e glorifiquem o vosso Pai que está nos céus.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            39,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 464.7,
+        "blankBefore": false
+      },
+      {
+        "text": "VÓS SOIS A LUZ DO MUNDO, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            4,
+            "Mi"
+          ],
+          [
+            18,
+            "La-"
+          ]
+        ],
+        "sourcePage": 199,
+        "sourceY": 500.7,
+        "blankBefore": true
+      }
+    ],
+    "repeatBlocks": [],
+    "expansions": {
+      "15": [
+        0,
+        3
+      ]
+    },
+    "redMarkers": [
+      "VÓS*"
+    ],
+    "footnote": "* Polifonia a três vozes inspirada no “Taedet animam meam” de Tomás Luís de Victoria."
+  },
+  {
+    "html": "O MESMO DEUS",
+    "page": 253,
+    "title": "O MESMO DEUS",
+    "subtitle": "2ª Coríntios 4, 6-12",
+    "color": "#c7d7e8",
+    "rows": [
+      {
+        "text": "O mesmo Deus que disse:",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re"
+          ],
+          [
+            17,
+            "Fa#"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "‘‘Do seio das trevas brilhe a luz’’,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            15,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "fez brilhar a luz em nossos corações,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa#"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "para irradiar o conhecimento de sua glória,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            10,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 164.7,
+        "blankBefore": false
+      },
+      {
+        "text": "que está no rosto de Cristo.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "La"
+          ],
+          [
+            21,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 188.7,
+        "blankBefore": false
+      },
+      {
+        "text": "QUE ESTÁ NO ROSTO DE CRISTO.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            6,
+            "La"
+          ],
+          [
+            21,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 212.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Mas levamos este tesouro",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa#"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 248.7,
+        "blankBefore": true
+      },
+      {
+        "text": "em vasos de barro.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 253,
+        "sourceY": 272.7,
+        "blankBefore": false
+      },
+      {
+        "text": "MAS LEVAMOS ESTE TESOURO",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa#"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 296.7,
+        "blankBefore": true
+      },
+      {
+        "text": "EM VASOS DE BARRO.",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 253,
+        "sourceY": 320.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Para que se manifeste",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 356.7,
+        "blankBefore": true
+      },
+      {
+        "text": "que o sublime deste amor",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "La"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 380.7,
+        "blankBefore": false
+      },
+      {
+        "text": "provém de Deus, provém de Deus",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            10,
+            "Si-"
+          ],
+          [
+            15,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 404.7,
+        "blankBefore": false
+      },
+      {
+        "text": "e que não vem de nós.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            17,
+            "Fa#"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 428.7,
+        "blankBefore": false
+      },
+      {
+        "text": "LEVANDO SEMPRE EM NOSSO CORPO",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            8,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 464.7,
+        "blankBefore": true
+      },
+      {
+        "text": "O MORRER DE JESUS, PARA QUE",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            14,
+            "La"
+          ],
+          [
+            25,
+            "Si-"
+          ],
+          [
+            27,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 488.7,
+        "blankBefore": false
+      },
+      {
+        "text": "SE MANIFESTE EM NOSSO CORPO",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 253,
+        "sourceY": 512.7,
+        "blankBefore": false
+      },
+      {
+        "text": "QUE ESTÁ RESSUSCITADO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            17,
+            "Fa#"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 536.7,
+        "blankBefore": false
+      },
+      {
+        "text": "Atribulados, mas não desesperados;",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa#"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 92.7,
+        "blankBefore": true
+      },
+      {
+        "text": "perseguidos, mas não abandonados;",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 253,
+        "sourceY": 116.7,
+        "blankBefore": false
+      },
+      {
+        "text": "abatidos, mas não aniquilados.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 253,
+        "sourceY": 140.7,
+        "blankBefore": false
+      },
+      {
+        "text": "LEVANDO SEMPRE ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            8,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 176.7,
+        "blankBefore": true
+      },
+      {
+        "text": "Enquanto nós morremos",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa#"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 212.7,
+        "blankBefore": true
+      },
+      {
+        "text": "o mundo recebe a vida.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 253,
+        "sourceY": 236.7,
+        "blankBefore": false
+      },
+      {
+        "text": "ENQUANTO NÓS MORREMOS",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa#"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 260.7,
+        "blankBefore": true
+      },
+      {
+        "text": "O MUNDO RECEBE A VIDA.",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 253,
+        "sourceY": 284.7,
+        "blankBefore": false
+      },
+      {
+        "text": "LEVANDO SEMPRE ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            8,
+            "Si-"
+          ]
+        ],
+        "sourcePage": 253,
+        "sourceY": 320.7,
+        "blankBefore": true
+      }
+    ],
+    "repeatBlocks": [],
+    "expansions": {
+      "21": [
+        14,
+        18
+      ],
+      "26": [
+        14,
+        18
+      ]
+    }
+  }
+]

@@ -1,0 +1,2021 @@
+{
+  "range": [
+    181,
+    268
+  ],
+  "counts": {
+    "songs": 78,
+    "variants": 156,
+    "physicalPages": 88,
+    "pdfOverviewPages": 88,
+    "pdfDetailedPages": 25,
+    "changedSongs": 20,
+    "changedVariants": 39,
+    "completeRetranscribedSongs": 7
+  },
+  "method": "All source pages in range re-inspected in private full-page overview montages; targeted independent full-page detail checks for confirmed candidates. Current normal/extended HTML compared textually and musically; full reconstructed sheets also rendered locally. Overview coverage is not a word-by-word visual certification of every unchanged HTML.",
+  "sourcePrivacy": "PDF and private renders are outside the repository and public outputs. No raster or PDF path assets copied.",
+  "completeRetranscriptions": [
+    {
+      "html": "COMO LIRIO ENTRE OS ESPINHOS",
+      "page": 264
+    },
+    {
+      "html": "EIS QUE O NOSSO ESPELHO E O SENHOR",
+      "page": 247
+    },
+    {
+      "html": "PAI NOSSO",
+      "page": 227
+    },
+    {
+      "html": "SOBE DEUS ENTRE ACLAMACOES",
+      "page": 182
+    },
+    {
+      "html": "AMEM AMEM AMEM",
+      "page": 208
+    },
+    {
+      "html": "VOS SOIS A LUZ DO MUNDO",
+      "page": 199
+    },
+    {
+      "html": "O MESMO DEUS",
+      "page": 253
+    }
+  ],
+  "applied": [
+    {
+      "html": "SO A SO",
+      "page": 181,
+      "variant": "normal",
+      "beforeSha256": "7a41c0257ddb1d464a58449c96cbc50f54b48f6be5913cd8e748d6c2e0c6a0ef",
+      "afterSha256": "a008fc650467d98ef0cef356c52f7fc656bf89e3f5ea13976e198b8f62b1637f"
+    },
+    {
+      "html": "SO A SO",
+      "page": 181,
+      "variant": "estendido",
+      "beforeSha256": "5eb4af681f0f4c4826f4cd35a50d1fe68cb2b85dc11e82d055996e1bcfff8b9f",
+      "afterSha256": "a0f4af44abf359a7c8b4826189bc167ab505b6d87f944a13d1f90609a89955db"
+    },
+    {
+      "html": "SOBE DEUS ENTRE ACLAMACOES",
+      "page": 182,
+      "variant": "normal",
+      "beforeSha256": "faae09018338063867e0a32cc5541e70d3e19139c6e276ef09b1f4957496589e",
+      "afterSha256": "f2168fc4b22ed50117dbe6d6cc4088cc1456b09bb00d2c00b83ba88f12b25f2f"
+    },
+    {
+      "html": "SOBE DEUS ENTRE ACLAMACOES",
+      "page": 182,
+      "variant": "estendido",
+      "beforeSha256": "bde3327575e8a600274c61845be65fd2167830c002b3b8a2c86134858fcb4691",
+      "afterSha256": "ca46e6edd69e8820b5938b5a1956cb03bccec8b5e08a4a3c135025f0c381c403"
+    },
+    {
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "page": 185,
+      "variant": "normal",
+      "beforeSha256": "f2fb6c1038fa2b430613ec68d94a224080508be752fc715be529e1ca3e561030",
+      "afterSha256": "465d7f757be3c663a7bfea9404dbb326b01919047b42938aeba5c308d1e40b3f"
+    },
+    {
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "page": 185,
+      "variant": "estendido",
+      "beforeSha256": "185256c44e57052116386dba2bfc804bfdc564a2bcc3866f2d889bf08901099b",
+      "afterSha256": "b7a8ef4d45820d4f0262b67bb92ea2545232f5dacb89c431cc14c93e64bc8ce9"
+    },
+    {
+      "html": "TU ES FORMOSO",
+      "page": 186,
+      "variant": "normal",
+      "beforeSha256": "6cddc5298261bd7ba95d81ebe02dbca05f6fef534edceeafeb7ffcbf9680405d",
+      "afterSha256": "1e9d4e20b81175d739123f98fc056cf5861a1b156605db13657c318ebeec4982"
+    },
+    {
+      "html": "TU ES FORMOSO",
+      "page": 186,
+      "variant": "estendido",
+      "beforeSha256": "8321987e7f14eab530d973cbad097aff89b5e947145ff4ed438bd5580c4d92fa",
+      "afterSha256": "eadd245698135e8d6b853c03fb9fa58708d49af99bf0dbdeadc7705275ff94d4"
+    },
+    {
+      "html": "UM GRANDE SINAL",
+      "page": 188,
+      "variant": "normal",
+      "beforeSha256": "cc38ae436a76526cd0f826efae53391b27c650fffeaf70fc1ea39f822d63c558",
+      "afterSha256": "ff85a3a228b5101c2b820927b46c068bbe19ffd080d5211f0c6a91e5a98173a3"
+    },
+    {
+      "html": "UM GRANDE SINAL",
+      "page": 188,
+      "variant": "estendido",
+      "beforeSha256": "a4e02f614f96fab7724fca44ccdab3ba318aabe8efacdbd45b19d0b04e790d32",
+      "afterSha256": "6a4fa7d4933a260b7a19b3e950e9796fae55043b0125e007259188e14e6f951b"
+    },
+    {
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE",
+      "page": 189,
+      "variant": "normal",
+      "beforeSha256": "767052efa277f9a7e2fa9d34ec1e4feaf7e541b89f83793597ff1c5ff941ae65",
+      "afterSha256": "ab1d0149cbedf483e015d0ec7dcf78a306b8219254da56ca4c07eda69d52f194"
+    },
+    {
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE",
+      "page": 189,
+      "variant": "estendido",
+      "beforeSha256": "2ee813c68da498f7e917ea560e6ab5a822ccf5986721930160ee58bdf291015b",
+      "afterSha256": "753a9bc312cc5fa02e76832119870ed451f79d5f66a33babf05dfe1c7143397f"
+    },
+    {
+      "html": "VAMOS JA PASTORES",
+      "page": 191,
+      "variant": "normal",
+      "beforeSha256": "3f2e627b4e67475d1b1ccd378b8e6b47449147001796a01046d4f12169990e9e",
+      "afterSha256": "4ad4fee530917e9a63562a2b5231e121e5fab66b74dab0d44e450db1dfe18926"
+    },
+    {
+      "html": "VOS SOIS A LUZ DO MUNDO",
+      "page": 199,
+      "variant": "normal",
+      "beforeSha256": "c310c8058aec186c9da6dc1f2aebf3a5df89675cc65bb3b1d92464d69a15e7b6",
+      "afterSha256": "54e9735305bd1cd7191f920b38ac02d3f2c26461f944daecee38a2b4ff00cb79"
+    },
+    {
+      "html": "VOS SOIS A LUZ DO MUNDO",
+      "page": 199,
+      "variant": "estendido",
+      "beforeSha256": "b134cd70892a323d30e13e18084e5aacf3d10daa4d092dffa3ce99f667c7b397",
+      "afterSha256": "a41a566beb0859f650055baaf596a798a0cb96debeef2edcf83c71757950095e"
+    },
+    {
+      "html": "AMEM AMEM AMEM",
+      "page": 208,
+      "variant": "normal",
+      "beforeSha256": "4bc092f38cce829835d0b93e4c660e4b5b3da51465de04dccaebdf256020433f",
+      "afterSha256": "7608e200315e29be9f2a37ed922ca19ba87c6da32f653a008ea212e7c9a058cc"
+    },
+    {
+      "html": "AMEM AMEM AMEM",
+      "page": 208,
+      "variant": "estendido",
+      "beforeSha256": "43af7122557dd41d8746bf3bb3c2e15e843d7039a6d1a3c4821017ad4c33b13f",
+      "afterSha256": "b5f6feb7da81845ad2bba4bd9aee2491562cf071f3f18752327246cf1cf20609"
+    },
+    {
+      "html": "ANAFORA DO SAL",
+      "page": 209,
+      "variant": "normal",
+      "beforeSha256": "61349d1152dce73610efa1d264b8a931c1634b32b35372ba89b08d585f2a5407",
+      "afterSha256": "96d0c05160134b64857d73293d1d9fe39fad896d77d1dcd641fdd45b4d0ca603"
+    },
+    {
+      "html": "ANAFORA DO SAL",
+      "page": 209,
+      "variant": "estendido",
+      "beforeSha256": "3f55b8cf9685d9bd95dbe1712b0f96d9ac6f7a8d8de349f91c208fcda55156dc",
+      "afterSha256": "7f05c5cc8957ee54909b9983c7bbd60826aaba8c2f04b1e6d56574877e708c1f"
+    },
+    {
+      "html": "BENCAO DA AGUA",
+      "page": 210,
+      "variant": "normal",
+      "beforeSha256": "85195e173dfb614ce9c676d248f38804f57cab36d43816f8e58ecacee4747610",
+      "afterSha256": "8de8af0347ec414eb7b34e4aad9ab8304dd19ffbd1cfcc513ec3f0c3d17e8afa"
+    },
+    {
+      "html": "BENCAO DA AGUA",
+      "page": 210,
+      "variant": "estendido",
+      "beforeSha256": "e4f5b7a92104fc9b9a30ebb7a5c41e66e2cec9972bc8c9bb3dbaead72995e412",
+      "afterSha256": "8f3cabc3a8e4ea05d76e9077ecefe8f2c5b642826d222019d8b4b7caa508c7ab"
+    },
+    {
+      "html": "PAI NOSSO",
+      "page": 227,
+      "variant": "normal",
+      "beforeSha256": "1c5616e68c4de59cdf7398c4bc32c7705b6c368a89c78a34c1de08b22d35a52c",
+      "afterSha256": "115fd2e78f2560efd9449504f18c2ccaf5ba3c0cfc58f46428274a4dc09ce200"
+    },
+    {
+      "html": "PAI NOSSO",
+      "page": 227,
+      "variant": "estendido",
+      "beforeSha256": "1c5616e68c4de59cdf7398c4bc32c7705b6c368a89c78a34c1de08b22d35a52c",
+      "afterSha256": "115fd2e78f2560efd9449504f18c2ccaf5ba3c0cfc58f46428274a4dc09ce200"
+    },
+    {
+      "html": "PRECONIO PASCAL",
+      "page": 228,
+      "variant": "normal",
+      "beforeSha256": "e7c8c330403352cef1ab9b757be7a48a5e05010d6b68e4f979ab22671170af20",
+      "afterSha256": "ed9a3dbbcf88d41de7a36452fd97b70b17b4ffe9bdeb90a8c0f4bd9e98567492"
+    },
+    {
+      "html": "PRECONIO PASCAL",
+      "page": 228,
+      "variant": "estendido",
+      "beforeSha256": "eb56a9dd8653a9bb95798bfe28809c8dc2ed287cd14239fc83458ec5aa8638d8",
+      "afterSha256": "d6bbdd55e6b270486b2660056add20389ae5b0be18c44f4d4dc4e2d51a27d318"
+    },
+    {
+      "html": "EIS QUE O NOSSO ESPELHO E O SENHOR",
+      "page": 247,
+      "variant": "normal",
+      "beforeSha256": "0caac4ca1d170814aa7bf35453dca30ba75c45d289d94e2dfba859106de29646",
+      "afterSha256": "893270abd9a2e71a3b530625150e1f260635e8e5e871b46271e0a68d5f26fcd1"
+    },
+    {
+      "html": "EIS QUE O NOSSO ESPELHO E O SENHOR",
+      "page": 247,
+      "variant": "estendido",
+      "beforeSha256": "99efc2f05b55122d288f37e1c1749039a63a5dfe38ffe0555efc72bc8f4435df",
+      "afterSha256": "cced379e16c37a38ca34a9a667775ecab4bd3cf30c98c8b06c91c1ef761e7b74"
+    },
+    {
+      "html": "JACO",
+      "page": 249,
+      "variant": "normal",
+      "beforeSha256": "311cd247853150bccbe6c4eea7d2ebdaabd77b7f54352cd6e0f7cd4ee4396481",
+      "afterSha256": "4a7c5195519b371ee5a622f204a63730693842525d3ea615d4459980439599e3"
+    },
+    {
+      "html": "JACO",
+      "page": 249,
+      "variant": "estendido",
+      "beforeSha256": "311cd247853150bccbe6c4eea7d2ebdaabd77b7f54352cd6e0f7cd4ee4396481",
+      "afterSha256": "4a7c5195519b371ee5a622f204a63730693842525d3ea615d4459980439599e3"
+    },
+    {
+      "html": "O MESMO DEUS",
+      "page": 253,
+      "variant": "normal",
+      "beforeSha256": "61d57918123caab905ee92f696e17d7a747ab85d43a8b18586442535a221d484",
+      "afterSha256": "c6e2919e7632ef888a026da9a4fa22bc1dfb01195da962a0e523012b45899a50"
+    },
+    {
+      "html": "O MESMO DEUS",
+      "page": 253,
+      "variant": "estendido",
+      "beforeSha256": "4d6f2f1222d2a3c397f5d993cf74a9f1b54b4f77bb11006e518b40d72b7b6576",
+      "afterSha256": "7113b1b6deab0375a3599c72d091bdfd1b348c6bb517994971054da1b1679d6e"
+    },
+    {
+      "html": "QUANDO DORMIA",
+      "page": 256,
+      "variant": "normal",
+      "beforeSha256": "a50be85c51858aaa8139f12fca64e81a09efdedc875385c85aea18eebc4ee467",
+      "afterSha256": "f63331ed0d34d8032968b5e620a76f6384949061c1453fc5d65d3ef2df4c24be"
+    },
+    {
+      "html": "QUANDO DORMIA",
+      "page": 256,
+      "variant": "estendido",
+      "beforeSha256": "09bd2187951f75c8fc8ff675032caffcf9c3a77d279e6da0ab8c7f7da9c39aaf",
+      "afterSha256": "d68c4227a0ebbb70c7fbea5693a95aae229c47f31ce8f597c3cde3767b0dd9e6"
+    },
+    {
+      "html": "SENHOR TU ME ESCRUTAS E CONHECES",
+      "page": 257,
+      "variant": "normal",
+      "beforeSha256": "1a2d2469c3f2d53823c8fd04b6e4527980150976c60df45799186870cde34b2e",
+      "afterSha256": "f2a1027d50af1f2cf8ae9c887dfd8c650c1b9505f09641aec20e8381893eb6b2"
+    },
+    {
+      "html": "SENHOR TU ME ESCRUTAS E CONHECES",
+      "page": 257,
+      "variant": "estendido",
+      "beforeSha256": "1a2d2469c3f2d53823c8fd04b6e4527980150976c60df45799186870cde34b2e",
+      "afterSha256": "f2a1027d50af1f2cf8ae9c887dfd8c650c1b9505f09641aec20e8381893eb6b2"
+    },
+    {
+      "html": "TU ES A MINHA ESPERANCA SENHOR",
+      "page": 260,
+      "variant": "normal",
+      "beforeSha256": "f6e2d96cb8dcfcc6d6af280ed2d9eb3b4c26e59d1d7f0a5a87ec00eabec8af61",
+      "afterSha256": "6daf9523270554e4b03f74e06c7acb2c87e4b8a1c3a52b41ec17bbe99f33868e"
+    },
+    {
+      "html": "TU ES A MINHA ESPERANCA SENHOR",
+      "page": 260,
+      "variant": "estendido",
+      "beforeSha256": "e84d70466a3c9ed10579e50946e5cc04b2c1d4da7ca91bfb0c1befc2e77f052b",
+      "afterSha256": "07f1bdb9f078f1d73dfa7977a38280de23694e89ddac103b9c6451e161be20f5"
+    },
+    {
+      "html": "COMO LIRIO ENTRE OS ESPINHOS",
+      "page": 264,
+      "variant": "normal",
+      "beforeSha256": "c6d2f301c5e40a43606a40e2a4ecd99e64d37fa07fa29305135a61a564229a47",
+      "afterSha256": "67aeb309b2d45f01d2b905ad5aa237f45234be2619c38ade4b4acd9f51b9229b"
+    },
+    {
+      "html": "COMO LIRIO ENTRE OS ESPINHOS",
+      "page": 264,
+      "variant": "estendido",
+      "beforeSha256": "08e1d9be9c8726bff2905e36ca6519ab5057d942ef3b346885506764d2f25948",
+      "afterSha256": "777971fb7f8e726c11e337a9c4068cd613eb5194b3024e6d01e1aeecb427896e"
+    }
+  ],
+  "pdfErrorsForHumanReview": [
+    {
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "page": 185,
+      "printed": "porque compraste com teu o sangue",
+      "currentHtml": "porque compraste com o teu sangue",
+      "reason": "Word-order typo in one source occurrence; two other source occurrences have com o teu sangue.",
+      "status": "human-review-requested",
+      "action": "Correct wording retained; source typo not copied."
+    },
+    {
+      "html": "ROUBASTE MEU CORACAO",
+      "page": 267,
+      "printed": "frangância / frangrância",
+      "currentHtml": "fragrância",
+      "reason": "Obvious spelling inconsistencies; same source prints fragrância correctly in adjacent verse.",
+      "status": "human-review-requested",
+      "action": "Correct spelling retained."
+    },
+    {
+      "html": "SALMODIA PARA O SALMO RESPONSORIAL",
+      "page": 235,
+      "printed": "como terra sedenta e sem água!.",
+      "currentHtml": "como terra sedenta e sem água!.",
+      "reason": "Duplicate terminal punctuation in printed text. Requires editorial decision rather than silent change.",
+      "status": "human-review-requested",
+      "action": "Not changed in this range review."
+    }
+  ],
+  "interpretationNotes": [
+    {
+      "html": "LADAINHA PENITENCIAL II",
+      "page": 219,
+      "reason": "Explicit chord on first bullet may indicate sustained/minor formula through following invocations. Extra HTML reattacks not blindly deleted from every expanded response; no full harmonic editorial certification asserted."
+    },
+    {
+      "html": "EU TE AMO SENHOR",
+      "page": 95,
+      "reason": "Outside this range: violin score transcription remains an existing human musical review item."
+    }
+  ],
+  "coverage": [
+    {
+      "html": "SO A SO",
+      "page": 181,
+      "sourcePages": [
+        181
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "a008fc650467d98ef0cef356c52f7fc656bf89e3f5ea13976e198b8f62b1637f",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "a0f4af44abf359a7c8b4826189bc167ab505b6d87f944a13d1f90609a89955db",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "SOBE DEUS ENTRE ACLAMACOES",
+      "page": 182,
+      "sourcePages": [
+        182
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": true,
+      "variants": {
+        "normal": {
+          "sha256": "f2168fc4b22ed50117dbe6d6cc4088cc1456b09bb00d2c00b83ba88f12b25f2f",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "ca46e6edd69e8820b5938b5a1956cb03bccec8b5e08a4a3c135025f0c381c403",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "STABAT MATER DOLOROSA",
+      "page": 183,
+      "sourcePages": [
+        183
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "48a2307f7392ac49c196fabd64fbe30cbad121e9e962836df0c848e14611446e",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "2c0f3532eb9bcbc6c62a2e81f519d325a6dbccb98b7286b6441a1e810f30ac7d",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "TU COBRISTE DE VERGONHA A MORTE",
+      "page": 184,
+      "sourcePages": [
+        184
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "689ff0889c7aebfda94c051ce84ce4f6abdeed1f498957c5dd8de2aff3d75032",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "998e047fa8b34fd578ae50eafb5480b6afdb8c2cfe5425c294e6cbd29cd67cb9",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "page": 185,
+      "sourcePages": [
+        185
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "465d7f757be3c663a7bfea9404dbb326b01919047b42938aeba5c308d1e40b3f",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "b7a8ef4d45820d4f0262b67bb92ea2545232f5dacb89c431cc14c93e64bc8ce9",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "TU ES FORMOSO",
+      "page": 186,
+      "sourcePages": [
+        186
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "1e9d4e20b81175d739123f98fc056cf5861a1b156605db13657c318ebeec4982",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "eadd245698135e8d6b853c03fb9fa58708d49af99bf0dbdeadc7705275ff94d4",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "TU QUE ES FIEL",
+      "page": 187,
+      "sourcePages": [
+        187
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "e7c66b55ca9d0e6bca01f1503b7ec75ca0210fe75d5d42e68d82002e20792ce6",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "7fff42a19ee608aa1e873fee86dc18c44ab6983340ea3830282f8c7f299e693f",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "UM GRANDE SINAL",
+      "page": 188,
+      "sourcePages": [
+        188
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "ff85a3a228b5101c2b820927b46c068bbe19ffd080d5211f0c6a91e5a98173a3",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "6a4fa7d4933a260b7a19b3e950e9796fae55043b0125e007259188e14e6f951b",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE",
+      "page": 189,
+      "sourcePages": [
+        189
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "ab1d0149cbedf483e015d0ec7dcf78a306b8219254da56ca4c07eda69d52f194",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "753a9bc312cc5fa02e76832119870ed451f79d5f66a33babf05dfe1c7143397f",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "URI URI URI URA",
+      "page": 190,
+      "sourcePages": [
+        190
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "d62f4cfd9876add52795268d8c0907d98f4898d44c109829a9937050973d220f",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "d65e774f443c0387fafad1d339fa5ea9a14b70745a6e291c3480012065c69bc0",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "VAMOS JA PASTORES",
+      "page": 191,
+      "sourcePages": [
+        191
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "4ad4fee530917e9a63562a2b5231e121e5fab66b74dab0d44e450db1dfe18926",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "c19f86bb00d8d91cf0ab115fdec53a826b4b5f7aa266fa2385fa8c9d58c634aa",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "VEM DO LIBANO",
+      "page": 192,
+      "sourcePages": [
+        192
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "f25e328945d10324de5b32ca3a82e116baca42c15a200759f8c74f1b0002a611",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "2d2fe939695905a063d2e2c080eb557b1c9565cb73415da08404e492a2e3721c",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "VEM ESPIRITO SANTO",
+      "page": 193,
+      "sourcePages": [
+        193
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "7ceb8f0c18109cbc43dd88491da8f9fcbe76830514ccf7c2a771a56970c766b2",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "e96170fdf47c20fcb85806cd60c0b47cd343f462cf3fc5dddd6183111a41ddc5",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "VEM FILHO DO HOMEM",
+      "page": 194,
+      "sourcePages": [
+        194
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "44e83e5abfab5b3f1c78a6f0b54f556107be8a0316df197f552bcbde54f2a75f",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "489f0b827e00294421cef1b3deb1c2d2d0d07c588fd4e2a426f92c7cad14008c",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "VEM O SENHOR",
+      "page": 195,
+      "sourcePages": [
+        195
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "22fbafbc6a66d213e49c8e8a1e5c9b845d8ca91924623be91ea905bd61507240",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "ca672a9bf03b13886799bca611a7a99aaa98f743fbfdf1a0e58ed67959b81c4d",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "VENI CREATOR",
+      "page": 196,
+      "sourcePages": [
+        196
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "f85835895ef0c94e292ade62d8bf260afb86b0c4225e0f3f275d8449521334a5",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "fe766e1fbeb46b44d8985a996876710b092c58e9b8a9ef4b41dcbbf6b751410f",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "VIRGEM DA MARAVILHA",
+      "page": 197,
+      "sourcePages": [
+        197
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "19b2001eb4864f9acf44104d236a1d911cf0cb863df2255692a47aece82ede9c",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "233b849b8e07f101c76695169b5bac4bdeb4f7c519a215780fffb4bf0a2554a8",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "VIVEI ALEGRES",
+      "page": 198,
+      "sourcePages": [
+        198
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "9021dc779ccf17a99e012ddab2e22f78348d1c9259dae8b179e78d8a1c405f7a",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "664e8293f0326deb42298e16c6d7e301a7b8fccf94a08179957526c9efceb017",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "VOS SOIS A LUZ DO MUNDO",
+      "page": 199,
+      "sourcePages": [
+        199
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": true,
+      "variants": {
+        "normal": {
+          "sha256": "54e9735305bd1cd7191f920b38ac02d3f2c26461f944daecee38a2b4ff00cb79",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "a41a566beb0859f650055baaf596a798a0cb96debeef2edcf83c71757950095e",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "VOS TOMAREI DENTRE AS NACOES",
+      "page": 200,
+      "sourcePages": [
+        200
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "beeeab5e4c54edb4cceabc05c566925e7094def764ffe94c4ab9ba977918aa09",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "a9e6c2fa83a31324b37df7495930f39c0498e94ee14648ec15d793edc4a6ffcf",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "ZAQUEU",
+      "page": 201,
+      "sourcePages": [
+        201,
+        202
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "be0c501c317d16ab8d5a74cef1bd368ccb5333dc90a8e27ce39c900a8dedf8a0",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "5dd71ba2326e2006c0be994a7bb254ade47982991a36edb25570ec234f4b2cf7",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "ALELUIA INTERLECCIONAL",
+      "page": 203,
+      "sourcePages": [
+        203
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "eac187b0c6f6b7b2b18b3b9b80e6739afdedbf003751b05a7b20cdd871fa9936",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "b39c02f687b0e3a4ac793d61cc7a602f698a9d70da6abb43f718f386c1fb493e",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "ANTIFONA - VERSICULO ANTES DO EVANGELHO",
+      "page": 204,
+      "sourcePages": [
+        204
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "f8dece9c13c057dc05730bb7aeac9b486885d2213f1cb62ab1f38d4c36a40528",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "7409eee26ea6288abd8bbdbbb9aad229b378043988ca08ff4d8af8499bc798a2",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "ACLAMACOES AS ORACOES DOS FIEIS",
+      "page": 205,
+      "sourcePages": [
+        205
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "c969c5ba230de551937ba7e44ba1057ad02d14485382abd6696b0b31d2bb634c",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "c969c5ba230de551937ba7e44ba1057ad02d14485382abd6696b0b31d2bb634c",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "ALELUIA PASCAL",
+      "page": 206,
+      "sourcePages": [
+        206
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "269ca5f0e205190eb37d7babf0dfff232fb51203fc2fe7aa6d8b7f96dce7de51",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "269ca5f0e205190eb37d7babf0dfff232fb51203fc2fe7aa6d8b7f96dce7de51",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "ALELUIA PASCAL II",
+      "page": 207,
+      "sourcePages": [
+        207
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "a46dbab6920670703c97fe3979d605c424689a41eb1498ac32411ff86140a5c8",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "a46dbab6920670703c97fe3979d605c424689a41eb1498ac32411ff86140a5c8",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "AMEM AMEM AMEM",
+      "page": 208,
+      "sourcePages": [
+        208
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": true,
+      "variants": {
+        "normal": {
+          "sha256": "7608e200315e29be9f2a37ed922ca19ba87c6da32f653a008ea212e7c9a058cc",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "b5f6feb7da81845ad2bba4bd9aee2491562cf071f3f18752327246cf1cf20609",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "ANAFORA DO SAL",
+      "page": 209,
+      "sourcePages": [
+        209
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "96d0c05160134b64857d73293d1d9fe39fad896d77d1dcd641fdd45b4d0ca603",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "7f05c5cc8957ee54909b9983c7bbd60826aaba8c2f04b1e6d56574877e708c1f",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "BENCAO DA AGUA",
+      "page": 210,
+      "sourcePages": [
+        210,
+        211
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "8de8af0347ec414eb7b34e4aad9ab8304dd19ffbd1cfcc513ec3f0c3d17e8afa",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "8f3cabc3a8e4ea05d76e9077ecefe8f2c5b642826d222019d8b4b7caa508c7ab",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "BENCAO PENITENCIAL",
+      "page": 212,
+      "sourcePages": [
+        212
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "ff4f26c896d5cc5db156fb1bcb5bcae9340bdf5549a14c966ede7fd738f7b3cc",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "c9d7f7cfaab959dac0813f34bad0ad60e32042d99d18e7d6705a26a28b39631a",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "CORDEIRO DE DEUS",
+      "page": 213,
+      "sourcePages": [
+        213
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "e80cfe3c73903e1c9fe812e9f83599a18d28fee4f975d0e9e57847c28cfae93e",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "73047751f53b7478dcadbee97a097a647d92273069bceed3d3d785d89088cfcd",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "CREDO",
+      "page": 214,
+      "sourcePages": [
+        214
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "a10a87a4450bd717ed4cc853d565665c6bddb9a174faa90e424a7cc6cf5c9e33",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "a10a87a4450bd717ed4cc853d565665c6bddb9a174faa90e424a7cc6cf5c9e33",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "GLORIA A DEUS NO ALTO DO CEU",
+      "page": 215,
+      "sourcePages": [
+        215
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "7c91eb746b4c4fe5d69640054260aad1ee548006ce1aaba30a657b19e05e47b3",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "c862d346a08eb73afde9fc2d7db4ae9d5531e8b97cae85b93dce5f6bd43de162",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "LADAINHA DE TODOS OS SANTOS",
+      "page": 216,
+      "sourcePages": [
+        216,
+        217
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "1983655cfe7fd7c686ec84cf874e48d120f0f91d3c39bd2d8e403b2354d5f7e9",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "1983655cfe7fd7c686ec84cf874e48d120f0f91d3c39bd2d8e403b2354d5f7e9",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "LADAINHA PENITENCIAL I",
+      "page": 218,
+      "sourcePages": [
+        218
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "442640ef6ef37ee7145cb83f45faa9ada8856b8a979c16b17168148a313c2eb7",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "3edaaf12a0b576879b77a808a7d415350290ae178a09f4d5520ab41c539d73f9",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "LADAINHA PENITENCIAL II",
+      "page": 219,
+      "sourcePages": [
+        219
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "96b3d29359db88e7d4f2537ef170905af82ebdb0406d9e018b59c14408b37cfd",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "aa04c0fbf4a922e9857fbe654e3bd2c23e7ae11009b8660d881d443c5e209d2f",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "ORACAO EUCARISTICA II",
+      "page": 220,
+      "sourcePages": [
+        220,
+        221,
+        222
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "e02ca39b8a751e1bf76e2eb892224592d4427efcf59391b8dd656a62de7fd2dd",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "6906c60e0bde0895844664fc3e6b96a47553b99a13512e3f16064515e1d4f8dc",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "ORACAO EUCARISTICA IV",
+      "page": 223,
+      "sourcePages": [
+        223,
+        224,
+        225,
+        226
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "0c51c82a4d7e731e3a3b0760ab54a1b0898b742fd43e797dce6e11522205fe65",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "8ae6c1ebdbcd7b6301b6e24534d4aaa367e0ddca061035fecdf6f2dd95b2eaae",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "PAI NOSSO",
+      "page": 227,
+      "sourcePages": [
+        227
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": true,
+      "variants": {
+        "normal": {
+          "sha256": "115fd2e78f2560efd9449504f18c2ccaf5ba3c0cfc58f46428274a4dc09ce200",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "115fd2e78f2560efd9449504f18c2ccaf5ba3c0cfc58f46428274a4dc09ce200",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "PRECONIO PASCAL",
+      "page": 228,
+      "sourcePages": [
+        228,
+        229
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "ed9a3dbbcf88d41de7a36452fd97b70b17b4ffe9bdeb90a8c0f4bd9e98567492",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "d6bbdd55e6b270486b2660056add20389ae5b0be18c44f4d4dc4e2d51a27d318",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "PREFACIO DA PASCOA I",
+      "page": 230,
+      "sourcePages": [
+        230
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "d8cec5031eacd809d72518dc9f7197a5139425e7e08548b32fa9dd4a65fa86d3",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "b4adb8cea4324fcc50c96827010a672cb04e613f225300eef0d6448e82aa96a4",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "PREFACIO DO ADVENTO II",
+      "page": 231,
+      "sourcePages": [
+        231
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "dca290828aa06e1baa11d6fd44313c5aff0e5e616b874d79eb3750ad5f571b54",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "dca290828aa06e1baa11d6fd44313c5aff0e5e616b874d79eb3750ad5f571b54",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SALMODIA PARA AS ORACOES UNIVERSAIS",
+      "page": 232,
+      "sourcePages": [
+        232
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "7684bf6cd481ee1920da049e0d6ef23357219d1efbfa9ea71411d81f717c8d76",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "7684bf6cd481ee1920da049e0d6ef23357219d1efbfa9ea71411d81f717c8d76",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SALMODIA PARA O EVANGELHO",
+      "page": 233,
+      "sourcePages": [
+        233
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "a2e44ac919a0601c61b49cc50f6b2d90a5946112eca03751907994e6d929ac0c",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "a2e44ac919a0601c61b49cc50f6b2d90a5946112eca03751907994e6d929ac0c",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SALMODIA PARA O ROSARIO",
+      "page": 234,
+      "sourcePages": [
+        234
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "fcb284c15eb1bdbeeb3d0d4caa6b5743533a977c36a054c8df6bf21e123fdd93",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "fcb284c15eb1bdbeeb3d0d4caa6b5743533a977c36a054c8df6bf21e123fdd93",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SALMODIA PARA O SALMO RESPONSORIAL",
+      "page": 235,
+      "sourcePages": [
+        235
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "b7fcc3d403bfbcbb226d16ad9f60b852058b9fafd702ab442bf351c29ecb5ecb",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "4b8c41a50fadd8885f169e6a5085c7f840d814ff0aaa6a3b86c7b7c4911090c3",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SALMODIAS PARA AS LAUDES",
+      "page": 236,
+      "sourcePages": [
+        236,
+        237
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "621e224a70b313bd2ed6bdc8b83c95e6fe95c01e5417f20a4595eb690898bc3a",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "621e224a70b313bd2ed6bdc8b83c95e6fe95c01e5417f20a4595eb690898bc3a",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SANTO 1982",
+      "page": 238,
+      "sourcePages": [
+        238
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "b1377bdf54cda5a9057ed57d7d84978800eab71cb589ad1f9bde3f6355f5bc4e",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "3fba3d2d98e1d511b212cc28df3d81d2c8604d98d1ce6fc4160be7cbe7c50418",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SANTO 1988",
+      "page": 239,
+      "sourcePages": [
+        239
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "815e57ead5648e8ac7acb4332d360d42f21ca4888bf5c21f32a7622036bb6c7b",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "815e57ead5648e8ac7acb4332d360d42f21ca4888bf5c21f32a7622036bb6c7b",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SANTO HEBRAICO",
+      "page": 240,
+      "sourcePages": [
+        240
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "65d179347152151beb4ffbc9ca1b2925dee9728e5809928ea7987cfb26e52fee",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "532691e7717995df1719818a238c57cbaa74dc29d92e3f49d9b1b2ca59e21727",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SANTO PALESTINA 74",
+      "page": 241,
+      "sourcePages": [
+        241
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "4567bc86336a9126e1aa20280e09d8554929d3dcdd536d79faa87a0bbc66f91b",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "4d7ab1c12a20267327e5dd6cb8c2ca54d30e445e257132925a5cf31c2a4ac7ff",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SANTO PALOMERAS 65",
+      "page": 242,
+      "sourcePages": [
+        242
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "1a0ae4e6c23061759dd8fd80dff1425dc285bebd9fff5ca877adea69315583b5",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "154f0c0c9a624705d8de65ba276294cb167810040b7457d5b87519d58f3d9a51",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SANTO ROMA 77",
+      "page": 243,
+      "sourcePages": [
+        243
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "c3156a66f25a8e1aca31e6e51701aa5b1f64d90ee5d0ad173bcd6d3df123a2d6",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "8375f3b6068a59bc7526fb067bd92724f7577ad7f87cb9887b9519625ef89dcc",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "TE DEUM",
+      "page": 244,
+      "sourcePages": [
+        244
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "cbf3fcb8094acf29f0ee2c32f904bffc9c6dcd4fb2d10751c5f6bb0c47f42a1a",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "f5984d05aecd4202440df2648e98d9df2e804c047c783db0d7abe4e2e5dbd2cb",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "COMO O IMPULSO QUE SENTE A IRA",
+      "page": 245,
+      "sourcePages": [
+        245
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "0a008b8e98275b6079b4cc2b4f794527cf9f1868448d732bac5867902494b566",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "a0f64cdab7bb307e52ede11c2fa49c881d7ff7ab87837754afc6fe7d0d87c50e",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "DEBORA",
+      "page": 246,
+      "sourcePages": [
+        246
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "b797826d0791fd9cdebe04b269941ffad1e02a927de68487c9bda315492b9e5a",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "929012edc03d419274af08f1073f6078014a2f91cf25762561645750be79184a",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "EIS QUE O NOSSO ESPELHO E O SENHOR",
+      "page": 247,
+      "sourcePages": [
+        247
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": true,
+      "variants": {
+        "normal": {
+          "sha256": "893270abd9a2e71a3b530625150e1f260635e8e5e871b46271e0a68d5f26fcd1",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "cced379e16c37a38ca34a9a667775ecab4bd3cf30c98c8b06c91c1ef761e7b74",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "HINO A CRUZ GLORIOSA",
+      "page": 248,
+      "sourcePages": [
+        248
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "0fa531708d82279f8c06676989cf652e135f5d3efbdfa228ec4adca27e1ccfc1",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "17a313e456ca2ceccf976cb18ae6f591b218dda401901d8a99c54a94ee907cb4",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "JACO",
+      "page": 249,
+      "sourcePages": [
+        249
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "4a7c5195519b371ee5a622f204a63730693842525d3ea615d4459980439599e3",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "4a7c5195519b371ee5a622f204a63730693842525d3ea615d4459980439599e3",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "NAO RESISTAIS AO MAL",
+      "page": 250,
+      "sourcePages": [
+        250
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "b625878d7ed70829ce88469ccb9065baae77ca9e23b0018bc45bc4458c373762",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "a8c69d333ce5cf2eb5e87c061b6920c392769dd8320295cf1c7222bc6bbcc5f2",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "NAO SOFRAS PELOS MALVADOS",
+      "page": 251,
+      "sourcePages": [
+        251
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "da0405083ad6c0c84afffd0eedb5f93b0d740708d0d3d2d32711fba171da23eb",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "c19b4668197e9dbd4f33d2f7a9f3f6cb8f309419bf9aec7d958799ec7f981d31",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "NINGUEM PODE SERVIR A DOIS SENHORES",
+      "page": 252,
+      "sourcePages": [
+        252
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "2d7186bbfba39d85099289a341b90ee92b20f8939730285a8e6e46e175cbb422",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "fc79f3bddd7030a29b98656f262be72479631315e5f66a07a0f5deea6f41e542",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "O MESMO DEUS",
+      "page": 253,
+      "sourcePages": [
+        253
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": true,
+      "variants": {
+        "normal": {
+          "sha256": "c6e2919e7632ef888a026da9a4fa22bc1dfb01195da962a0e523012b45899a50",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "7113b1b6deab0375a3599c72d091bdfd1b348c6bb517994971054da1b1679d6e",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "O SEMEADOR",
+      "page": 254,
+      "sourcePages": [
+        254
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "6082f68f1395c4a28eab69caf3f02fdd319e8960ca98d868070e8ff1b3a1d047",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "639fdbcb8a0b8aa57ce066607a87764ef88d258b4c51cfc638e0942e50f39590",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "O SENHOR MEU CORACAO NAO E PRETENSIOSO",
+      "page": 255,
+      "sourcePages": [
+        255
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "00544312b7f1c3b7800d1c051280557a3741ede77153fa369bbdec348d2c7b44",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "019f8fe82aa7ed6f27bd1e2c2497bb6cc6f7d27a24a2bdbb7d55eaa50682e649",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "QUANDO DORMIA",
+      "page": 256,
+      "sourcePages": [
+        256
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "f63331ed0d34d8032968b5e620a76f6384949061c1453fc5d65d3ef2df4c24be",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "d68c4227a0ebbb70c7fbea5693a95aae229c47f31ce8f597c3cde3767b0dd9e6",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "SENHOR TU ME ESCRUTAS E CONHECES",
+      "page": 257,
+      "sourcePages": [
+        257
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "f2a1027d50af1f2cf8ae9c887dfd8c650c1b9505f09641aec20e8381893eb6b2",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "f2a1027d50af1f2cf8ae9c887dfd8c650c1b9505f09641aec20e8381893eb6b2",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "SENTA TE SOLITARIO E SILENCIOSO",
+      "page": 258,
+      "sourcePages": [
+        258
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "2528e70fc7eaa17b680a7fbbca0d006c6e04ef42f4858f0636630af6684bbb0c",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "35356a07df22369c75ce0690315f3a4f4f2380af2dec44574345b17e0180d78d",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SHEMA ISRAEL",
+      "page": 259,
+      "sourcePages": [
+        259
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "d0d9e318e045b3124a5b74b2f95d6bbd45b8f87f0c6b3e434ccff3052495d3c6",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "f088e87a0454e7c43d0e55db51cf98f3b4836214717aaa808d89ac52000c404b",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "TU ES A MINHA ESPERANCA SENHOR",
+      "page": 260,
+      "sourcePages": [
+        260
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "6daf9523270554e4b03f74e06c7acb2c87e4b8a1c3a52b41ec17bbe99f33868e",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "07f1bdb9f078f1d73dfa7977a38280de23694e89ddac103b9c6451e161be20f5",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "A CEIA DO CORDEIRO",
+      "page": 261,
+      "sourcePages": [
+        261
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "86038ac604aa06cb6febbea142b3ad8aabe1d11b1cc71bef83e3b8281ec27caa",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "569f3219f231a26417a1904f91d3910fe6e21d2331c3b286b3a2915dd0d7b36e",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "A POMBA VOOU",
+      "page": 262,
+      "sourcePages": [
+        262
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "f574ca3abe9b1c2e5a7fd584f1326bbc465bf165205b4eb45edb7bbb5639dafc",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "5514acff43184f55bd3ba534aa3100f37055b8e948b574f297c5dc7d1aacc65a",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "COMO ESCORRE O MEL",
+      "page": 263,
+      "sourcePages": [
+        263
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "5243c0382bf32e5065a717ec86d108376baa1dac02be9021df60a13de02cb7bf",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "40316aacc09bbd943c9ee6e45ca8801b139a30ae9c7f9bcc0287506a5b6dc7fa",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "COMO LIRIO ENTRE OS ESPINHOS",
+      "page": 264,
+      "sourcePages": [
+        264
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": true,
+      "variants": {
+        "normal": {
+          "sha256": "67aeb309b2d45f01d2b905ad5aa237f45234be2619c38ade4b4acd9f51b9229b",
+          "changedSinceRoundBaseline": true
+        },
+        "estendido": {
+          "sha256": "777971fb7f8e726c11e337a9c4068cd613eb5194b3024e6d01e1aeecb427896e",
+          "changedSinceRoundBaseline": true
+        }
+      }
+    },
+    {
+      "html": "FORMOSA ES AMIGA MINHA",
+      "page": 265,
+      "sourcePages": [
+        265
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "263e0a36e1b0d52166c31ae45c4a33411c34535f31d7d86b4823274c04b14ae5",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "cdd81e9503e39697385f745eaec75fb0b297f0269b9d46ae65507c36f769d8b2",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "ONDE TE ESCONDESTE AMADO",
+      "page": 266,
+      "sourcePages": [
+        266
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": true,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "25eafb086c94eda9f5222903d831cf1b1d901d18469bfa8af170608ff5873e40",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "a075b9ff4fc0aa441790aef58873ccc7c3b4887b22edcc1339f7f9fbef70e39b",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "ROUBASTE MEU CORACAO",
+      "page": 267,
+      "sourcePages": [
+        267
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "67b85671d22436ad1c2f93b08e3ff84074b020cace2f1953d54810d2b2e5e36f",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "88dca585049b754e2d61801f7c255ff39c28b155a1154416e528f916974a2fee",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    },
+    {
+      "html": "SUBA O ESPOSO AO LENHO DO SEU TALAMO",
+      "page": 268,
+      "sourcePages": [
+        268
+      ],
+      "automaticCoverage": true,
+      "pdfFullPageOverviewReviewed": true,
+      "pdfDetailedReview": false,
+      "htmlVisualReview": false,
+      "variants": {
+        "normal": {
+          "sha256": "56fa7d858d3054e0414ddca985c40f69a93d0431a8b056db9d7c16e2a2541f49",
+          "changedSinceRoundBaseline": false
+        },
+        "estendido": {
+          "sha256": "6353370f9d159b8d0f2468e14e04f44151d106f33c3d4af94b03eaac9c34a0cf",
+          "changedSinceRoundBaseline": false
+        }
+      }
+    }
+  ],
+  "checks": [
+    "Four dedicated source/repetition/tonal tests passed.",
+    "Edition source reproducibility validator passed.",
+    "Treatment validator passed.",
+    "git diff --check passed."
+  ],
+  "state": "HTML/source writes complete; root must regenerate cantos.json and keep batch revision64."
+}

@@ -1,0 +1,194 @@
+{
+  "edition": 2026,
+  "scope": "Suspected source editorial errors and index errata; not automatically accepted corrections to the book.",
+  "items": [
+    {
+      "id": "pdf-025-subtitle",
+      "page": 25,
+      "html": "A MARCHA E DURA",
+      "kind": "spelling",
+      "printed": "Canto Epiritual negro",
+      "suggested": "Canto Espiritual negro",
+      "currentPolicy": "HTML currently follows the printed subtitle; awaiting human decision.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-090-contade",
+      "page": 90,
+      "html": "ESPEREI ESPEREI NO SENHOR",
+      "kind": "spelling",
+      "printed": "para fazer a tua contade",
+      "suggested": "para fazer a tua vontade",
+      "currentPolicy": "Correct vontade retained in HTML.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-185-word-order",
+      "page": 185,
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "kind": "word-order",
+      "printed": "porque compraste com teu o sangue",
+      "suggested": "porque compraste com o teu sangue",
+      "currentPolicy": "Correct form retained, supported by other occurrences on the same page.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-267-fragrance-1",
+      "page": 267,
+      "html": "ROUBASTE MEU CORACAO",
+      "kind": "spelling",
+      "printed": "A frangância dos teus perfumes",
+      "suggested": "A fragrância dos teus perfumes",
+      "currentPolicy": "Correct fragrância retained in HTML.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-267-fragrance-2",
+      "page": 267,
+      "html": "ROUBASTE MEU CORACAO",
+      "kind": "spelling",
+      "printed": "é a frangrância do Líbano",
+      "suggested": "é a fragrância do Líbano",
+      "currentPolicy": "Correct fragrância retained in HTML.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-127-grammar",
+      "page": 127,
+      "html": "MARIA POMBA INCORRUPTA",
+      "kind": "possible-editorial-grammar",
+      "printed": "Hino inspirado nos Kontákion de São Romano, o Melodista",
+      "suggested": null,
+      "currentPolicy": "Preserve printed wording pending editorial assessment; grammatical suspicion is not a confirmed typo.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-index-10-LEVA ME AO CEU",
+      "page": 10,
+      "html": "LEVA ME AO CEU",
+      "kind": "index-reference",
+      "printed": "119",
+      "suggested": "117",
+      "sheetPage": 117,
+      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-index-17-AMEM AMEM AMEM",
+      "page": 17,
+      "html": "AMEM AMEM AMEM",
+      "kind": "index-reference",
+      "printed": "207",
+      "suggested": "208",
+      "sheetPage": 208,
+      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-index-18-O SENHOR E MINHA LUZ E SALVACAO",
+      "page": 18,
+      "html": "O SENHOR E MINHA LUZ E SALVACAO",
+      "kind": "index-reference",
+      "printed": "149",
+      "suggested": "147",
+      "sheetPage": 147,
+      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-index-19-TU QUE ES FIEL",
+      "page": 19,
+      "html": "TU QUE ES FIEL",
+      "kind": "index-reference",
+      "printed": "186",
+      "suggested": "187",
+      "sheetPage": 187,
+      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-index-19-VOS SOIS A LUZ DO MUNDO",
+      "page": 19,
+      "html": "VOS SOIS A LUZ DO MUNDO",
+      "kind": "index-reference",
+      "printed": "198",
+      "suggested": "199",
+      "sheetPage": 199,
+      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-index-20-AMEM AMEM AMEM",
+      "page": 20,
+      "html": "AMEM AMEM AMEM",
+      "kind": "index-reference",
+      "printed": "207",
+      "suggested": "208",
+      "sheetPage": 208,
+      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-067-oil-accent",
+      "page": 67,
+      "html": "COMO E MARAVILHOSO",
+      "kind": "possible-accent-error",
+      "printed": "Como oléo / COMO OLÉO",
+      "suggested": "Como óleo / COMO ÓLEO",
+      "currentPolicy": "Correct óleo/ÓLEO retained in HTML; printed accent position recorded for human assessment.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-235-double-punctuation",
+      "page": 235,
+      "html": "SALMODIA PARA O SALMO RESPONSORIAL",
+      "kind": "double-terminal-punctuation",
+      "printed": "como terra sedenta e sem água!.",
+      "suggested": "como terra sedenta e sem água!",
+      "currentPolicy": "Printed punctuation retained pending explicit human/editorial decision.",
+      "status": "human-review-requested",
+      "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    }
+  ],
+  "musicalReview": [
+    {
+      "html": "EU TE AMO SENHOR",
+      "page": 95,
+      "kind": "untranscribed-violin-score",
+      "reason": "Faithful musical transcription still required; no source PDF image copied."
+    },
+    {
+      "html": "LADAINHA PENITENCIAL II",
+      "page": 219,
+      "kind": "sustained-formula-versus-reattack",
+      "reason": "Printed initial chord may carry over subsequent invocations; expanded HTML reattacks require human musical interpretation. Not a confirmed printed error."
+    }
+  ]
+}

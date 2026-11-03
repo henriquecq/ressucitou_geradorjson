@@ -1,0 +1,2300 @@
+{
+  "edition": 2026,
+  "catalogVersion": 64,
+  "counts": {
+    "songs": 236,
+    "variants": 472,
+    "changedSongs": 42,
+    "changedVariants": 83,
+    "humanEditorialItems": 14,
+    "unitTests": 24
+  },
+  "method": "Three parallel range agents plus parent evidence review; cross-review of applied middle-range corrections and four first-range complete transcriptions. Parent final source-page review for seven last-range complete transcriptions. No claim of independent per-character visual certification of every unchanged HTML row.",
+  "sourcePrivacy": "No source PDF or source-page images included in Git or public outputs.",
+  "changed": [
+    {
+      "html": "A TI SENHOR LEVANTO MINHA ALMA",
+      "title": "A TI, SENHOR, LEVANTO MINHA ALMA",
+      "page": "29",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "ALELUIA BENDIZEI O SENHOR",
+      "title": "ALELUIA! BENDIZEI O SENHOR",
+      "page": "39",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "ALELUIA JA CHEGOU O REINO",
+      "title": "ALELUIA! JÁ CHEGOU O REINO",
+      "page": "40",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "AS ARMAS DA LUZ",
+      "title": "AS ARMAS DA LUZ",
+      "page": "44",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "BENDITA ES TU MARIA",
+      "title": "BENDITA ÉS TU, MARIA",
+      "page": "52",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "COMO E MARAVILHOSO",
+      "title": "COMO É MARAVILHOSO",
+      "page": "67",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "CONSOLAI O MEU POVO",
+      "title": "CONSOLAI O MEU POVO",
+      "page": "71",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "ESCONDE ME NO OCULTO DE TUA TENDA",
+      "title": "ESCONDE-ME NO OCULTO DE TUA TENDA",
+      "page": "88",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "ESPEREI ESPEREI NO SENHOR",
+      "title": "ESPEREI, ESPEREI NO SENHOR",
+      "page": "90",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "EVENU SHALOM ALEHEM",
+      "title": "EVENU SHALOM ALEHEM",
+      "page": "97",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "FELIZ O HOMEM",
+      "title": "FELIZ O HOMEM",
+      "page": "100",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "FILHAS DE JERUSALEM",
+      "title": "FILHAS DE JERUSALÉM",
+      "page": "101",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "MARIA DE JASNA GORA",
+      "title": "MARIA DE JASNA GÖRA",
+      "page": "123",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "O COMBATE ESCATOLOGICO",
+      "title": "O COMBATE ESCATOLÓGICO",
+      "page": "135",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "title": "OS MENINOS DE BELÉM",
+      "page": "151",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "POR QUE CONFABULAM AS NACOES",
+      "title": "POR QUE CONFABULAM AS NAÇÕES?",
+      "page": "155",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "SE ME REFUGIEI NO SENHOR",
+      "title": "SE ME REFUGIEI NO SENHOR",
+      "page": "170",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "title": "SE O SENHOR NÃO CONSTRÓI A CASA",
+      "page": "171",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "SEDUZISTE ME SENHOR",
+      "title": "SEDUZISTE-ME, SENHOR",
+      "page": "173",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI",
+      "title": "SENHOR, AJUDA-ME A NÃO DUVIDAR DE TI",
+      "page": "174",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "SERMAO DA MONTANHA",
+      "title": "SERMÃO DA MONTANHA",
+      "page": "178",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "SHLOM-LEJ MARIAM",
+      "title": "SHLOM-LEJ MARIAM",
+      "page": "179",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "SO A SO",
+      "title": "SÓ A SÓ",
+      "page": "181",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "SOBE DEUS ENTRE ACLAMACOES",
+      "title": "SOBE DEUS ENTRE ACLAMAÇÕES",
+      "page": "182",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "title": "TU ÉS DIGNO DE RECEBER O LIVRO",
+      "page": "185",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "TU ES FORMOSO",
+      "title": "TU ÉS FORMOSO",
+      "page": "186",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "UM GRANDE SINAL",
+      "title": "UM GRANDE SINAL",
+      "page": "188",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE",
+      "title": "UM REBENTO BROTA DO TRONCO DE JESSÉ",
+      "page": "189",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "VAMOS JA PASTORES",
+      "title": "VAMOS JÁ, PASTORES",
+      "page": "191",
+      "variants": [
+        "normal"
+      ]
+    },
+    {
+      "html": "VOS SOIS A LUZ DO MUNDO",
+      "title": "VÓS SOIS A LUZ DO MUNDO",
+      "page": "199",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "AMEM AMEM AMEM",
+      "title": "AMÉM, AMÉM, AMÉM",
+      "page": "208",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "ANAFORA DO SAL",
+      "title": "ANÁFORA DO SAL",
+      "page": "209",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "BENCAO DA AGUA",
+      "title": "BÊNÇÃO DA ÁGUA",
+      "page": "210",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "PAI NOSSO",
+      "title": "PAI NOSSO",
+      "page": "227",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "PRECONIO PASCAL",
+      "title": "PRECÔNIO PASCAL",
+      "page": "228",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "EIS QUE O NOSSO ESPELHO E O SENHOR",
+      "title": "EIS QUE O NOSSO ESPELHO É O SENHOR",
+      "page": "247",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "JACO",
+      "title": "JACÓ",
+      "page": "249",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "O MESMO DEUS",
+      "title": "O MESMO DEUS",
+      "page": "253",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "QUANDO DORMIA",
+      "title": "QUANDO DORMIA",
+      "page": "256",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "SENHOR TU ME ESCRUTAS E CONHECES",
+      "title": "SENHOR, TU ME ESCRUTAS E CONHECES",
+      "page": "257",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "TU ES A MINHA ESPERANCA SENHOR",
+      "title": "TU ÉS A MINHA ESPERANÇA, SENHOR",
+      "page": "260",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    },
+    {
+      "html": "COMO LIRIO ENTRE OS ESPINHOS",
+      "title": "COMO LÍRIO ENTRE OS ESPINHOS",
+      "page": "264",
+      "variants": [
+        "normal",
+        "estendido"
+      ]
+    }
+  ],
+  "current": [
+    {
+      "html": "A CABANA DOS PASTORES",
+      "page": "21",
+      "hashes": {
+        "normal": "b6e42e6d7e5410da24d32c613d789190f3124dbe1c5c28781dc8595b16f92d4d",
+        "estendido": "a8222b1cb262eecbcbc587ca655e85578a3ed8fa57eaf8045d9ae43d83ce5554"
+      }
+    },
+    {
+      "html": "A CEIFA DAS NACOES",
+      "page": "22",
+      "hashes": {
+        "normal": "d7c68545f8b53a2b935346b32024f869f012fd09ece594a5a5bd4269b89c311a",
+        "estendido": "a7547160d67f1d7e11819c87572cdba18221be23a1c33d1a5434cff1bcd358af"
+      }
+    },
+    {
+      "html": "A CORDEIRA DE DEUS",
+      "page": "23",
+      "hashes": {
+        "normal": "f0b4ee8443e31a797d3eed909b91335ff9346f23389a921a2d46e29a6b11da49",
+        "estendido": "93f300a6beb80a1db1943055f18ba18a170eff91322ffaefee1ec032a0163c53"
+      }
+    },
+    {
+      "html": "A ESPADA",
+      "page": "24",
+      "hashes": {
+        "normal": "657df0e8e28d486f64a6e0ef7ba0a1d6f2278f848a1e21fdc229d16a9e049f3b",
+        "estendido": "657df0e8e28d486f64a6e0ef7ba0a1d6f2278f848a1e21fdc229d16a9e049f3b"
+      }
+    },
+    {
+      "html": "A MARCHA E DURA",
+      "page": "25",
+      "hashes": {
+        "normal": "bff397d91902fd43988f6daca5b3c81a37e46c8d98a643fb27353d7e08e1f99a",
+        "estendido": "bff397d91902fd43988f6daca5b3c81a37e46c8d98a643fb27353d7e08e1f99a"
+      }
+    },
+    {
+      "html": "A NINGUEM DEMOS OCASIAO DE TROPECO",
+      "page": "26",
+      "hashes": {
+        "normal": "3028d7c180b455f83531524afc1361d94f11e96b90c07582d08a75c6affa3c42",
+        "estendido": "d415740a78d4db2ff86e1d63d910b46136fa63ab3adb513a4e9f011a7c3bfcac"
+      }
+    },
+    {
+      "html": "A TI LEVANTO MEUS OLHOS",
+      "page": "27",
+      "hashes": {
+        "normal": "e82ea5ffabdc9a9356045f1e4b623c2ba6cf48d10f7159774f4bf0690e3bdda5",
+        "estendido": "2d38e5eed148aaf2d42de1d7e7c0bc05368eadb9a22ad5280ae6ec67488a4b91"
+      }
+    },
+    {
+      "html": "A TI SENHOR COM MINHA VOZ GRITANDO IMPLORO",
+      "page": "28",
+      "hashes": {
+        "normal": "017c0ec4c7a3fe47607e4a3b14665e7a8f5488575307ff68851842e2740dc446",
+        "estendido": "26a295569db6304d796ad11115ed34b0e93c45f63d0b7822fc64189270d96648"
+      }
+    },
+    {
+      "html": "A TI SENHOR LEVANTO MINHA ALMA",
+      "page": "29",
+      "hashes": {
+        "normal": "356aef78e6b6d77dd4a905c65883c218a64eb036e4ebbb01797b47dcf2b1ce97",
+        "estendido": "59c255da81d0e1cddfa25fa3d5c7a1cb7f9344a5c142a21211f0c1ccc9e7bad5"
+      }
+    },
+    {
+      "html": "A TI SENHOR SE DEVE LOUVOR EM SIAO",
+      "page": "30",
+      "hashes": {
+        "normal": "4e7c5c3a7b146b705e1b62f6d4dbd250d1ec1c674491e293d1cec45b0a01f82d",
+        "estendido": "6710d7164535eb922192738d22521c1fd15df76d5313d49d4356cb3a8f7c0d79"
+      }
+    },
+    {
+      "html": "A VITIMA PASCAL",
+      "page": "31",
+      "hashes": {
+        "normal": "faa8dfe0309c424b471f57c22bde213fc04bf6e37e107176be21ce536aee8cf1",
+        "estendido": "faa8dfe0309c424b471f57c22bde213fc04bf6e37e107176be21ce536aee8cf1"
+      }
+    },
+    {
+      "html": "A VOZ DO MEU AMADO",
+      "page": "32",
+      "hashes": {
+        "normal": "a98e82ff764c4d6039329d0a8406c0750e4dae9205f6934262a62dc897a26179",
+        "estendido": "bada1055320ab51606c4a5c80aaedcfaa85e8ca23399eafd0318f255870c27cd"
+      }
+    },
+    {
+      "html": "ABBA PAI",
+      "page": "33",
+      "hashes": {
+        "normal": "3f7b4acbf994e9321206d291b524d3a0d81e68d77582e0778a28767753de64e2",
+        "estendido": "3f7b4acbf994e9321206d291b524d3a0d81e68d77582e0778a28767753de64e2"
+      }
+    },
+    {
+      "html": "ABRAAO",
+      "page": "34",
+      "hashes": {
+        "normal": "f02b56f25cd8ca0899cd31dafb9ad1625933652e6c68294c127ee5c201456ca3",
+        "estendido": "c2868e55f96e29c9e785fa9ae4475263508cc4311f5b3ab7fe0c8bad6607ca24"
+      }
+    },
+    {
+      "html": "ACLAMAI O SENHOR",
+      "page": "35",
+      "hashes": {
+        "normal": "109a061799c1a35a49292d06218702baf1b6a9641723c2dd40f5a016d3a2d00c",
+        "estendido": "9cd8ce847718114bfb25dc3d4f1591e648280670c38eece6b26f6bc7d8ea88ac"
+      }
+    },
+    {
+      "html": "AKEDA",
+      "page": "36",
+      "hashes": {
+        "normal": "276aa2941f53804d99deef360ce897f8e805e7f8ad5a071b585275ce343d5dde",
+        "estendido": "859184c4af7119dfa59e743a8d899f26762a1c50e89844dcc59ddd62fba8463f"
+      }
+    },
+    {
+      "html": "ALCAI O PORTAS",
+      "page": "37",
+      "hashes": {
+        "normal": "24d5b4cb4f4f2e1714d1d342ef8c0f0a2bfc7a83a9ebcaa8750795f65d6c510f",
+        "estendido": "71e3536f6f6945ebcf63bd014eccfd80697d9106908d18ea94964ab706546acb"
+      }
+    },
+    {
+      "html": "ALEGRIA NASCEU O SALVADOR",
+      "page": "38",
+      "hashes": {
+        "normal": "b222267834f6ff88a3ba455fa2c3d5814df9285b731626417175b46376678660",
+        "estendido": "94122325c278df7ee91cfecdcfb038348d9708334e6bdcfbe0db0eca8e47ae85"
+      }
+    },
+    {
+      "html": "ALELUIA BENDIZEI O SENHOR",
+      "page": "39",
+      "hashes": {
+        "normal": "a460da89106a50714690acee377759c9c39c9bfd16445204388d58d854ab71a7",
+        "estendido": "9a5a842125da64955520734fad9fccc96cfcc6ea73ddb3da8af4fa7b28152c3f"
+      }
+    },
+    {
+      "html": "ALELUIA JA CHEGOU O REINO",
+      "page": "40",
+      "hashes": {
+        "normal": "88cdc930c899e7bb8621596848293730ee9636a8c4f689cb1c346811d8753223",
+        "estendido": "379af6604877daf6e301e5c2c885a8ed7663451bdec7ad4408140e77c7641b7c"
+      }
+    },
+    {
+      "html": "ALELUIA LOUVAI O SENHOR",
+      "page": "41",
+      "hashes": {
+        "normal": "94f7a865feb9e53767b861aed25e6b247d6464f85f9bb1669bee3bef50831332",
+        "estendido": "e67699ee2e075b83f117d9fd9fc56bc9382fd33112c4cb374ab9e002ca64d38c"
+      }
+    },
+    {
+      "html": "AMO O SENHOR",
+      "page": "42",
+      "hashes": {
+        "normal": "179925ec05532bdebf748269c056fa8c0a7608e62d0160a41726e873fb22ef02",
+        "estendido": "f6927309fab2634a6bf4fa44320a4ceeeb69e5c281cc36544eb562aa63417828"
+      }
+    },
+    {
+      "html": "AO DESPERTAR",
+      "page": "43",
+      "hashes": {
+        "normal": "1a1a541b8dfbeee2a43d577e16229481cf380c27e577ffffd8016a1c3a193803",
+        "estendido": "aa6188aba9feff9048b1ced2960ae8d438878ba0a4247f51dfc379722e4fb18e"
+      }
+    },
+    {
+      "html": "AS ARMAS DA LUZ",
+      "page": "44",
+      "hashes": {
+        "normal": "051305e27f8b5d04c7b9c316b202a7ca35b60b908abe90e6e2cab752b04ba06c",
+        "estendido": "424da870ab24e1fe9fcb523a64dd0de1b33bf737892af84a064605aad68056cc"
+      }
+    },
+    {
+      "html": "ASSIM FALA O AMEM",
+      "page": "45",
+      "hashes": {
+        "normal": "bbdd40e1a38f62a955355fc0c3ca6d06a544bbaf6cd3b64b9f5054d7f6f74439",
+        "estendido": "21539a186de504e40fa96b9ece93e6ed27ae886148161c592d2fd711517a9859"
+      }
+    },
+    {
+      "html": "ATE QUANDO",
+      "page": "46",
+      "hashes": {
+        "normal": "025038b088d3f1138d63e998c645d3fdc154c367364024b859b33b75e654c374",
+        "estendido": "e788afb48c0d7323d94d744af36120f28ebfbc9a9518932e967fe9146c9d746a"
+      }
+    },
+    {
+      "html": "AVE MARIA I",
+      "page": "47",
+      "hashes": {
+        "normal": "db2b991a49769b6750ea8b587d2edb1e6981c4e257105917ecfb008c700ba606",
+        "estendido": "db2b991a49769b6750ea8b587d2edb1e6981c4e257105917ecfb008c700ba606"
+      }
+    },
+    {
+      "html": "AVE MARIA II 1984",
+      "page": "48",
+      "hashes": {
+        "normal": "e1cf4e872e44e3b9ca288259441465e972177b8b60a0d5b2a80d60315b182f00",
+        "estendido": "e1cf4e872e44e3b9ca288259441465e972177b8b60a0d5b2a80d60315b182f00"
+      }
+    },
+    {
+      "html": "BABILONIA CRIMINAL",
+      "page": "49",
+      "hashes": {
+        "normal": "057ba7735652f218b274aa14c889e8697d112873849f0a3ba6df7c46632095ff",
+        "estendido": "868524831dc698bfb345222f14462dddc596dc4d7eb9bb9c9902a1005b7059c3"
+      }
+    },
+    {
+      "html": "BALAAO",
+      "page": "50",
+      "hashes": {
+        "normal": "724f75da0b92fcf7ce08401f181a6a46c2cf46097e2a06b1f6c273d62313975d",
+        "estendido": "7c57a7bebbe016206dab0b8d382a43dd1c171c9d8918e9712879523bf54a11d3"
+      }
+    },
+    {
+      "html": "BENDIREI O SENHOR EM TODO TEMPO",
+      "page": "51",
+      "hashes": {
+        "normal": "62116dfc0c5a4ac99ecc2905324c615b9d974248707e942c4766e3793c5cb9ff",
+        "estendido": "2991dd8b01762765fd03f60012b874b22c3ea1c3242d694318c3c94f42dd6c15"
+      }
+    },
+    {
+      "html": "BENDITA ES TU MARIA",
+      "page": "52",
+      "hashes": {
+        "normal": "3bf543b04da1300a78586f219c7f5cb917eb5c09069f4530db7e713849b2ba3e",
+        "estendido": "f09b2f0c73379201e449768accb4f2ca75ef90a693082e13fdca2ada5902039f"
+      }
+    },
+    {
+      "html": "BENDITO SEJA DEUS",
+      "page": "53",
+      "hashes": {
+        "normal": "bc59d7d223a492c6422f633025911f3eb0fb15c42c97f98ad84c2616c99da32a",
+        "estendido": "e8105893b38686df44b7a86a03e132e7a606728a4f10d413b839ae239e9558c5"
+      }
+    },
+    {
+      "html": "BENDITO SEJAS SENHOR",
+      "page": "54",
+      "hashes": {
+        "normal": "d911639cf402709b5b7a114075dd269ea0fd28a83fe04a37d0aca582f8066692",
+        "estendido": "68f4c2d07278d8d278668f9b04ab6afae0215f515a8165d02d98b14b77a369aa"
+      }
+    },
+    {
+      "html": "BENDIZE MINHA ALMA A IAHWEH",
+      "page": "55",
+      "hashes": {
+        "normal": "ebc78e17e6f9cca6e9061532e0a16f401a4c9cb44573e00a83f23d72a890203f",
+        "estendido": "42702d6b6e1257f2a454691f8a2437b61ee5745ca8347ae5bec0f405d4912a7c"
+      }
+    },
+    {
+      "html": "BENEDICTUS",
+      "page": "56",
+      "hashes": {
+        "normal": "67ded3b26f758e80810c3b6ad80f3871d65a4182c9983c814950ee735ab00442",
+        "estendido": "51c893631557d13a03b0b252744fa8b57e199e6d1cf1fe41523a69bfe7f35864"
+      }
+    },
+    {
+      "html": "CANTA A IAHWEH JERUSALEM",
+      "page": "57",
+      "hashes": {
+        "normal": "0836c7e48918752b930ccf22285bc7f0e194ef2fd2f0d5bde5f94a7106b04708",
+        "estendido": "f87990e1e4570e65450f3d48f6adb9f9729203d6531186c60162508d246a2567"
+      }
+    },
+    {
+      "html": "CANTAI A DEUS",
+      "page": "58",
+      "hashes": {
+        "normal": "8a46acea22702c7f4a6aa93e3e2eb393babffd4e4134a82c4efdcbdab6e44e99",
+        "estendido": "eb5eb1b2b4466c50afbad9e22459b96be368f8df0af43ceff7d5c22e51c57a89"
+      }
+    },
+    {
+      "html": "CANTICO DE ANA",
+      "page": "59",
+      "hashes": {
+        "normal": "95bb2efa66d4643155fa8147d35e30341f322c2a66746d8cbeba50a8fc8b4e4a",
+        "estendido": "cf6dbca1ab3e7ac4e1597cd9d05b177a31c5c490a4dadee541ab960f9b85c991"
+      }
+    },
+    {
+      "html": "CANTICO DOS TRES JOVENS",
+      "page": "60",
+      "hashes": {
+        "normal": "8579c2e3ea090998812091e692dc07b770be55b6fdb4f291e26d7072cb064b2f",
+        "estendido": "2c132815d9c12c4560a755c5f000ed060c4820354e497cd951022d676a7edd3a"
+      }
+    },
+    {
+      "html": "CANTO DE MOISES",
+      "page": "61",
+      "hashes": {
+        "normal": "eb58419a0ddcfc03a71f2e9c2df1233922e425e4f672978721fc2a8f72822a2f",
+        "estendido": "f2cf7f069f5a7a4309bc3de7d4ce2d3b8bda6749b75c87b2513e6574cd4c9295"
+      }
+    },
+    {
+      "html": "CARITAS CHRISTI URGET NOS",
+      "page": "62",
+      "hashes": {
+        "normal": "2c81656e8290a569de71332d727edfa7374d5bf37995b4d4b2eb412e00e951c8",
+        "estendido": "f83f6b92effad100d18e0a6ffc2b56b6cfde0503ace163980a57781505bd48f8"
+      }
+    },
+    {
+      "html": "ESTAO ROTAS MINHAS ATADURAS",
+      "page": "63",
+      "hashes": {
+        "normal": "d3e219ddc5623194142363c4771dc2371a67fea70fed700b270804a7afa9d478",
+        "estendido": "82beb33da385393c64cb81d63d2fb89032896d758b2b037fbe8f43fbbc7af5bc"
+      }
+    },
+    {
+      "html": "CHEGUE A TUA PRESENCA O MEU CLAMOR",
+      "page": "64",
+      "hashes": {
+        "normal": "29f4e8b1b3f36bc7ad6233baf2a72c13d792ac8ad7da9b05f74d15b8a1c2be4d",
+        "estendido": "542c07a1eb9fe6e438376942233078b8549f3c2f9451e333e2b3724b6f52a9e3"
+      }
+    },
+    {
+      "html": "COMO A CORCA",
+      "page": "65",
+      "hashes": {
+        "normal": "5ded7ca8383ce2fcb4277be36cf30a19afad4294c86d191ea47bb9eb5d1ff5b7",
+        "estendido": "4066a1bc34fa9640100bfd1013c8bbdb020a5d4b49ce679036122521245260ab"
+      }
+    },
+    {
+      "html": "COMO CONDENADOS A MORTE",
+      "page": "66",
+      "hashes": {
+        "normal": "ed65beddcddee0fcdaf50cb9fcc0f8b7751be6f04d5f0817df7266478755def4",
+        "estendido": "db28035c690d77a6afee4f3f8ad610d1ad3099a37cfb5e884a7926125c8111ed"
+      }
+    },
+    {
+      "html": "COMO E MARAVILHOSO",
+      "page": "67",
+      "hashes": {
+        "normal": "2a92b4d6bf87e93f307bf966d2807c259ffe79f414be0440f3d83330649b10a6",
+        "estendido": "541b8302f44a556c7db058e1578730a150a39ac5a088104ca95c7426f679c781"
+      }
+    },
+    {
+      "html": "COMO OVELHA QUE VE",
+      "page": "68",
+      "hashes": {
+        "normal": "2aa6b3e498d86f2d346f1ecda6c3e9adcfc1a0eff7d12d878768c371033e5cf0",
+        "estendido": "46d4644623825ea0d3809878ab060a8fcf11a6256a5eb376ee968c9029246785"
+      }
+    },
+    {
+      "html": "COMO SAO AMAVEIS TUAS MORADAS",
+      "page": "69",
+      "hashes": {
+        "normal": "3fd7dd01e52b805c0a730f1eaf25717af19cfa19c39cf432b043d2cd7bfb0d90",
+        "estendido": "e6a5b538fa4678a0580bf4b13bff0c57c4c047a4186ebe6b1a55c80d0bbe911f"
+      }
+    },
+    {
+      "html": "CONFESSEI A TI O MEU PECADO",
+      "page": "70",
+      "hashes": {
+        "normal": "5ca70287ee7e6fa439b58469a5d17349be4e5fe8b23bc262b343a43b8fec2020",
+        "estendido": "b726135b362b81d56d7c358d89957f30641f7e6ea9dcdcdc1d2537156c194c40"
+      }
+    },
+    {
+      "html": "CONSOLAI O MEU POVO",
+      "page": "71",
+      "hashes": {
+        "normal": "7dae0fa8128c36db15956664aa78bd6d7a3a3317139d9f87134276b3e9de8bbc",
+        "estendido": "f084b05ee7f9fdce698d87a7038ba16b521d2e66f47eb142d65ab803e4f25ccc"
+      }
+    },
+    {
+      "html": "CRISTO E A LUZ",
+      "page": "72",
+      "hashes": {
+        "normal": "429d8d19c56d53f717f152fcbd75ea889d73fc67da6b08cf0f2868b6d86fd5c2",
+        "estendido": "429d8d19c56d53f717f152fcbd75ea889d73fc67da6b08cf0f2868b6d86fd5c2"
+      }
+    },
+    {
+      "html": "DAYENU",
+      "page": "73",
+      "hashes": {
+        "normal": "39cbe0b444c96a53daf3486b40df2b0f6609aed07662af565a3ca6b7837898e2",
+        "estendido": "5431abeb8c858fe25fd621a4259ebb4933009b72aa7204ddddf007db9f0bd184"
+      }
+    },
+    {
+      "html": "DE PROFUNDIS",
+      "page": "75",
+      "hashes": {
+        "normal": "2e52b70c379e7f667f9210a8e266626ac139433c16dd13efb66c52ea029fa939",
+        "estendido": "836fc0dcad7dac50a65590465c0fcce5815bfe33ef76bb01cb57d63ec557c6c7"
+      }
+    },
+    {
+      "html": "DIA DE REPOUSO",
+      "page": "76",
+      "hashes": {
+        "normal": "8988bb7042b5fbaff4c1b0b9397e0eb048bbc5aef4bd76ffaf46348c0b164cf6",
+        "estendido": "b765d6c0bbb666dcd97f91382f7c6c98cb8418e05d26090af088cdebeb54aa8f"
+      }
+    },
+    {
+      "html": "DIANTE DOS ANJOS",
+      "page": "77",
+      "hashes": {
+        "normal": "1369eb8c3fc10f1120ae4a6a07a612d57057cb7ce249e9db67aa56804e5755b3",
+        "estendido": "1cefd4aae4d88ea71abfcb237e2cdd55394f49ffab9baa1811319d78aff826b2"
+      }
+    },
+    {
+      "html": "DIZ O SENHOR AO MEU SENHOR",
+      "page": "78",
+      "hashes": {
+        "normal": "932e5f7a268a41275898c33170939b6ad3cbe82560b71024037b9933e9c2583d",
+        "estendido": "b1060939c784bdc6ee3224379e74630eaa91c398b401b1656741dac74f267301"
+      }
+    },
+    {
+      "html": "DIZEI AOS DE CORACAO CANSADO",
+      "page": "79",
+      "hashes": {
+        "normal": "4ddbd59eee6effc92d437f3472100a2de95e3a09793930227e8143e3cf25346f",
+        "estendido": "4ddbd59eee6effc92d437f3472100a2de95e3a09793930227e8143e3cf25346f"
+      }
+    },
+    {
+      "html": "E PACIENTE",
+      "page": "80",
+      "hashes": {
+        "normal": "f762d687c2b53c908e41548dca11fcf9f1ba982725a8089491c231992afff836",
+        "estendido": "65fe6610d6e9da23530961a061b2fa624dc7e3a1b037b91a8a6858b16127c163"
+      }
+    },
+    {
+      "html": "EIS O MEU SERVO",
+      "page": "81",
+      "hashes": {
+        "normal": "d8f3819c7d7716aa19f86b7b7cbfe54bee33513559505e627a1848f1385b7fd2",
+        "estendido": "d8f3819c7d7716aa19f86b7b7cbfe54bee33513559505e627a1848f1385b7fd2"
+      }
+    },
+    {
+      "html": "EIS ME AQUI QUE VENHO EM BREVE",
+      "page": "82",
+      "hashes": {
+        "normal": "6a4c64500e086b60ae8610730d2c0214d3c3c4be0b6843da7ce88a44cd7c310f",
+        "estendido": "f7399839ebe0f3c13fb447a9072d84c955d6ebd053e095c9e7da89db33d641a1"
+      }
+    },
+    {
+      "html": "ELI ELI LAMA SABATANI",
+      "page": "83",
+      "hashes": {
+        "normal": "c8c148f4777c8ec93715b20bb34aa8b90fe470ae22755a772aa72b9453dac4f6",
+        "estendido": "5a127904ee5154e542564b8ddc20c146192859dbd4c56791b2fddc4686b25c01"
+      }
+    },
+    {
+      "html": "EM MEIO A MULTIDAO",
+      "page": "84",
+      "hashes": {
+        "normal": "fc0db8ccfca9ea2c182ac7975f537fbb042d951f0962edbd659c605cea5dff29",
+        "estendido": "9d11afe9cf6d458851bc08297e99a682f01cfb77a68bcb1286457c2f2450a415"
+      }
+    },
+    {
+      "html": "EM TUA LUZ SENHOR VEMOS A LUZ",
+      "page": "85",
+      "hashes": {
+        "normal": "385bee61bc91444e3ad1a60d16014d0fe3debc306f82693b11fb04f94588a903",
+        "estendido": "e1669f66f17f6f5eec68cffb16bd760a21adff809b3bc50d96e03f43288751c6"
+      }
+    },
+    {
+      "html": "EM UMA NOITE ESCURA",
+      "page": "86",
+      "hashes": {
+        "normal": "185d718b284ef9d4ec4a2d60c8d1aaa75dbed363bf2e238dad35bdf78227080e",
+        "estendido": "3dd14cb6b0e970848446af027ec44fc42289baeeda0758897aaeae06c5585394"
+      }
+    },
+    {
+      "html": "ENCONTRARAM SE DOIS ANJOS",
+      "page": "87",
+      "hashes": {
+        "normal": "ea4296f6165758c9c6d84d5161dda78db7ca84585bd67eaa73b2acf012bff8e3",
+        "estendido": "ea4296f6165758c9c6d84d5161dda78db7ca84585bd67eaa73b2acf012bff8e3"
+      }
+    },
+    {
+      "html": "ESCONDE ME NO OCULTO DE TUA TENDA",
+      "page": "88",
+      "hashes": {
+        "normal": "54270b564bbd6bb2952bcc7121476e92c1bd9bbfdd138997bae0a68ea501c4a4",
+        "estendido": "99dfacbbdeaa54ed5e4c5cbeb4317bb04d7cd9fdd416cbd37cce2b75bace8202"
+      }
+    },
+    {
+      "html": "ESCUTAI ILHAS DE LONGE",
+      "page": "89",
+      "hashes": {
+        "normal": "6cd26fae2054235ecc6c515068d1c065999d272f365ba1509cd68163ac1a13c7",
+        "estendido": "a6a1125f2d253403708b7961b4e42e58e975c410219cdda8ff0918fae32349ac"
+      }
+    },
+    {
+      "html": "ESPEREI ESPEREI NO SENHOR",
+      "page": "90",
+      "hashes": {
+        "normal": "36cc55fc662cb6de1f35f70c12023d608018e32e33c08e3893305f28fc307234",
+        "estendido": "c9d0bc8672f1f442dd11cfea02ecaf441400b340eb997f01d634be022ebffa5e"
+      }
+    },
+    {
+      "html": "ESTE E O DIA QUE FEZ O SENHOR",
+      "page": "91",
+      "hashes": {
+        "normal": "d333532132d9acbed25254225896b80e584729cae8b5bc645cbe9114a530fe66",
+        "estendido": "686baa8585ad78fe51cd97715a4e4b1f30230cf9ee5bf8d2c119168f9f76a364"
+      }
+    },
+    {
+      "html": "ESTE E O MEU MANDAMENTO",
+      "page": "92",
+      "hashes": {
+        "normal": "a38c030fd8f0608d3289bff748a2da4945efa20fbc8c581c97da8935eafb8bf3",
+        "estendido": "cc6526ff1baef028f8f0401b7719dabc8de6ac144e4ee3a57651e15c135e3e63"
+      }
+    },
+    {
+      "html": "ESTENDO MINHAS MAOS",
+      "page": "93",
+      "hashes": {
+        "normal": "18d62fb16fb7c7117eab242bc2bb0a7434c2d1089cecb0bf13dfd7703dea3dee",
+        "estendido": "e828c930fd0f255e95b2f007c75b4e6d5a46ba2cf01a89c8d2408bc95652e7e5"
+      }
+    },
+    {
+      "html": "ESTOU CHAMANDO TE",
+      "page": "94",
+      "hashes": {
+        "normal": "123bef3c2613c15575907a769e6f563e7ba1f73c47148c932dae93458da7229c",
+        "estendido": "45c130c9bf42e9cf2c9add36de93e9dffd8857277daf11b346dc4c18fef5caeb"
+      }
+    },
+    {
+      "html": "EU TE AMO SENHOR",
+      "page": "95",
+      "hashes": {
+        "normal": "2fdf53f9cd01b4a6a9db9cfeaa934a3238097db91674abb2fe4dafdb55bb806c",
+        "estendido": "6fdfaac290fd3fa2763e56ccca6988c77ff2dbe6141505b1cca47bc45e3ea42e"
+      }
+    },
+    {
+      "html": "EU VENHO REUNIR",
+      "page": "96",
+      "hashes": {
+        "normal": "10d2b1a1982a05a792d11c6e739f6af6c774230064ae40ac1abea078a9468f6f",
+        "estendido": "3623df327ca97383f953fdc01acae01c1d6965a0523f7567c389c572abb6e8f0"
+      }
+    },
+    {
+      "html": "EVENU SHALOM ALEHEM",
+      "page": "97",
+      "hashes": {
+        "normal": "cff66cbe94b2f6f0119fd4bbd6fc444b83b1b78424317480803420ebd11386bc",
+        "estendido": "d9a239e35786d7a0765927233b3002e5541f247eca7c4e9cc29cc3252d47a95a"
+      }
+    },
+    {
+      "html": "EXULTAI, JUSTOS, NO SENHOR",
+      "page": "98",
+      "hashes": {
+        "normal": "27de2942ca59d34e27321b98c57b1786e900516624e2681470a54f0879a0c6d6",
+        "estendido": "e5517d538c7e74907e62742528679238c0e1fd34bb7bb8f91b17f763d3583a35"
+      }
+    },
+    {
+      "html": "FELICIDADE PARA O HOMEM",
+      "page": "99",
+      "hashes": {
+        "normal": "4f4c6407532935e66241fe303378905d39039b2bca345d508f711e027303f083",
+        "estendido": "c006671b33a7965c32627f154bf9a16b36e5cae9a92935a4f9a145623d13db50"
+      }
+    },
+    {
+      "html": "FELIZ O HOMEM",
+      "page": "100",
+      "hashes": {
+        "normal": "88f781eb32cece50cec4ccb72457b8cf2c5b1e43fa21b707925b49bc4bd9da51",
+        "estendido": "462981ceadad77e45de1cbc1ac1b921451d96defa3a52e4894cd3649d8e9628c"
+      }
+    },
+    {
+      "html": "FILHAS DE JERUSALEM",
+      "page": "101",
+      "hashes": {
+        "normal": "a88b1069d7a6c225a2d9bd79dd11f582e01f27e895877a50621463bb9beafdff",
+        "estendido": "f017773761c68c6dbd0d5de3b996afb2da70c88f70b59bbb2180a9b1e8c8d67f"
+      }
+    },
+    {
+      "html": "FOGE O MEU AMADO",
+      "page": "102",
+      "hashes": {
+        "normal": "b4a516f8924c1256464b74b7ee9a064671911a6dcd801329829947f7001d782e",
+        "estendido": "b2778c29e617f56b3088e0340080c3b643a09a5a87e7d9f482088fecbe3d2a3e"
+      }
+    },
+    {
+      "html": "GRACAS A IAHWEH",
+      "page": "103",
+      "hashes": {
+        "normal": "82fd34f49f755570eae9895314eaf22bd7d5c2e0e0df672a90deae2173e36541",
+        "estendido": "bcc643a036cab73d364d7ff245e566ed60837c5f8f243aa87ce7278013816a60"
+      }
+    },
+    {
+      "html": "GRITAI JUBILOSOS",
+      "page": "104",
+      "hashes": {
+        "normal": "f089a12b42e09f3b8b350971a7edba605117424669f2ee7ef3dc9f2077bd53c6",
+        "estendido": "0670c877d7d5a05a715f766fb1712d480240de096410c68ce9a1afa39373515c"
+      }
+    },
+    {
+      "html": "HINO A CARIDADE",
+      "page": "105",
+      "hashes": {
+        "normal": "1d04ef31640a5d66ab598edf3fdf0585a832cb38d4d5eaff089412743adbfece",
+        "estendido": "cf5ef5899e5db1dd037470070de5098fdbed4a6e57895cbe3f1b1311967f18ba"
+      }
+    },
+    {
+      "html": "HINO A CRISTO LUZ",
+      "page": "106",
+      "hashes": {
+        "normal": "d79a0da23e5433385a1c1b52f1e4c43d5a4bda3e266cbf892abd091738e81a80",
+        "estendido": "a033f506b0d340c3aba301b0cad74dcbcf9d0556fe1d0e459abd97d8b5b88b57"
+      }
+    },
+    {
+      "html": "HINO A KENOSIS",
+      "page": "107",
+      "hashes": {
+        "normal": "a57e8c3289db5ce40fc93acf1db3ec488ac1f06adc10f0167eaf49e6835b48f7",
+        "estendido": "630d9a039f6c1968eb1e97e2de8547ef82c93b0ceb24c154beaa808ae1d8af30"
+      }
+    },
+    {
+      "html": "HINO DA ASCENSAO",
+      "page": "108",
+      "hashes": {
+        "normal": "94dfc16992ab25b646a0ee1ee7a712c933fc2ea9a4b6dc643289b8787e7b25fe",
+        "estendido": "be09e916f0a664e9e708272cd70818118c93d2815c3aace2f4f3ec8019878f73"
+      }
+    },
+    {
+      "html": "HINO DA PASCOA",
+      "page": "109",
+      "hashes": {
+        "normal": "0b86baf7e3969159885c3d02deaf9ffbf370d7a9b5bf14506c33179a7c2b372e",
+        "estendido": "33008eda4c16bf19dbdcc36f08645b5f2cfbcee15b414d290f3c45d470aae9df"
+      }
+    },
+    {
+      "html": "HINO DO ADVENTO",
+      "page": "110",
+      "hashes": {
+        "normal": "ff1de304444d19374d6b847b3a15ca316c7f6a1606ff69aab0d8d10b23f48d12",
+        "estendido": "ff1de304444d19374d6b847b3a15ca316c7f6a1606ff69aab0d8d10b23f48d12"
+      }
+    },
+    {
+      "html": "IAHWEH TU ES MEU DEUS",
+      "page": "111",
+      "hashes": {
+        "normal": "f41ed02dc0c4e21c6a6ec389fa39a6991a8d9c8313bacf81c2910c19f175ac87",
+        "estendido": "448aeb6bad94ca082911613849504dcd4d50316ffd0c4050749ab257954b9dfa"
+      }
+    },
+    {
+      "html": "IDE E ANUNCIAI A MEUS IRMAOS",
+      "page": "112",
+      "hashes": {
+        "normal": "651f5e07e4f4c38ceeab855b383495b3cd3232873016f21fc1582cbedcee7392",
+        "estendido": "ffbc1d7121c86929914b28af4235091c01f85ffa4aa689a9f3ecd3e62c20fcea"
+      }
+    },
+    {
+      "html": "IMPROPERIOS",
+      "page": "113",
+      "hashes": {
+        "normal": "2718f7b63472b99855551d1b3b77c90f8829cc37ea1bc55c9898a60db37a6ae8",
+        "estendido": "94bfbe8d4cbb459dc4df3130baf746c0e2e6f52641ebbb4fd1fb8548a7470c91"
+      }
+    },
+    {
+      "html": "JA VEM O MEU DEUS",
+      "page": "114",
+      "hashes": {
+        "normal": "81fe110311e2b97a5552d977662fe5efb677995656938b8ca55f3dbb0b04f05e",
+        "estendido": "737d76afca8f7054cd07d5eeae4a8c36782dd8728f6ae1437f39ba47755e8707"
+      }
+    },
+    {
+      "html": "JERUSALEM RECONSTRUIDA",
+      "page": "115",
+      "hashes": {
+        "normal": "0e03d2a678f5430b47bbecf4396e09c4a9ce70348ef164afd7541b01c24e7812",
+        "estendido": "5fe949f563c4be971a608570f3a9d7ca5bd8736938952a8d3b33f931b5bb1fdb"
+      }
+    },
+    {
+      "html": "JESUS PERCORRIA TODAS AS CIDADES",
+      "page": "116",
+      "hashes": {
+        "normal": "a2957812aabf5f34fe08a99513952814bafb02d4f1f2e65a7e81230542607bd5",
+        "estendido": "7dbf33b3878f1719aa7a74035d5545d760bac97d6ce77dfff6960f83744d2cc0"
+      }
+    },
+    {
+      "html": "LEVA ME AO CEU",
+      "page": "117",
+      "hashes": {
+        "normal": "e9fbdf35ab5bd26f0fcd1b12ab8b0f64d2a2f29fccedcc385474da82c2148730",
+        "estendido": "3ff267b0842387a63ed7dc4449e9e7cadd7698192779b1287ebb241e67a6f94e"
+      }
+    },
+    {
+      "html": "LEVANTO MEUS OLHOS PARA OS MONTES",
+      "page": "118",
+      "hashes": {
+        "normal": "c6e678662bc3422c963890a23ba1ea42c61ce697c7e0d185f620d3b983c18415",
+        "estendido": "9dcb43bec1130f3856cc0946deafc78830d23bff6b3c8b90187c8ff3e776b4e2"
+      }
+    },
+    {
+      "html": "LOUVAI O SENHOR",
+      "page": "119",
+      "hashes": {
+        "normal": "b47996b7595bcf070208997dc3fcb3cb523053968359adc3eda36336f69f934c",
+        "estendido": "9c749e3961af0f4cdb900547798787a4a03a7202a41474e4d368a1def582a491"
+      }
+    },
+    {
+      "html": "LOUVAI O SENHOR NOS CEUS",
+      "page": "120",
+      "hashes": {
+        "normal": "d3f9ea14818a96ddf2f4a4c35b7c19cc170f08732a6afdca358a23409c61866c",
+        "estendido": "d3f9ea14818a96ddf2f4a4c35b7c19cc170f08732a6afdca358a23409c61866c"
+      }
+    },
+    {
+      "html": "MAGNIFICAT",
+      "page": "121",
+      "hashes": {
+        "normal": "d40fa1ca0423d4c81ac0936747f60ced88f5dc43b070f887a02064403255f35b",
+        "estendido": "946479807225c74cf70c6a4de05520275a820d1e5a2c0a4e90f3a9a6725e82d8"
+      }
+    },
+    {
+      "html": "MARIA CASA DA BENCAO",
+      "page": "122",
+      "hashes": {
+        "normal": "77ff2be9274814006be49c9eac2360fbcf51c7544a673633ad8554a72b49d5a7",
+        "estendido": "d968b03744778abf975c462004c538fc08b39e9f07ef6bf8b3ea468b3d629562"
+      }
+    },
+    {
+      "html": "MARIA DE JASNA GORA",
+      "page": "123",
+      "hashes": {
+        "normal": "384d3064c8048ee065a52f294863f922f2ff8cacf0a04d1d5c423d2f3da8537c",
+        "estendido": "399bad56e57ec301b688fce2d1b9342447155132de323ba127c217fb28e49ee6"
+      }
+    },
+    {
+      "html": "MARIA MAE DA IGREJA",
+      "page": "124",
+      "hashes": {
+        "normal": "6d602a00b246c565f9c0549e854c12b4cf447da22a069e8b9fcfc9ef32197e40",
+        "estendido": "902f8a95f70cc56b356aea74dca83bb782609bcb801b0564fa922b28eb619107"
+      }
+    },
+    {
+      "html": "MARIA MAE DO CAMINHO ARDENTE",
+      "page": "125",
+      "hashes": {
+        "normal": "dc1cb85fd8d49911383532041c9d689a4d93e637751447d53d19dce7c5f7666e",
+        "estendido": "42798782aae4501590630b9e85993514025e8301ea65c7e4b10187378a71aa88"
+      }
+    },
+    {
+      "html": "MARIA PEQUENA MARIA",
+      "page": "126",
+      "hashes": {
+        "normal": "cc722dd825288529c462588da6ae4e0d5c2cb58ba69bf9895b622ef4192c005e",
+        "estendido": "7555615d680d80e8a767bebf5aacc9b5efeade09b64da86d8951c8a2c55a558f"
+      }
+    },
+    {
+      "html": "MARIA POMBA INCORRUPTA",
+      "page": "127",
+      "hashes": {
+        "normal": "8b8deefebd831190baf5f00c5d7c27147a5b0ef84ab9cea75e4ebd0fb5926cdd",
+        "estendido": "ec86a720ca95581f9551250c0ec2a499fe1e6c0c0f3c3bdbac4d23a5af7b37c7"
+      }
+    },
+    {
+      "html": "MISERICORDIA MINHA MISERICORDIA",
+      "page": "128",
+      "hashes": {
+        "normal": "0f2fe36743f7c8cc00712ce0580309fff394e5b009748c72907afa2afcd64502",
+        "estendido": "1342c32eb65886510d46c705a62c0c0d7d424b01359341057ae122b610feace9"
+      }
+    },
+    {
+      "html": "MOSTRAR ME AS O CAMINHO DA VIDA",
+      "page": "129",
+      "hashes": {
+        "normal": "2aaf0989710aae6b3c7d3e356fa137c19d5881c4a7c3226f608657ad2b6acb23",
+        "estendido": "3bedfb87debb2d33475ca8615683585aadd8f147f7d6070b718c525cfbbf8256"
+      }
+    },
+    {
+      "html": "MUITO ME PERSEGUIRAM",
+      "page": "130",
+      "hashes": {
+        "normal": "4b0797e4dc3972ada9aba2d89a945434dd099b8d484105173e7e8ebcb6f073d0",
+        "estendido": "a547c7496d92b5bcd16b4de9bfa5ce0d391e0f8efa4474034ab1f5bc98764309"
+      }
+    },
+    {
+      "html": "NAO ESTA AQUI RESSUSCITOU",
+      "page": "131",
+      "hashes": {
+        "normal": "fc6cffca2b3f4c79912aa67a9bb57990133e26e4493cc6797027db0fcf84db55",
+        "estendido": "fc6cffca2b3f4c79912aa67a9bb57990133e26e4493cc6797027db0fcf84db55"
+      }
+    },
+    {
+      "html": "NAO HA NELE APARENCIA",
+      "page": "132",
+      "hashes": {
+        "normal": "1415982a59ec026636e9fdc24a4de900651f18cce0a08278d6f70817ef0b67f0",
+        "estendido": "6d75e2cfd0f939c3c370ae5d8239d322d15cd37de8f248b731e9594e9010abc1"
+      }
+    },
+    {
+      "html": "NOLI ME TANGERE",
+      "page": "133",
+      "hashes": {
+        "normal": "8dda4550091277081d29badef9204f2497980275f2aed7159da607b2dacce946",
+        "estendido": "ce5b39f97aa62efe000cfd176684e224f6d8eaba4dcc15194ecb6f9c8c18c867"
+      }
+    },
+    {
+      "html": "O CEUS CHOVEI DO ALTO",
+      "page": "134",
+      "hashes": {
+        "normal": "cda5e2ca1ec70f0b237e46916c2e797bb1caaecf633bec150270f580cc743cf2",
+        "estendido": "717383b37179c7cf4df1e3fa5d2d0811ad5b02e735de3edc1e9766be5c6e3bf3"
+      }
+    },
+    {
+      "html": "O COMBATE ESCATOLOGICO",
+      "page": "135",
+      "hashes": {
+        "normal": "0af22fca6e8718d28d620921b50e1c39359b27bbf34526175a977322ffbea835",
+        "estendido": "3790818b8a2f293973dadc8d8285bc958b4d6483ea74b88aa807593c94e8cd4a"
+      }
+    },
+    {
+      "html": "O DEUS PELO TEU NOME SALVA-ME",
+      "page": "136",
+      "hashes": {
+        "normal": "6adf84fcae703987d00a1afd70fbe27a5420a0e8b94df565c90009bbf0d15445",
+        "estendido": "be832674e166388e3450fb15f96beb9834c3b0e0bf9adc27c109134bbbe12db2"
+      }
+    },
+    {
+      "html": "O DEUS TU ES MEU DEUS",
+      "page": "137",
+      "hashes": {
+        "normal": "eeacf6d5c91dabf65b9edc8a64ebe0d29560f5b9678c753abf39d92fe48c83f8",
+        "estendido": "9e25dc83c3c234976b39b07b418711dc591c00c55b1fa1fea93fbdcd66fa4a5b"
+      }
+    },
+    {
+      "html": "O ESPIRITO DO SENHOR ESTA SOBRE MIM",
+      "page": "138",
+      "hashes": {
+        "normal": "e3652a39d82bceb8e1e26bf8dfc3aeda6c3ac6fd634766d5279ae819875b11c6",
+        "estendido": "cc00d2caee53a28590f60f89d6117fd7148e10238255e31c8a3be834956aa1bc"
+      }
+    },
+    {
+      "html": "O JESUS MEU AMOR",
+      "page": "139",
+      "hashes": {
+        "normal": "337ec3a4839fd65a17ff5c7c6e59d54ccd207526c2134916aac6952eab70033b",
+        "estendido": "c304b81357b1659f002647c3f67420cfeb18979f91b73827b1afe3f017745431"
+      }
+    },
+    {
+      "html": "O LAGAREIRO",
+      "page": "140",
+      "hashes": {
+        "normal": "55273fbc4966a245d1156d9dcf8cd631450591cd66a3a3f211673284453dfcb0",
+        "estendido": "997eae142a3fddf5ec359080f6573bd4aa6b36ff1b5b45a6075551e9a468821f"
+      }
+    },
+    {
+      "html": "O MESSIAS LEAO PARA VENCER",
+      "page": "141",
+      "hashes": {
+        "normal": "e50ed2afb55f7eb647e8d7774db8deeeeb8340a36ab085d6b4dfa4cbe97bba00",
+        "estendido": "e5107c40280fc2ac1e3ed99a531b8ed41d879eb170062a99b4f9e54e9043217e"
+      }
+    },
+    {
+      "html": "O MORTE ONDE ESTA TUA VITORIA",
+      "page": "142",
+      "hashes": {
+        "normal": "ae59f1f4101f30bc426bee53df94a5755ba44771d9fc829dbf4e7b5db0b86bef",
+        "estendido": "fa33adbb65eaab40e73b6c22609371ccaefe84afc43061b83479eabc4d354da2"
+      }
+    },
+    {
+      "html": "O NESCIO PENSA QUE DEUS NAO EXISTE",
+      "page": "143",
+      "hashes": {
+        "normal": "cae5302d2001a0cc330608ebe292c03397faa8d93a83d06416df9a86099148ba",
+        "estendido": "499456e00413b02d0f77d46c9a0aabc3e7e3440a2dbc9b6fbf014df0671f34ac"
+      }
+    },
+    {
+      "html": "O POVO QUE CAMINHAVA NAS TREVAS",
+      "page": "144",
+      "hashes": {
+        "normal": "e646fb170572243afbd57dc351d57ddbdd8d37261cd59da0ebdf3f3495417ef1",
+        "estendido": "693259908e02c4887a59c64a55ee61f73f0b797d5745b18b4fa3e73c7f8c4af4"
+      }
+    },
+    {
+      "html": "O SENHOR ANUNCIA UMA NOTICIA",
+      "page": "145",
+      "hashes": {
+        "normal": "dc57d9302079ae3b5f83fa65f6ba855feed843150672ad22e4db3f8af964dda0",
+        "estendido": "80893d5b9e8f4e453f03507a1fe78de4fd61b027acf87c88233e1422df51b5b2"
+      }
+    },
+    {
+      "html": "O SENHOR E MEU PASTOR",
+      "page": "146",
+      "hashes": {
+        "normal": "6b4ab3b65b34c581963eadaaf9a503d48a819955c5ab552a22c8b46863b7bba1",
+        "estendido": "c787bec1fbbc951ae78ec5b105fcba6e5deedaf50860c2660858839491cac603"
+      }
+    },
+    {
+      "html": "O SENHOR E MINHA LUZ E SALVACAO",
+      "page": "147",
+      "hashes": {
+        "normal": "938d0bb490b03809ad476b9e7d738e266a2a8c28e352d1cbb32097959ca25ae7",
+        "estendido": "0e7ad7be647e94f951587f706e761cdf0a022b2c59f2e822a5b6369cd0dd65ba"
+      }
+    },
+    {
+      "html": "O SENHOR ME DEU",
+      "page": "148",
+      "hashes": {
+        "normal": "4a8810a81827e199e9236dc10767a3c43e8bb68dd238ea0dd75f4d9b3b4aa485",
+        "estendido": "717c1af34de73e21fede6c113c5b58900378e93e49a473b853d4a8d4ddcf5230"
+      }
+    },
+    {
+      "html": "O SENHOR NOSSO DEUS",
+      "page": "149",
+      "hashes": {
+        "normal": "488bc56c84a5d8f7a8894187091761dfdec77fe6a411e1eb32030888fc8f6eb2",
+        "estendido": "823995b78e6e48f17fee0d3ac0622609dbaa84c9f4165bbce49fd1df9cf795ce"
+      }
+    },
+    {
+      "html": "OLHAI QUE ESTUPENDO",
+      "page": "150",
+      "hashes": {
+        "normal": "5474f28369e8f4374c25b756a4c881cce51b3afc7e685f8a6df0083a9a33f78b",
+        "estendido": "10e3ebfe702fa9fc53eeed486b7c46776a5e7a9530ec83a662d5765f6b85bc3f"
+      }
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "page": "151",
+      "hashes": {
+        "normal": "5a941f17e5003fd17d206d5292bd1e54cdfc1784fe84f83386967868562c96d8",
+        "estendido": "10166804d5ad99b824c400a970c79a2b616de7942ed05d4cb81e7fee35d6628f"
+      }
+    },
+    {
+      "html": "PARA TI MORADA SANTA",
+      "page": "152",
+      "hashes": {
+        "normal": "d714df8891a56a293cebdd0ed49dff1e92ea13da2b298de85f1f8095565463c1",
+        "estendido": "bfea7386564ded3d00bf4e4696e88fd32cf16f311a29ac39a5524804448750d1"
+      }
+    },
+    {
+      "html": "PENTECOSTES",
+      "page": "153",
+      "hashes": {
+        "normal": "e77e5d1bf164b962d85d4b5d7598ee714168b7f8080884fd0851152cd83cc0b2",
+        "estendido": "bc911d0bcd7081e63d221941f88098c00f90a9aa2047ab35ff0e9815fc70b0e1"
+      }
+    },
+    {
+      "html": "POR AMOR DE MEUS AMIGOS",
+      "page": "154",
+      "hashes": {
+        "normal": "e5fd63cb59bbefb461045d1156f3bc5004694accbeb4cc35f581c93963258e0f",
+        "estendido": "0212c9adf8f6376ce0ef302b16630449d0c87c2b3f7d6b93f75bcc8381bd0bc1"
+      }
+    },
+    {
+      "html": "POR QUE CONFABULAM AS NACOES",
+      "page": "155",
+      "hashes": {
+        "normal": "62faf9bb2af8a0f1b0473ebe4d8b19b28702c68886ac8b0d95cc8fa445b6a5a4",
+        "estendido": "0fe03908e023cb96d43e8c792bd72c408a8a43075a0a93d8599b48f268fafc6e"
+      }
+    },
+    {
+      "html": "POR QUE ESTA NOITE E DIFERENTE",
+      "page": "156",
+      "hashes": {
+        "normal": "8816c91482e0c5afca09aefd7e9b8a927f82ea23f1a8ddeee97765c1cfb7d624",
+        "estendido": "d1e425b2bc232e86772751738d10718e93f6511404a6ff4654148732470c814a"
+      }
+    },
+    {
+      "html": "PORQUE O MEU JUGO E SUAVE",
+      "page": "157",
+      "hashes": {
+        "normal": "e8cb6805840bdacd9fbf57eae994896458bde6fdb8d598c3776c8e4264a87249",
+        "estendido": "32f43e9db5d4f9cbcd8ab0646861c8ca40fc95404517bfa8ab5d003823e3efa3"
+      }
+    },
+    {
+      "html": "QUANDO ISRAEL SAIU DO EGITO",
+      "page": "158",
+      "hashes": {
+        "normal": "a5510f6435e1c679fd51abd5d0a2c9bdc041cc400e13211ecf84eca07933904a",
+        "estendido": "154b49f0000c976efbedb858faa96fd1bdc83bfe0d55ae6727d5ee3a8e97d991"
+      }
+    },
+    {
+      "html": "QUANDO O SENHOR",
+      "page": "159",
+      "hashes": {
+        "normal": "c39af3529d95f8cd65f28d029344139f0b0a9e205b4519fca61604bc8ab43d2e",
+        "estendido": "1f1fc615c6c180bedfd0e4bfbe5d44cd4d5e4237b9f72772aac8cf5bfd56f1b4"
+      }
+    },
+    {
+      "html": "QUE ESTUPENDO QUE ALEGRIA",
+      "page": "160",
+      "hashes": {
+        "normal": "8c3cbead1274ab0d96749c512a8f54cf93f8ef8bab62282d82af21d921d969d6",
+        "estendido": "8e9ad93b3e6f7d5cd56bfbd8d22b902bf50c715e28606f81b718bace5c8db357"
+      }
+    },
+    {
+      "html": "QUEM E ESTA QUE SOBE DO DESERTO",
+      "page": "161",
+      "hashes": {
+        "normal": "c9e58abfc2f9822cc89fa1534c9668cfcf5367f0e2e0ee1ae4c319415393bd42",
+        "estendido": "a5edbe79852b1797ecb5094f56c811b5418cb1a0b07251d1ddbbc23f77cdb08f"
+      }
+    },
+    {
+      "html": "QUEM NOS SEPARARA",
+      "page": "162",
+      "hashes": {
+        "normal": "9a268dbb405a61f91ebe0a9437d961c46de4f1629063c8ff7a704dc5703fe7ff",
+        "estendido": "c8ae8cfb90feeebec1551176d7ab9d10e392d028fa89fedb33cf124407e648b3"
+      }
+    },
+    {
+      "html": "QUERO ANDAR",
+      "page": "163",
+      "hashes": {
+        "normal": "2edad8257072f30fddb94e5fd8ace3fbb655ee94d9e241daa86a2d8e423d5747",
+        "estendido": "f9bf9e7953f51d7f17cf7e20e52c3a0e31636248fa55762a62d349a12872db3a"
+      }
+    },
+    {
+      "html": "QUERO CANTAR",
+      "page": "164",
+      "hashes": {
+        "normal": "004b80cfa4f01afaaed6ffe1d05c2bbecaf2010e5ea6ea8e13b66818933fb668",
+        "estendido": "f288d5b261a5a84dc38027494ac841d1f9c314d85e70a8d170eed502a3dd2308"
+      }
+    },
+    {
+      "html": "RESSUSCITOU",
+      "page": "165",
+      "hashes": {
+        "normal": "08f5642eac715d6692cc0efb0d3a36c53f59197d77ba5aec8f372407a1fe0fda",
+        "estendido": "0967dfc28534544ef38ebdacfd2b9a9ecb995da0f47f95e9cfa19f57bbe3f3b7"
+      }
+    },
+    {
+      "html": "RESURREXIT",
+      "page": "166",
+      "hashes": {
+        "normal": "2b0ee94daae83e31d2d06b10818abaf998267d4a2b8b57dcfd991e0d60254d4b",
+        "estendido": "2b0ee94daae83e31d2d06b10818abaf998267d4a2b8b57dcfd991e0d60254d4b"
+      }
+    },
+    {
+      "html": "SALVE RAINHA",
+      "page": "167",
+      "hashes": {
+        "normal": "c18cdbf44b6d2a2b15b5409df09ceb3f4de623b6f70807b6f5a20e9fd2e3cb41",
+        "estendido": "c18cdbf44b6d2a2b15b5409df09ceb3f4de623b6f70807b6f5a20e9fd2e3cb41"
+      }
+    },
+    {
+      "html": "SALVE RAINHA DOS CEUS",
+      "page": "168",
+      "hashes": {
+        "normal": "616c8c64b18f7402d103759bf8b8dc2b768692e92909996127b72c7e184d302d",
+        "estendido": "f7f57e9f18d00b786ec2f021ce5ea5dec03f2b057ded614163f66bc1872aa3aa"
+      }
+    },
+    {
+      "html": "SE HOJE ESCUTARDES A SUA VOZ",
+      "page": "169",
+      "hashes": {
+        "normal": "a13ca2b4bc2a28bc718c02d2e613d6ca6823ff820f47d9fd640f7d0d29fbb270",
+        "estendido": "6704806bfd208c7f9f5aa967b3a03887bc5e71d9304cd06ea456439afc5c39ac"
+      }
+    },
+    {
+      "html": "SE ME REFUGIEI NO SENHOR",
+      "page": "170",
+      "hashes": {
+        "normal": "6c0eebd807bfbefd2d010a725d333fd81d8ded9fe7341773cfe64159c3c77b88",
+        "estendido": "7d61f832a82bf97f9e507a787f85c0f9fc4e0161551f9cd216d5a6db14ece488"
+      }
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "page": "171",
+      "hashes": {
+        "normal": "a91ccbe560b57b1e51c4f5665b8ad8c744ae7cb9467b4e7bfbe2e04438acc963",
+        "estendido": "8e420709e57f55e20825ca307af9f54c1e9bfac1f4946eccaa8e375079155c04"
+      }
+    },
+    {
+      "html": "SE VOS RESSUSCITASTES COM CRISTO",
+      "page": "172",
+      "hashes": {
+        "normal": "f4abe7c8a71a7fa76971666f8574be20b1fc4fee5cd08064c262515d5eb2ef44",
+        "estendido": "b1acf79fcdbbd1ade010939d6133d87e236c76d9f883f4822c6b4d66e431064a"
+      }
+    },
+    {
+      "html": "SEDUZISTE ME SENHOR",
+      "page": "173",
+      "hashes": {
+        "normal": "ee447a2e37b09b70659db04297a6bf8dcd0a9cd3189e50db5fd0df2384b636c2",
+        "estendido": "c6d60ef575c595d034455da1231f47aabd4fee8526e5f1210109c9e39b354d21"
+      }
+    },
+    {
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI",
+      "page": "174",
+      "hashes": {
+        "normal": "31357e52fad3620093f11e4f4b899b53d2a0ea22fd2d2ab2d94350a02c0718bb",
+        "estendido": "fcdbee2934d3be76d2f71fbb3d6885e9fcedb2700668fe9d8447b4c59512d931"
+      }
+    },
+    {
+      "html": "SENHOR NAO ME CORRIJAS NA SUA COLERA",
+      "page": "175",
+      "hashes": {
+        "normal": "514d034ab1b30daa68d000fb5aa0dd1ddd13019d45fee414bdb59a12dbd553ea",
+        "estendido": "050e259b15af607ea83517e2e51527681cdaa5103bd3b8e4d547bc53a56649b5"
+      }
+    },
+    {
+      "html": "SEQUENCIA DE CORPUS CHRISTI",
+      "page": "176",
+      "hashes": {
+        "normal": "0e10ff668bce6e007f2ea97678041f350589a6903e274e4f32027a708cd64f7f",
+        "estendido": "0821246d3092201ba0344c3d976ac18763d5e040087392a81221e7cf964c1fad"
+      }
+    },
+    {
+      "html": "SERMAO DA MONTANHA",
+      "page": "178",
+      "hashes": {
+        "normal": "01653628e795183bcc144e4f7dd8c14585435ee5519ab0e094614f7be6089654",
+        "estendido": "b719f60aef1547c6b4fdfbd7aa038d926e5d67c48021f10113d7bb3f4c170e15"
+      }
+    },
+    {
+      "html": "SHLOM-LEJ MARIAM",
+      "page": "179",
+      "hashes": {
+        "normal": "f4e8c439a41886c91de89f20d235eee0c87cd0193420e4d167e43dd6f17c5e87",
+        "estendido": "1d3886370a1725653f80fdf5e0e7a5e6426f1fa285aa2c96bca7ced2742dc1b1"
+      }
+    },
+    {
+      "html": "SIAO MAE DE TODOS OS POVOS",
+      "page": "180",
+      "hashes": {
+        "normal": "b72fa3012cfec6dc51c900f18ba1548c3f1edc6d64f36cd149ee6fbc5135f5d8",
+        "estendido": "c109f080d24edab78ec8470572b76b20a88891fa26a97e5978baa45d1c8026a0"
+      }
+    },
+    {
+      "html": "SO A SO",
+      "page": "181",
+      "hashes": {
+        "normal": "a008fc650467d98ef0cef356c52f7fc656bf89e3f5ea13976e198b8f62b1637f",
+        "estendido": "a0f4af44abf359a7c8b4826189bc167ab505b6d87f944a13d1f90609a89955db"
+      }
+    },
+    {
+      "html": "SOBE DEUS ENTRE ACLAMACOES",
+      "page": "182",
+      "hashes": {
+        "normal": "f2168fc4b22ed50117dbe6d6cc4088cc1456b09bb00d2c00b83ba88f12b25f2f",
+        "estendido": "ca46e6edd69e8820b5938b5a1956cb03bccec8b5e08a4a3c135025f0c381c403"
+      }
+    },
+    {
+      "html": "STABAT MATER DOLOROSA",
+      "page": "183",
+      "hashes": {
+        "normal": "48a2307f7392ac49c196fabd64fbe30cbad121e9e962836df0c848e14611446e",
+        "estendido": "2c0f3532eb9bcbc6c62a2e81f519d325a6dbccb98b7286b6441a1e810f30ac7d"
+      }
+    },
+    {
+      "html": "TU COBRISTE DE VERGONHA A MORTE",
+      "page": "184",
+      "hashes": {
+        "normal": "689ff0889c7aebfda94c051ce84ce4f6abdeed1f498957c5dd8de2aff3d75032",
+        "estendido": "998e047fa8b34fd578ae50eafb5480b6afdb8c2cfe5425c294e6cbd29cd67cb9"
+      }
+    },
+    {
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "page": "185",
+      "hashes": {
+        "normal": "465d7f757be3c663a7bfea9404dbb326b01919047b42938aeba5c308d1e40b3f",
+        "estendido": "b7a8ef4d45820d4f0262b67bb92ea2545232f5dacb89c431cc14c93e64bc8ce9"
+      }
+    },
+    {
+      "html": "TU ES FORMOSO",
+      "page": "186",
+      "hashes": {
+        "normal": "1e9d4e20b81175d739123f98fc056cf5861a1b156605db13657c318ebeec4982",
+        "estendido": "eadd245698135e8d6b853c03fb9fa58708d49af99bf0dbdeadc7705275ff94d4"
+      }
+    },
+    {
+      "html": "TU QUE ES FIEL",
+      "page": "187",
+      "hashes": {
+        "normal": "e7c66b55ca9d0e6bca01f1503b7ec75ca0210fe75d5d42e68d82002e20792ce6",
+        "estendido": "7fff42a19ee608aa1e873fee86dc18c44ab6983340ea3830282f8c7f299e693f"
+      }
+    },
+    {
+      "html": "UM GRANDE SINAL",
+      "page": "188",
+      "hashes": {
+        "normal": "ff85a3a228b5101c2b820927b46c068bbe19ffd080d5211f0c6a91e5a98173a3",
+        "estendido": "6a4fa7d4933a260b7a19b3e950e9796fae55043b0125e007259188e14e6f951b"
+      }
+    },
+    {
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE",
+      "page": "189",
+      "hashes": {
+        "normal": "ab1d0149cbedf483e015d0ec7dcf78a306b8219254da56ca4c07eda69d52f194",
+        "estendido": "753a9bc312cc5fa02e76832119870ed451f79d5f66a33babf05dfe1c7143397f"
+      }
+    },
+    {
+      "html": "URI URI URI URA",
+      "page": "190",
+      "hashes": {
+        "normal": "d62f4cfd9876add52795268d8c0907d98f4898d44c109829a9937050973d220f",
+        "estendido": "d65e774f443c0387fafad1d339fa5ea9a14b70745a6e291c3480012065c69bc0"
+      }
+    },
+    {
+      "html": "VAMOS JA PASTORES",
+      "page": "191",
+      "hashes": {
+        "normal": "4ad4fee530917e9a63562a2b5231e121e5fab66b74dab0d44e450db1dfe18926",
+        "estendido": "c19f86bb00d8d91cf0ab115fdec53a826b4b5f7aa266fa2385fa8c9d58c634aa"
+      }
+    },
+    {
+      "html": "VEM DO LIBANO",
+      "page": "192",
+      "hashes": {
+        "normal": "f25e328945d10324de5b32ca3a82e116baca42c15a200759f8c74f1b0002a611",
+        "estendido": "2d2fe939695905a063d2e2c080eb557b1c9565cb73415da08404e492a2e3721c"
+      }
+    },
+    {
+      "html": "VEM ESPIRITO SANTO",
+      "page": "193",
+      "hashes": {
+        "normal": "7ceb8f0c18109cbc43dd88491da8f9fcbe76830514ccf7c2a771a56970c766b2",
+        "estendido": "e96170fdf47c20fcb85806cd60c0b47cd343f462cf3fc5dddd6183111a41ddc5"
+      }
+    },
+    {
+      "html": "VEM FILHO DO HOMEM",
+      "page": "194",
+      "hashes": {
+        "normal": "44e83e5abfab5b3f1c78a6f0b54f556107be8a0316df197f552bcbde54f2a75f",
+        "estendido": "489f0b827e00294421cef1b3deb1c2d2d0d07c588fd4e2a426f92c7cad14008c"
+      }
+    },
+    {
+      "html": "VEM O SENHOR",
+      "page": "195",
+      "hashes": {
+        "normal": "22fbafbc6a66d213e49c8e8a1e5c9b845d8ca91924623be91ea905bd61507240",
+        "estendido": "ca672a9bf03b13886799bca611a7a99aaa98f743fbfdf1a0e58ed67959b81c4d"
+      }
+    },
+    {
+      "html": "VENI CREATOR",
+      "page": "196",
+      "hashes": {
+        "normal": "f85835895ef0c94e292ade62d8bf260afb86b0c4225e0f3f275d8449521334a5",
+        "estendido": "fe766e1fbeb46b44d8985a996876710b092c58e9b8a9ef4b41dcbbf6b751410f"
+      }
+    },
+    {
+      "html": "VIRGEM DA MARAVILHA",
+      "page": "197",
+      "hashes": {
+        "normal": "19b2001eb4864f9acf44104d236a1d911cf0cb863df2255692a47aece82ede9c",
+        "estendido": "233b849b8e07f101c76695169b5bac4bdeb4f7c519a215780fffb4bf0a2554a8"
+      }
+    },
+    {
+      "html": "VIVEI ALEGRES",
+      "page": "198",
+      "hashes": {
+        "normal": "9021dc779ccf17a99e012ddab2e22f78348d1c9259dae8b179e78d8a1c405f7a",
+        "estendido": "664e8293f0326deb42298e16c6d7e301a7b8fccf94a08179957526c9efceb017"
+      }
+    },
+    {
+      "html": "VOS SOIS A LUZ DO MUNDO",
+      "page": "199",
+      "hashes": {
+        "normal": "54e9735305bd1cd7191f920b38ac02d3f2c26461f944daecee38a2b4ff00cb79",
+        "estendido": "a41a566beb0859f650055baaf596a798a0cb96debeef2edcf83c71757950095e"
+      }
+    },
+    {
+      "html": "VOS TOMAREI DENTRE AS NACOES",
+      "page": "200",
+      "hashes": {
+        "normal": "beeeab5e4c54edb4cceabc05c566925e7094def764ffe94c4ab9ba977918aa09",
+        "estendido": "a9e6c2fa83a31324b37df7495930f39c0498e94ee14648ec15d793edc4a6ffcf"
+      }
+    },
+    {
+      "html": "ZAQUEU",
+      "page": "201",
+      "hashes": {
+        "normal": "be0c501c317d16ab8d5a74cef1bd368ccb5333dc90a8e27ce39c900a8dedf8a0",
+        "estendido": "5dd71ba2326e2006c0be994a7bb254ade47982991a36edb25570ec234f4b2cf7"
+      }
+    },
+    {
+      "html": "ALELUIA INTERLECCIONAL",
+      "page": "203",
+      "hashes": {
+        "normal": "eac187b0c6f6b7b2b18b3b9b80e6739afdedbf003751b05a7b20cdd871fa9936",
+        "estendido": "b39c02f687b0e3a4ac793d61cc7a602f698a9d70da6abb43f718f386c1fb493e"
+      }
+    },
+    {
+      "html": "ANTIFONA - VERSICULO ANTES DO EVANGELHO",
+      "page": "204",
+      "hashes": {
+        "normal": "f8dece9c13c057dc05730bb7aeac9b486885d2213f1cb62ab1f38d4c36a40528",
+        "estendido": "7409eee26ea6288abd8bbdbbb9aad229b378043988ca08ff4d8af8499bc798a2"
+      }
+    },
+    {
+      "html": "ACLAMACOES AS ORACOES DOS FIEIS",
+      "page": "205",
+      "hashes": {
+        "normal": "c969c5ba230de551937ba7e44ba1057ad02d14485382abd6696b0b31d2bb634c",
+        "estendido": "c969c5ba230de551937ba7e44ba1057ad02d14485382abd6696b0b31d2bb634c"
+      }
+    },
+    {
+      "html": "ALELUIA PASCAL",
+      "page": "206",
+      "hashes": {
+        "normal": "269ca5f0e205190eb37d7babf0dfff232fb51203fc2fe7aa6d8b7f96dce7de51",
+        "estendido": "269ca5f0e205190eb37d7babf0dfff232fb51203fc2fe7aa6d8b7f96dce7de51"
+      }
+    },
+    {
+      "html": "ALELUIA PASCAL II",
+      "page": "207",
+      "hashes": {
+        "normal": "a46dbab6920670703c97fe3979d605c424689a41eb1498ac32411ff86140a5c8",
+        "estendido": "a46dbab6920670703c97fe3979d605c424689a41eb1498ac32411ff86140a5c8"
+      }
+    },
+    {
+      "html": "AMEM AMEM AMEM",
+      "page": "208",
+      "hashes": {
+        "normal": "7608e200315e29be9f2a37ed922ca19ba87c6da32f653a008ea212e7c9a058cc",
+        "estendido": "b5f6feb7da81845ad2bba4bd9aee2491562cf071f3f18752327246cf1cf20609"
+      }
+    },
+    {
+      "html": "ANAFORA DO SAL",
+      "page": "209",
+      "hashes": {
+        "normal": "96d0c05160134b64857d73293d1d9fe39fad896d77d1dcd641fdd45b4d0ca603",
+        "estendido": "7f05c5cc8957ee54909b9983c7bbd60826aaba8c2f04b1e6d56574877e708c1f"
+      }
+    },
+    {
+      "html": "BENCAO DA AGUA",
+      "page": "210",
+      "hashes": {
+        "normal": "8de8af0347ec414eb7b34e4aad9ab8304dd19ffbd1cfcc513ec3f0c3d17e8afa",
+        "estendido": "8f3cabc3a8e4ea05d76e9077ecefe8f2c5b642826d222019d8b4b7caa508c7ab"
+      }
+    },
+    {
+      "html": "BENCAO PENITENCIAL",
+      "page": "212",
+      "hashes": {
+        "normal": "ff4f26c896d5cc5db156fb1bcb5bcae9340bdf5549a14c966ede7fd738f7b3cc",
+        "estendido": "c9d7f7cfaab959dac0813f34bad0ad60e32042d99d18e7d6705a26a28b39631a"
+      }
+    },
+    {
+      "html": "CORDEIRO DE DEUS",
+      "page": "213",
+      "hashes": {
+        "normal": "e80cfe3c73903e1c9fe812e9f83599a18d28fee4f975d0e9e57847c28cfae93e",
+        "estendido": "73047751f53b7478dcadbee97a097a647d92273069bceed3d3d785d89088cfcd"
+      }
+    },
+    {
+      "html": "CREDO",
+      "page": "214",
+      "hashes": {
+        "normal": "a10a87a4450bd717ed4cc853d565665c6bddb9a174faa90e424a7cc6cf5c9e33",
+        "estendido": "a10a87a4450bd717ed4cc853d565665c6bddb9a174faa90e424a7cc6cf5c9e33"
+      }
+    },
+    {
+      "html": "GLORIA A DEUS NO ALTO DO CEU",
+      "page": "215",
+      "hashes": {
+        "normal": "7c91eb746b4c4fe5d69640054260aad1ee548006ce1aaba30a657b19e05e47b3",
+        "estendido": "c862d346a08eb73afde9fc2d7db4ae9d5531e8b97cae85b93dce5f6bd43de162"
+      }
+    },
+    {
+      "html": "LADAINHA DE TODOS OS SANTOS",
+      "page": "216",
+      "hashes": {
+        "normal": "1983655cfe7fd7c686ec84cf874e48d120f0f91d3c39bd2d8e403b2354d5f7e9",
+        "estendido": "1983655cfe7fd7c686ec84cf874e48d120f0f91d3c39bd2d8e403b2354d5f7e9"
+      }
+    },
+    {
+      "html": "LADAINHA PENITENCIAL I",
+      "page": "218",
+      "hashes": {
+        "normal": "442640ef6ef37ee7145cb83f45faa9ada8856b8a979c16b17168148a313c2eb7",
+        "estendido": "3edaaf12a0b576879b77a808a7d415350290ae178a09f4d5520ab41c539d73f9"
+      }
+    },
+    {
+      "html": "LADAINHA PENITENCIAL II",
+      "page": "219",
+      "hashes": {
+        "normal": "96b3d29359db88e7d4f2537ef170905af82ebdb0406d9e018b59c14408b37cfd",
+        "estendido": "aa04c0fbf4a922e9857fbe654e3bd2c23e7ae11009b8660d881d443c5e209d2f"
+      }
+    },
+    {
+      "html": "ORACAO EUCARISTICA II",
+      "page": "220",
+      "hashes": {
+        "normal": "e02ca39b8a751e1bf76e2eb892224592d4427efcf59391b8dd656a62de7fd2dd",
+        "estendido": "6906c60e0bde0895844664fc3e6b96a47553b99a13512e3f16064515e1d4f8dc"
+      }
+    },
+    {
+      "html": "ORACAO EUCARISTICA IV",
+      "page": "223",
+      "hashes": {
+        "normal": "0c51c82a4d7e731e3a3b0760ab54a1b0898b742fd43e797dce6e11522205fe65",
+        "estendido": "8ae6c1ebdbcd7b6301b6e24534d4aaa367e0ddca061035fecdf6f2dd95b2eaae"
+      }
+    },
+    {
+      "html": "PAI NOSSO",
+      "page": "227",
+      "hashes": {
+        "normal": "115fd2e78f2560efd9449504f18c2ccaf5ba3c0cfc58f46428274a4dc09ce200",
+        "estendido": "115fd2e78f2560efd9449504f18c2ccaf5ba3c0cfc58f46428274a4dc09ce200"
+      }
+    },
+    {
+      "html": "PRECONIO PASCAL",
+      "page": "228",
+      "hashes": {
+        "normal": "ed9a3dbbcf88d41de7a36452fd97b70b17b4ffe9bdeb90a8c0f4bd9e98567492",
+        "estendido": "d6bbdd55e6b270486b2660056add20389ae5b0be18c44f4d4dc4e2d51a27d318"
+      }
+    },
+    {
+      "html": "PREFACIO DA PASCOA I",
+      "page": "230",
+      "hashes": {
+        "normal": "d8cec5031eacd809d72518dc9f7197a5139425e7e08548b32fa9dd4a65fa86d3",
+        "estendido": "b4adb8cea4324fcc50c96827010a672cb04e613f225300eef0d6448e82aa96a4"
+      }
+    },
+    {
+      "html": "PREFACIO DO ADVENTO II",
+      "page": "231",
+      "hashes": {
+        "normal": "dca290828aa06e1baa11d6fd44313c5aff0e5e616b874d79eb3750ad5f571b54",
+        "estendido": "dca290828aa06e1baa11d6fd44313c5aff0e5e616b874d79eb3750ad5f571b54"
+      }
+    },
+    {
+      "html": "SALMODIA PARA AS ORACOES UNIVERSAIS",
+      "page": "232",
+      "hashes": {
+        "normal": "7684bf6cd481ee1920da049e0d6ef23357219d1efbfa9ea71411d81f717c8d76",
+        "estendido": "7684bf6cd481ee1920da049e0d6ef23357219d1efbfa9ea71411d81f717c8d76"
+      }
+    },
+    {
+      "html": "SALMODIA PARA O EVANGELHO",
+      "page": "233",
+      "hashes": {
+        "normal": "a2e44ac919a0601c61b49cc50f6b2d90a5946112eca03751907994e6d929ac0c",
+        "estendido": "a2e44ac919a0601c61b49cc50f6b2d90a5946112eca03751907994e6d929ac0c"
+      }
+    },
+    {
+      "html": "SALMODIA PARA O ROSARIO",
+      "page": "234",
+      "hashes": {
+        "normal": "fcb284c15eb1bdbeeb3d0d4caa6b5743533a977c36a054c8df6bf21e123fdd93",
+        "estendido": "fcb284c15eb1bdbeeb3d0d4caa6b5743533a977c36a054c8df6bf21e123fdd93"
+      }
+    },
+    {
+      "html": "SALMODIA PARA O SALMO RESPONSORIAL",
+      "page": "235",
+      "hashes": {
+        "normal": "b7fcc3d403bfbcbb226d16ad9f60b852058b9fafd702ab442bf351c29ecb5ecb",
+        "estendido": "4b8c41a50fadd8885f169e6a5085c7f840d814ff0aaa6a3b86c7b7c4911090c3"
+      }
+    },
+    {
+      "html": "SALMODIAS PARA AS LAUDES",
+      "page": "236",
+      "hashes": {
+        "normal": "621e224a70b313bd2ed6bdc8b83c95e6fe95c01e5417f20a4595eb690898bc3a",
+        "estendido": "621e224a70b313bd2ed6bdc8b83c95e6fe95c01e5417f20a4595eb690898bc3a"
+      }
+    },
+    {
+      "html": "SANTO 1982",
+      "page": "238",
+      "hashes": {
+        "normal": "b1377bdf54cda5a9057ed57d7d84978800eab71cb589ad1f9bde3f6355f5bc4e",
+        "estendido": "3fba3d2d98e1d511b212cc28df3d81d2c8604d98d1ce6fc4160be7cbe7c50418"
+      }
+    },
+    {
+      "html": "SANTO 1988",
+      "page": "239",
+      "hashes": {
+        "normal": "815e57ead5648e8ac7acb4332d360d42f21ca4888bf5c21f32a7622036bb6c7b",
+        "estendido": "815e57ead5648e8ac7acb4332d360d42f21ca4888bf5c21f32a7622036bb6c7b"
+      }
+    },
+    {
+      "html": "SANTO HEBRAICO",
+      "page": "240",
+      "hashes": {
+        "normal": "65d179347152151beb4ffbc9ca1b2925dee9728e5809928ea7987cfb26e52fee",
+        "estendido": "532691e7717995df1719818a238c57cbaa74dc29d92e3f49d9b1b2ca59e21727"
+      }
+    },
+    {
+      "html": "SANTO PALESTINA 74",
+      "page": "241",
+      "hashes": {
+        "normal": "4567bc86336a9126e1aa20280e09d8554929d3dcdd536d79faa87a0bbc66f91b",
+        "estendido": "4d7ab1c12a20267327e5dd6cb8c2ca54d30e445e257132925a5cf31c2a4ac7ff"
+      }
+    },
+    {
+      "html": "SANTO PALOMERAS 65",
+      "page": "242",
+      "hashes": {
+        "normal": "1a0ae4e6c23061759dd8fd80dff1425dc285bebd9fff5ca877adea69315583b5",
+        "estendido": "154f0c0c9a624705d8de65ba276294cb167810040b7457d5b87519d58f3d9a51"
+      }
+    },
+    {
+      "html": "SANTO ROMA 77",
+      "page": "243",
+      "hashes": {
+        "normal": "c3156a66f25a8e1aca31e6e51701aa5b1f64d90ee5d0ad173bcd6d3df123a2d6",
+        "estendido": "8375f3b6068a59bc7526fb067bd92724f7577ad7f87cb9887b9519625ef89dcc"
+      }
+    },
+    {
+      "html": "TE DEUM",
+      "page": "244",
+      "hashes": {
+        "normal": "cbf3fcb8094acf29f0ee2c32f904bffc9c6dcd4fb2d10751c5f6bb0c47f42a1a",
+        "estendido": "f5984d05aecd4202440df2648e98d9df2e804c047c783db0d7abe4e2e5dbd2cb"
+      }
+    },
+    {
+      "html": "COMO O IMPULSO QUE SENTE A IRA",
+      "page": "245",
+      "hashes": {
+        "normal": "0a008b8e98275b6079b4cc2b4f794527cf9f1868448d732bac5867902494b566",
+        "estendido": "a0f64cdab7bb307e52ede11c2fa49c881d7ff7ab87837754afc6fe7d0d87c50e"
+      }
+    },
+    {
+      "html": "DEBORA",
+      "page": "246",
+      "hashes": {
+        "normal": "b797826d0791fd9cdebe04b269941ffad1e02a927de68487c9bda315492b9e5a",
+        "estendido": "929012edc03d419274af08f1073f6078014a2f91cf25762561645750be79184a"
+      }
+    },
+    {
+      "html": "EIS QUE O NOSSO ESPELHO E O SENHOR",
+      "page": "247",
+      "hashes": {
+        "normal": "893270abd9a2e71a3b530625150e1f260635e8e5e871b46271e0a68d5f26fcd1",
+        "estendido": "cced379e16c37a38ca34a9a667775ecab4bd3cf30c98c8b06c91c1ef761e7b74"
+      }
+    },
+    {
+      "html": "HINO A CRUZ GLORIOSA",
+      "page": "248",
+      "hashes": {
+        "normal": "0fa531708d82279f8c06676989cf652e135f5d3efbdfa228ec4adca27e1ccfc1",
+        "estendido": "17a313e456ca2ceccf976cb18ae6f591b218dda401901d8a99c54a94ee907cb4"
+      }
+    },
+    {
+      "html": "JACO",
+      "page": "249",
+      "hashes": {
+        "normal": "4a7c5195519b371ee5a622f204a63730693842525d3ea615d4459980439599e3",
+        "estendido": "4a7c5195519b371ee5a622f204a63730693842525d3ea615d4459980439599e3"
+      }
+    },
+    {
+      "html": "NAO RESISTAIS AO MAL",
+      "page": "250",
+      "hashes": {
+        "normal": "b625878d7ed70829ce88469ccb9065baae77ca9e23b0018bc45bc4458c373762",
+        "estendido": "a8c69d333ce5cf2eb5e87c061b6920c392769dd8320295cf1c7222bc6bbcc5f2"
+      }
+    },
+    {
+      "html": "NAO SOFRAS PELOS MALVADOS",
+      "page": "251",
+      "hashes": {
+        "normal": "da0405083ad6c0c84afffd0eedb5f93b0d740708d0d3d2d32711fba171da23eb",
+        "estendido": "c19b4668197e9dbd4f33d2f7a9f3f6cb8f309419bf9aec7d958799ec7f981d31"
+      }
+    },
+    {
+      "html": "NINGUEM PODE SERVIR A DOIS SENHORES",
+      "page": "252",
+      "hashes": {
+        "normal": "2d7186bbfba39d85099289a341b90ee92b20f8939730285a8e6e46e175cbb422",
+        "estendido": "fc79f3bddd7030a29b98656f262be72479631315e5f66a07a0f5deea6f41e542"
+      }
+    },
+    {
+      "html": "O MESMO DEUS",
+      "page": "253",
+      "hashes": {
+        "normal": "c6e2919e7632ef888a026da9a4fa22bc1dfb01195da962a0e523012b45899a50",
+        "estendido": "7113b1b6deab0375a3599c72d091bdfd1b348c6bb517994971054da1b1679d6e"
+      }
+    },
+    {
+      "html": "O SEMEADOR",
+      "page": "254",
+      "hashes": {
+        "normal": "6082f68f1395c4a28eab69caf3f02fdd319e8960ca98d868070e8ff1b3a1d047",
+        "estendido": "639fdbcb8a0b8aa57ce066607a87764ef88d258b4c51cfc638e0942e50f39590"
+      }
+    },
+    {
+      "html": "O SENHOR MEU CORACAO NAO E PRETENSIOSO",
+      "page": "255",
+      "hashes": {
+        "normal": "00544312b7f1c3b7800d1c051280557a3741ede77153fa369bbdec348d2c7b44",
+        "estendido": "019f8fe82aa7ed6f27bd1e2c2497bb6cc6f7d27a24a2bdbb7d55eaa50682e649"
+      }
+    },
+    {
+      "html": "QUANDO DORMIA",
+      "page": "256",
+      "hashes": {
+        "normal": "f63331ed0d34d8032968b5e620a76f6384949061c1453fc5d65d3ef2df4c24be",
+        "estendido": "d68c4227a0ebbb70c7fbea5693a95aae229c47f31ce8f597c3cde3767b0dd9e6"
+      }
+    },
+    {
+      "html": "SENHOR TU ME ESCRUTAS E CONHECES",
+      "page": "257",
+      "hashes": {
+        "normal": "f2a1027d50af1f2cf8ae9c887dfd8c650c1b9505f09641aec20e8381893eb6b2",
+        "estendido": "f2a1027d50af1f2cf8ae9c887dfd8c650c1b9505f09641aec20e8381893eb6b2"
+      }
+    },
+    {
+      "html": "SENTA TE SOLITARIO E SILENCIOSO",
+      "page": "258",
+      "hashes": {
+        "normal": "2528e70fc7eaa17b680a7fbbca0d006c6e04ef42f4858f0636630af6684bbb0c",
+        "estendido": "35356a07df22369c75ce0690315f3a4f4f2380af2dec44574345b17e0180d78d"
+      }
+    },
+    {
+      "html": "SHEMA ISRAEL",
+      "page": "259",
+      "hashes": {
+        "normal": "d0d9e318e045b3124a5b74b2f95d6bbd45b8f87f0c6b3e434ccff3052495d3c6",
+        "estendido": "f088e87a0454e7c43d0e55db51cf98f3b4836214717aaa808d89ac52000c404b"
+      }
+    },
+    {
+      "html": "TU ES A MINHA ESPERANCA SENHOR",
+      "page": "260",
+      "hashes": {
+        "normal": "6daf9523270554e4b03f74e06c7acb2c87e4b8a1c3a52b41ec17bbe99f33868e",
+        "estendido": "07f1bdb9f078f1d73dfa7977a38280de23694e89ddac103b9c6451e161be20f5"
+      }
+    },
+    {
+      "html": "A CEIA DO CORDEIRO",
+      "page": "261",
+      "hashes": {
+        "normal": "86038ac604aa06cb6febbea142b3ad8aabe1d11b1cc71bef83e3b8281ec27caa",
+        "estendido": "569f3219f231a26417a1904f91d3910fe6e21d2331c3b286b3a2915dd0d7b36e"
+      }
+    },
+    {
+      "html": "A POMBA VOOU",
+      "page": "262",
+      "hashes": {
+        "normal": "f574ca3abe9b1c2e5a7fd584f1326bbc465bf165205b4eb45edb7bbb5639dafc",
+        "estendido": "5514acff43184f55bd3ba534aa3100f37055b8e948b574f297c5dc7d1aacc65a"
+      }
+    },
+    {
+      "html": "COMO ESCORRE O MEL",
+      "page": "263",
+      "hashes": {
+        "normal": "5243c0382bf32e5065a717ec86d108376baa1dac02be9021df60a13de02cb7bf",
+        "estendido": "40316aacc09bbd943c9ee6e45ca8801b139a30ae9c7f9bcc0287506a5b6dc7fa"
+      }
+    },
+    {
+      "html": "COMO LIRIO ENTRE OS ESPINHOS",
+      "page": "264",
+      "hashes": {
+        "normal": "67aeb309b2d45f01d2b905ad5aa237f45234be2619c38ade4b4acd9f51b9229b",
+        "estendido": "777971fb7f8e726c11e337a9c4068cd613eb5194b3024e6d01e1aeecb427896e"
+      }
+    },
+    {
+      "html": "FORMOSA ES AMIGA MINHA",
+      "page": "265",
+      "hashes": {
+        "normal": "263e0a36e1b0d52166c31ae45c4a33411c34535f31d7d86b4823274c04b14ae5",
+        "estendido": "cdd81e9503e39697385f745eaec75fb0b297f0269b9d46ae65507c36f769d8b2"
+      }
+    },
+    {
+      "html": "ONDE TE ESCONDESTE AMADO",
+      "page": "266",
+      "hashes": {
+        "normal": "25eafb086c94eda9f5222903d831cf1b1d901d18469bfa8af170608ff5873e40",
+        "estendido": "a075b9ff4fc0aa441790aef58873ccc7c3b4887b22edcc1339f7f9fbef70e39b"
+      }
+    },
+    {
+      "html": "ROUBASTE MEU CORACAO",
+      "page": "267",
+      "hashes": {
+        "normal": "67b85671d22436ad1c2f93b08e3ff84074b020cace2f1953d54810d2b2e5e36f",
+        "estendido": "88dca585049b754e2d61801f7c255ff39c28b155a1154416e528f916974a2fee"
+      }
+    },
+    {
+      "html": "SUBA O ESPOSO AO LENHO DO SEU TALAMO",
+      "page": "268",
+      "hashes": {
+        "normal": "56fa7d858d3054e0414ddca985c40f69a93d0431a8b056db9d7c16e2a2541f49",
+        "estendido": "6353370f9d159b8d0f2468e14e04f44151d106f33c3d4af94b03eaac9c34a0cf"
+      }
+    }
+  ],
+  "rangeReports": [
+    "revisao-maxima-faixa1.json",
+    "revisao-maxima-faixa2.json",
+    "revisao-maxima-faixa3.json"
+  ],
+  "validation": [
+    "catalog HTML/base64 exact to source",
+    "edition and all structured transcriptions reproducible",
+    "classification and HTML colors",
+    "reviewed treatment phrases",
+    "24 Python unit tests",
+    "catalog revision output test",
+    "Dart lib analysis",
+    "metadata identities/order/pages/categories unchanged"
+  ],
+  "humanReviewFile": "erratas-pdf-2026-revisao-humana.json",
+  "publication": "Local changes only; no commit or push"
+}

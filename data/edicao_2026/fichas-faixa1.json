@@ -1,0 +1,2008 @@
+[
+  {
+    "html": "ALELUIA BENDIZEI O SENHOR",
+    "title": "ALELUIA! BENDIZEI O SENHOR",
+    "subtitle": "Salmo 134 (133) - Canto popular hebraico",
+    "color": "#FFFFFF",
+    "capo": "Braçadeira 2º Traste",
+    "sourcePages": [
+      39
+    ],
+    "rows": [
+      {
+        "text": "ALELU, ALELU, ALE E LU U IA,",
+        "role": "Crianças",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La"
+          ],
+          [
+            16,
+            "Sib"
+          ],
+          [
+            24,
+            "La"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 92.7
+      },
+      {
+        "text": "ALELU, ALELU, ALE E LU U IA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            16,
+            "Sib"
+          ],
+          [
+            24,
+            "La"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 116.7
+      },
+      {
+        "text": "Bendizei o Senhor, bendizei o Senhor,",
+        "role": "Crianças",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 152.7
+      },
+      {
+        "text": "servos todos do Senhor.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            20,
+            "La7"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 176.7
+      },
+      {
+        "text": "Bendizei o Senhor, bendizei o Senhor,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 39,
+        "sourceY": 200.7
+      },
+      {
+        "text": "vós que estais na casa do Senhor.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            30,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 224.7
+      },
+      {
+        "text": "Levantai vossas mãos, levantai vossas mãos e bendizei o Senhor,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            59,
+            "La7"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 260.7
+      },
+      {
+        "text": "vós que estais na casa do Senhor durante a noite!",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            43,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 284.7
+      },
+      {
+        "text": "ALELUIA, ALELUIA, A A LE E LU U IA,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            9,
+            "La7"
+          ],
+          [
+            17,
+            "Sib"
+          ],
+          [
+            31,
+            "La"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 320.7
+      },
+      {
+        "text": "ALELUIA, ALELUIA, A A LE E LU U IA,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            9,
+            "La7"
+          ],
+          [
+            17,
+            "Sib"
+          ],
+          [
+            31,
+            "La"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 344.7
+      },
+      {
+        "text": "ALELU, ALELU, ALE E LU U IA!",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            16,
+            "Sib"
+          ],
+          [
+            24,
+            "La"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 380.7
+      },
+      {
+        "text": "ALELU, ALELU, ALE E LU U IA!",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            16,
+            "Sib"
+          ],
+          [
+            24,
+            "La"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 404.7
+      },
+      {
+        "text": "BENDIZEI AO SENHOR, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 440.7
+      },
+      {
+        "text": "ALELUIA, ALELUIA, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            9,
+            "La7"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 476.7
+      },
+      {
+        "text": "Aalelu, aleluuu ... uuia.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sib"
+          ],
+          [
+            22,
+            "La7"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 512.7,
+        "rubric": true,
+        "melisma": true
+      },
+      {
+        "text": "ALELU, ALELU, ALE E LU U IA ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La"
+          ],
+          [
+            16,
+            "Sib"
+          ],
+          [
+            24,
+            "La"
+          ]
+        ],
+        "sourcePage": 39,
+        "sourceY": 548.7
+      }
+    ],
+    "repeatBlocks": [
+      [
+        0,
+        2,
+        "BIS A."
+      ]
+    ],
+    "expansions": {
+      "12": [
+        2,
+        8
+      ],
+      "13": [
+        8,
+        10
+      ],
+      "15": [
+        0,
+        2
+      ]
+    },
+    "repeatExpandedCalls": true
+  },
+  {
+    "html": "COMO E MARAVILHOSO",
+    "title": "COMO É MARAVILHOSO",
+    "subtitle": "Salmo 133 (132) - Canto popular hebraico",
+    "color": "#FFFFFF",
+    "capo": "",
+    "sourcePages": [
+      67
+    ],
+    "rows": [
+      {
+        "text": "Como é maravilhoso",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            13,
+            "La-"
+          ],
+          [
+            17,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 92.7
+      },
+      {
+        "text": "estar com os irmãos!",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            16,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 116.7
+      },
+      {
+        "text": "COMO É MARAVILHOSO",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            14,
+            "La-"
+          ],
+          [
+            16,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 140.7
+      },
+      {
+        "text": "ESTAR COM OS IRMÃOS!",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            16,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 164.7
+      },
+      {
+        "text": "Maravilhoso     estar com os irmãos.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Do"
+          ],
+          [
+            6,
+            "Re7"
+          ],
+          [
+            10,
+            "Sol"
+          ],
+          [
+            16,
+            "Si-"
+          ],
+          [
+            32,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 188.7
+      },
+      {
+        "text": "MARAVILHOSO ESTAR COM OS IRMÃOS.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Do"
+          ],
+          [
+            6,
+            "Re7"
+          ],
+          [
+            9,
+            "Sol"
+          ],
+          [
+            12,
+            "Si-"
+          ],
+          [
+            28,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 212.7
+      },
+      {
+        "text": "É como óleo que desce",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            15,
+            "La-"
+          ],
+          [
+            19,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 248.7
+      },
+      {
+        "text": "pela barba de Aarão.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            16,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 272.7
+      },
+      {
+        "text": "É COMO ÓLEO QUE DESCE",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            16,
+            "La-"
+          ],
+          [
+            20,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 296.7
+      },
+      {
+        "text": "PELA BARBA DE AARÃO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            16,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 320.7
+      },
+      {
+        "text": "Como óleo    pela barba de Aarão.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Do"
+          ],
+          [
+            4,
+            "Re7"
+          ],
+          [
+            8,
+            "Sol"
+          ],
+          [
+            13,
+            "Si-"
+          ],
+          [
+            29,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 344.7
+      },
+      {
+        "text": "COMO ÓLEO PELA BARBA DE AARÃO.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Do"
+          ],
+          [
+            4,
+            "Re7"
+          ],
+          [
+            8,
+            "Sol"
+          ],
+          [
+            11,
+            "Si-"
+          ],
+          [
+            26,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 368.7
+      },
+      {
+        "text": "É como orvalho do Hermon",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            18,
+            "La-"
+          ],
+          [
+            21,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 404.7
+      },
+      {
+        "text": "sobre o monte Sião.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            15,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 428.7
+      },
+      {
+        "text": "É COMO ORVALHO DO HERMON",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            18,
+            "La-"
+          ],
+          [
+            21,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 452.7
+      },
+      {
+        "text": "SOBRE O MONTE SIÃO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            1,
+            "Si7"
+          ],
+          [
+            16,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 476.7
+      },
+      {
+        "text": "Como orvalho sobre o monte Sião.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Do"
+          ],
+          [
+            5,
+            "Re7"
+          ],
+          [
+            9,
+            "Sol"
+          ],
+          [
+            13,
+            "Si-"
+          ],
+          [
+            28,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 500.7
+      },
+      {
+        "text": "COMO ORVALHO SOBRE O MONTE SIÃO.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            1,
+            "Do"
+          ],
+          [
+            7,
+            "Re7"
+          ],
+          [
+            10,
+            "Sol"
+          ],
+          [
+            13,
+            "Si-"
+          ],
+          [
+            29,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 524.7
+      },
+      {
+        "text": "Ali o Senhor mandou",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            13,
+            "La-"
+          ],
+          [
+            16,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 92.7
+      },
+      {
+        "text": "toda a sua bênção.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            11,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 116.7
+      },
+      {
+        "text": "ALI O SENHOR MANDOU",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            13,
+            "La-"
+          ],
+          [
+            16,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 140.7
+      },
+      {
+        "text": "TODA A SUA BÊNÇÃO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            11,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 164.7
+      },
+      {
+        "text": "Mandou        toda a sua bênção.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            1,
+            "Do"
+          ],
+          [
+            4,
+            "Re7"
+          ],
+          [
+            9,
+            "Sol"
+          ],
+          [
+            15,
+            "Si-"
+          ],
+          [
+            25,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 188.7
+      },
+      {
+        "text": "MANDOU   TODA A SUA BÊNÇÃO",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            1,
+            "Do"
+          ],
+          [
+            3,
+            "Re7"
+          ],
+          [
+            5,
+            "Sol"
+          ],
+          [
+            9,
+            "Si-"
+          ],
+          [
+            20,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 212.7
+      },
+      {
+        "text": "Ali o Senhor nos deu",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            16,
+            "La-"
+          ],
+          [
+            19,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 248.7
+      },
+      {
+        "text": "a Vida para sempre.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            12,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 272.7
+      },
+      {
+        "text": "ALI O SENHOR NOS DEU",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            16,
+            "La-"
+          ],
+          [
+            19,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 296.7
+      },
+      {
+        "text": "A VIDA PARA SEMPRE.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            12,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 320.7
+      },
+      {
+        "text": "Nos    deu      a Vida para sempre.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            1,
+            "Do"
+          ],
+          [
+            4,
+            "Re7"
+          ],
+          [
+            9,
+            "Sol"
+          ],
+          [
+            15,
+            "Si-"
+          ],
+          [
+            28,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 344.7
+      },
+      {
+        "text": "NOS    DEU      A VIDA PARA SEMPRE.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            1,
+            "Do"
+          ],
+          [
+            5,
+            "Re7"
+          ],
+          [
+            9,
+            "Sol"
+          ],
+          [
+            15,
+            "Si-"
+          ],
+          [
+            28,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 368.7
+      },
+      {
+        "text": "COMO É MARAVILHOSO",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            13,
+            "La-"
+          ],
+          [
+            16,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 404.7
+      },
+      {
+        "text": "ESTAR COM OS IRMÃOS! ...",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            15,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 67,
+        "sourceY": 428.7
+      }
+    ],
+    "repeatBlocks": [],
+    "expansions": {
+      "30": [
+        2,
+        4
+      ]
+    },
+    "skipRowsExtended": [
+      31
+    ],
+    "footnote": "* Pode-se intercalar o refrão em hebreu: HINNEH MAH TOV UMAH NA ‘IYM, SHEVETH AHIYM GAM YAHADH"
+  },
+  {
+    "html": "ESCONDE ME NO OCULTO DE TUA TENDA",
+    "title": "ESCONDE-ME NO OCULTO DE TUA TENDA",
+    "subtitle": "Salmo 27 (26)",
+    "color": "#FFFFFF",
+    "capo": "",
+    "sourcePages": [
+      88
+    ],
+    "rows": [
+      {
+        "text": "ESCONDE-ME NO OCULTO DE TUA TENDA,",
+        "role": "S.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            28,
+            "Re"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 92.7
+      },
+      {
+        "text": "SOBRE TUA ROCHA LEVANTA-ME.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Do"
+          ],
+          [
+            24,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 116.7
+      },
+      {
+        "text": "Iahweh é minha luz e salvação,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            26,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 152.7
+      },
+      {
+        "text": "de quem terei medo?",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            14,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 176.7
+      },
+      {
+        "text": "Iahweh é o refúgio da minha vida,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            28,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 200.7
+      },
+      {
+        "text": "a quem temerei?",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            11,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 224.7
+      },
+      {
+        "text": "ESCONDE-ME ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 260.7
+      },
+      {
+        "text": "Quando avançam contra mim os malfeitores",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            34,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 296.7
+      },
+      {
+        "text": "para devorar a minha carne,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 320.7
+      },
+      {
+        "text": "são eles, meus adversários e inimigos,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            32,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 344.7
+      },
+      {
+        "text": "são eles que tropeçam e caem.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            25,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 368.7
+      },
+      {
+        "text": "ESCONDE-ME ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 404.7
+      },
+      {
+        "text": "Ainda que um exército acampe contra mim,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            36,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 440.7
+      },
+      {
+        "text": "meu coração não temerá;",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            19,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 464.7
+      },
+      {
+        "text": "ainda que uma guerra estoure contra mim,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            36,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 488.7
+      },
+      {
+        "text": "mesmo assim confiarei.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 512.7
+      },
+      {
+        "text": "ESCONDE-ME ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 548.7
+      },
+      {
+        "text": "Uma coisa peço a Iahweh,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            20,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 92.7
+      },
+      {
+        "text": "esta só estou buscando:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            17,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 116.7
+      },
+      {
+        "text": "habitar na casa de Iahweh",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            22,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 140.7
+      },
+      {
+        "text": "todos os dias de minha vida.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            22,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 164.7
+      },
+      {
+        "text": "ESCONDE-ME ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 200.7
+      },
+      {
+        "text": "Ele me oculta em sua tenda",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            20,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 236.7
+      },
+      {
+        "text": "no dia da desgraça;",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            13,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 260.7
+      },
+      {
+        "text": "ele me esconderá no oculto de sua tenda,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            34,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 284.7
+      },
+      {
+        "text": "sobre sua rocha me levantará.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            26,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 308.7
+      },
+      {
+        "text": "ESCONDE-ME ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 344.7
+      },
+      {
+        "text": "Escuta, Iahweh, meu grito,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            20,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 380.7
+      },
+      {
+        "text": "tem piedade, responde-me!",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            22,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 404.7
+      },
+      {
+        "text": "Sim, Iahweh, teu rosto procuro:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            26,
+            "Do"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 428.7
+      },
+      {
+        "text": "não me escondas teu rosto.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            20,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 452.7
+      },
+      {
+        "text": "ESCONDE-ME ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 88,
+        "sourceY": 488.7
+      }
+    ],
+    "repeatBlocks": [
+      [
+        0,
+        2,
+        "BIS A."
+      ]
+    ],
+    "expansions": {
+      "6": [
+        0,
+        2
+      ],
+      "11": [
+        0,
+        2
+      ],
+      "16": [
+        0,
+        2
+      ],
+      "21": [
+        0,
+        2
+      ],
+      "26": [
+        0,
+        2
+      ],
+      "31": [
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "html": "ESPEREI ESPEREI NO SENHOR",
+    "title": "ESPEREI, ESPEREI NO SENHOR",
+    "subtitle": "Salmo 40 (39)",
+    "color": "#FFFFFF",
+    "capo": "Braçadeira 3º Traste",
+    "sourcePages": [
+      90
+    ],
+    "rows": [
+      {
+        "text": "ESPEREI,",
+        "role": "S.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 92.7
+      },
+      {
+        "text": "ESPEREI NO SENHOR",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            14,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 116.7
+      },
+      {
+        "text": "E ELE PARA MIM SE INCLINOU,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            23,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 140.7
+      },
+      {
+        "text": "OUVIU MEU GRITO,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Fa"
+          ],
+          [
+            11,
+            "Mi7"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 164.7
+      },
+      {
+        "text": "TIROU-ME DA FOSSA DA MORTE.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Fa"
+          ],
+          [
+            21,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 188.7
+      },
+      {
+        "text": "Tirou-me de um charco de lodo;",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            25,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 224.7
+      },
+      {
+        "text": "assentou meus pés sobre a rocha,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            26,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 248.7
+      },
+      {
+        "text": "firmou meus passos",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "Fa"
+          ],
+          [
+            12,
+            "Mi7"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 272.7
+      },
+      {
+        "text": "num caminho, num caminho de salvação.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Fa"
+          ],
+          [
+            33,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 296.7
+      },
+      {
+        "text": "ESPEREI, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 332.7
+      },
+      {
+        "text": "Ele pôs na minha boca um canto novo,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            31,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 368.7
+      },
+      {
+        "text": "um hino de louvor ao nosso Deus;",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "La-"
+          ],
+          [
+            27,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 392.7
+      },
+      {
+        "text": "muitos verão e temerão,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            19,
+            "Mi7"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 416.7
+      },
+      {
+        "text": "e porão sua confiança no Senhor.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Fa"
+          ],
+          [
+            28,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 440.7
+      },
+      {
+        "text": "ESPEREI, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 476.7
+      },
+      {
+        "text": "Feliz o homem que espera no Senhor",
+        "role": "S.",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 93.2
+      },
+      {
+        "text": "e não se volta para os soberbos,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 105.7
+      },
+      {
+        "text": "que não segue o caminho da mentira,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 118.2
+      },
+      {
+        "text": "feliz o homem que espera no Senhor.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 130.7
+      },
+      {
+        "text": "ESPEREI, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 164.7
+      },
+      {
+        "text": "Senhor, quantas maravilhas,",
+        "role": "S.",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 200.7
+      },
+      {
+        "text": "quantos prodígios fizeste para conosco!",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 212.7
+      },
+      {
+        "text": "Eu quisera anunciá-los e proclamá-los,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 224.7
+      },
+      {
+        "text": "mas são demais para que os possa enumerar.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 236.7
+      },
+      {
+        "text": "ESPEREI, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 272.7
+      },
+      {
+        "text": "Não quiseste sacrifício nem oblação,",
+        "role": "S.",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 308.7
+      },
+      {
+        "text": "por isso abriste meu ouvido.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 320.7
+      },
+      {
+        "text": "Não exigiste vítimas pelas culpas,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 332.7
+      },
+      {
+        "text": "então eu disse: “Eis-me aqui que venho,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 344.7
+      },
+      {
+        "text": "para fazer a tua vontade!”",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 356.7
+      },
+      {
+        "text": "ESPEREI, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 392.7
+      },
+      {
+        "text": "No livro está escrito de mim:",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 428.7
+      },
+      {
+        "text": "que eu faça, Senhor, a tua vontade.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 440.7
+      },
+      {
+        "text": "Meu Deus, isto eu desejo:",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 452.7
+      },
+      {
+        "text": "tua palavra nas minhas entranhas!",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 90,
+        "sourceY": 464.7
+      },
+      {
+        "text": "ESPEREI, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 90,
+        "sourceY": 500.7
+      }
+    ],
+    "repeatBlocks": [
+      [
+        0,
+        5,
+        "BIS A."
+      ],
+      [
+        25,
+        30,
+        "BIS A."
+      ]
+    ],
+    "expansions": {
+      "9": [
+        0,
+        5
+      ],
+      "14": [
+        0,
+        5
+      ],
+      "19": [
+        0,
+        5
+      ],
+      "24": [
+        0,
+        5
+      ],
+      "30": [
+        0,
+        5
+      ],
+      "35": [
+        0,
+        5
+      ]
+    },
+    "plainRepeatResponse": true
+  }
+]

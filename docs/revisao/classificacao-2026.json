@@ -1,0 +1,8783 @@
+{
+  "edition": 2026,
+  "source": "Ressuscitou-2026.pdf",
+  "categoryPages": [
+    8
+  ],
+  "liturgicalIndexPages": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "groupToFlags": {
+    "ADVENTO - NATAL": [
+      "adve",
+      "nata"
+    ],
+    "QUARESMA": [
+      "quar"
+    ],
+    "PÁSCOA - PENTECOSTES": [
+      "pasc",
+      "pent"
+    ],
+    "CANTOS À VIRGEM": [
+      "virg"
+    ],
+    "CANTOS PARA AS CRIANÇAS": [
+      "cria"
+    ],
+    "CANTOS DE ENTRADA": [
+      "entr"
+    ],
+    "PAZ - APRESENTAÇÃO DAS OFERENDAS": [
+      "cpaz"
+    ],
+    "FRAÇÃO DO PÃO": [
+      "fpao"
+    ],
+    "COMUNHÃO COM O CÁLICE": [
+      "comu"
+    ],
+    "CANTO FINAL": [
+      "cfin"
+    ]
+  },
+  "unmanagedFlags": [
+    "laud"
+  ],
+  "colors": {
+    "1": "#FFFFFF",
+    "2": "#c7d7e8",
+    "3": "#d6ffba",
+    "4": "#FFF4B3"
+  },
+  "categoryChanges": [
+    {
+      "html": "A CORDEIRA DE DEUS",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "A VOZ DO MEU AMADO",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "ABBA PAI",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "AMEM AMEM AMEM",
+      "before": 1,
+      "after": 4
+    },
+    {
+      "html": "AS ARMAS DA LUZ",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "ASSIM FALA O AMEM",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "BENDITO SEJA DEUS",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "COMO CONDENADOS A MORTE",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "COMO OVELHA QUE VE",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "CONSOLAI O MEU POVO",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "EIS O MEU SERVO",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "ESCUTAI ILHAS DE LONGE",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "ESTENDO MINHAS MAOS",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "HINO A CARIDADE",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "JESUS PERCORRIA TODAS AS CIDADES",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "NAO RESISTAIS AO MAL",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "html": "NOLI ME TANGERE",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "O COMBATE ESCATOLOGICO",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "O ESPIRITO DO SENHOR ESTA SOBRE MIM",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "O LAGAREIRO",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "O MESSIAS LEAO PARA VENCER",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "O SENHOR ME DEU",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "SERMAO DA MONTANHA",
+      "before": 3,
+      "after": 1
+    },
+    {
+      "html": "TU COBRISTE DE VERGONHA A MORTE",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "html": "TU ES A MINHA ESPERANCA SENHOR",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "before": 2,
+      "after": 1
+    }
+  ],
+  "liturgicalFlagChanges": [
+    {
+      "html": "A CABANA DOS PASTORES",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "A CEIA DO CORDEIRO",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "entr": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "A CORDEIRA DE DEUS",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "A ESPADA",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        },
+        "virg": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "A POMBA VOOU",
+      "changes": {
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "A VITIMA PASCAL",
+      "changes": {
+        "entr": {
+          "before": true,
+          "after": false
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "A VOZ DO MEU AMADO",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "ABBA PAI",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "entr": {
+          "before": false,
+          "after": true
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "ACLAMAI O SENHOR",
+      "changes": {
+        "entr": {
+          "before": false,
+          "after": true
+        },
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "AKEDA",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "cria": {
+          "before": true,
+          "after": false
+        },
+        "fpao": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "ALELUIA BENDIZEI O SENHOR",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "ALELUIA JA CHEGOU O REINO",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "ALELUIA LOUVAI O SENHOR",
+      "changes": {
+        "pasc": {
+          "before": true,
+          "after": false
+        },
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "AS ARMAS DA LUZ",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        },
+        "nata": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "AVE MARIA II 1984",
+      "changes": {
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "BALAAO",
+      "changes": {
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "BENDIREI O SENHOR EM TODO TEMPO",
+      "changes": {
+        "comu": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "BENDITA ES TU MARIA",
+      "changes": {
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "BENDITO SEJA DEUS",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        },
+        "nata": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "CANTO DE MOISES",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "CARITAS CHRISTI URGET NOS",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "CHEGUE A TUA PRESENCA O MEU CLAMOR",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        },
+        "nata": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "COMO ESCORRE O MEL",
+      "changes": {
+        "pasc": {
+          "before": true,
+          "after": false
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "COMO LIRIO ENTRE OS ESPINHOS",
+      "changes": {
+        "pasc": {
+          "before": true,
+          "after": false
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "COMO O IMPULSO QUE SENTE A IRA",
+      "changes": {
+        "entr": {
+          "before": true,
+          "after": false
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "COMO OVELHA QUE VE",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        },
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "virg": {
+          "before": false,
+          "after": true
+        },
+        "fpao": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "COMO SAO AMAVEIS TUAS MORADAS",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "CONSOLAI O MEU POVO",
+      "changes": {
+        "nata": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "CORDEIRO DE DEUS",
+      "changes": {
+        "fpao": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "DAYENU",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "DEBORA",
+      "changes": {
+        "adve": {
+          "before": true,
+          "after": false
+        },
+        "virg": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "DIZ O SENHOR AO MEU SENHOR",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "DIZEI AOS DE CORACAO CANSADO",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        },
+        "nata": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "E PACIENTE",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "entr": {
+          "before": false,
+          "after": true
+        },
+        "comu": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "EIS O MEU SERVO",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "EIS QUE O NOSSO ESPELHO E O SENHOR",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        },
+        "pasc": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "EIS ME AQUI QUE VENHO EM BREVE",
+      "changes": {
+        "nata": {
+          "before": false,
+          "after": true
+        },
+        "entr": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "EM MEIO A MULTIDAO",
+      "changes": {
+        "entr": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "EM UMA NOITE ESCURA",
+      "changes": {
+        "fpao": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "ESCUTAI ILHAS DE LONGE",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        },
+        "nata": {
+          "before": false,
+          "after": true
+        },
+        "fpao": {
+          "before": true,
+          "after": false
+        },
+        "comu": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "ESPEREI ESPEREI NO SENHOR",
+      "changes": {
+        "adve": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "ESTE E O MEU MANDAMENTO",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "fpao": {
+          "before": true,
+          "after": false
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "ESTOU CHAMANDO TE",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "EU TE AMO SENHOR",
+      "changes": {
+        "entr": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "EXULTAI, JUSTOS, NO SENHOR",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "entr": {
+          "before": false,
+          "after": true
+        },
+        "comu": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "FILHAS DE JERUSALEM",
+      "changes": {
+        "fpao": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "FOGE O MEU AMADO",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "FORMOSA ES AMIGA MINHA",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "GLORIA A DEUS NO ALTO DO CEU",
+      "changes": {
+        "pasc": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "GRACAS A IAHWEH",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "GRITAI JUBILOSOS",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "entr": {
+          "before": true,
+          "after": false
+        },
+        "comu": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "HINO A CARIDADE",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "HINO A CRISTO LUZ",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "HINO A CRUZ GLORIOSA",
+      "changes": {
+        "entr": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "HINO A KENOSIS",
+      "changes": {
+        "quar": {
+          "before": true,
+          "after": false
+        },
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "HINO DA ASCENSAO",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "HINO DA PASCOA",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "HINO DO ADVENTO",
+      "changes": {
+        "nata": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "IDE E ANUNCIAI A MEUS IRMAOS",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "IMPROPERIOS",
+      "changes": {
+        "fpao": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "JA VEM O MEU DEUS",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "JERUSALEM RECONSTRUIDA",
+      "changes": {
+        "quar": {
+          "before": true,
+          "after": false
+        },
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "LEVA ME AO CEU",
+      "changes": {
+        "nata": {
+          "before": false,
+          "after": true
+        },
+        "pasc": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "LOUVAI O SENHOR NOS CEUS",
+      "changes": {
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "MARIA CASA DA BENCAO",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "entr": {
+          "before": true,
+          "after": false
+        },
+        "comu": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "MARIA MAE DA IGREJA",
+      "changes": {
+        "fpao": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "MARIA MAE DO CAMINHO ARDENTE",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        },
+        "nata": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "MARIA POMBA INCORRUPTA",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "MOSTRAR ME AS O CAMINHO DA VIDA",
+      "changes": {
+        "adve": {
+          "before": true,
+          "after": false
+        },
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "NAO ESTA AQUI RESSUSCITOU",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "NAO RESISTAIS AO MAL",
+      "changes": {
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "NOLI ME TANGERE",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "O CEUS CHOVEI DO ALTO",
+      "changes": {
+        "nata": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "O COMBATE ESCATOLOGICO",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "O DEUS TU ES MEU DEUS",
+      "changes": {
+        "adve": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "O ESPIRITO DO SENHOR ESTA SOBRE MIM",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "entr": {
+          "before": false,
+          "after": true
+        },
+        "comu": {
+          "before": false,
+          "after": true
+        },
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "O JESUS MEU AMOR",
+      "changes": {
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "O MESSIAS LEAO PARA VENCER",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "fpao": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "O MORTE ONDE ESTA TUA VITORIA",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "O POVO QUE CAMINHAVA NAS TREVAS",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "O SEMEADOR",
+      "changes": {
+        "entr": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "O SENHOR E MEU PASTOR",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "changes": {
+        "nata": {
+          "before": true,
+          "after": false
+        },
+        "cria": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "PENTECOSTES",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "POR QUE ESTA NOITE E DIFERENTE",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "cpaz": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "QUANDO DORMIA",
+      "changes": {
+        "pasc": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "QUANDO ISRAEL SAIU DO EGITO",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "QUANDO O SENHOR",
+      "changes": {
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "QUEM E ESTA QUE SOBE DO DESERTO",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "QUEM NOS SEPARARA",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "QUERO ANDAR",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "RESSUSCITOU",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "RESURREXIT",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "ROUBASTE MEU CORACAO",
+      "changes": {
+        "pasc": {
+          "before": true,
+          "after": false
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "SALVE RAINHA",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        },
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "SE VOS RESSUSCITASTES COM CRISTO",
+      "changes": {
+        "adve": {
+          "before": true,
+          "after": false
+        },
+        "pasc": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        },
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "SENHOR NAO ME CORRIJAS NA SUA COLERA",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "SERMAO DA MONTANHA",
+      "changes": {
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "SHEMA ISRAEL",
+      "changes": {
+        "pent": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "SHLOM-LEJ MARIAM",
+      "changes": {
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "SIAO MAE DE TODOS OS POVOS",
+      "changes": {
+        "virg": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "SO A SO",
+      "changes": {
+        "quar": {
+          "before": false,
+          "after": true
+        },
+        "fpao": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "STABAT MATER DOLOROSA",
+      "changes": {
+        "fpao": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "TU COBRISTE DE VERGONHA A MORTE",
+      "changes": {
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "TU ES A MINHA ESPERANCA SENHOR",
+      "changes": {
+        "nata": {
+          "before": false,
+          "after": true
+        },
+        "quar": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "TU ES FORMOSO",
+      "changes": {
+        "entr": {
+          "before": true,
+          "after": false
+        },
+        "comu": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "UM GRANDE SINAL",
+      "changes": {
+        "nata": {
+          "before": false,
+          "after": true
+        },
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "cfin": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        },
+        "pasc": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "URI URI URI URA",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "VAMOS JA PASTORES",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "VEM DO LIBANO",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        },
+        "comu": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "VEM ESPIRITO SANTO",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "VEM O SENHOR",
+      "changes": {
+        "nata": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "VEM FILHO DO HOMEM",
+      "changes": {
+        "nata": {
+          "before": false,
+          "after": true
+        },
+        "cfin": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "VENI CREATOR",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "VIRGEM DA MARAVILHA",
+      "changes": {
+        "adve": {
+          "before": false,
+          "after": true
+        },
+        "nata": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "VIVEI ALEGRES",
+      "changes": {
+        "nata": {
+          "before": false,
+          "after": true
+        },
+        "cria": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "VOS TOMAREI DENTRE AS NACOES",
+      "changes": {
+        "pasc": {
+          "before": false,
+          "after": true
+        },
+        "pent": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "html": "ZAQUEU",
+      "changes": {
+        "comu": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "html": "ESTAO ROTAS MINHAS ATADURAS",
+      "changes": {
+        "comu": {
+          "before": false,
+          "after": true
+        },
+        "cfin": {
+          "before": false,
+          "after": true
+        }
+      }
+    }
+  ],
+  "catalog": {
+    "A CABANA DOS PASTORES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "A CEIA DO CORDEIRO": {
+      "categoria": 3,
+      "color": "#d6ffba",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A CEIFA DAS NACOES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": true
+      }
+    },
+    "A CORDEIRA DE DEUS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A ESPADA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A MARCHA E DURA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A NINGUEM DEMOS OCASIAO DE TROPECO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A POMBA VOOU": {
+      "categoria": 3,
+      "color": "#d6ffba",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A TI LEVANTO MEUS OLHOS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A TI SENHOR LEVANTO MINHA ALMA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A TI SENHOR COM MINHA VOZ GRITANDO IMPLORO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A TI SENHOR SE DEVE LOUVOR EM SIAO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A VITIMA PASCAL": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "A VOZ DO MEU AMADO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "ABBA PAI": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ABRAAO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ACLAMAI O SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "AKEDA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ALCAI O PORTAS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ALELUIA INTERLECCIONAL": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ALELUIA PASCAL": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ALELUIA PASCAL II": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ALELUIA BENDIZEI O SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS PARA AS CRIANÇAS",
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": true,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ALELUIA JA CHEGOU O REINO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ALELUIA LOUVAI O SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "AMEM AMEM AMEM": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "AMO O SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ANAFORA DO SAL": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ANTIFONA - VERSICULO ANTES DO EVANGELHO": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "AO DESPERTAR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "AS ARMAS DA LUZ": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ASSIM FALA O AMEM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ATE QUANDO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "AVE MARIA I": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "AVE MARIA II 1984": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "BABILONIA CRIMINAL": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "BALAAO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": true
+      }
+    },
+    "BENCAO DA AGUA": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "BENCAO PENITENCIAL": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "BENDIREI O SENHOR EM TODO TEMPO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "BENDITA ES TU MARIA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS À VIRGEM",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "BENDITO SEJA DEUS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "BENDITO SEJAS SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "BENDIZE MINHA ALMA A IAHWEH": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "BENEDICTUS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CANTA A IAHWEH JERUSALEM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CANTICO DE ANA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CANTICO DOS TRES JOVENS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CANTO DE MOISES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CARITAS CHRISTI URGET NOS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CHEGUE A TUA PRESENCA O MEU CLAMOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "QUARESMA",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "COMO A CORCA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "COMO CONDENADOS A MORTE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "COMO E MARAVILHOSO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "COMO ESCORRE O MEL": {
+      "categoria": 3,
+      "color": "#d6ffba",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "COMO LIRIO ENTRE OS ESPINHOS": {
+      "categoria": 3,
+      "color": "#d6ffba",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "COMO O IMPULSO QUE SENTE A IRA": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "COMO OVELHA QUE VE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS À VIRGEM",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": true,
+        "pent": true,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "COMO SAO AMAVEIS TUAS MORADAS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CONFESSEI A TI O MEU PECADO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CONSOLAI O MEU POVO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS DE ENTRADA",
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": true
+      }
+    },
+    "CORDEIRO DE DEUS": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CREDO": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "DAYENU": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "DE PROFUNDIS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "DEBORA": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "DIA DE REPOUSO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": true
+      }
+    },
+    "DIANTE DOS ANJOS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "DIZ O SENHOR AO MEU SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "DIZEI AOS DE CORACAO CANSADO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "QUARESMA",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "E PACIENTE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS DE ENTRADA",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "EIS O MEU SERVO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "EIS QUE O NOSSO ESPELHO E O SENHOR": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "EIS ME AQUI QUE VENHO EM BREVE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ELI ELI LAMA SABATANI": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "EM MEIO A MULTIDAO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "EM TUA LUZ SENHOR VEMOS A LUZ": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "EM UMA NOITE ESCURA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ENCONTRARAM SE DOIS ANJOS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS PARA AS CRIANÇAS",
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": true,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ESCONDE ME NO OCULTO DE TUA TENDA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ESCUTAI ILHAS DE LONGE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS DE ENTRADA",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "ESPEREI ESPEREI NO SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ESTAO ROTAS MINHAS ATADURAS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "COMUNHÃO COM O CÁLICE",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": true
+      }
+    },
+    "ESTE E O DIA QUE FEZ O SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ESTE E O MEU MANDAMENTO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ESTENDO MINHAS MAOS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ESTOU CHAMANDO TE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "EU TE AMO SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "EU VENHO REUNIR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS DE ENTRADA",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": true
+      }
+    },
+    "EVENU SHALOM ALEHEM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "EXULTAI, JUSTOS, NO SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS DE ENTRADA",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "FELICIDADE PARA O HOMEM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "FELIZ O HOMEM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "FILHAS DE JERUSALEM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "FOGE O MEU AMADO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": true
+      }
+    },
+    "FORMOSA ES AMIGA MINHA": {
+      "categoria": 3,
+      "color": "#d6ffba",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "GLORIA A DEUS NO ALTO DO CEU": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "GRACAS A IAHWEH": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+        "COMUNHÃO COM O CÁLICE",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": true,
+        "cfin": true
+      }
+    },
+    "GRITAI JUBILOSOS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": true
+      }
+    },
+    "HINO A CARIDADE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "HINO A CRISTO LUZ": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "HINO A CRUZ GLORIOSA": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "HINO A KENOSIS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "HINO DA ASCENSAO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "HINO DA PASCOA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "HINO DO ADVENTO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "IAHWEH TU ES MEU DEUS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "IDE E ANUNCIAI A MEUS IRMAOS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": true
+      }
+    },
+    "IMPROPERIOS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "JA VEM O MEU DEUS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS PARA AS CRIANÇAS"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": true,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "JACO": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "JERUSALEM RECONSTRUIDA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "JESUS PERCORRIA TODAS AS CIDADES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "LADAINHA DE TODOS OS SANTOS": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "LADAINHA PENITENCIAL I": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "LADAINHA PENITENCIAL II": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "LEVA ME AO CEU": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "PÁSCOA - PENTECOSTES",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": true
+      }
+    },
+    "LEVANTO MEUS OLHOS PARA OS MONTES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "LOUVAI O SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "LOUVAI O SENHOR NOS CEUS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "MAGNIFICAT": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "MARIA DE JASNA GORA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "MARIA CASA DA BENCAO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS À VIRGEM",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "MARIA MAE DA IGREJA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS À VIRGEM",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "MARIA MAE DO CAMINHO ARDENTE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "MARIA PEQUENA MARIA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "MARIA POMBA INCORRUPTA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "MISERICORDIA MINHA MISERICORDIA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "MOSTRAR ME AS O CAMINHO DA VIDA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "MUITO ME PERSEGUIRAM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "NAO ESTA AQUI RESSUSCITOU": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "NAO HA NELE APARENCIA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "NAO RESISTAIS AO MAL": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "NAO SOFRAS PELOS MALVADOS": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "NINGUEM PODE SERVIR A DOIS SENHORES": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "NOLI ME TANGERE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O CEUS CHOVEI DO ALTO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O COMBATE ESCATOLOGICO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O DEUS PELO TEU NOME SALVA-ME": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O DEUS TU ES MEU DEUS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O ESPIRITO DO SENHOR ESTA SOBRE MIM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS DE ENTRADA",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "O JESUS MEU AMOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O LAGAREIRO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O MESMO DEUS": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "O MESSIAS LEAO PARA VENCER": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O MORTE ONDE ESTA TUA VITORIA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "O NESCIO PENSA QUE DEUS NAO EXISTE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O POVO QUE CAMINHAVA NAS TREVAS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O SEMEADOR": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O SENHOR ANUNCIA UMA NOTICIA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O SENHOR E MEU PASTOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "O SENHOR E MINHA LUZ E SALVACAO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O SENHOR ME DEU": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O SENHOR MEU CORACAO NAO E PRETENSIOSO": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "O SENHOR NOSSO DEUS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "OLHAI QUE ESTUPENDO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ORACAO EUCARISTICA II": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ORACAO EUCARISTICA IV": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "OS MENINOS DE BELEM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "PAI NOSSO": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "PARA TI MORADA SANTA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "PENTECOSTES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "POR AMOR DE MEUS AMIGOS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "POR QUE CONFABULAM AS NACOES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "POR QUE ESTA NOITE E DIFERENTE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS PARA AS CRIANÇAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": true,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "PORQUE O MEU JUGO E SUAVE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "PRECONIO PASCAL": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "PREFACIO DA PASCOA I": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "PREFACIO DO ADVENTO II": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "QUANDO DORMIA": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "QUANDO ISRAEL SAIU DO EGITO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "QUANDO O SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "QUE ESTUPENDO QUE ALEGRIA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "QUEM E ESTA QUE SOBE DO DESERTO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": true
+      }
+    },
+    "QUEM NOS SEPARARA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "QUERO ANDAR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": true
+      }
+    },
+    "QUERO CANTAR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "RESSUSCITOU": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "RESURREXIT": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ROUBASTE MEU CORACAO": {
+      "categoria": 3,
+      "color": "#d6ffba",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SALMODIA PARA AS ORACOES UNIVERSAIS": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SALMODIA PARA O SALMO RESPONSORIAL": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SALVE RAINHA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SALVE RAINHA DOS CEUS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SANTO 1982": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SANTO 1988": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SANTO HEBRAICO": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SANTO PALESTINA 74": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SANTO PALOMERAS 65": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SANTO ROMA 77": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SE HOJE ESCUTARDES A SUA VOZ": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SE ME REFUGIEI NO SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SE O SENHOR NAO CONSTROI A CASA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SE VOS RESSUSCITASTES COM CRISTO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SEDUZISTE ME SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SENHOR AJUDA ME A NAO DUVIDAR DE TI": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SENHOR NAO ME CORRIJAS NA SUA COLERA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SENHOR TU ME ESCRUTAS E CONHECES": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SENTA TE SOLITARIO E SILENCIOSO": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [
+        "QUARESMA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SERMAO DA MONTANHA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SHEMA ISRAEL": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SHLOM-LEJ MARIAM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SIAO MAE DE TODOS OS POVOS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "CANTOS À VIRGEM",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": true
+      }
+    },
+    "SO A SO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS À VIRGEM",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SOBE DEUS ENTRE ACLAMACOES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "PAZ - APRESENTAÇÃO DAS OFERENDAS"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": true,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "STABAT MATER DOLOROSA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS À VIRGEM",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "TE DEUM": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "TU COBRISTE DE VERGONHA A MORTE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS À VIRGEM",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "TU ES A MINHA ESPERANCA SENHOR": {
+      "categoria": 2,
+      "color": "#c7d7e8",
+      "groups": [
+        "ADVENTO - NATAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "TU ES DIGNO DE RECEBER O LIVRO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "FRAÇÃO DO PÃO"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": true,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "TU ES FORMOSO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "COMUNHÃO COM O CÁLICE",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": true
+      }
+    },
+    "TU QUE ES FIEL": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "UM GRANDE SINAL": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS À VIRGEM",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": true
+      }
+    },
+    "UM REBENTO BROTA DO TRONCO DE JESSE": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "PÁSCOA - PENTECOSTES",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "URI URI URI URA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS PARA AS CRIANÇAS"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": true,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "VAMOS JA PASTORES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS PARA AS CRIANÇAS"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": true,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "VEM DO LIBANO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS DE ENTRADA",
+        "COMUNHÃO COM O CÁLICE"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": false
+      }
+    },
+    "VEM ESPIRITO SANTO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "VEM O SENHOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "VEM FILHO DO HOMEM": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "VENI CREATOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "VIRGEM DA MARAVILHA": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "VIVEI ALEGRES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "VOS SOIS A LUZ DO MUNDO": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "VOS TOMAREI DENTRE AS NACOES": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ZAQUEU": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "QUARESMA",
+        "CANTOS DE ENTRADA"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": true,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CANTAI A DEUS": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ALEGRIA NASCEU O SALVADOR": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS PARA AS CRIANÇAS"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": true,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "CRISTO E A LUZ": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SEQUENCIA DE CORPUS CHRISTI": {
+      "categoria": 1,
+      "color": "#FFFFFF",
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ACLAMACOES AS ORACOES DOS FIEIS": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SALMODIA PARA O EVANGELHO": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SALMODIA PARA O ROSARIO": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SALMODIAS PARA AS LAUDES": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "ONDE TE ESCONDESTE AMADO": {
+      "categoria": 3,
+      "color": "#d6ffba",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "SUBA O ESPOSO AO LENHO DO SEU TALAMO": {
+      "categoria": 3,
+      "color": "#d6ffba",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    }
+  },
+  "newSongs": [
+    {
+      "title": "A espada",
+      "html": "A ESPADA",
+      "category": 1,
+      "color": "#FFFFFF",
+      "page": 24,
+      "groups": [
+        "QUARESMA",
+        "CANTOS À VIRGEM"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": true,
+        "pasc": false,
+        "pent": false,
+        "virg": true,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog"
+    },
+    {
+      "title": "Alegria, nasceu o Salvador",
+      "html": "ALEGRIA NASCEU O SALVADOR",
+      "category": 1,
+      "color": "#FFFFFF",
+      "page": 38,
+      "groups": [
+        "ADVENTO - NATAL",
+        "CANTOS PARA AS CRIANÇAS"
+      ],
+      "flags": {
+        "adve": true,
+        "nata": true,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": true,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog",
+      "id": 231,
+      "transcription": "reviewed_2026"
+    },
+    {
+      "title": "Cantai a Deus",
+      "html": "CANTAI A DEUS",
+      "category": 1,
+      "color": "#FFFFFF",
+      "page": 58,
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog",
+      "id": 45,
+      "transcription": "reviewed_2026"
+    },
+    {
+      "title": "Cristo é a luz",
+      "html": "CRISTO E A LUZ",
+      "category": 1,
+      "color": "#FFFFFF",
+      "page": 72,
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog",
+      "id": 232,
+      "transcription": "reviewed_2026"
+    },
+    {
+      "title": "Em tua luz, Senhor, vemos a luz",
+      "html": "EM TUA LUZ SENHOR VEMOS A LUZ",
+      "category": 1,
+      "color": "#FFFFFF",
+      "page": 85,
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog"
+    },
+    {
+      "title": "Sequência de Corpus Christi",
+      "html": "SEQUENCIA DE CORPUS CHRISTI",
+      "category": 1,
+      "color": "#FFFFFF",
+      "page": 176,
+      "groups": [
+        "PÁSCOA - PENTECOSTES"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": true,
+        "pent": true,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog",
+      "id": 233,
+      "transcription": "reviewed_2026"
+    },
+    {
+      "title": "Aclamações às orações dos fiéis",
+      "html": "ACLAMACOES AS ORACOES DOS FIEIS",
+      "category": 4,
+      "color": "#FFF4B3",
+      "page": 205,
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog",
+      "id": 234,
+      "transcription": "reviewed_2026"
+    },
+    {
+      "title": "Salmodia para o Evangelho",
+      "html": "SALMODIA PARA O EVANGELHO",
+      "category": 4,
+      "color": "#FFF4B3",
+      "page": 233,
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog",
+      "id": 235,
+      "transcription": "reviewed_2026"
+    },
+    {
+      "title": "Salmodia para o Rosário",
+      "html": "SALMODIA PARA O ROSARIO",
+      "category": 4,
+      "color": "#FFF4B3",
+      "page": 234,
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog",
+      "id": 236,
+      "transcription": "reviewed_2026"
+    },
+    {
+      "title": "Salmodia para as laudes",
+      "html": "SALMODIAS PARA AS LAUDES",
+      "category": 4,
+      "color": "#FFF4B3",
+      "page": 236,
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog",
+      "id": 237,
+      "transcription": "reviewed_2026"
+    },
+    {
+      "title": "Onde te escondeste, Amado",
+      "html": "ONDE TE ESCONDESTE AMADO",
+      "category": 3,
+      "color": "#d6ffba",
+      "page": 266,
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog",
+      "id": 238,
+      "transcription": "reviewed_2026"
+    },
+    {
+      "title": "Suba o esposo ao lenho do seu tálamo",
+      "html": "SUBA O ESPOSO AO LENHO DO SEU TALAMO",
+      "category": 3,
+      "color": "#d6ffba",
+      "page": 268,
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      },
+      "in_page8_insertions": true,
+      "status": "existing_catalog",
+      "id": 239,
+      "transcription": "reviewed_2026"
+    },
+    {
+      "title": "Carmen 63",
+      "html": "ESTAO ROTAS MINHAS ATADURAS",
+      "category": 1,
+      "color": "#FFFFFF",
+      "page": 63,
+      "groups": [
+        "COMUNHÃO COM O CÁLICE",
+        "CANTO FINAL"
+      ],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": true,
+        "cfin": true
+      },
+      "in_page8_insertions": false,
+      "status": "existing_catalog",
+      "mappingNote": "Same song: existing HTML subtitle explicitly identifies Carmen 63. Preserve its audio key."
+    }
+  ],
+  "liturgicalIndex": [
+    {
+      "title": "A cordeira de Deus",
+      "page": 23,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "A CORDEIRA DE DEUS"
+    },
+    {
+      "title": "Alegria, nasceu o Salvador",
+      "page": 38,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "ALEGRIA NASCEU O SALVADOR"
+    },
+    {
+      "title": "As armas da luz",
+      "page": 44,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "AS ARMAS DA LUZ"
+    },
+    {
+      "title": "Bendito seja Deus",
+      "page": 53,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "BENDITO SEJA DEUS"
+    },
+    {
+      "title": "Chegue à tua presença meu clamor",
+      "page": 64,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "CHEGUE A TUA PRESENCA O MEU CLAMOR"
+    },
+    {
+      "title": "Consolai o meu povo",
+      "page": 71,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "CONSOLAI O MEU POVO"
+    },
+    {
+      "title": "Dizei aos de coração cansado",
+      "page": 79,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "DIZEI AOS DE CORACAO CANSADO"
+    },
+    {
+      "title": "Eis-me aqui que venho em breve",
+      "page": 82,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "EIS ME AQUI QUE VENHO EM BREVE"
+    },
+    {
+      "title": "Escutai, ilhas de longe",
+      "page": 89,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "ESCUTAI ILHAS DE LONGE"
+    },
+    {
+      "title": "Hino do Advento",
+      "page": 110,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "HINO DO ADVENTO"
+    },
+    {
+      "title": "Já vem o meu Deus",
+      "page": 114,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "JA VEM O MEU DEUS"
+    },
+    {
+      "title": "Leva-me ao céu",
+      "page": 117,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "LEVA ME AO CEU"
+    },
+    {
+      "title": "Maria, mãe do caminho ardente",
+      "page": 125,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "MARIA MAE DO CAMINHO ARDENTE"
+    },
+    {
+      "title": "Ó céus, chovei do alto",
+      "page": 134,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "O CEUS CHOVEI DO ALTO"
+    },
+    {
+      "title": "O povo que caminhava nas trevas",
+      "page": 144,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "O POVO QUE CAMINHAVA NAS TREVAS"
+    },
+    {
+      "title": "Tu és a minha esperança, Senhor",
+      "page": 260,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "TU ES A MINHA ESPERANCA SENHOR"
+    },
+    {
+      "title": "Um grande sinal",
+      "page": 188,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "UM GRANDE SINAL"
+    },
+    {
+      "title": "Um rebento brota do tronco de Jessé",
+      "page": 189,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE"
+    },
+    {
+      "title": "Uri, uri, uri, urá",
+      "page": 190,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "URI URI URI URA"
+    },
+    {
+      "title": "Vamos já, pastores",
+      "page": 191,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "VAMOS JA PASTORES"
+    },
+    {
+      "title": "Vem, filho do homem",
+      "page": 194,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "VEM FILHO DO HOMEM"
+    },
+    {
+      "title": "Vem o Senhor",
+      "page": 195,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "VEM O SENHOR"
+    },
+    {
+      "title": "Virgem da maravilha",
+      "page": 197,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "VIRGEM DA MARAVILHA"
+    },
+    {
+      "title": "Vivei alegres",
+      "page": 198,
+      "indexPage": 15,
+      "group": "ADVENTO - NATAL",
+      "html": "VIVEI ALEGRES"
+    },
+    {
+      "title": "A espada",
+      "page": 24,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "A ESPADA"
+    },
+    {
+      "title": "A marcha é dura",
+      "page": 25,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "A MARCHA E DURA"
+    },
+    {
+      "title": "A ti levanto os meus olhos",
+      "page": 27,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "A TI LEVANTO MEUS OLHOS"
+    },
+    {
+      "title": "A ti, Senhor, com minha voz gritando imploro",
+      "page": 28,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "A TI SENHOR COM MINHA VOZ GRITANDO IMPLORO"
+    },
+    {
+      "title": "A ti, Senhor, levanto minha alma",
+      "page": 29,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "A TI SENHOR LEVANTO MINHA ALMA"
+    },
+    {
+      "title": "A ti, Senhor, se deve o louvor em Sião",
+      "page": 30,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "A TI SENHOR SE DEVE LOUVOR EM SIAO"
+    },
+    {
+      "title": "Amo o Senhor",
+      "page": 42,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "AMO O SENHOR"
+    },
+    {
+      "title": "Ao despertar",
+      "page": 43,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "AO DESPERTAR"
+    },
+    {
+      "title": "As armas da luz",
+      "page": 44,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "AS ARMAS DA LUZ"
+    },
+    {
+      "title": "Assim fala o amém",
+      "page": 45,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "ASSIM FALA O AMEM"
+    },
+    {
+      "title": "Até quando?",
+      "page": 46,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "ATE QUANDO"
+    },
+    {
+      "title": "Babilônia criminal",
+      "page": 49,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "BABILONIA CRIMINAL"
+    },
+    {
+      "title": "Bendirei o Senhor em todo tempo",
+      "page": 51,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "BENDIREI O SENHOR EM TODO TEMPO"
+    },
+    {
+      "title": "Bendize, minha alma, a Iahweh",
+      "page": 55,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "BENDIZE MINHA ALMA A IAHWEH"
+    },
+    {
+      "title": "Caritas Christi urget nos",
+      "page": 62,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "CARITAS CHRISTI URGET NOS"
+    },
+    {
+      "title": "Chegue à tua presença meu clamor",
+      "page": 64,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "CHEGUE A TUA PRESENCA O MEU CLAMOR"
+    },
+    {
+      "title": "Como a corça",
+      "page": 65,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "COMO A CORCA"
+    },
+    {
+      "title": "Como ovelha que vê",
+      "page": 68,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "COMO OVELHA QUE VE"
+    },
+    {
+      "title": "Como são amáveis tuas moradas",
+      "page": 69,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "COMO SAO AMAVEIS TUAS MORADAS"
+    },
+    {
+      "title": "Confessei a ti o meu pecado",
+      "page": 70,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "CONFESSEI A TI O MEU PECADO"
+    },
+    {
+      "title": "De profundis",
+      "page": 75,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "DE PROFUNDIS"
+    },
+    {
+      "title": "Dizei aos de coração cansado",
+      "page": 79,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "DIZEI AOS DE CORACAO CANSADO"
+    },
+    {
+      "title": "Eis o meu servo",
+      "page": 81,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "EIS O MEU SERVO"
+    },
+    {
+      "title": "Eis que o nosso espelho é o Senhor",
+      "page": 247,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "EIS QUE O NOSSO ESPELHO E O SENHOR"
+    },
+    {
+      "title": "Eli, Eli, lamá sabactani",
+      "page": 83,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "ELI ELI LAMA SABATANI"
+    },
+    {
+      "title": "Esperei, esperei no Senhor",
+      "page": 90,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "ESPEREI ESPEREI NO SENHOR"
+    },
+    {
+      "title": "Estendo minhas mãos",
+      "page": 93,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "ESTENDO MINHAS MAOS"
+    },
+    {
+      "title": "Estou chamando-te",
+      "page": 94,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "ESTOU CHAMANDO TE"
+    },
+    {
+      "title": "Filhas de Jerusalém",
+      "page": 101,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "FILHAS DE JERUSALEM"
+    },
+    {
+      "title": "Iahweh, tu és meu Deus",
+      "page": 111,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "IAHWEH TU ES MEU DEUS"
+    },
+    {
+      "title": "Impropérios",
+      "page": 113,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "IMPROPERIOS"
+    },
+    {
+      "title": "Levanto os meus olhos para os montes",
+      "page": 118,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "LEVANTO MEUS OLHOS PARA OS MONTES"
+    },
+    {
+      "title": "Maria, mãe da Igreja",
+      "page": 124,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "MARIA MAE DA IGREJA"
+    },
+    {
+      "title": "Maria, pequena Maria",
+      "page": 126,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "MARIA PEQUENA MARIA"
+    },
+    {
+      "title": "Misericórdia minha, misericórdia",
+      "page": 128,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "MISERICORDIA MINHA MISERICORDIA"
+    },
+    {
+      "title": "Não sofras pelos malvados",
+      "page": 251,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "NAO SOFRAS PELOS MALVADOS"
+    },
+    {
+      "title": "Ó Jesus, meu amor",
+      "page": 139,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "O JESUS MEU AMOR"
+    },
+    {
+      "title": "Por que confabulam as nações?",
+      "page": 155,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "POR QUE CONFABULAM AS NACOES"
+    },
+    {
+      "title": "Porque o meu jugo é suave",
+      "page": 157,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "PORQUE O MEU JUGO E SUAVE"
+    },
+    {
+      "title": "Quando o Senhor",
+      "page": 159,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "QUANDO O SENHOR"
+    },
+    {
+      "title": "Quem nos separará",
+      "page": 162,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "QUEM NOS SEPARARA"
+    },
+    {
+      "title": "Quero cantar",
+      "page": 164,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "QUERO CANTAR"
+    },
+    {
+      "title": "Salve rainha",
+      "page": 167,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "SALVE RAINHA"
+    },
+    {
+      "title": "Se me refugiei no Senhor",
+      "page": 170,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "SE ME REFUGIEI NO SENHOR"
+    },
+    {
+      "title": "Senhor, ajuda-me a não duvidar de ti",
+      "page": 174,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI"
+    },
+    {
+      "title": "Senhor, não me corrijas na tua cólera",
+      "page": 175,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "SENHOR NAO ME CORRIJAS NA SUA COLERA"
+    },
+    {
+      "title": "Senta-te solitário e silencioso",
+      "page": 258,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "SENTA TE SOLITARIO E SILENCIOSO"
+    },
+    {
+      "title": "Só a só",
+      "page": 181,
+      "indexPage": 15,
+      "group": "QUARESMA",
+      "html": "SO A SO"
+    },
+    {
+      "title": "Stabat mater dolorosa",
+      "page": 183,
+      "indexPage": 16,
+      "group": "QUARESMA",
+      "html": "STABAT MATER DOLOROSA"
+    },
+    {
+      "title": "Tu que és fiel",
+      "page": 187,
+      "indexPage": 16,
+      "group": "QUARESMA",
+      "html": "TU QUE ES FIEL"
+    },
+    {
+      "title": "Zaqueu",
+      "page": 201,
+      "indexPage": 16,
+      "group": "QUARESMA",
+      "html": "ZAQUEU"
+    },
+    {
+      "title": "A cabana dos pastores",
+      "page": 21,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "A CABANA DOS PASTORES"
+    },
+    {
+      "title": "À ceia do cordeiro",
+      "page": 261,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "A CEIA DO CORDEIRO"
+    },
+    {
+      "title": "À vitima Pascal",
+      "page": 31,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "A VITIMA PASCAL"
+    },
+    {
+      "title": "A voz do meu amado",
+      "page": 32,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "A VOZ DO MEU AMADO"
+    },
+    {
+      "title": "Abba, Pai",
+      "page": 33,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "ABBA PAI"
+    },
+    {
+      "title": "Akedá",
+      "page": 36,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "AKEDA"
+    },
+    {
+      "title": "Aleluia! Bendizei o Senhor",
+      "page": 39,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "ALELUIA BENDIZEI O SENHOR"
+    },
+    {
+      "title": "Aleluia! Já chegou o reino",
+      "page": 40,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "ALELUIA JA CHEGOU O REINO"
+    },
+    {
+      "title": "Canto de Moisés",
+      "page": 61,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "CANTO DE MOISES"
+    },
+    {
+      "title": "Como ovelha que vê",
+      "page": 68,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "COMO OVELHA QUE VE"
+    },
+    {
+      "title": "Cristo é a luz",
+      "page": 72,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "CRISTO E A LUZ"
+    },
+    {
+      "title": "Dayenu",
+      "page": 73,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "DAYENU"
+    },
+    {
+      "title": "Diz o Senhor ao meu Senhor",
+      "page": 78,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "DIZ O SENHOR AO MEU SENHOR"
+    },
+    {
+      "title": "É paciente",
+      "page": 80,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "E PACIENTE"
+    },
+    {
+      "title": "Este é o meu mandamento",
+      "page": 92,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "ESTE E O MEU MANDAMENTO"
+    },
+    {
+      "title": "Exultai, justos, no Senhor",
+      "page": 98,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "EXULTAI, JUSTOS, NO SENHOR"
+    },
+    {
+      "title": "Foge, ó meu amado",
+      "page": 102,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "FOGE O MEU AMADO"
+    },
+    {
+      "title": "Formosa és, amiga minha",
+      "page": 265,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "FORMOSA ES AMIGA MINHA"
+    },
+    {
+      "title": "Graças a Iahweh",
+      "page": 103,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "GRACAS A IAHWEH"
+    },
+    {
+      "title": "Gritai jubilosos",
+      "page": 104,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "GRITAI JUBILOSOS"
+    },
+    {
+      "title": "Hino à caridade",
+      "page": 105,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "HINO A CARIDADE"
+    },
+    {
+      "title": "Hino a Cristo luz",
+      "page": 106,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "HINO A CRISTO LUZ"
+    },
+    {
+      "title": "Hino à kenosis",
+      "page": 107,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "HINO A KENOSIS"
+    },
+    {
+      "title": "Hino da Ascensão",
+      "page": 108,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "HINO DA ASCENSAO"
+    },
+    {
+      "title": "Hino da Páscoa",
+      "page": 109,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "HINO DA PASCOA"
+    },
+    {
+      "title": "Ide e anunciai a meus irmãos",
+      "page": 112,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "IDE E ANUNCIAI A MEUS IRMAOS"
+    },
+    {
+      "title": "Jerusalém reconstruída",
+      "page": 115,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "JERUSALEM RECONSTRUIDA"
+    },
+    {
+      "title": "Leva-me ao céu",
+      "page": 117,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "LEVA ME AO CEU"
+    },
+    {
+      "title": "Maria, casa da bênção",
+      "page": 122,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "MARIA CASA DA BENCAO"
+    },
+    {
+      "title": "Maria, pomba incorrupta",
+      "page": 127,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "MARIA POMBA INCORRUPTA"
+    },
+    {
+      "title": "Mostrar-me-ás o caminho da vida",
+      "page": 129,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "MOSTRAR ME AS O CAMINHO DA VIDA"
+    },
+    {
+      "title": "Não está aqui, ressuscitou",
+      "page": 131,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "NAO ESTA AQUI RESSUSCITOU"
+    },
+    {
+      "title": "Noli me tangere",
+      "page": 133,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "NOLI ME TANGERE"
+    },
+    {
+      "title": "O combate escatológico",
+      "page": 135,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "O COMBATE ESCATOLOGICO"
+    },
+    {
+      "title": "O Espírito do Senhor está sobre mim",
+      "page": 138,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "O ESPIRITO DO SENHOR ESTA SOBRE MIM"
+    },
+    {
+      "title": "O Messias, Leão para vencer",
+      "page": 141,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "O MESSIAS LEAO PARA VENCER"
+    },
+    {
+      "title": "Ó morte, onde está a tua vitória?",
+      "page": 142,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "O MORTE ONDE ESTA TUA VITORIA"
+    },
+    {
+      "title": "O Senhor é meu pastor",
+      "page": 146,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "O SENHOR E MEU PASTOR"
+    },
+    {
+      "title": "Pentecostes",
+      "page": 153,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "PENTECOSTES"
+    },
+    {
+      "title": "Por que esta noite é diferente",
+      "page": 156,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "POR QUE ESTA NOITE E DIFERENTE"
+    },
+    {
+      "title": "Quando Israel saiu do Egito",
+      "page": 158,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "QUANDO ISRAEL SAIU DO EGITO"
+    },
+    {
+      "title": "Quem é esta que sobe do deserto",
+      "page": 161,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "QUEM E ESTA QUE SOBE DO DESERTO"
+    },
+    {
+      "title": "Quero andar",
+      "page": 163,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "QUERO ANDAR"
+    },
+    {
+      "title": "Ressuscitou",
+      "page": 165,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "RESSUSCITOU"
+    },
+    {
+      "title": "Resurrexit",
+      "page": 166,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "RESURREXIT"
+    },
+    {
+      "title": "Sequência de Corpus Christi",
+      "page": 176,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "SEQUENCIA DE CORPUS CHRISTI"
+    },
+    {
+      "title": "Sobe Deus entre aclamações",
+      "page": 182,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "SOBE DEUS ENTRE ACLAMACOES"
+    },
+    {
+      "title": "Tu cobriste de vergonha a morte",
+      "page": 184,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "TU COBRISTE DE VERGONHA A MORTE"
+    },
+    {
+      "title": "Tu és digno de receber o livro",
+      "page": 185,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "TU ES DIGNO DE RECEBER O LIVRO"
+    },
+    {
+      "title": "Um grande sinal",
+      "page": 188,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "UM GRANDE SINAL"
+    },
+    {
+      "title": "Um rebento brota do tronco de Jessé",
+      "page": 189,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE"
+    },
+    {
+      "title": "Vem do Líbano",
+      "page": 192,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "VEM DO LIBANO"
+    },
+    {
+      "title": "Vem, Espírito Santo",
+      "page": 193,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "VEM ESPIRITO SANTO"
+    },
+    {
+      "title": "Veni Creator",
+      "page": 196,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "VENI CREATOR"
+    },
+    {
+      "title": "Vos tomarei dentre as nações",
+      "page": 200,
+      "indexPage": 16,
+      "group": "PÁSCOA - PENTECOSTES",
+      "html": "VOS TOMAREI DENTRE AS NACOES"
+    },
+    {
+      "title": "A cordeira de Deus",
+      "page": 23,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "A CORDEIRA DE DEUS"
+    },
+    {
+      "title": "A espada",
+      "page": 24,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "A ESPADA"
+    },
+    {
+      "title": "Ave Maria I",
+      "page": 47,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "AVE MARIA I"
+    },
+    {
+      "title": "Ave Maria II (1984)",
+      "page": 48,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "AVE MARIA II 1984"
+    },
+    {
+      "title": "Bendita és tu, Maria",
+      "page": 52,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "BENDITA ES TU MARIA"
+    },
+    {
+      "title": "Como ovelha que vê",
+      "page": 68,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "COMO OVELHA QUE VE"
+    },
+    {
+      "title": "Débora",
+      "page": 246,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "DEBORA"
+    },
+    {
+      "title": "Magnificat",
+      "page": 121,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "MAGNIFICAT"
+    },
+    {
+      "title": "Maria, casa da bênção",
+      "page": 122,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "MARIA CASA DA BENCAO"
+    },
+    {
+      "title": "Maria de Jasna Göra",
+      "page": 123,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "MARIA DE JASNA GORA"
+    },
+    {
+      "title": "Maria, mãe da Igreja",
+      "page": 124,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "MARIA MAE DA IGREJA"
+    },
+    {
+      "title": "Maria, mãe do caminho ardente",
+      "page": 125,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "MARIA MAE DO CAMINHO ARDENTE"
+    },
+    {
+      "title": "Maria, pequena Maria",
+      "page": 126,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "MARIA PEQUENA MARIA"
+    },
+    {
+      "title": "Maria, pomba incorrupta",
+      "page": 127,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "MARIA POMBA INCORRUPTA"
+    },
+    {
+      "title": "Salve rainha",
+      "page": 167,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "SALVE RAINHA"
+    },
+    {
+      "title": "Salve rainha dos céus",
+      "page": 168,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "SALVE RAINHA DOS CEUS"
+    },
+    {
+      "title": "Shlom-lej Mariam",
+      "page": 179,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "SHLOM-LEJ MARIAM"
+    },
+    {
+      "title": "Sião, mãe de todos os povos",
+      "page": 180,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "SIAO MAE DE TODOS OS POVOS"
+    },
+    {
+      "title": "Só a só",
+      "page": 181,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "SO A SO"
+    },
+    {
+      "title": "Stabat mater dolorosa",
+      "page": 183,
+      "indexPage": 16,
+      "group": "CANTOS À VIRGEM",
+      "html": "STABAT MATER DOLOROSA"
+    },
+    {
+      "title": "Tu cobriste de vergonha a morte",
+      "page": 184,
+      "indexPage": 17,
+      "group": "CANTOS À VIRGEM",
+      "html": "TU COBRISTE DE VERGONHA A MORTE"
+    },
+    {
+      "title": "Um grande sinal",
+      "page": 188,
+      "indexPage": 17,
+      "group": "CANTOS À VIRGEM",
+      "html": "UM GRANDE SINAL"
+    },
+    {
+      "title": "Virgem da maravilha",
+      "page": 197,
+      "indexPage": 17,
+      "group": "CANTOS À VIRGEM",
+      "html": "VIRGEM DA MARAVILHA"
+    },
+    {
+      "title": "Alegria, nasceu o Salvador",
+      "page": 38,
+      "indexPage": 17,
+      "group": "CANTOS PARA AS CRIANÇAS",
+      "html": "ALEGRIA NASCEU O SALVADOR"
+    },
+    {
+      "title": "Aleluia! Bendizei o Senhor",
+      "page": 39,
+      "indexPage": 17,
+      "group": "CANTOS PARA AS CRIANÇAS",
+      "html": "ALELUIA BENDIZEI O SENHOR"
+    },
+    {
+      "title": "Encontraram-se dois anjos",
+      "page": 87,
+      "indexPage": 17,
+      "group": "CANTOS PARA AS CRIANÇAS",
+      "html": "ENCONTRARAM SE DOIS ANJOS"
+    },
+    {
+      "title": "Já vem o meu Deus",
+      "page": 114,
+      "indexPage": 17,
+      "group": "CANTOS PARA AS CRIANÇAS",
+      "html": "JA VEM O MEU DEUS"
+    },
+    {
+      "title": "Por que esta noite é diferente",
+      "page": 156,
+      "indexPage": 17,
+      "group": "CANTOS PARA AS CRIANÇAS",
+      "html": "POR QUE ESTA NOITE E DIFERENTE"
+    },
+    {
+      "title": "Uri, uri, uri, urá",
+      "page": 190,
+      "indexPage": 17,
+      "group": "CANTOS PARA AS CRIANÇAS",
+      "html": "URI URI URI URA"
+    },
+    {
+      "title": "Vamos já, pastores",
+      "page": 191,
+      "indexPage": 17,
+      "group": "CANTOS PARA AS CRIANÇAS",
+      "html": "VAMOS JA PASTORES"
+    },
+    {
+      "title": "Abba, Pai",
+      "page": 33,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "ABBA PAI"
+    },
+    {
+      "title": "Abraão",
+      "page": 34,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "ABRAAO"
+    },
+    {
+      "title": "Aclamai o Senhor",
+      "page": 35,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "ACLAMAI O SENHOR"
+    },
+    {
+      "title": "Alçai ó portas",
+      "page": 37,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "ALCAI O PORTAS"
+    },
+    {
+      "title": "Amém, amém, amém",
+      "page": 207,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "AMEM AMEM AMEM"
+    },
+    {
+      "title": "Bendita és tu, Maria",
+      "page": 52,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "BENDITA ES TU MARIA"
+    },
+    {
+      "title": "Chegue à tua presença meu clamor",
+      "page": 64,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "CHEGUE A TUA PRESENCA O MEU CLAMOR"
+    },
+    {
+      "title": "Como são amáveis tuas moradas",
+      "page": 69,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "COMO SAO AMAVEIS TUAS MORADAS"
+    },
+    {
+      "title": "Consolai o meu povo",
+      "page": 71,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "CONSOLAI O MEU POVO"
+    },
+    {
+      "title": "Dizei aos de coração cansado",
+      "page": 79,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "DIZEI AOS DE CORACAO CANSADO"
+    },
+    {
+      "title": "É paciente",
+      "page": 80,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "E PACIENTE"
+    },
+    {
+      "title": "Eis-me aqui que venho em breve",
+      "page": 82,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "EIS ME AQUI QUE VENHO EM BREVE"
+    },
+    {
+      "title": "Escutai, ilhas de longe",
+      "page": 89,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "ESCUTAI ILHAS DE LONGE"
+    },
+    {
+      "title": "Eu te amo, Senhor",
+      "page": 95,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "EU TE AMO SENHOR"
+    },
+    {
+      "title": "Eu venho reunir",
+      "page": 96,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "EU VENHO REUNIR"
+    },
+    {
+      "title": "Exultai, justos, no Senhor",
+      "page": 98,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "EXULTAI, JUSTOS, NO SENHOR"
+    },
+    {
+      "title": "Levanto os meus olhos para os montes",
+      "page": 118,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "LEVANTO MEUS OLHOS PARA OS MONTES"
+    },
+    {
+      "title": "Louvai o Senhor",
+      "page": 119,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "LOUVAI O SENHOR"
+    },
+    {
+      "title": "Mostrar-me-ás o caminho da vida",
+      "page": 129,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "MOSTRAR ME AS O CAMINHO DA VIDA"
+    },
+    {
+      "title": "O combate escatológico",
+      "page": 135,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "O COMBATE ESCATOLOGICO"
+    },
+    {
+      "title": "O Espírito do Senhor está sobre mim",
+      "page": 138,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "O ESPIRITO DO SENHOR ESTA SOBRE MIM"
+    },
+    {
+      "title": "O Senhor anuncia uma notícia",
+      "page": 145,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "O SENHOR ANUNCIA UMA NOTICIA"
+    },
+    {
+      "title": "Ó Senhor, nosso Deus",
+      "page": 149,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "O SENHOR NOSSO DEUS"
+    },
+    {
+      "title": "Para ti morada santa",
+      "page": 152,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "PARA TI MORADA SANTA"
+    },
+    {
+      "title": "Quando o Senhor",
+      "page": 159,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "QUANDO O SENHOR"
+    },
+    {
+      "title": "Se o Senhor não constrói a casa",
+      "page": 171,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "SE O SENHOR NAO CONSTROI A CASA"
+    },
+    {
+      "title": "Tu que és fiel",
+      "page": 187,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "TU QUE ES FIEL"
+    },
+    {
+      "title": "Vem do Líbano",
+      "page": 192,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "VEM DO LIBANO"
+    },
+    {
+      "title": "Vos tomarei dentre as nações",
+      "page": 200,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "VOS TOMAREI DENTRE AS NACOES"
+    },
+    {
+      "title": "Zaqueu",
+      "page": 201,
+      "indexPage": 17,
+      "group": "CANTOS DE ENTRADA",
+      "html": "ZAQUEU"
+    },
+    {
+      "title": "Aleluia! Bendizei o Senhor",
+      "page": 39,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "ALELUIA BENDIZEI O SENHOR"
+    },
+    {
+      "title": "Balaão",
+      "page": 50,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "BALAAO"
+    },
+    {
+      "title": "Como é maravilhoso",
+      "page": 67,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "COMO E MARAVILHOSO"
+    },
+    {
+      "title": "Consolai o meu povo",
+      "page": 71,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "CONSOLAI O MEU POVO"
+    },
+    {
+      "title": "Dayenu",
+      "page": 73,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "DAYENU"
+    },
+    {
+      "title": "Encontraram-se dois anjos",
+      "page": 87,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "ENCONTRARAM SE DOIS ANJOS"
+    },
+    {
+      "title": "Evenu shalom alehem",
+      "page": 97,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "EVENU SHALOM ALEHEM"
+    },
+    {
+      "title": "Graças a Iahweh",
+      "page": 103,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "GRACAS A IAHWEH"
+    },
+    {
+      "title": "Jerusalém reconstruída",
+      "page": 115,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "JERUSALEM RECONSTRUIDA"
+    },
+    {
+      "title": "Olhai que estupendo",
+      "page": 150,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "OLHAI QUE ESTUPENDO"
+    },
+    {
+      "title": "Por amor de meus amigos",
+      "page": 154,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "POR AMOR DE MEUS AMIGOS"
+    },
+    {
+      "title": "Que estupendo, que alegria",
+      "page": 160,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "QUE ESTUPENDO QUE ALEGRIA"
+    },
+    {
+      "title": "Sobe Deus entre aclamações",
+      "page": 182,
+      "indexPage": 17,
+      "group": "PAZ - APRESENTAÇÃO DAS OFERENDAS",
+      "html": "SOBE DEUS ENTRE ACLAMACOES"
+    },
+    {
+      "title": "Como ovelha que vê",
+      "page": 68,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "COMO OVELHA QUE VE"
+    },
+    {
+      "title": "Eis o meu servo",
+      "page": 81,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "EIS O MEU SERVO"
+    },
+    {
+      "title": "Estendo minhas mãos",
+      "page": 93,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "ESTENDO MINHAS MAOS"
+    },
+    {
+      "title": "Filhas de Jerusalém",
+      "page": 101,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "FILHAS DE JERUSALEM"
+    },
+    {
+      "title": "Hino à Kenosis",
+      "page": 107,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "HINO A KENOSIS"
+    },
+    {
+      "title": "Impropérios",
+      "page": 113,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "IMPROPERIOS"
+    },
+    {
+      "title": "Maria, mãe da Igreja",
+      "page": 124,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "MARIA MAE DA IGREJA"
+    },
+    {
+      "title": "Não há nele aparência",
+      "page": 132,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "NAO HA NELE APARENCIA"
+    },
+    {
+      "title": "Ó Jesus, meu amor",
+      "page": 139,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "O JESUS MEU AMOR"
+    },
+    {
+      "title": "O lagareiro",
+      "page": 140,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "O LAGAREIRO"
+    },
+    {
+      "title": "O Messias, leão para vencer",
+      "page": 141,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "O MESSIAS LEAO PARA VENCER"
+    },
+    {
+      "title": "O Senhor me deu",
+      "page": 148,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "O SENHOR ME DEU"
+    },
+    {
+      "title": "Só a só",
+      "page": 181,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "SO A SO"
+    },
+    {
+      "title": "Stabat mater dolorosa",
+      "page": 183,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "STABAT MATER DOLOROSA"
+    },
+    {
+      "title": "Tu cobriste de vergonha a morte",
+      "page": 184,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "TU COBRISTE DE VERGONHA A MORTE"
+    },
+    {
+      "title": "Tu és digno de receber o livro",
+      "page": 185,
+      "indexPage": 17,
+      "group": "FRAÇÃO DO PÃO",
+      "html": "TU ES DIGNO DE RECEBER O LIVRO"
+    },
+    {
+      "title": "A cabana dos pastores",
+      "page": 21,
+      "indexPage": 17,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "A CABANA DOS PASTORES"
+    },
+    {
+      "title": "A voz do meu amado",
+      "page": 32,
+      "indexPage": 17,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "A VOZ DO MEU AMADO"
+    },
+    {
+      "title": "Bendirei o Senhor em todo tempo",
+      "page": 51,
+      "indexPage": 17,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "BENDIREI O SENHOR EM TODO TEMPO"
+    },
+    {
+      "title": "Carmen 63",
+      "page": 63,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "ESTAO ROTAS MINHAS ATADURAS"
+    },
+    {
+      "title": "É paciente",
+      "page": 80,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "E PACIENTE"
+    },
+    {
+      "title": "Em meio a multidão",
+      "page": 84,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "EM MEIO A MULTIDAO"
+    },
+    {
+      "title": "Escutai, ilhas de longe",
+      "page": 89,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "ESCUTAI ILHAS DE LONGE"
+    },
+    {
+      "title": "Exultai, justos, no Senhor",
+      "page": 98,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "EXULTAI, JUSTOS, NO SENHOR"
+    },
+    {
+      "title": "Foge, ó meu amado",
+      "page": 102,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "FOGE O MEU AMADO"
+    },
+    {
+      "title": "Graças a Iahweh",
+      "page": 103,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "GRACAS A IAHWEH"
+    },
+    {
+      "title": "Gritai jubilosos",
+      "page": 104,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "GRITAI JUBILOSOS"
+    },
+    {
+      "title": "Hino à caridade",
+      "page": 105,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "HINO A CARIDADE"
+    },
+    {
+      "title": "Maria, casa da bênção",
+      "page": 122,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "MARIA CASA DA BENCAO"
+    },
+    {
+      "title": "O Espírito do Senhor está sobre mim",
+      "page": 138,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "O ESPIRITO DO SENHOR ESTA SOBRE MIM"
+    },
+    {
+      "title": "O mesmo Deus",
+      "page": 253,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "O MESMO DEUS"
+    },
+    {
+      "title": "Ó morte, onde está a tua vitória?",
+      "page": 142,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "O MORTE ONDE ESTA TUA VITORIA"
+    },
+    {
+      "title": "O Senhor é meu pastor",
+      "page": 146,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "O SENHOR E MEU PASTOR"
+    },
+    {
+      "title": "Pentecostes",
+      "page": 153,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "PENTECOSTES"
+    },
+    {
+      "title": "Quando dormia",
+      "page": 256,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "QUANDO DORMIA"
+    },
+    {
+      "title": "Quem é esta que sobe do deserto",
+      "page": 161,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "QUEM E ESTA QUE SOBE DO DESERTO"
+    },
+    {
+      "title": "Quem nos separará",
+      "page": 162,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "QUEM NOS SEPARARA"
+    },
+    {
+      "title": "Ressuscitou",
+      "page": 165,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "RESSUSCITOU"
+    },
+    {
+      "title": "Tu és formoso",
+      "page": 186,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "TU ES FORMOSO"
+    },
+    {
+      "title": "Um rebento brota do tronco de Jessé",
+      "page": 189,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE"
+    },
+    {
+      "title": "Vem do Líbano",
+      "page": 192,
+      "indexPage": 18,
+      "group": "COMUNHÃO COM O CÁLICE",
+      "html": "VEM DO LIBANO"
+    },
+    {
+      "title": "A ceifa das nações",
+      "page": 22,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "A CEIFA DAS NACOES"
+    },
+    {
+      "title": "Balaão",
+      "page": 50,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "BALAAO"
+    },
+    {
+      "title": "Carmen 63",
+      "page": 63,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "ESTAO ROTAS MINHAS ATADURAS"
+    },
+    {
+      "title": "Consolai o meu povo",
+      "page": 71,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "CONSOLAI O MEU POVO"
+    },
+    {
+      "title": "Dia de repouso",
+      "page": 76,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "DIA DE REPOUSO"
+    },
+    {
+      "title": "Eu venho reunir",
+      "page": 96,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "EU VENHO REUNIR"
+    },
+    {
+      "title": "Foge, ó meu amado",
+      "page": 102,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "FOGE O MEU AMADO"
+    },
+    {
+      "title": "Graças a Iahweh",
+      "page": 103,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "GRACAS A IAHWEH"
+    },
+    {
+      "title": "Gritai jubilosos",
+      "page": 104,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "GRITAI JUBILOSOS"
+    },
+    {
+      "title": "Ide e anunciai a meus irmãos",
+      "page": 112,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "IDE E ANUNCIAI A MEUS IRMAOS"
+    },
+    {
+      "title": "Leva-me ao céu",
+      "page": 117,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "LEVA ME AO CEU"
+    },
+    {
+      "title": "Quem é esta que sobe do deserto",
+      "page": 161,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "QUEM E ESTA QUE SOBE DO DESERTO"
+    },
+    {
+      "title": "Quero andar",
+      "page": 163,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "QUERO ANDAR"
+    },
+    {
+      "title": "Sião, mãe de todos os povos",
+      "page": 180,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "SIAO MAE DE TODOS OS POVOS"
+    },
+    {
+      "title": "Tu és formoso",
+      "page": 186,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "TU ES FORMOSO"
+    },
+    {
+      "title": "Um grande sinal",
+      "page": 188,
+      "indexPage": 18,
+      "group": "CANTO FINAL",
+      "html": "UM GRANDE SINAL"
+    }
+  ],
+  "retiredCatalog": {
+    "HINO DAS LAUDES DE PENTECOSTES": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "PREFACIO DO ADVENTO I": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    },
+    "PREFACIO DO NATAL DO SENHOR I": {
+      "categoria": 4,
+      "color": "#FFF4B3",
+      "groups": [],
+      "flags": {
+        "adve": false,
+        "nata": false,
+        "quar": false,
+        "pasc": false,
+        "pent": false,
+        "virg": false,
+        "cria": false,
+        "entr": false,
+        "cpaz": false,
+        "fpao": false,
+        "comu": false,
+        "cfin": false
+      }
+    }
+  }
+}

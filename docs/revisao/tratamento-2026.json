@@ -1,0 +1,4214 @@
+{
+  "edition": 2026,
+  "scope": "Address pronouns, possessives, imperatives and related verb agreement; not a complete certification of lyrics/chords.",
+  "catalogSize": 236,
+  "variantsExamined": 472,
+  "coverage": [
+    {
+      "html": "A CABANA DOS PASTORES",
+      "pdfPage": 21,
+      "pdfTitle": "A CABANA DOS PASTORES",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 10,
+        "extended": 14
+      }
+    },
+    {
+      "html": "A CEIA DO CORDEIRO",
+      "pdfPage": 261,
+      "pdfTitle": "À CEIA DO CORDEIRO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "A CEIFA DAS NACOES",
+      "pdfPage": 22,
+      "pdfTitle": "A CEIFA DAS NAÇÕES",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 11,
+        "extended": 14
+      }
+    },
+    {
+      "html": "A CORDEIRA DE DEUS",
+      "pdfPage": 23,
+      "pdfTitle": "A CORDEIRA DE DEUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "A ESPADA",
+      "pdfPage": 24,
+      "pdfTitle": "A ESPADA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 3
+      }
+    },
+    {
+      "html": "A MARCHA E DURA",
+      "pdfPage": 25,
+      "pdfTitle": "A MARCHA É DURA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "A NINGUEM DEMOS OCASIAO DE TROPECO",
+      "pdfPage": 26,
+      "pdfTitle": "A NINGUÉM DEMOS OCASIÃO DE TROPEÇO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 7
+      }
+    },
+    {
+      "html": "A POMBA VOOU",
+      "pdfPage": 262,
+      "pdfTitle": "A POMBA VOOU",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "A TI LEVANTO MEUS OLHOS",
+      "pdfPage": 27,
+      "pdfTitle": "A TI LEVANTO MEUS OLHOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 8
+      }
+    },
+    {
+      "html": "A TI SENHOR LEVANTO MINHA ALMA",
+      "pdfPage": 29,
+      "pdfTitle": "A TI, SENHOR, LEVANTO MINHA ALMA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 15,
+        "extended": 17
+      }
+    },
+    {
+      "html": "A TI SENHOR COM MINHA VOZ GRITANDO IMPLORO",
+      "pdfPage": 28,
+      "pdfTitle": "A TI, SENHOR, COM MINHA VOZ GRITANDO IMPLORO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 14,
+        "extended": 22
+      }
+    },
+    {
+      "html": "A TI SENHOR SE DEVE LOUVOR EM SIAO",
+      "pdfPage": 30,
+      "pdfTitle": "A TI, SENHOR, SE DEVE O LOUVOR EM SIÃO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 17,
+        "extended": 17
+      }
+    },
+    {
+      "html": "A VITIMA PASCAL",
+      "pdfPage": 31,
+      "pdfTitle": "À VÍTIMA PASCAL",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "A VOZ DO MEU AMADO",
+      "pdfPage": 32,
+      "pdfTitle": "A VOZ DO MEU AMADO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 6,
+        "extended": 14
+      }
+    },
+    {
+      "html": "ABBA PAI",
+      "pdfPage": 33,
+      "pdfTitle": "ABBA, PAI",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "ABRAAO",
+      "pdfPage": 34,
+      "pdfTitle": "ABRAÃO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 15,
+        "extended": 15
+      }
+    },
+    {
+      "html": "ACLAMAI O SENHOR",
+      "pdfPage": 35,
+      "pdfTitle": "ACLAMAI O SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "AKEDA",
+      "pdfPage": 36,
+      "pdfTitle": "AKEDÁ",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "ALCAI O PORTAS",
+      "pdfPage": 37,
+      "pdfTitle": "ALÇAI, Ó PORTAS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 6,
+        "extended": 8
+      }
+    },
+    {
+      "html": "ALELUIA INTERLECCIONAL",
+      "pdfPage": 203,
+      "pdfTitle": "ACLAMAÇÃO AO EVANGELHO I",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 3
+      }
+    },
+    {
+      "html": "ALELUIA PASCAL",
+      "pdfPage": 206,
+      "pdfTitle": "ALELUIA PASCAL",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "ALELUIA PASCAL II",
+      "pdfPage": 207,
+      "pdfTitle": "ALELUIA PASCAL II",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "ALELUIA BENDIZEI O SENHOR",
+      "pdfPage": 39,
+      "pdfTitle": "ALELUIA! BENDIZEI O SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 8
+      }
+    },
+    {
+      "html": "ALELUIA JA CHEGOU O REINO",
+      "pdfPage": 40,
+      "pdfTitle": "ALELUIA! JÁ CHEGOU O REINO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "ALELUIA LOUVAI O SENHOR",
+      "pdfPage": 41,
+      "pdfTitle": "ALELUIA! LOUVAI O SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "AMEM AMEM AMEM",
+      "pdfPage": 208,
+      "pdfTitle": "AMÉM, AMÉM, AMÉM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "AMO O SENHOR",
+      "pdfPage": 42,
+      "pdfTitle": "AMO O SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 6,
+        "extended": 11
+      }
+    },
+    {
+      "html": "ANAFORA DO SAL",
+      "pdfPage": 209,
+      "pdfTitle": "ANÁFORA DO SAL",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 18,
+        "extended": 20
+      }
+    },
+    {
+      "html": "ANTIFONA - VERSICULO ANTES DO EVANGELHO",
+      "pdfPage": 204,
+      "pdfTitle": "ACLAMAÇÃO AO EVANGELHO II",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 4
+      }
+    },
+    {
+      "html": "AO DESPERTAR",
+      "pdfPage": 43,
+      "pdfTitle": "AO DESPERTAR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 19,
+        "extended": 27
+      }
+    },
+    {
+      "html": "AS ARMAS DA LUZ",
+      "pdfPage": 44,
+      "pdfTitle": "AS ARMAS DA LUZ",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 4
+      }
+    },
+    {
+      "html": "ASSIM FALA O AMEM",
+      "pdfPage": 45,
+      "pdfTitle": "ASSIM FALA O AMÉM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 7
+      }
+    },
+    {
+      "html": "ATE QUANDO",
+      "pdfPage": 46,
+      "pdfTitle": "ATÉ QUANDO?",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 3
+      }
+    },
+    {
+      "html": "AVE MARIA I",
+      "pdfPage": 47,
+      "pdfTitle": "AVE MARIA I",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 3
+      }
+    },
+    {
+      "html": "AVE MARIA II 1984",
+      "pdfPage": 48,
+      "pdfTitle": "AVE MARIA II (1984)",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 3
+      }
+    },
+    {
+      "html": "BABILONIA CRIMINAL",
+      "pdfPage": 49,
+      "pdfTitle": "BABILÔNIA CRIMINAL",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 6,
+        "extended": 8
+      }
+    },
+    {
+      "html": "BALAAO",
+      "pdfPage": 50,
+      "pdfTitle": "BALAÃO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 15
+      }
+    },
+    {
+      "html": "BENCAO DA AGUA",
+      "pdfPage": 210,
+      "pdfTitle": "BÊNÇÃO DA ÁGUA",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 8,
+        "extended": 8
+      }
+    },
+    {
+      "html": "BENCAO PENITENCIAL",
+      "pdfPage": 212,
+      "pdfTitle": "CELEBRAÇÃO PENITENCIAL",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 8
+      }
+    },
+    {
+      "html": "BENDIREI O SENHOR EM TODO TEMPO",
+      "pdfPage": 51,
+      "pdfTitle": "BENDIREI O SENHOR EM TODO TEMPO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "BENDITA ES TU MARIA",
+      "pdfPage": 52,
+      "pdfTitle": "BENDITA ÉS TU, MARIA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 10
+      }
+    },
+    {
+      "html": "BENDITO SEJA DEUS",
+      "pdfPage": 53,
+      "pdfTitle": "BENDITO SEJA DEUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "BENDITO SEJAS SENHOR",
+      "pdfPage": 54,
+      "pdfTitle": "BENDITO SEJAS, SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 12,
+        "extended": 17
+      }
+    },
+    {
+      "html": "BENDIZE MINHA ALMA A IAHWEH",
+      "pdfPage": 55,
+      "pdfTitle": "BENDIZE, MINHA ALMA, A lAHWEH",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 5,
+        "extended": 5
+      }
+    },
+    {
+      "html": "BENEDICTUS",
+      "pdfPage": 56,
+      "pdfTitle": "BENEDICTUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "CANTA A IAHWEH JERUSALEM",
+      "pdfPage": 57,
+      "pdfTitle": "CANTA A IAHWEH, JERUSALÉM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 14
+      }
+    },
+    {
+      "html": "CANTICO DE ANA",
+      "pdfPage": 59,
+      "pdfTitle": "CÂNTICO DE ANA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "CANTICO DOS TRES JOVENS",
+      "pdfPage": 60,
+      "pdfTitle": "CÂNTICO DOS TRÊS JOVENS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "CANTO DE MOISES",
+      "pdfPage": 61,
+      "pdfTitle": "CANTO DE MOISÉS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 8,
+        "extended": 8
+      }
+    },
+    {
+      "html": "CARITAS CHRISTI URGET NOS",
+      "pdfPage": 62,
+      "pdfTitle": "CARITAS CHRISTI URGET NOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "CHEGUE A TUA PRESENCA O MEU CLAMOR",
+      "pdfPage": 64,
+      "pdfTitle": "CHEGUE À TUA PRESENÇA MEU CLAMOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 10,
+        "extended": 16
+      }
+    },
+    {
+      "html": "COMO A CORCA",
+      "pdfPage": 65,
+      "pdfTitle": "COMO A CORÇA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 18,
+        "extended": 21
+      }
+    },
+    {
+      "html": "COMO CONDENADOS A MORTE",
+      "pdfPage": 66,
+      "pdfTitle": "COMO CONDENADOS À MORTE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "COMO E MARAVILHOSO",
+      "pdfPage": 67,
+      "pdfTitle": "COMO É MARAVILHOSO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "COMO ESCORRE O MEL",
+      "pdfPage": 263,
+      "pdfTitle": "COMO ESCORRE O ME L",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "COMO LIRIO ENTRE OS ESPINHOS",
+      "pdfPage": 264,
+      "pdfTitle": "COMO LÍRIO ENTRE OS ESPINHOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 8,
+        "extended": 8
+      }
+    },
+    {
+      "html": "COMO O IMPULSO QUE SENTE A IRA",
+      "pdfPage": 245,
+      "pdfTitle": "COMO O IMPULSO QUE SENTE A IRA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 38,
+        "extended": 74
+      }
+    },
+    {
+      "html": "COMO OVELHA QUE VE",
+      "pdfPage": 68,
+      "pdfTitle": "COMO OVELHA QUE VÊ",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 6,
+        "extended": 9
+      }
+    },
+    {
+      "html": "COMO SAO AMAVEIS TUAS MORADAS",
+      "pdfPage": 69,
+      "pdfTitle": "COMO SÃO AMÁVEIS TUAS MORADAS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 9,
+        "extended": 12
+      }
+    },
+    {
+      "html": "CONFESSEI A TI O MEU PECADO",
+      "pdfPage": 70,
+      "pdfTitle": "CONFESSEI A TI O MEU PECADO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 17,
+        "extended": 23
+      }
+    },
+    {
+      "html": "CONSOLAI O MEU POVO",
+      "pdfPage": 71,
+      "pdfTitle": "CONSOLAI O MEU POVO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "CORDEIRO DE DEUS",
+      "pdfPage": 213,
+      "pdfTitle": "CORDEIRO DE DEUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "CREDO",
+      "pdfPage": 214,
+      "pdfTitle": "CREDO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "DAYENU",
+      "pdfPage": 73,
+      "pdfTitle": "DAYENU",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "DE PROFUNDIS",
+      "pdfPage": 75,
+      "pdfTitle": "DE PROFUNDIS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 8
+      }
+    },
+    {
+      "html": "DEBORA",
+      "pdfPage": 246,
+      "pdfTitle": "DÉBORA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 5
+      }
+    },
+    {
+      "html": "DIA DE REPOUSO",
+      "pdfPage": 76,
+      "pdfTitle": "DIA DE REPOUSO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 10
+      }
+    },
+    {
+      "html": "DIANTE DOS ANJOS",
+      "pdfPage": 77,
+      "pdfTitle": "DIANTE DOS ANJOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 12,
+        "extended": 28
+      }
+    },
+    {
+      "html": "DIZ O SENHOR AO MEU SENHOR",
+      "pdfPage": 78,
+      "pdfTitle": "DIZ O SENHOR AO MEU SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 15,
+        "extended": 25
+      }
+    },
+    {
+      "html": "DIZEI AOS DE CORACAO CANSADO",
+      "pdfPage": 79,
+      "pdfTitle": "DIZEI AOS DE CORAÇÃO CANSADO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "E PACIENTE",
+      "pdfPage": 80,
+      "pdfTitle": "É PACIENTE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "EIS O MEU SERVO",
+      "pdfPage": 81,
+      "pdfTitle": "EIS O MEU SERVO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "EIS QUE O NOSSO ESPELHO E O SENHOR",
+      "pdfPage": 247,
+      "pdfTitle": "EIS QUE O NOSSO ESPELHO É O SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 5,
+        "extended": 5
+      }
+    },
+    {
+      "html": "EIS ME AQUI QUE VENHO EM BREVE",
+      "pdfPage": 82,
+      "pdfTitle": "EIS-ME AQUI QUE VENHO EM BREVE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "ELI ELI LAMA SABATANI",
+      "pdfPage": 83,
+      "pdfTitle": "ELI, ELI, LAMÁ SABACTANI",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 15,
+        "extended": 15
+      }
+    },
+    {
+      "html": "EM MEIO A MULTIDAO",
+      "pdfPage": 84,
+      "pdfTitle": "EM MEIO À MULTIDÃO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 7
+      }
+    },
+    {
+      "html": "EM TUA LUZ SENHOR VEMOS A LUZ",
+      "pdfPage": 85,
+      "pdfTitle": "EM TUA LUZ, SENHOR, VEMOS A LUZ",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 22,
+        "extended": 28
+      }
+    },
+    {
+      "html": "EM UMA NOITE ESCURA",
+      "pdfPage": 86,
+      "pdfTitle": "EM UMA NOITE ESCURA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "ENCONTRARAM SE DOIS ANJOS",
+      "pdfPage": 87,
+      "pdfTitle": "ENCONTRARAM-SE DOIS ANJOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "ESCONDE ME NO OCULTO DE TUA TENDA",
+      "pdfPage": 88,
+      "pdfTitle": "ESCONDE-ME NO OCULTO DE TUA TENDA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 5,
+        "extended": 17
+      }
+    },
+    {
+      "html": "ESCUTAI ILHAS DE LONGE",
+      "pdfPage": 89,
+      "pdfTitle": "ESCUTAI, ILHAS DE LONGE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 12,
+        "extended": 21
+      }
+    },
+    {
+      "html": "ESPEREI ESPEREI NO SENHOR",
+      "pdfPage": 90,
+      "pdfTitle": "ESPEREI, ESPEREI NO SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 4
+      }
+    },
+    {
+      "html": "ESTAO ROTAS MINHAS ATADURAS",
+      "pdfPage": 63,
+      "pdfTitle": "CARMEN 63",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "ESTE E O DIA QUE FEZ O SENHOR",
+      "pdfPage": 91,
+      "pdfTitle": "ESTE É O DIA QUE FEZ O SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "ESTE E O MEU MANDAMENTO",
+      "pdfPage": 92,
+      "pdfTitle": "ESTE É O MEU MANDAMENTO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 30,
+        "extended": 30
+      }
+    },
+    {
+      "html": "ESTENDO MINHAS MAOS",
+      "pdfPage": 93,
+      "pdfTitle": "ESTENDO MINHAS MÃOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 5,
+        "extended": 5
+      }
+    },
+    {
+      "html": "ESTOU CHAMANDO TE",
+      "pdfPage": 94,
+      "pdfTitle": "ESTOU CHAMANDO-TE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 11,
+        "extended": 17
+      }
+    },
+    {
+      "html": "EU TE AMO SENHOR",
+      "pdfPage": 95,
+      "pdfTitle": "EU TE AMO, SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 10,
+        "extended": 18
+      }
+    },
+    {
+      "html": "EU VENHO REUNIR",
+      "pdfPage": 96,
+      "pdfTitle": "EU VENHO REUNIR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "EVENU SHALOM ALEHEM",
+      "pdfPage": 97,
+      "pdfTitle": "EVENU SHALOM ALEHEM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "EXULTAI, JUSTOS, NO SENHOR",
+      "pdfPage": 98,
+      "pdfTitle": "EXULTAI, JUSTOS, NO SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "FELICIDADE PARA O HOMEM",
+      "pdfPage": 99,
+      "pdfTitle": "FELICIDADE PARA O HOMEM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 4
+      }
+    },
+    {
+      "html": "FELIZ O HOMEM",
+      "pdfPage": 100,
+      "pdfTitle": "FELIZ O HOMEM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "FILHAS DE JERUSALEM",
+      "pdfPage": 101,
+      "pdfTitle": "FILHAS DE JERUSALÉM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "FOGE O MEU AMADO",
+      "pdfPage": 102,
+      "pdfTitle": "FOGE, Ó MEU AMADO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 5,
+        "extended": 5
+      }
+    },
+    {
+      "html": "FORMOSA ES AMIGA MINHA",
+      "pdfPage": 265,
+      "pdfTitle": "FORMOSA ÉS, AMIGA MINHA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 12,
+        "extended": 13
+      }
+    },
+    {
+      "html": "GLORIA A DEUS NO ALTO DO CEU",
+      "pdfPage": 215,
+      "pdfTitle": "GLÓRIA A DEUS NO ALTO DO CÉU",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 14,
+        "extended": 14
+      }
+    },
+    {
+      "html": "GRACAS A IAHWEH",
+      "pdfPage": 103,
+      "pdfTitle": "GRAÇAS A IAHWEH",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "GRITAI JUBILOSOS",
+      "pdfPage": 104,
+      "pdfTitle": "GRITAI JUBILOSOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 8
+      }
+    },
+    {
+      "html": "HINO A CARIDADE",
+      "pdfPage": 105,
+      "pdfTitle": "HINO À CARIDADE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "HINO A CRISTO LUZ",
+      "pdfPage": 106,
+      "pdfTitle": "HINO A CRISTO LUZ",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 12,
+        "extended": 14
+      }
+    },
+    {
+      "html": "HINO A CRUZ GLORIOSA",
+      "pdfPage": 248,
+      "pdfTitle": "HINO À CRUZ GLORIOSA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 4
+      }
+    },
+    {
+      "html": "HINO A KENOSIS",
+      "pdfPage": 107,
+      "pdfTitle": "HINO À KENOSIS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 3
+      }
+    },
+    {
+      "html": "HINO DA ASCENSAO",
+      "pdfPage": 108,
+      "pdfTitle": "HINO DA ASCENSÃO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "HINO DA PASCOA",
+      "pdfPage": 109,
+      "pdfTitle": "HINO DA PÁSCOA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "HINO DO ADVENTO",
+      "pdfPage": 110,
+      "pdfTitle": "HINO DO ADVENTO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "IAHWEH TU ES MEU DEUS",
+      "pdfPage": 111,
+      "pdfTitle": "IAHWEH, TU ÉS MEU DEUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 12,
+        "extended": 18
+      }
+    },
+    {
+      "html": "IDE E ANUNCIAI A MEUS IRMAOS",
+      "pdfPage": 112,
+      "pdfTitle": "IDE E ANUNCIAI A MEUS IRMÃOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "IMPROPERIOS",
+      "pdfPage": 113,
+      "pdfTitle": "IMPROPÉRIOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 18,
+        "extended": 30
+      }
+    },
+    {
+      "html": "JA VEM O MEU DEUS",
+      "pdfPage": 114,
+      "pdfTitle": "JÁ VEM O MEU DEUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "JACO",
+      "pdfPage": 249,
+      "pdfTitle": "JACÓ",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 11,
+        "extended": 11
+      }
+    },
+    {
+      "html": "JERUSALEM RECONSTRUIDA",
+      "pdfPage": 115,
+      "pdfTitle": "JERUSALÉM RECONSTRUÍDA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 16,
+        "extended": 16
+      }
+    },
+    {
+      "html": "JESUS PERCORRIA TODAS AS CIDADES",
+      "pdfPage": 116,
+      "pdfTitle": "JESUS PERCORRIA TODAS AS CIDADES",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 3
+      }
+    },
+    {
+      "html": "LADAINHA DE TODOS OS SANTOS",
+      "pdfPage": 216,
+      "pdfTitle": "LADAINHA DE TODOS OS SANTOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 3
+      }
+    },
+    {
+      "html": "LADAINHA PENITENCIAL I",
+      "pdfPage": 218,
+      "pdfTitle": "LADAINHA PENITENCIAL I",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 31,
+        "extended": 31
+      }
+    },
+    {
+      "html": "LADAINHA PENITENCIAL II",
+      "pdfPage": 219,
+      "pdfTitle": "LADAINHA PENITENCIAL II",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 33,
+        "extended": 33
+      }
+    },
+    {
+      "html": "LEVA ME AO CEU",
+      "pdfPage": 117,
+      "pdfTitle": "LEVA-ME AO CÉU",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 10
+      }
+    },
+    {
+      "html": "LEVANTO MEUS OLHOS PARA OS MONTES",
+      "pdfPage": 118,
+      "pdfTitle": "LEVANTO OS MEUS OLHOS PARA OS MONTES",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 8,
+        "extended": 8
+      }
+    },
+    {
+      "html": "LOUVAI O SENHOR",
+      "pdfPage": 119,
+      "pdfTitle": "LOUVAI O SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "LOUVAI O SENHOR NOS CEUS",
+      "pdfPage": 120,
+      "pdfTitle": "LOUVAI O SENHOR NOS CÉUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "MAGNIFICAT",
+      "pdfPage": 121,
+      "pdfTitle": "MAGNIFICAT",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "MARIA DE JASNA GORA",
+      "pdfPage": 123,
+      "pdfTitle": "MARIA DE JASNA GÖRA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 3
+      }
+    },
+    {
+      "html": "MARIA CASA DA BENCAO",
+      "pdfPage": 122,
+      "pdfTitle": "MARIA, CASA DA BÊNÇÃO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 3
+      }
+    },
+    {
+      "html": "MARIA MAE DA IGREJA",
+      "pdfPage": 124,
+      "pdfTitle": "MARIA, MÃE DA IGREJA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 12,
+        "extended": 16
+      }
+    },
+    {
+      "html": "MARIA MAE DO CAMINHO ARDENTE",
+      "pdfPage": 125,
+      "pdfTitle": "MARIA, MÃE DO CAMINHO ARDENTE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 8
+      }
+    },
+    {
+      "html": "MARIA PEQUENA MARIA",
+      "pdfPage": 126,
+      "pdfTitle": "MARIA, PEQUENA MARIA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 14,
+        "extended": 15
+      }
+    },
+    {
+      "html": "MARIA POMBA INCORRUPTA",
+      "pdfPage": 127,
+      "pdfTitle": "MARIA, POMBA INCORRUPTA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 9,
+        "extended": 9
+      }
+    },
+    {
+      "html": "MISERICORDIA MINHA MISERICORDIA",
+      "pdfPage": 128,
+      "pdfTitle": "MISERICÓRDIA MINHA, MISERICÓRDIA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 17,
+        "extended": 17
+      }
+    },
+    {
+      "html": "MOSTRAR ME AS O CAMINHO DA VIDA",
+      "pdfPage": 129,
+      "pdfTitle": "MOSTRAR-ME-ÁS O CAMINHO DA VIDA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 15
+      }
+    },
+    {
+      "html": "MUITO ME PERSEGUIRAM",
+      "pdfPage": 130,
+      "pdfTitle": "MUITO ME PERSEGUIRAM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "NAO ESTA AQUI RESSUSCITOU",
+      "pdfPage": 131,
+      "pdfTitle": "NÃO ESTÁ AQUI, RESSUSCITOU",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 5,
+        "extended": 5
+      }
+    },
+    {
+      "html": "NAO HA NELE APARENCIA",
+      "pdfPage": 132,
+      "pdfTitle": "NÃO HÁ NELE APARÊNCIA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "NAO RESISTAIS AO MAL",
+      "pdfPage": 250,
+      "pdfTitle": "NÃO RESISTAIS AO MAL",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 18,
+        "extended": 18
+      }
+    },
+    {
+      "html": "NAO SOFRAS PELOS MALVADOS",
+      "pdfPage": 251,
+      "pdfTitle": "NÃO SOFRAS PELOS MALVADOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 8,
+        "extended": 8
+      }
+    },
+    {
+      "html": "NINGUEM PODE SERVIR A DOIS SENHORES",
+      "pdfPage": 252,
+      "pdfTitle": "NINGUÉM PODE SERVIR A DOIS SENHORES",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 9,
+        "extended": 13
+      }
+    },
+    {
+      "html": "NOLI ME TANGERE",
+      "pdfPage": 133,
+      "pdfTitle": "NOLI ME TANGERE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 8,
+        "extended": 12
+      }
+    },
+    {
+      "html": "O CEUS CHOVEI DO ALTO",
+      "pdfPage": 134,
+      "pdfTitle": "Ó CÉUS, CHOVEI DO ALTO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 6
+      }
+    },
+    {
+      "html": "O COMBATE ESCATOLOGICO",
+      "pdfPage": 135,
+      "pdfTitle": "O COMBATE ESCATOLÓGICO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "O DEUS PELO TEU NOME SALVA-ME",
+      "pdfPage": 136,
+      "pdfTitle": "Ó DEUS, PELO TEU NOME, SALVA-ME",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 4
+      }
+    },
+    {
+      "html": "O DEUS TU ES MEU DEUS",
+      "pdfPage": 137,
+      "pdfTitle": "Ó DEUS, TU ÉS MEU DEUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 29,
+        "extended": 46
+      }
+    },
+    {
+      "html": "O ESPIRITO DO SENHOR ESTA SOBRE MIM",
+      "pdfPage": 138,
+      "pdfTitle": "O ESPÍRITO DO SENHOR ESTÁ SOBRE MIM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "O JESUS MEU AMOR",
+      "pdfPage": 139,
+      "pdfTitle": "Ó JESUS, MEU AMOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 23,
+        "extended": 23
+      }
+    },
+    {
+      "html": "O LAGAREIRO",
+      "pdfPage": 140,
+      "pdfTitle": "O LAGAREIRO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "O MESMO DEUS",
+      "pdfPage": 253,
+      "pdfTitle": "O MESMO DEUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "O MESSIAS LEAO PARA VENCER",
+      "pdfPage": 141,
+      "pdfTitle": "O MESSIAS, LEÃO PARA VENCER",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "O MORTE ONDE ESTA TUA VITORIA",
+      "pdfPage": 142,
+      "pdfTitle": "Ó MORTE, ONDE ESTÁ A TUA VITÓRIA?",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 8
+      }
+    },
+    {
+      "html": "O NESCIO PENSA QUE DEUS NAO EXISTE",
+      "pdfPage": 143,
+      "pdfTitle": "O NÉSCIO PENSA QUE DEUS NÃO EXISTE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "O POVO QUE CAMINHAVA NAS TREVAS",
+      "pdfPage": 144,
+      "pdfTitle": "O POVO QUE CAMINHAVA NAS TREVAS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "O SEMEADOR",
+      "pdfPage": 254,
+      "pdfTitle": "O SEMEADOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "O SENHOR ANUNCIA UMA NOTICIA",
+      "pdfPage": 145,
+      "pdfTitle": "O SENHOR ANUNCIA UMA NOTÍCIA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "O SENHOR E MEU PASTOR",
+      "pdfPage": 146,
+      "pdfTitle": "O SENHOR É MEU PASTOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 10,
+        "extended": 11
+      }
+    },
+    {
+      "html": "O SENHOR E MINHA LUZ E SALVACAO",
+      "pdfPage": 147,
+      "pdfTitle": "O SENHOR É MINHA LUZ E SALVAÇÃO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 3
+      }
+    },
+    {
+      "html": "O SENHOR ME DEU",
+      "pdfPage": 148,
+      "pdfTitle": "O SENHOR ME DEU",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 8,
+        "extended": 12
+      }
+    },
+    {
+      "html": "O SENHOR MEU CORACAO NAO E PRETENSIOSO",
+      "pdfPage": 255,
+      "pdfTitle": "Ó SENHOR, MEU CORAÇÃO NÃO É PRETENSIOSO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "O SENHOR NOSSO DEUS",
+      "pdfPage": 149,
+      "pdfTitle": "Ó SENHOR, NOSSO DEUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 13
+      }
+    },
+    {
+      "html": "OLHAI QUE ESTUPENDO",
+      "pdfPage": 150,
+      "pdfTitle": "OLHAI QUE ESTUPENDO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 6,
+        "extended": 6
+      }
+    },
+    {
+      "html": "ORACAO EUCARISTICA II",
+      "pdfPage": 220,
+      "pdfTitle": "ORAÇÃO EUCARÍSTICA II",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 31,
+        "extended": 31
+      }
+    },
+    {
+      "html": "ORACAO EUCARISTICA IV",
+      "pdfPage": 223,
+      "pdfTitle": "ORAÇÃO EUCARÍSTICA IV",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 48,
+        "extended": 50
+      }
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "pdfPage": 151,
+      "pdfTitle": "OS MENINOS DE BELÉM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "PAI NOSSO",
+      "pdfPage": 227,
+      "pdfTitle": "PAI NOSSO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 4
+      }
+    },
+    {
+      "html": "PARA TI MORADA SANTA",
+      "pdfPage": 152,
+      "pdfTitle": "PARA TI, MORADA SANTA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 19,
+        "extended": 23
+      }
+    },
+    {
+      "html": "PENTECOSTES",
+      "pdfPage": 153,
+      "pdfTitle": "PENTECOSTES",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 5,
+        "extended": 8
+      }
+    },
+    {
+      "html": "POR AMOR DE MEUS AMIGOS",
+      "pdfPage": 154,
+      "pdfTitle": "POR AMOR DE MEUS AMIGOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 5
+      }
+    },
+    {
+      "html": "POR QUE CONFABULAM AS NACOES",
+      "pdfPage": 155,
+      "pdfTitle": "POR QUE CONFABULAM AS NAÇÕES?",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 6,
+        "extended": 6
+      }
+    },
+    {
+      "html": "POR QUE ESTA NOITE E DIFERENTE",
+      "pdfPage": 156,
+      "pdfTitle": "POR QUE ESTA NOITE É DIFERENTE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "PORQUE O MEU JUGO E SUAVE",
+      "pdfPage": 157,
+      "pdfTitle": "PORQUE O MEU JUGO É SUAVE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 8,
+        "extended": 12
+      }
+    },
+    {
+      "html": "PRECONIO PASCAL",
+      "pdfPage": 228,
+      "pdfTitle": "PRECÔNIO PASCAL",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 8
+      }
+    },
+    {
+      "html": "PREFACIO DA PASCOA I",
+      "pdfPage": 230,
+      "pdfTitle": "PREFÁCIO PARA O TEMPO PASCAL",
+      "status": "reviewed_2026_sheet",
+      "note": "Full 2026 sheet replaced the old text, with normal/extended variants reviewed.",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "PREFACIO DO ADVENTO II",
+      "pdfPage": 231,
+      "pdfTitle": "PREFÁCIO PARA O ADVENTO E NATAL",
+      "status": "reviewed_2026_sheet",
+      "note": "Full 2026 sheet replaced the old text, with normal/extended variants reviewed.",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "QUANDO DORMIA",
+      "pdfPage": 256,
+      "pdfTitle": "QUANDO DORMIA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 6,
+        "extended": 7
+      }
+    },
+    {
+      "html": "QUANDO ISRAEL SAIU DO EGITO",
+      "pdfPage": 158,
+      "pdfTitle": "QUANDO ISRAEL SAIU DO EGITO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 4
+      }
+    },
+    {
+      "html": "QUANDO O SENHOR",
+      "pdfPage": 159,
+      "pdfTitle": "QUANDO O SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "QUE ESTUPENDO QUE ALEGRIA",
+      "pdfPage": 160,
+      "pdfTitle": "QUE ESTUPENDO, QUE ALEGRIA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "QUEM E ESTA QUE SOBE DO DESERTO",
+      "pdfPage": 161,
+      "pdfTitle": "QUEM É ESTA QUE SOBE DO DESERTO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 11,
+        "extended": 11
+      }
+    },
+    {
+      "html": "QUEM NOS SEPARARA",
+      "pdfPage": 162,
+      "pdfTitle": "QUEM NOS SEPARARÁ",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "QUERO ANDAR",
+      "pdfPage": 163,
+      "pdfTitle": "QUERO ANDAR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "QUERO CANTAR",
+      "pdfPage": 164,
+      "pdfTitle": "QUERO CANTAR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 14
+      }
+    },
+    {
+      "html": "RESSUSCITOU",
+      "pdfPage": 165,
+      "pdfTitle": "RESSUSCITOU",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "RESURREXIT",
+      "pdfPage": 166,
+      "pdfTitle": "RESURREXIT",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 4
+      }
+    },
+    {
+      "html": "ROUBASTE MEU CORACAO",
+      "pdfPage": 267,
+      "pdfTitle": "ROUBASTE O MEU CORAÇÃO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 13,
+        "extended": 13
+      }
+    },
+    {
+      "html": "SALMODIA PARA AS ORACOES UNIVERSAIS",
+      "pdfPage": 232,
+      "pdfTitle": "SALMODIA PARA AS ORAÇÕES UNIVERSAIS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "SALMODIA PARA O SALMO RESPONSORIAL",
+      "pdfPage": 235,
+      "pdfTitle": "SALMODIA PARA O SALMO RESPONSORIAL",
+      "status": "reviewed_2026_sheet",
+      "note": "Full 2026 sheet replaced the old text, with normal/extended variants reviewed.",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "SALVE RAINHA",
+      "pdfPage": 167,
+      "pdfTitle": "SALVE RAINHA",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 4
+      }
+    },
+    {
+      "html": "SALVE RAINHA DOS CEUS",
+      "pdfPage": 168,
+      "pdfTitle": "SALVE RAINHA DOS CÉUS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 8,
+        "extended": 8
+      }
+    },
+    {
+      "html": "SANTO 1982",
+      "pdfPage": 238,
+      "pdfTitle": "SANTO 1982",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "SANTO 1988",
+      "pdfPage": 239,
+      "pdfTitle": "SANTO 1988",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "SANTO HEBRAICO",
+      "pdfPage": 240,
+      "pdfTitle": "SANTO HEBRAICO",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "SANTO PALESTINA 74",
+      "pdfPage": 241,
+      "pdfTitle": "SANTO PALESTINA 74",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "SANTO PALOMERAS 65",
+      "pdfPage": 242,
+      "pdfTitle": "SANTO PALOMERAS 65",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "SANTO ROMA 77",
+      "pdfPage": 243,
+      "pdfTitle": "SANTO ROMA 77",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "SE HOJE ESCUTARDES A SUA VOZ",
+      "pdfPage": 169,
+      "pdfTitle": "SE HOJE ESCUTARDES A SUA VOZ",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "SE ME REFUGIEI NO SENHOR",
+      "pdfPage": 170,
+      "pdfTitle": "SE ME REFUGIEI NO SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "pdfPage": 171,
+      "pdfTitle": "SE O SENHOR NÃO CONSTRÓI A CASA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "SE VOS RESSUSCITASTES COM CRISTO",
+      "pdfPage": 172,
+      "pdfTitle": "SE VÓS RESSUSCITASTES COM CRISTO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 10,
+        "extended": 10
+      }
+    },
+    {
+      "html": "SEDUZISTE ME SENHOR",
+      "pdfPage": 173,
+      "pdfTitle": "SEDUZISTE-ME, SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI",
+      "pdfPage": 174,
+      "pdfTitle": "SENHOR, AJUDA-ME A NÃO DUVIDAR DE TI",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 9,
+        "extended": 10
+      }
+    },
+    {
+      "html": "SENHOR NAO ME CORRIJAS NA SUA COLERA",
+      "pdfPage": 175,
+      "pdfTitle": "SENHOR, NÃO ME CORRIJAS NA TUA CÓLERA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 15,
+        "extended": 25
+      }
+    },
+    {
+      "html": "SENHOR TU ME ESCRUTAS E CONHECES",
+      "pdfPage": 257,
+      "pdfTitle": "SENHOR, TU ME ESCRUTAS E CONHECES",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 15,
+        "extended": 15
+      }
+    },
+    {
+      "html": "SENTA TE SOLITARIO E SILENCIOSO",
+      "pdfPage": 258,
+      "pdfTitle": "SENTA-TE SOLITÁRIO E SILENCIOSO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 7
+      }
+    },
+    {
+      "html": "SERMAO DA MONTANHA",
+      "pdfPage": 178,
+      "pdfTitle": "SERMÃO DA MONTANHA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 18,
+        "extended": 18
+      }
+    },
+    {
+      "html": "SHEMA ISRAEL",
+      "pdfPage": 259,
+      "pdfTitle": "SHEMÁ ISRAEL",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 12,
+        "extended": 12
+      }
+    },
+    {
+      "html": "SHLOM-LEJ MARIAM",
+      "pdfPage": 179,
+      "pdfTitle": "SHLOM-LEJ MARIAM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 3
+      }
+    },
+    {
+      "html": "SIAO MAE DE TODOS OS POVOS",
+      "pdfPage": 180,
+      "pdfTitle": "SIÃO, MÃE DE TODOS OS POVOS",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 3,
+        "extended": 4
+      }
+    },
+    {
+      "html": "SO A SO",
+      "pdfPage": 181,
+      "pdfTitle": "SÓ A SÓ",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 4
+      }
+    },
+    {
+      "html": "SOBE DEUS ENTRE ACLAMACOES",
+      "pdfPage": 182,
+      "pdfTitle": "SOBE DEUS ENTRE ACLAMAÇÕE S",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "STABAT MATER DOLOROSA",
+      "pdfPage": 183,
+      "pdfTitle": "STABAT MATER DOLOROSA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "TE DEUM",
+      "pdfPage": 244,
+      "pdfTitle": "TE DEUM",
+      "status": "corrected",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 27,
+        "extended": 27
+      }
+    },
+    {
+      "html": "TU COBRISTE DE VERGONHA A MORTE",
+      "pdfPage": 184,
+      "pdfTitle": "TU COBRISTE DE VERGONHA A MORTE",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 21,
+        "extended": 23
+      }
+    },
+    {
+      "html": "TU ES A MINHA ESPERANCA SENHOR",
+      "pdfPage": 260,
+      "pdfTitle": "TU ÉS A MINHA ESPERANÇA, SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 14,
+        "extended": 18
+      }
+    },
+    {
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "pdfPage": 185,
+      "pdfTitle": "TU ÉS DIGNO DE RECEBER O LIVRO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 10,
+        "extended": 10
+      }
+    },
+    {
+      "html": "TU ES FORMOSO",
+      "pdfPage": 186,
+      "pdfTitle": "TU ÉS FORMOSO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 29,
+        "extended": 38
+      }
+    },
+    {
+      "html": "TU QUE ES FIEL",
+      "pdfPage": 187,
+      "pdfTitle": "TU, QUE ÉS FIEL",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 23,
+        "extended": 35
+      }
+    },
+    {
+      "html": "UM GRANDE SINAL",
+      "pdfPage": 188,
+      "pdfTitle": "UM GRANDE SINAL",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE",
+      "pdfPage": 189,
+      "pdfTitle": "UM REBENTO BROTA DO TRONCO DE JESSÉ",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "URI URI URI URA",
+      "pdfPage": 190,
+      "pdfTitle": "URI, URI, URI, URÁ",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "VAMOS JA PASTORES",
+      "pdfPage": 191,
+      "pdfTitle": "VAMOS JÁ, PASTORES",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "VEM DO LIBANO",
+      "pdfPage": 192,
+      "pdfTitle": "VEM DO LÍBANO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 7,
+        "extended": 7
+      }
+    },
+    {
+      "html": "VEM ESPIRITO SANTO",
+      "pdfPage": 193,
+      "pdfTitle": "VEM, ESPÍRITO SANTO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 15,
+        "extended": 24
+      }
+    },
+    {
+      "html": "VEM O SENHOR",
+      "pdfPage": 195,
+      "pdfTitle": "VEM O SENHOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 4
+      }
+    },
+    {
+      "html": "VEM FILHO DO HOMEM",
+      "pdfPage": 194,
+      "pdfTitle": "VEM, FILHO DO HOMEM",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 2,
+        "extended": 2
+      }
+    },
+    {
+      "html": "VENI CREATOR",
+      "pdfPage": 196,
+      "pdfTitle": "VENI CREATOR",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 4,
+        "extended": 4
+      }
+    },
+    {
+      "html": "VIRGEM DA MARAVILHA",
+      "pdfPage": 197,
+      "pdfTitle": "VIRGEM DA MARAVILHA",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 13,
+        "extended": 14
+      }
+    },
+    {
+      "html": "VIVEI ALEGRES",
+      "pdfPage": 198,
+      "pdfTitle": "VIVEI ALEGRES",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 0,
+        "extended": 0
+      }
+    },
+    {
+      "html": "VOS SOIS A LUZ DO MUNDO",
+      "pdfPage": 199,
+      "pdfTitle": "VÓS SOIS A LUZ DO MUNDO",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 8,
+        "extended": 12
+      }
+    },
+    {
+      "html": "VOS TOMAREI DENTRE AS NACOES",
+      "pdfPage": 200,
+      "pdfTitle": "VOS TOMAREI DENTRE AS NAÇÕES",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 13,
+        "extended": 19
+      }
+    },
+    {
+      "html": "ZAQUEU",
+      "pdfPage": 201,
+      "pdfTitle": "ZAQUEU",
+      "status": "no_additional_confirmed_treatment_difference",
+      "note": null,
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 5,
+        "extended": 7
+      }
+    },
+    {
+      "html": "CANTAI A DEUS",
+      "pdfPage": 58,
+      "pdfTitle": "CANTAI A DEUS",
+      "status": "reviewed_2026_sheet",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "note": "Reincluded with historical ID 45 from Cantos.xls, row 232."
+    },
+    {
+      "html": "ALEGRIA NASCEU O SALVADOR",
+      "pdfPage": 38,
+      "pdfTitle": "ALEGRIA, NASCEU O SALVADOR",
+      "status": "reviewed_2026_sheet",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "note": "New 2026 sheet transcribed and visually reviewed in both variants."
+    },
+    {
+      "html": "CRISTO E A LUZ",
+      "pdfPage": 72,
+      "pdfTitle": "CRISTO É A LUZ",
+      "status": "reviewed_2026_sheet",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "note": "New 2026 sheet transcribed and visually reviewed in both variants."
+    },
+    {
+      "html": "SEQUENCIA DE CORPUS CHRISTI",
+      "pdfPage": 176,
+      "pdfTitle": "SEQUÊNCIA DE CORPUS CHRISTI",
+      "status": "reviewed_2026_sheet",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "note": "New 2026 sheet transcribed and visually reviewed in both variants."
+    },
+    {
+      "html": "ACLAMACOES AS ORACOES DOS FIEIS",
+      "pdfPage": 205,
+      "pdfTitle": "ACLAMAÇÕES ÀS ORAÇÕES DOS FIÉIS",
+      "status": "reviewed_2026_sheet",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "note": "New 2026 sheet transcribed and visually reviewed in both variants."
+    },
+    {
+      "html": "SALMODIA PARA O EVANGELHO",
+      "pdfPage": 233,
+      "pdfTitle": "SALMODIA PARA O EVANGELHO",
+      "status": "reviewed_2026_sheet",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "note": "New 2026 sheet transcribed and visually reviewed in both variants."
+    },
+    {
+      "html": "SALMODIA PARA O ROSARIO",
+      "pdfPage": 234,
+      "pdfTitle": "SALMODIA PARA O ROSÁRIO",
+      "status": "reviewed_2026_sheet",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "note": "New 2026 sheet transcribed and visually reviewed in both variants."
+    },
+    {
+      "html": "SALMODIAS PARA AS LAUDES",
+      "pdfPage": 236,
+      "pdfTitle": "SALMODIAS PARA AS LAUDES",
+      "status": "reviewed_2026_sheet",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "note": "New 2026 sheet transcribed and visually reviewed in both variants."
+    },
+    {
+      "html": "ONDE TE ESCONDESTE AMADO",
+      "pdfPage": 266,
+      "pdfTitle": "ONDE TE ESCONDESTE, AMADO",
+      "status": "reviewed_2026_sheet",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "note": "New 2026 sheet transcribed and visually reviewed in both variants."
+    },
+    {
+      "html": "SUBA O ESPOSO AO LENHO DO SEU TALAMO",
+      "pdfPage": 268,
+      "pdfTitle": "SUBA O ESPOSO AO LENHO DO SEU TÁLAMO",
+      "status": "reviewed_2026_sheet",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "note": "New 2026 sheet transcribed and visually reviewed in both variants."
+    }
+  ],
+  "changes": [
+    {
+      "html": "A VITIMA PASCAL",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 69,
+          "before": "S.  Tu, Rei vitorioso, dai-nos a salvação.",
+          "after": "S.  Tu, Rei vitorioso, dá-nos a salvação."
+        }
+      ]
+    },
+    {
+      "html": "A VITIMA PASCAL",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 69,
+          "before": "S.  Tu, Rei vitorioso, dai-nos a salvação.",
+          "after": "S.  Tu, Rei vitorioso, dá-nos a salvação."
+        }
+      ]
+    },
+    {
+      "html": "ANAFORA DO SAL",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 67,
+          "before": "Olha o rosto da vossa Igreja e concede",
+          "after": "Olhai o rosto da vossa Igreja e concedei"
+        },
+        {
+          "line": 87,
+          "before": "P.  Derrama, Pai Santo,",
+          "after": "P.  Derramai, Pai Santo,"
+        }
+      ]
+    },
+    {
+      "html": "ANAFORA DO SAL",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 76,
+          "before": "Olha o rosto da vossa Igreja e concede",
+          "after": "Olhai o rosto da vossa Igreja e concedei"
+        },
+        {
+          "line": 105,
+          "before": "P.  Derrama, Pai Santo,",
+          "after": "P.  Derramai, Pai Santo,"
+        }
+      ]
+    },
+    {
+      "html": "BENCAO DA AGUA",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 14,
+          "before": "tu atuas com invisível potência",
+          "after": "atuais com invisível potência"
+        },
+        {
+          "line": 21,
+          "before": "preparaste a água, tua critura,",
+          "after": "preparastes a água, vossa criatura,",
+          "contentReview": "Text confirmed against 2026 PDF; previous pronoun correction preserved"
+        },
+        {
+          "line": 26,
+          "before": "Desde a origem, o teu Espírito",
+          "after": "Desde a origem, o vosso Espírito*",
+          "annotationReview": "2026 footer marker added; treatment wording preserved"
+        },
+        {
+          "line": 37,
+          "before": "prefiguraste o Batismo",
+          "after": "prefigurastes o Batismo"
+        },
+        {
+          "line": 46,
+          "before": "Tu libertaste da escravidão",
+          "after": "Vós libertastes da escravidão"
+        },
+        {
+          "line": 59,
+          "before": "teu Filho batizado por João na água do Jordão,",
+          "after": "vosso Filho batizado por João na água do Jordão,"
+        },
+        {
+          "line": 93,
+          "before": "olha com amor a tua Igreja",
+          "after": "olhai com amor a vossa Igreja"
+        },
+        {
+          "line": 95,
+          "before": "e faze brotar para ela",
+          "after": "e fazei brotar para ela"
+        },
+        {
+          "line": 101,
+          "before": "Infunde nesta água,",
+          "after": "Infundi nesta água,"
+        },
+        {
+          "line": 105,
+          "before": "a graça do teu Único Filho,",
+          "after": "a graça do vosso Único Filho,"
+        },
+        {
+          "line": 110,
+          "before": "o homem, feito à tua imagem,",
+          "after": "o homem, feito à vossa imagem,"
+        },
+        {
+          "line": 121,
+          "before": "pela obra do teu Filho,",
+          "after": "sobre esta água pela obra do vosso Filho,",
+          "lineBreakReview": "2026 line reflow; treatment phrase unchanged"
+        }
+      ]
+    },
+    {
+      "html": "BENCAO DA AGUA",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 14,
+          "before": "tu atuas com invisível potência",
+          "after": "atuais com invisível potência"
+        },
+        {
+          "line": 21,
+          "before": "preparaste a água, tua critura,",
+          "after": "preparastes a água, vossa criatura,",
+          "contentReview": "Text confirmed against 2026 PDF; previous pronoun correction preserved"
+        },
+        {
+          "line": 26,
+          "before": "Desde a origem, o teu Espírito",
+          "after": "Desde a origem, o vosso Espírito*",
+          "annotationReview": "2026 footer marker added; treatment wording preserved"
+        },
+        {
+          "line": 37,
+          "before": "prefiguraste o Batismo",
+          "after": "prefigurastes o Batismo"
+        },
+        {
+          "line": 46,
+          "before": "Tu libertaste da escravidão",
+          "after": "Vós libertastes da escravidão"
+        },
+        {
+          "line": 59,
+          "before": "teu Filho batizado por João na água do Jordão,",
+          "after": "vosso Filho batizado por João na água do Jordão,"
+        },
+        {
+          "line": 107,
+          "before": "olha com amor a tua Igreja",
+          "after": "olhai com amor a vossa Igreja"
+        },
+        {
+          "line": 109,
+          "before": "e faze brotar para ela",
+          "after": "e fazei brotar para ela"
+        },
+        {
+          "line": 114,
+          "before": "Infunde nesta água,",
+          "after": "Infundi nesta água,"
+        },
+        {
+          "line": 118,
+          "before": "a graça do teu Único Filho,",
+          "after": "a graça do vosso Único Filho,"
+        },
+        {
+          "line": 123,
+          "before": "o homem, feito à tua imagem,",
+          "after": "o homem, feito à vossa imagem,"
+        },
+        {
+          "line": 134,
+          "before": "pela obra do teu Filho,",
+          "after": "sobre esta água pela obra do vosso Filho,",
+          "lineBreakReview": "2026 line reflow; treatment phrase unchanged"
+        }
+      ]
+    },
+    {
+      "html": "BENCAO PENITENCIAL",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 28,
+          "before": "criaste o homem de modo adimirável",
+          "after": "criastes o homem de modo admirável",
+          "contentReview": "Text confirmed against 2026 PDF; previous pronoun correction preserved"
+        }
+      ]
+    },
+    {
+      "html": "BENCAO PENITENCIAL",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 28,
+          "before": "criaste o homem de modo adimirável",
+          "after": "criastes o homem de modo admirável",
+          "contentReview": "Text confirmed against 2026 PDF; previous pronoun correction preserved"
+        }
+      ]
+    },
+    {
+      "html": "HINO A CRISTO LUZ",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 23,
+          "before": "dominaste as trevas,",
+          "after": "Dominastes as trevas,"
+        }
+      ]
+    },
+    {
+      "html": "HINO A CRISTO LUZ",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 23,
+          "before": "dominaste as trevas,",
+          "after": "Dominastes as trevas,"
+        }
+      ]
+    },
+    {
+      "html": "LADAINHA PENITENCIAL I",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 10,
+          "before": "S.  Tu, que deste vista ao cego que gritava.              A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "S.  Vós, que destes vista ao cego que gritava.                    A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 13,
+          "before": "S.  Senhor, tem piedade.                                  A.  SENHOR, TEM PIEDADE.",
+          "after": "S.  Senhor, tende piedade.                                        A.  SENHOR, TENDE PIEDADE."
+        },
+        {
+          "line": 16,
+          "before": "S.  Tu que tiveste piedade da adúltera.                   A.  TEM PIEDADE DE MIM, ...",
+          "after": "S.  Vós, que tivestes piedade da adúltera.                        A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 18,
+          "before": "Tu que comeste com publicanos e pecadores.                TEM PIEDADE DE MIM, ...",
+          "after": "Vós, que comestes com publicanos e pecadores.                     TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 20,
+          "before": "Tu que levaste a salvação à casa de Zaqueu.               TEM PIEDADE DE MIM, ...",
+          "after": "Vós, que levastes a salvação à casa de Zaqueu.                    TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 22,
+          "before": "Tu que da morte chamaste Lázaro.                          TEM PIEDADE DE MIM, ...",
+          "after": "Vós, que da morte chamastes Lázaro.                               TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 24,
+          "before": "Tu que até o fim amaste Judas.                            TEM PIEDADE DE MIM, ...",
+          "after": "Vós, que até o fim amastes Judas.                                 TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 27,
+          "before": "S.  Senhor, tem piedade.                                  A.  SENHOR, TEM PIEDADE.",
+          "after": "S.  Senhor, tende piedade.                                        A.  SENHOR, TENDE PIEDADE."
+        },
+        {
+          "line": 30,
+          "before": "S.  Tu que na cruz perdoaste ao ladrão.                   A.  TEM PIEDADE DE MIM, ...",
+          "after": "S.  Vós, que na cruz perdoastes ao ladrão.                        A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 32,
+          "before": "Tu que és o único que não te escandalizas de mim.         TEM PIEDADE DE MIM, ...",
+          "after": "Vós, que sois o único que não vos escandalizais de mim.           TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 34,
+          "before": "Tu que és o único que ama ao inimigo.                     TEM PIEDADE DE MIM, ...",
+          "after": "Vós, que sois o único que amais ao inimigo.                       TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 36,
+          "before": "Tu que entraste na morte pelos meus pecados               TEM PIEDADE DE MIM, ...",
+          "after": "Vós, que entrastes na morte pelos meus pecados                    TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 38,
+          "before": "Tu que para minha salvação, ressuscitaste da morte.       TEM PIEDADE DE MIM, ...",
+          "after": "Vós, que para minha salvação, ressuscitastes da morte.            TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 41,
+          "before": "S.  Senhor, tem piedade.                                  A.  SENHOR, TEM PIEDADE.",
+          "after": "S.  Senhor, tende piedade.                                        A.  SENHOR, TENDE PIEDADE."
+        }
+      ]
+    },
+    {
+      "html": "LADAINHA PENITENCIAL I",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 10,
+          "before": "S.  Tu, que deste vista ao cego que gritava.              A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "S.  Vós, que destes vista ao cego que gritava.                    A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 13,
+          "before": "S.  Senhor, tem piedade.                                  A.  SENHOR, TEM PIEDADE.",
+          "after": "S.  Senhor, tende piedade.                                        A.  SENHOR, TENDE PIEDADE."
+        },
+        {
+          "line": 16,
+          "before": "S.  Tu que tiveste piedade da adúltera.                   A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "S.  Vós, que tivestes piedade da adúltera.                        A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 18,
+          "before": "Tu que comeste com publicanos e pecadores.            A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "Vós, que comestes com publicanos e pecadores.                 A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 20,
+          "before": "Tu que levaste a salvação à casa de Zaqueu.           A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "Vós, que levastes a salvação à casa de Zaqueu.                A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 22,
+          "before": "Tu que da morte chamaste Lázaro.                      A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "Vós, que da morte chamastes Lázaro.                           A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 24,
+          "before": "Tu que até o fim amaste Judas.                        A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "Vós, que até o fim amastes Judas.                             A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 27,
+          "before": "S.  Senhor, tem piedade.                                  A.  SENHOR, TEM PIEDADE.",
+          "after": "S.  Senhor, tende piedade.                                        A.  SENHOR, TENDE PIEDADE."
+        },
+        {
+          "line": 30,
+          "before": "S.  Tu que na cruz perdoaste ao ladrão.                   A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "S.  Vós, que na cruz perdoastes ao ladrão.                        A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 32,
+          "before": "Tu que és o único que não te escandalizas de mim.     A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "Vós, que sois o único que não vos escandalizais de mim.       A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 34,
+          "before": "Tu que és o único que ama ao inimigo.                 A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "Vós, que sois o único que amais ao inimigo.                   A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 36,
+          "before": "Tu que entraste na morte pelos meus pecados           A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "Vós, que entrastes na morte pelos meus pecados                A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 38,
+          "before": "Tu que para minha salvação, ressuscitaste da morte.   A.  TEM PIEDADE DE MIM, QUE SOU UM PECADOR.",
+          "after": "Vós, que para minha salvação, ressuscitastes da morte.        A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 41,
+          "before": "S.  Senhor, tem piedade.                                  A.  SENHOR, TEM PIEDADE.",
+          "after": "S.  Senhor, tende piedade.                                        A.  SENHOR, TENDE PIEDADE."
+        }
+      ]
+    },
+    {
+      "html": "LADAINHA PENITENCIAL II",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 15,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 20,
+          "before": "S.  Senhor tem piedade.",
+          "after": "S.  Senhor tende piedade."
+        },
+        {
+          "line": 22,
+          "before": "A.  SENHOR TEM PIEDADE",
+          "after": "A.  SENHOR TENDE PIEDADE"
+        },
+        {
+          "line": 28,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 32,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 36,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 40,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 44,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 50,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 54,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 59,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 62,
+          "before": "S.  Senhor, tem piedade.",
+          "after": "S.  Senhor, tende piedade."
+        },
+        {
+          "line": 64,
+          "before": "A.  SENHOR TEM PIEDADE.",
+          "after": "A.  SENHOR TENDE PIEDADE."
+        },
+        {
+          "line": 70,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 74,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 78,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 82,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 88,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 92,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 96,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 100,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 104,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 107,
+          "before": "S.  Senhor tem piedade.",
+          "after": "S.  Senhor tende piedade."
+        },
+        {
+          "line": 109,
+          "before": "A.  SENHOR TEM PIEDADE.",
+          "after": "A.  SENHOR TENDE PIEDADE."
+        },
+        {
+          "line": 115,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 119,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 125,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 129,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 133,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 137,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 141,
+          "before": "A.  TEM PIEDADE DE MIM, ...",
+          "after": "A.  TENDE PIEDADE DE MIM, ..."
+        },
+        {
+          "line": 144,
+          "before": "S.  Senhor tem piedade.",
+          "after": "S.  Senhor tende piedade."
+        },
+        {
+          "line": 146,
+          "before": "A.  SENHOR TEM PIEDADE.",
+          "after": "A.  SENHOR TENDE PIEDADE."
+        }
+      ]
+    },
+    {
+      "html": "LADAINHA PENITENCIAL II",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 15,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 20,
+          "before": "S.  Senhor tem piedade.",
+          "after": "S.  Senhor tende piedade."
+        },
+        {
+          "line": 22,
+          "before": "A.  SENHOR TEM PIEDADE",
+          "after": "A.  SENHOR TENDE PIEDADE"
+        },
+        {
+          "line": 29,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 37,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 44,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 51,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 58,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 67,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 74,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 82,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 87,
+          "before": "S.  Senhor, tem piedade.",
+          "after": "S.  Senhor, tende piedade."
+        },
+        {
+          "line": 89,
+          "before": "A.  SENHOR TEM PIEDADE.",
+          "after": "A.  SENHOR TENDE PIEDADE."
+        },
+        {
+          "line": 96,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 103,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 110,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 117,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 126,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 133,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 140,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 147,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 154,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 159,
+          "before": "S.  Senhor tem piedade.",
+          "after": "S.  Senhor tende piedade."
+        },
+        {
+          "line": 161,
+          "before": "A.  SENHOR TEM PIEDADE.",
+          "after": "A.  SENHOR TENDE PIEDADE."
+        },
+        {
+          "line": 168,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 175,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 184,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 191,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 198,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 205,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 212,
+          "before": "A.  TEM PIEDADE DE MIM,",
+          "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
+          "sourceReview": "2026 complete response on one line"
+        },
+        {
+          "line": 217,
+          "before": "S.  Senhor tem piedade.",
+          "after": "S.  Senhor tende piedade."
+        },
+        {
+          "line": 219,
+          "before": "A.  SENHOR TEM PIEDADE.",
+          "after": "A.  SENHOR TENDE PIEDADE."
+        }
+      ]
+    },
+    {
+      "html": "ORACAO EUCARISTICA IV",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 103,
+          "before": "E de tal modo, Pai Santo, amaste o mundo",
+          "after": "E de tal modo, Pai santo, amastes o mundo",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 193,
+          "before": "com vinho, deu graças novamente",
+          "after": "com vinho, deu-vos graças novamente,",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        }
+      ]
+    },
+    {
+      "html": "ORACAO EUCARISTICA IV",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 103,
+          "before": "E de tal modo, Pai Santo, amaste o mundo",
+          "after": "E de tal modo, Pai santo, amastes o mundo",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        },
+        {
+          "line": 200,
+          "before": "com vinho, deu graças novamente",
+          "after": "com vinho, deu-vos graças novamente,",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        }
+      ]
+    },
+    {
+      "html": "PRECONIO PASCAL",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 141,
+          "before": "P.  Nesta noite, aceita Pai santo,",
+          "after": "P.  Nesta noite, aceitai Pai santo,"
+        },
+        {
+          "line": 145,
+          "before": "que a Igreja te oferece por meio dos seus ministros",
+          "after": "que a Igreja vos oferece por meio dos seus ministros"
+        },
+        {
+          "line": 152,
+          "before": "Nós te rogamos, Senhor!",
+          "after": "Nós vos rogamos, Senhor!"
+        }
+      ]
+    },
+    {
+      "html": "PRECONIO PASCAL",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 165,
+          "before": "P.  Nesta noite, aceita Pai santo,",
+          "after": "P.  Nesta noite, aceitai Pai santo,"
+        },
+        {
+          "line": 169,
+          "before": "que a Igreja te oferece por meio dos seus ministros",
+          "after": "que a Igreja vos oferece por meio dos seus ministros"
+        },
+        {
+          "line": 176,
+          "before": "Nós te rogamos, Senhor!",
+          "after": "Nós vos rogamos, Senhor!"
+        }
+      ]
+    },
+    {
+      "html": "SALVE RAINHA",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 25,
+          "before": "esses olhos misericordiosos a nós volvei,",
+          "after": "Esses vossos olhos misericordiosos a nós volvei,",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        }
+      ]
+    },
+    {
+      "html": "SALVE RAINHA",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 25,
+          "before": "esses olhos misericordiosos a nós volvei,",
+          "after": "Esses vossos olhos misericordiosos a nós volvei,",
+          "sourceReview": "2026 complete-sheet review; pronoun correction retained"
+        }
+      ]
+    },
+    {
+      "html": "TE DEUM",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 44,
+          "before": "Vós nasceste da Virgem Mãe",
+          "after": "Vós nascestes da Virgem Mãe"
+        },
+        {
+          "line": 48,
+          "before": "abriste aos que têm fé o reino dos céus.",
+          "after": "abristes aos que têm fé o reino dos céus."
+        },
+        {
+          "line": 51,
+          "before": "virás julgar o mundo no fim dos tempos.",
+          "after": "vireis julgar o mundo no fim dos tempos."
+        },
+        {
+          "line": 55,
+          "before": "S.  Socorre os vossos filhos, Senhor,",
+          "after": "S.  Socorrei os vossos filhos, Senhor,"
+        },
+        {
+          "line": 56,
+          "before": "que remiste com vosso sangue precioso,",
+          "after": "que remistes com vosso sangue precioso,"
+        },
+        {
+          "line": 57,
+          "before": "acolhe-nos em vossa glória,",
+          "after": "acolhei-nos em vossa glória,"
+        },
+        {
+          "line": 61,
+          "before": "guia e protege os vossos filhos,",
+          "after": "guiai e protegei vossos filhos,"
+        }
+      ]
+    },
+    {
+      "html": "TE DEUM",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 53,
+          "before": "Vós nasceste da Virgem Mãe",
+          "after": "Vós nascestes da Virgem Mãe"
+        },
+        {
+          "line": 57,
+          "before": "abriste aos que têm fé o reino dos céus.",
+          "after": "abristes aos que têm fé o reino dos céus."
+        },
+        {
+          "line": 60,
+          "before": "virás julgar o mundo no fim dos tempos.",
+          "after": "vireis julgar o mundo no fim dos tempos."
+        },
+        {
+          "line": 73,
+          "before": "S.  Socorre os vossos filhos, Senhor,",
+          "after": "S.  Socorrei os vossos filhos, Senhor,"
+        },
+        {
+          "line": 74,
+          "before": "que remiste com vosso sangue precioso,",
+          "after": "que remistes com vosso sangue precioso,"
+        },
+        {
+          "line": 75,
+          "before": "acolhe-nos em vossa glória,",
+          "after": "acolhei-nos em vossa glória,"
+        },
+        {
+          "line": 79,
+          "before": "guia e protege os vossos filhos,",
+          "after": "guiai e protegei vossos filhos,"
+        }
+      ]
+    },
+    {
+      "html": "NAO RESISTAIS AO MAL",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 73,
+          "before": "A.  NÃO RESISTAS AO MAL, ...",
+          "after": "A.  NÃO RESISTAIS AO MAL, ..."
+        }
+      ]
+    },
+    {
+      "html": "SANTO 1982",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 23,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam a vossa glória."
+        }
+      ]
+    },
+    {
+      "html": "SANTO 1982",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 23,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam a vossa glória."
+        }
+      ]
+    },
+    {
+      "html": "SANTO 1988",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 17,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam a vossa glória."
+        },
+        {
+          "line": 22,
+          "before": "PROCLAMAM A TUA GLÓRIA.",
+          "after": "PROCLAMAM A VOSSA GLÓRIA."
+        }
+      ]
+    },
+    {
+      "html": "SANTO 1988",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 17,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam a vossa glória."
+        },
+        {
+          "line": 22,
+          "before": "PROCLAMAM A TUA GLÓRIA.",
+          "after": "PROCLAMAM A VOSSA GLÓRIA."
+        }
+      ]
+    },
+    {
+      "html": "SANTO HEBRAICO",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 19,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam a vossa glória."
+        },
+        {
+          "line": 24,
+          "before": "PROCLAMAM A TUA GLÓRIA.",
+          "after": "PROCLAMAM A VOSSA GLÓRIA."
+        }
+      ]
+    },
+    {
+      "html": "SANTO HEBRAICO",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 19,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam a vossa glória."
+        },
+        {
+          "line": 24,
+          "before": "PROCLAMAM A TUA GLÓRIA.",
+          "after": "PROCLAMAM A VOSSA GLÓRIA."
+        }
+      ]
+    },
+    {
+      "html": "SANTO PALESTINA 74",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 27,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam a vossa glória."
+        }
+      ]
+    },
+    {
+      "html": "SANTO PALESTINA 74",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 27,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam a vossa glória."
+        }
+      ]
+    },
+    {
+      "html": "SANTO PALOMERAS 65",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 21,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam a vossa glória."
+        }
+      ]
+    },
+    {
+      "html": "SANTO PALOMERAS 65",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 21,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam a vossa glória."
+        }
+      ]
+    },
+    {
+      "html": "SANTO ROMA 77",
+      "variant": "normal",
+      "edits": [
+        {
+          "line": 19,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam vossa glória."
+        }
+      ]
+    },
+    {
+      "html": "SANTO ROMA 77",
+      "variant": "estendida",
+      "edits": [
+        {
+          "line": 23,
+          "before": "proclamam a tua glória.",
+          "after": "proclamam vossa glória."
+        }
+      ]
+    }
+  ],
+  "retainedExamples": [
+    {
+      "html": "PRECONIO PASCAL",
+      "text": "Só tu conheceste a hora",
+      "reason": "Addressed to the night, supported by PDF page 229."
+    },
+    {
+      "html": "A VITIMA PASCAL",
+      "text": "Tu, Rei vitorioso, dá-nos a salvação.",
+      "reason": "PDF page 31 explicitly retains tu, so dai-nos was corrected to dá-nos, not the other way round."
+    },
+    {
+      "html": "NAO RESISTAIS AO MAL",
+      "text": "E se alguém te fere na face direita",
+      "reason": "PDF page 250 keeps singular examples alongside plural exhortations."
+    }
+  ],
+  "additionalCorrection": "Carmen 63 is ESTAO ROTAS MINHAS ATADURAS; map the existing audio key and apply communion/final flags.",
+  "retiredCoverage": [
+    {
+      "html": "HINO DAS LAUDES DE PENTECOSTES",
+      "pdfPage": null,
+      "pdfTitle": null,
+      "status": "no_direct_text_equivalent",
+      "note": "Não localizada ficha correspondente no PDF de 2026; texto em tu preservado, sem presumir troca para vós.",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "PREFACIO DO ADVENTO I",
+      "pdfPage": 231,
+      "pdfTitle": "PREFÁCIO PARA O ADVENTO E NATAL",
+      "status": "no_direct_text_equivalent",
+      "note": "Página 231 fornece outro texto (Advento IIA), com melodia adaptável. Não foi tomada como transcrição equivalente do prefácio I.",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 1,
+        "extended": 1
+      }
+    },
+    {
+      "html": "PREFACIO DO NATAL DO SENHOR I",
+      "pdfPage": null,
+      "pdfTitle": null,
+      "status": "no_direct_text_equivalent",
+      "note": "Não localizada ficha textual correspondente no PDF de 2026. Texto já usa vós; preservado.",
+      "normalExamined": true,
+      "extendedExamined": true,
+      "sensitiveTokens": {
+        "normal": 5,
+        "extended": 5
+      }
+    }
+  ]
+}

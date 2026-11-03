@@ -1,0 +1,1121 @@
+{
+  "edition": 2026,
+  "source": "Ressuscitou-2026.pdf",
+  "targetSheetCount": 236,
+  "retired": [
+    {
+      "html": "HINO DAS LAUDES DE PENTECOSTES",
+      "id": 104,
+      "reason": "Ficha ausente da edição 2026.",
+      "replacement": null
+    },
+    {
+      "html": "PREFACIO DO ADVENTO I",
+      "id": 228,
+      "reason": "A edição 2026 reúne os prefácios do Advento e Natal em uma ficha IIA.",
+      "replacement": "PREFACIO DO ADVENTO II"
+    },
+    {
+      "html": "PREFACIO DO NATAL DO SENHOR I",
+      "id": 166,
+      "reason": "A edição 2026 reúne os prefácios do Advento e Natal em uma ficha IIA.",
+      "replacement": "PREFACIO DO ADVENTO II"
+    }
+  ],
+  "active": {
+    "A CABANA DOS PASTORES": {
+      "page": 21,
+      "title": "A CABANA DOS PASTORES"
+    },
+    "A CEIA DO CORDEIRO": {
+      "page": 261,
+      "title": "À CEIA DO CORDEIRO"
+    },
+    "A CEIFA DAS NACOES": {
+      "page": 22,
+      "title": "A CEIFA DAS NAÇÕES"
+    },
+    "A CORDEIRA DE DEUS": {
+      "page": 23,
+      "title": "A CORDEIRA DE DEUS"
+    },
+    "A ESPADA": {
+      "page": 24,
+      "title": "A ESPADA"
+    },
+    "A MARCHA E DURA": {
+      "page": 25,
+      "title": "A MARCHA É DURA"
+    },
+    "A NINGUEM DEMOS OCASIAO DE TROPECO": {
+      "page": 26,
+      "title": "A NINGUÉM DEMOS OCASIÃO DE TROPEÇO"
+    },
+    "A POMBA VOOU": {
+      "page": 262,
+      "title": "A POMBA VOOU"
+    },
+    "A TI LEVANTO MEUS OLHOS": {
+      "page": 27,
+      "title": "A TI LEVANTO MEUS OLHOS"
+    },
+    "A TI SENHOR LEVANTO MINHA ALMA": {
+      "page": 29,
+      "title": "A TI, SENHOR, LEVANTO MINHA ALMA"
+    },
+    "A TI SENHOR COM MINHA VOZ GRITANDO IMPLORO": {
+      "page": 28,
+      "title": "A TI, SENHOR, COM MINHA VOZ GRITANDO IMPLORO"
+    },
+    "A TI SENHOR SE DEVE LOUVOR EM SIAO": {
+      "page": 30,
+      "title": "A TI, SENHOR, SE DEVE O LOUVOR EM SIÃO"
+    },
+    "A VITIMA PASCAL": {
+      "page": 31,
+      "title": "À VÍTIMA PASCAL"
+    },
+    "A VOZ DO MEU AMADO": {
+      "page": 32,
+      "title": "A VOZ DO MEU AMADO"
+    },
+    "ABBA PAI": {
+      "page": 33,
+      "title": "ABBA, PAI"
+    },
+    "ABRAAO": {
+      "page": 34,
+      "title": "ABRAÃO"
+    },
+    "ACLAMAI O SENHOR": {
+      "page": 35,
+      "title": "ACLAMAI O SENHOR"
+    },
+    "AKEDA": {
+      "page": 36,
+      "title": "AKEDÁ"
+    },
+    "ALCAI O PORTAS": {
+      "page": 37,
+      "title": "ALÇAI, Ó PORTAS"
+    },
+    "ALELUIA INTERLECCIONAL": {
+      "page": 203,
+      "title": "ACLAMAÇÃO AO EVANGELHO I"
+    },
+    "ALELUIA PASCAL": {
+      "page": 206,
+      "title": "ALELUIA PASCAL"
+    },
+    "ALELUIA PASCAL II": {
+      "page": 207,
+      "title": "ALELUIA PASCAL II"
+    },
+    "ALELUIA BENDIZEI O SENHOR": {
+      "page": 39,
+      "title": "ALELUIA! BENDIZEI O SENHOR"
+    },
+    "ALELUIA JA CHEGOU O REINO": {
+      "page": 40,
+      "title": "ALELUIA! JÁ CHEGOU O REINO"
+    },
+    "ALELUIA LOUVAI O SENHOR": {
+      "page": 41,
+      "title": "ALELUIA! LOUVAI O SENHOR"
+    },
+    "AMEM AMEM AMEM": {
+      "page": 208,
+      "title": "AMÉM, AMÉM, AMÉM"
+    },
+    "AMO O SENHOR": {
+      "page": 42,
+      "title": "AMO O SENHOR"
+    },
+    "ANAFORA DO SAL": {
+      "page": 209,
+      "title": "ANÁFORA DO SAL"
+    },
+    "ANTIFONA - VERSICULO ANTES DO EVANGELHO": {
+      "page": 204,
+      "title": "ACLAMAÇÃO AO EVANGELHO II"
+    },
+    "AO DESPERTAR": {
+      "page": 43,
+      "title": "AO DESPERTAR"
+    },
+    "AS ARMAS DA LUZ": {
+      "page": 44,
+      "title": "AS ARMAS DA LUZ"
+    },
+    "ASSIM FALA O AMEM": {
+      "page": 45,
+      "title": "ASSIM FALA O AMÉM"
+    },
+    "ATE QUANDO": {
+      "page": 46,
+      "title": "ATÉ QUANDO?"
+    },
+    "AVE MARIA I": {
+      "page": 47,
+      "title": "AVE MARIA I"
+    },
+    "AVE MARIA II 1984": {
+      "page": 48,
+      "title": "AVE MARIA II (1984)"
+    },
+    "BABILONIA CRIMINAL": {
+      "page": 49,
+      "title": "BABILÔNIA CRIMINAL"
+    },
+    "BALAAO": {
+      "page": 50,
+      "title": "BALAÃO"
+    },
+    "BENCAO DA AGUA": {
+      "page": 210,
+      "title": "BÊNÇÃO DA ÁGUA"
+    },
+    "BENCAO PENITENCIAL": {
+      "page": 212,
+      "title": "CELEBRAÇÃO PENITENCIAL"
+    },
+    "BENDIREI O SENHOR EM TODO TEMPO": {
+      "page": 51,
+      "title": "BENDIREI O SENHOR EM TODO TEMPO"
+    },
+    "BENDITA ES TU MARIA": {
+      "page": 52,
+      "title": "BENDITA ÉS TU, MARIA"
+    },
+    "BENDITO SEJA DEUS": {
+      "page": 53,
+      "title": "BENDITO SEJA DEUS"
+    },
+    "BENDITO SEJAS SENHOR": {
+      "page": 54,
+      "title": "BENDITO SEJAS, SENHOR"
+    },
+    "BENDIZE MINHA ALMA A IAHWEH": {
+      "page": 55,
+      "title": "BENDIZE, MINHA ALMA, A IAHWEH"
+    },
+    "BENEDICTUS": {
+      "page": 56,
+      "title": "BENEDICTUS"
+    },
+    "CANTA A IAHWEH JERUSALEM": {
+      "page": 57,
+      "title": "CANTA A IAHWEH, JERUSALÉM"
+    },
+    "CANTICO DE ANA": {
+      "page": 59,
+      "title": "CÂNTICO DE ANA"
+    },
+    "CANTICO DOS TRES JOVENS": {
+      "page": 60,
+      "title": "CÂNTICO DOS TRÊS JOVENS"
+    },
+    "CANTO DE MOISES": {
+      "page": 61,
+      "title": "CANTO DE MOISÉS"
+    },
+    "CARITAS CHRISTI URGET NOS": {
+      "page": 62,
+      "title": "CARITAS CHRISTI URGET NOS"
+    },
+    "CHEGUE A TUA PRESENCA O MEU CLAMOR": {
+      "page": 64,
+      "title": "CHEGUE À TUA PRESENÇA MEU CLAMOR"
+    },
+    "COMO A CORCA": {
+      "page": 65,
+      "title": "COMO A CORÇA"
+    },
+    "COMO CONDENADOS A MORTE": {
+      "page": 66,
+      "title": "COMO CONDENADOS À MORTE"
+    },
+    "COMO E MARAVILHOSO": {
+      "page": 67,
+      "title": "COMO É MARAVILHOSO"
+    },
+    "COMO ESCORRE O MEL": {
+      "page": 263,
+      "title": "COMO ESCORRE O MEL"
+    },
+    "COMO LIRIO ENTRE OS ESPINHOS": {
+      "page": 264,
+      "title": "COMO LÍRIO ENTRE OS ESPINHOS"
+    },
+    "COMO O IMPULSO QUE SENTE A IRA": {
+      "page": 245,
+      "title": "COMO O IMPULSO QUE SENTE A IRA"
+    },
+    "COMO OVELHA QUE VE": {
+      "page": 68,
+      "title": "COMO OVELHA QUE VÊ"
+    },
+    "COMO SAO AMAVEIS TUAS MORADAS": {
+      "page": 69,
+      "title": "COMO SÃO AMÁVEIS TUAS MORADAS"
+    },
+    "CONFESSEI A TI O MEU PECADO": {
+      "page": 70,
+      "title": "CONFESSEI A TI O MEU PECADO"
+    },
+    "CONSOLAI O MEU POVO": {
+      "page": 71,
+      "title": "CONSOLAI O MEU POVO"
+    },
+    "CORDEIRO DE DEUS": {
+      "page": 213,
+      "title": "CORDEIRO DE DEUS"
+    },
+    "CREDO": {
+      "page": 214,
+      "title": "CREDO"
+    },
+    "DAYENU": {
+      "page": 73,
+      "title": "DAYENU"
+    },
+    "DE PROFUNDIS": {
+      "page": 75,
+      "title": "DE PROFUNDIS"
+    },
+    "DEBORA": {
+      "page": 246,
+      "title": "DÉBORA"
+    },
+    "DIA DE REPOUSO": {
+      "page": 76,
+      "title": "DIA DE REPOUSO"
+    },
+    "DIANTE DOS ANJOS": {
+      "page": 77,
+      "title": "DIANTE DOS ANJOS"
+    },
+    "DIZ O SENHOR AO MEU SENHOR": {
+      "page": 78,
+      "title": "DIZ O SENHOR AO MEU SENHOR"
+    },
+    "DIZEI AOS DE CORACAO CANSADO": {
+      "page": 79,
+      "title": "DIZEI AOS DE CORAÇÃO CANSADO"
+    },
+    "E PACIENTE": {
+      "page": 80,
+      "title": "É PACIENTE"
+    },
+    "EIS O MEU SERVO": {
+      "page": 81,
+      "title": "EIS O MEU SERVO"
+    },
+    "EIS QUE O NOSSO ESPELHO E O SENHOR": {
+      "page": 247,
+      "title": "EIS QUE O NOSSO ESPELHO É O SENHOR"
+    },
+    "EIS ME AQUI QUE VENHO EM BREVE": {
+      "page": 82,
+      "title": "EIS-ME AQUI QUE VENHO EM BREVE"
+    },
+    "ELI ELI LAMA SABATANI": {
+      "page": 83,
+      "title": "ELI, ELI, LAMÁ SABACTANI"
+    },
+    "EM MEIO A MULTIDAO": {
+      "page": 84,
+      "title": "EM MEIO À MULTIDÃO"
+    },
+    "EM TUA LUZ SENHOR VEMOS A LUZ": {
+      "page": 85,
+      "title": "EM TUA LUZ, SENHOR, VEMOS A LUZ"
+    },
+    "EM UMA NOITE ESCURA": {
+      "page": 86,
+      "title": "EM UMA NOITE ESCURA"
+    },
+    "ENCONTRARAM SE DOIS ANJOS": {
+      "page": 87,
+      "title": "ENCONTRARAM-SE DOIS ANJOS"
+    },
+    "ESCONDE ME NO OCULTO DE TUA TENDA": {
+      "page": 88,
+      "title": "ESCONDE-ME NO OCULTO DE TUA TENDA"
+    },
+    "ESCUTAI ILHAS DE LONGE": {
+      "page": 89,
+      "title": "ESCUTAI, ILHAS DE LONGE"
+    },
+    "ESPEREI ESPEREI NO SENHOR": {
+      "page": 90,
+      "title": "ESPEREI, ESPEREI NO SENHOR"
+    },
+    "ESTAO ROTAS MINHAS ATADURAS": {
+      "page": 63,
+      "title": "CARMEN 63"
+    },
+    "ESTE E O DIA QUE FEZ O SENHOR": {
+      "page": 91,
+      "title": "ESTE É O DIA QUE FEZ O SENHOR"
+    },
+    "ESTE E O MEU MANDAMENTO": {
+      "page": 92,
+      "title": "ESTE É O MEU MANDAMENTO"
+    },
+    "ESTENDO MINHAS MAOS": {
+      "page": 93,
+      "title": "ESTENDO MINHAS MÃOS"
+    },
+    "ESTOU CHAMANDO TE": {
+      "page": 94,
+      "title": "ESTOU CHAMANDO-TE"
+    },
+    "EU TE AMO SENHOR": {
+      "page": 95,
+      "title": "EU TE AMO, SENHOR"
+    },
+    "EU VENHO REUNIR": {
+      "page": 96,
+      "title": "EU VENHO REUNIR"
+    },
+    "EVENU SHALOM ALEHEM": {
+      "page": 97,
+      "title": "EVENU SHALOM ALEHEM"
+    },
+    "EXULTAI, JUSTOS, NO SENHOR": {
+      "page": 98,
+      "title": "EXULTAI, JUSTOS, NO SENHOR"
+    },
+    "FELICIDADE PARA O HOMEM": {
+      "page": 99,
+      "title": "FELICIDADE PARA O HOMEM"
+    },
+    "FELIZ O HOMEM": {
+      "page": 100,
+      "title": "FELIZ O HOMEM"
+    },
+    "FILHAS DE JERUSALEM": {
+      "page": 101,
+      "title": "FILHAS DE JERUSALÉM"
+    },
+    "FOGE O MEU AMADO": {
+      "page": 102,
+      "title": "FOGE, Ó MEU AMADO"
+    },
+    "FORMOSA ES AMIGA MINHA": {
+      "page": 265,
+      "title": "FORMOSA ÉS, AMIGA MINHA"
+    },
+    "GLORIA A DEUS NO ALTO DO CEU": {
+      "page": 215,
+      "title": "GLÓRIA A DEUS NO ALTO DO CÉU"
+    },
+    "GRACAS A IAHWEH": {
+      "page": 103,
+      "title": "GRAÇAS A IAHWEH"
+    },
+    "GRITAI JUBILOSOS": {
+      "page": 104,
+      "title": "GRITAI JUBILOSOS"
+    },
+    "HINO A CARIDADE": {
+      "page": 105,
+      "title": "HINO À CARIDADE"
+    },
+    "HINO A CRISTO LUZ": {
+      "page": 106,
+      "title": "HINO A CRISTO LUZ"
+    },
+    "HINO A CRUZ GLORIOSA": {
+      "page": 248,
+      "title": "HINO À CRUZ GLORIOSA"
+    },
+    "HINO A KENOSIS": {
+      "page": 107,
+      "title": "HINO À KENOSIS"
+    },
+    "HINO DA ASCENSAO": {
+      "page": 108,
+      "title": "HINO DA ASCENSÃO"
+    },
+    "HINO DA PASCOA": {
+      "page": 109,
+      "title": "HINO DA PÁSCOA"
+    },
+    "HINO DO ADVENTO": {
+      "page": 110,
+      "title": "HINO DO ADVENTO"
+    },
+    "IAHWEH TU ES MEU DEUS": {
+      "page": 111,
+      "title": "IAHWEH, TU ÉS MEU DEUS"
+    },
+    "IDE E ANUNCIAI A MEUS IRMAOS": {
+      "page": 112,
+      "title": "IDE E ANUNCIAI A MEUS IRMÃOS"
+    },
+    "IMPROPERIOS": {
+      "page": 113,
+      "title": "IMPROPÉRIOS"
+    },
+    "JA VEM O MEU DEUS": {
+      "page": 114,
+      "title": "JÁ VEM O MEU DEUS"
+    },
+    "JACO": {
+      "page": 249,
+      "title": "JACÓ"
+    },
+    "JERUSALEM RECONSTRUIDA": {
+      "page": 115,
+      "title": "JERUSALÉM RECONSTRUÍDA"
+    },
+    "JESUS PERCORRIA TODAS AS CIDADES": {
+      "page": 116,
+      "title": "JESUS PERCORRIA TODAS AS CIDADES"
+    },
+    "LADAINHA DE TODOS OS SANTOS": {
+      "page": 216,
+      "title": "LADAINHA DE TODOS OS SANTOS"
+    },
+    "LADAINHA PENITENCIAL I": {
+      "page": 218,
+      "title": "LADAINHA PENITENCIAL I"
+    },
+    "LADAINHA PENITENCIAL II": {
+      "page": 219,
+      "title": "LADAINHA PENITENCIAL II"
+    },
+    "LEVA ME AO CEU": {
+      "page": 117,
+      "title": "LEVA-ME AO CÉU"
+    },
+    "LEVANTO MEUS OLHOS PARA OS MONTES": {
+      "page": 118,
+      "title": "LEVANTO OS MEUS OLHOS PARA OS MONTES"
+    },
+    "LOUVAI O SENHOR": {
+      "page": 119,
+      "title": "LOUVAI O SENHOR"
+    },
+    "LOUVAI O SENHOR NOS CEUS": {
+      "page": 120,
+      "title": "LOUVAI O SENHOR NOS CÉUS"
+    },
+    "MAGNIFICAT": {
+      "page": 121,
+      "title": "MAGNIFICAT"
+    },
+    "MARIA DE JASNA GORA": {
+      "page": 123,
+      "title": "MARIA DE JASNA GÖRA"
+    },
+    "MARIA CASA DA BENCAO": {
+      "page": 122,
+      "title": "MARIA, CASA DA BÊNÇÃO"
+    },
+    "MARIA MAE DA IGREJA": {
+      "page": 124,
+      "title": "MARIA, MÃE DA IGREJA"
+    },
+    "MARIA MAE DO CAMINHO ARDENTE": {
+      "page": 125,
+      "title": "MARIA, MÃE DO CAMINHO ARDENTE"
+    },
+    "MARIA PEQUENA MARIA": {
+      "page": 126,
+      "title": "MARIA, PEQUENA MARIA"
+    },
+    "MARIA POMBA INCORRUPTA": {
+      "page": 127,
+      "title": "MARIA, POMBA INCORRUPTA"
+    },
+    "MISERICORDIA MINHA MISERICORDIA": {
+      "page": 128,
+      "title": "MISERICÓRDIA MINHA, MISERICÓRDIA"
+    },
+    "MOSTRAR ME AS O CAMINHO DA VIDA": {
+      "page": 129,
+      "title": "MOSTRAR-ME-ÁS O CAMINHO DA VIDA"
+    },
+    "MUITO ME PERSEGUIRAM": {
+      "page": 130,
+      "title": "MUITO ME PERSEGUIRAM"
+    },
+    "NAO ESTA AQUI RESSUSCITOU": {
+      "page": 131,
+      "title": "NÃO ESTÁ AQUI, RESSUSCITOU"
+    },
+    "NAO HA NELE APARENCIA": {
+      "page": 132,
+      "title": "NÃO HÁ NELE APARÊNCIA"
+    },
+    "NAO RESISTAIS AO MAL": {
+      "page": 250,
+      "title": "NÃO RESISTAIS AO MAL"
+    },
+    "NAO SOFRAS PELOS MALVADOS": {
+      "page": 251,
+      "title": "NÃO SOFRAS PELOS MALVADOS"
+    },
+    "NINGUEM PODE SERVIR A DOIS SENHORES": {
+      "page": 252,
+      "title": "NINGUÉM PODE SERVIR A DOIS SENHORES"
+    },
+    "NOLI ME TANGERE": {
+      "page": 133,
+      "title": "NOLI ME TANGERE"
+    },
+    "O CEUS CHOVEI DO ALTO": {
+      "page": 134,
+      "title": "Ó CÉUS, CHOVEI DO ALTO"
+    },
+    "O COMBATE ESCATOLOGICO": {
+      "page": 135,
+      "title": "O COMBATE ESCATOLÓGICO"
+    },
+    "O DEUS PELO TEU NOME SALVA-ME": {
+      "page": 136,
+      "title": "Ó DEUS, PELO TEU NOME, SALVA-ME"
+    },
+    "O DEUS TU ES MEU DEUS": {
+      "page": 137,
+      "title": "Ó DEUS, TU ÉS MEU DEUS"
+    },
+    "O ESPIRITO DO SENHOR ESTA SOBRE MIM": {
+      "page": 138,
+      "title": "O ESPÍRITO DO SENHOR ESTÁ SOBRE MIM"
+    },
+    "O JESUS MEU AMOR": {
+      "page": 139,
+      "title": "Ó JESUS, MEU AMOR"
+    },
+    "O LAGAREIRO": {
+      "page": 140,
+      "title": "O LAGAREIRO"
+    },
+    "O MESMO DEUS": {
+      "page": 253,
+      "title": "O MESMO DEUS"
+    },
+    "O MESSIAS LEAO PARA VENCER": {
+      "page": 141,
+      "title": "O MESSIAS, LEÃO PARA VENCER"
+    },
+    "O MORTE ONDE ESTA TUA VITORIA": {
+      "page": 142,
+      "title": "Ó MORTE, ONDE ESTÁ A TUA VITÓRIA?"
+    },
+    "O NESCIO PENSA QUE DEUS NAO EXISTE": {
+      "page": 143,
+      "title": "O NÉSCIO PENSA QUE DEUS NÃO EXISTE"
+    },
+    "O POVO QUE CAMINHAVA NAS TREVAS": {
+      "page": 144,
+      "title": "O POVO QUE CAMINHAVA NAS TREVAS"
+    },
+    "O SEMEADOR": {
+      "page": 254,
+      "title": "O SEMEADOR"
+    },
+    "O SENHOR ANUNCIA UMA NOTICIA": {
+      "page": 145,
+      "title": "O SENHOR ANUNCIA UMA NOTÍCIA"
+    },
+    "O SENHOR E MEU PASTOR": {
+      "page": 146,
+      "title": "O SENHOR É MEU PASTOR"
+    },
+    "O SENHOR E MINHA LUZ E SALVACAO": {
+      "page": 147,
+      "title": "O SENHOR É MINHA LUZ E SALVAÇÃO"
+    },
+    "O SENHOR ME DEU": {
+      "page": 148,
+      "title": "O SENHOR ME DEU"
+    },
+    "O SENHOR MEU CORACAO NAO E PRETENSIOSO": {
+      "page": 255,
+      "title": "Ó SENHOR, MEU CORAÇÃO NÃO É PRETENSIOSO"
+    },
+    "O SENHOR NOSSO DEUS": {
+      "page": 149,
+      "title": "Ó SENHOR, NOSSO DEUS"
+    },
+    "OLHAI QUE ESTUPENDO": {
+      "page": 150,
+      "title": "OLHAI QUE ESTUPENDO"
+    },
+    "ORACAO EUCARISTICA II": {
+      "page": 220,
+      "title": "ORAÇÃO EUCARÍSTICA II"
+    },
+    "ORACAO EUCARISTICA IV": {
+      "page": 223,
+      "title": "ORAÇÃO EUCARÍSTICA IV"
+    },
+    "OS MENINOS DE BELEM": {
+      "page": 151,
+      "title": "OS MENINOS DE BELÉM"
+    },
+    "PAI NOSSO": {
+      "page": 227,
+      "title": "PAI NOSSO"
+    },
+    "PARA TI MORADA SANTA": {
+      "page": 152,
+      "title": "PARA TI, MORADA SANTA"
+    },
+    "PENTECOSTES": {
+      "page": 153,
+      "title": "PENTECOSTES"
+    },
+    "POR AMOR DE MEUS AMIGOS": {
+      "page": 154,
+      "title": "POR AMOR DE MEUS AMIGOS"
+    },
+    "POR QUE CONFABULAM AS NACOES": {
+      "page": 155,
+      "title": "POR QUE CONFABULAM AS NAÇÕES?"
+    },
+    "POR QUE ESTA NOITE E DIFERENTE": {
+      "page": 156,
+      "title": "POR QUE ESTA NOITE É DIFERENTE"
+    },
+    "PORQUE O MEU JUGO E SUAVE": {
+      "page": 157,
+      "title": "PORQUE O MEU JUGO É SUAVE"
+    },
+    "PRECONIO PASCAL": {
+      "page": 228,
+      "title": "PRECÔNIO PASCAL"
+    },
+    "PREFACIO DA PASCOA I": {
+      "page": 230,
+      "title": "PREFÁCIO PARA O TEMPO PASCAL"
+    },
+    "PREFACIO DO ADVENTO II": {
+      "page": 231,
+      "title": "PREFÁCIO PARA O ADVENTO E NATAL"
+    },
+    "QUANDO DORMIA": {
+      "page": 256,
+      "title": "QUANDO DORMIA"
+    },
+    "QUANDO ISRAEL SAIU DO EGITO": {
+      "page": 158,
+      "title": "QUANDO ISRAEL SAIU DO EGITO"
+    },
+    "QUANDO O SENHOR": {
+      "page": 159,
+      "title": "QUANDO O SENHOR"
+    },
+    "QUE ESTUPENDO QUE ALEGRIA": {
+      "page": 160,
+      "title": "QUE ESTUPENDO, QUE ALEGRIA"
+    },
+    "QUEM E ESTA QUE SOBE DO DESERTO": {
+      "page": 161,
+      "title": "QUEM É ESTA QUE SOBE DO DESERTO"
+    },
+    "QUEM NOS SEPARARA": {
+      "page": 162,
+      "title": "QUEM NOS SEPARARÁ"
+    },
+    "QUERO ANDAR": {
+      "page": 163,
+      "title": "QUERO ANDAR"
+    },
+    "QUERO CANTAR": {
+      "page": 164,
+      "title": "QUERO CANTAR"
+    },
+    "RESSUSCITOU": {
+      "page": 165,
+      "title": "RESSUSCITOU"
+    },
+    "RESURREXIT": {
+      "page": 166,
+      "title": "RESURREXIT"
+    },
+    "ROUBASTE MEU CORACAO": {
+      "page": 267,
+      "title": "ROUBASTE O MEU CORAÇÃO"
+    },
+    "SALMODIA PARA AS ORACOES UNIVERSAIS": {
+      "page": 232,
+      "title": "SALMODIA PARA AS ORAÇÕES UNIVERSAIS"
+    },
+    "SALMODIA PARA O SALMO RESPONSORIAL": {
+      "page": 235,
+      "title": "SALMODIA PARA O SALMO RESPONSORIAL"
+    },
+    "SALVE RAINHA": {
+      "page": 167,
+      "title": "SALVE RAINHA"
+    },
+    "SALVE RAINHA DOS CEUS": {
+      "page": 168,
+      "title": "SALVE RAINHA DOS CÉUS"
+    },
+    "SANTO 1982": {
+      "page": 238,
+      "title": "SANTO 1982"
+    },
+    "SANTO 1988": {
+      "page": 239,
+      "title": "SANTO 1988"
+    },
+    "SANTO HEBRAICO": {
+      "page": 240,
+      "title": "SANTO HEBRAICO"
+    },
+    "SANTO PALESTINA 74": {
+      "page": 241,
+      "title": "SANTO PALESTINA 74"
+    },
+    "SANTO PALOMERAS 65": {
+      "page": 242,
+      "title": "SANTO PALOMERAS 65"
+    },
+    "SANTO ROMA 77": {
+      "page": 243,
+      "title": "SANTO ROMA 77"
+    },
+    "SE HOJE ESCUTARDES A SUA VOZ": {
+      "page": 169,
+      "title": "SE HOJE ESCUTARDES A SUA VOZ"
+    },
+    "SE ME REFUGIEI NO SENHOR": {
+      "page": 170,
+      "title": "SE ME REFUGIEI NO SENHOR"
+    },
+    "SE O SENHOR NAO CONSTROI A CASA": {
+      "page": 171,
+      "title": "SE O SENHOR NÃO CONSTRÓI A CASA"
+    },
+    "SE VOS RESSUSCITASTES COM CRISTO": {
+      "page": 172,
+      "title": "SE VÓS RESSUSCITASTES COM CRISTO"
+    },
+    "SEDUZISTE ME SENHOR": {
+      "page": 173,
+      "title": "SEDUZISTE-ME, SENHOR"
+    },
+    "SENHOR AJUDA ME A NAO DUVIDAR DE TI": {
+      "page": 174,
+      "title": "SENHOR, AJUDA-ME A NÃO DUVIDAR DE TI"
+    },
+    "SENHOR NAO ME CORRIJAS NA SUA COLERA": {
+      "page": 175,
+      "title": "SENHOR, NÃO ME CORRIJAS NA TUA CÓLERA"
+    },
+    "SENHOR TU ME ESCRUTAS E CONHECES": {
+      "page": 257,
+      "title": "SENHOR, TU ME ESCRUTAS E CONHECES"
+    },
+    "SENTA TE SOLITARIO E SILENCIOSO": {
+      "page": 258,
+      "title": "SENTA-TE SOLITÁRIO E SILENCIOSO"
+    },
+    "SERMAO DA MONTANHA": {
+      "page": 178,
+      "title": "SERMÃO DA MONTANHA"
+    },
+    "SHEMA ISRAEL": {
+      "page": 259,
+      "title": "SHEMÁ ISRAEL"
+    },
+    "SHLOM-LEJ MARIAM": {
+      "page": 179,
+      "title": "SHLOM-LEJ MARIAM"
+    },
+    "SIAO MAE DE TODOS OS POVOS": {
+      "page": 180,
+      "title": "SIÃO, MÃE DE TODOS OS POVOS"
+    },
+    "SO A SO": {
+      "page": 181,
+      "title": "SÓ A SÓ"
+    },
+    "SOBE DEUS ENTRE ACLAMACOES": {
+      "page": 182,
+      "title": "SOBE DEUS ENTRE ACLAMAÇÕES"
+    },
+    "STABAT MATER DOLOROSA": {
+      "page": 183,
+      "title": "STABAT MATER DOLOROSA"
+    },
+    "TE DEUM": {
+      "page": 244,
+      "title": "TE DEUM"
+    },
+    "TU COBRISTE DE VERGONHA A MORTE": {
+      "page": 184,
+      "title": "TU COBRISTE DE VERGONHA A MORTE"
+    },
+    "TU ES A MINHA ESPERANCA SENHOR": {
+      "page": 260,
+      "title": "TU ÉS A MINHA ESPERANÇA, SENHOR"
+    },
+    "TU ES DIGNO DE RECEBER O LIVRO": {
+      "page": 185,
+      "title": "TU ÉS DIGNO DE RECEBER O LIVRO"
+    },
+    "TU ES FORMOSO": {
+      "page": 186,
+      "title": "TU ÉS FORMOSO"
+    },
+    "TU QUE ES FIEL": {
+      "page": 187,
+      "title": "TU, QUE ÉS FIEL"
+    },
+    "UM GRANDE SINAL": {
+      "page": 188,
+      "title": "UM GRANDE SINAL"
+    },
+    "UM REBENTO BROTA DO TRONCO DE JESSE": {
+      "page": 189,
+      "title": "UM REBENTO BROTA DO TRONCO DE JESSÉ"
+    },
+    "URI URI URI URA": {
+      "page": 190,
+      "title": "URI, URI, URI, URÁ"
+    },
+    "VAMOS JA PASTORES": {
+      "page": 191,
+      "title": "VAMOS JÁ, PASTORES"
+    },
+    "VEM DO LIBANO": {
+      "page": 192,
+      "title": "VEM DO LÍBANO"
+    },
+    "VEM ESPIRITO SANTO": {
+      "page": 193,
+      "title": "VEM, ESPÍRITO SANTO"
+    },
+    "VEM O SENHOR": {
+      "page": 195,
+      "title": "VEM O SENHOR"
+    },
+    "VEM FILHO DO HOMEM": {
+      "page": 194,
+      "title": "VEM, FILHO DO HOMEM"
+    },
+    "VENI CREATOR": {
+      "page": 196,
+      "title": "VENI CREATOR"
+    },
+    "VIRGEM DA MARAVILHA": {
+      "page": 197,
+      "title": "VIRGEM DA MARAVILHA"
+    },
+    "VIVEI ALEGRES": {
+      "page": 198,
+      "title": "VIVEI ALEGRES"
+    },
+    "VOS SOIS A LUZ DO MUNDO": {
+      "page": 199,
+      "title": "VÓS SOIS A LUZ DO MUNDO"
+    },
+    "VOS TOMAREI DENTRE AS NACOES": {
+      "page": 200,
+      "title": "VOS TOMAREI DENTRE AS NAÇÕES"
+    },
+    "ZAQUEU": {
+      "page": 201,
+      "title": "ZAQUEU"
+    },
+    "CANTAI A DEUS": {
+      "page": 58,
+      "title": "CANTAI A DEUS"
+    },
+    "ALEGRIA NASCEU O SALVADOR": {
+      "page": 38,
+      "title": "ALEGRIA, NASCEU O SALVADOR",
+      "newId": 231
+    },
+    "CRISTO E A LUZ": {
+      "page": 72,
+      "title": "CRISTO É A LUZ",
+      "newId": 232
+    },
+    "SEQUENCIA DE CORPUS CHRISTI": {
+      "page": 176,
+      "title": "SEQUÊNCIA DE CORPUS CHRISTI",
+      "newId": 233
+    },
+    "ACLAMACOES AS ORACOES DOS FIEIS": {
+      "page": 205,
+      "title": "ACLAMAÇÕES ÀS ORAÇÕES DOS FIÉIS",
+      "newId": 234
+    },
+    "SALMODIA PARA O EVANGELHO": {
+      "page": 233,
+      "title": "SALMODIA PARA O EVANGELHO",
+      "newId": 235
+    },
+    "SALMODIA PARA O ROSARIO": {
+      "page": 234,
+      "title": "SALMODIA PARA O ROSÁRIO",
+      "newId": 236
+    },
+    "SALMODIAS PARA AS LAUDES": {
+      "page": 236,
+      "title": "SALMODIAS PARA AS LAUDES",
+      "newId": 237
+    },
+    "ONDE TE ESCONDESTE AMADO": {
+      "page": 266,
+      "title": "ONDE TE ESCONDESTE, AMADO",
+      "newId": 238
+    },
+    "SUBA O ESPOSO AO LENHO DO SEU TALAMO": {
+      "page": 268,
+      "title": "SUBA O ESPOSO AO LENHO DO SEU TÁLAMO",
+      "newId": 239
+    }
+  },
+  "missingSheets": [],
+  "historicalSpreadsheet": {
+    "path": "D:/git/Ressuscitou_Android/Cantos.xls",
+    "sha256": "bdb5f15498ced539e21cc0160100f8c37c7302ffb57cb0ca66b71c1eae1c772e",
+    "sheet": "Cantos",
+    "populatedEntries": 230,
+    "recoveredId": {
+      "html": "CANTAI A DEUS",
+      "id": 45,
+      "excelRow": 232
+    }
+  },
+  "displayTitleChanges": [
+    {
+      "html": "A TI SENHOR LEVANTO MINHA ALMA",
+      "before": "A TI, SENHOR LEVANTO MINHA ALMA",
+      "after": "A TI, SENHOR, LEVANTO MINHA ALMA"
+    },
+    {
+      "html": "A TI SENHOR SE DEVE LOUVOR EM SIAO",
+      "before": "A TI, SENHOR, SE DEVE LOUVOR EM SIÃO",
+      "after": "A TI, SENHOR, SE DEVE O LOUVOR EM SIÃO"
+    },
+    {
+      "html": "ALCAI O PORTAS",
+      "before": "ALÇAI Ó PORTAS",
+      "after": "ALÇAI, Ó PORTAS"
+    },
+    {
+      "html": "ALELUIA INTERLECCIONAL",
+      "before": "ALELUIA INTERLECCIONAL",
+      "after": "ACLAMAÇÃO AO EVANGELHO I"
+    },
+    {
+      "html": "ANTIFONA - VERSICULO ANTES DO EVANGELHO",
+      "before": "ANTÍFONA - VERSÍCULO ANTES DO EVANGELHO",
+      "after": "ACLAMAÇÃO AO EVANGELHO II"
+    },
+    {
+      "html": "BENCAO PENITENCIAL",
+      "before": "BÊNÇÃO PENITENCIAL",
+      "after": "CELEBRAÇÃO PENITENCIAL"
+    },
+    {
+      "html": "BENDITA ES TU MARIA",
+      "before": "BENDITA ÉS TÚ, MARIA",
+      "after": "BENDITA ÉS TU, MARIA"
+    },
+    {
+      "html": "CHEGUE A TUA PRESENCA O MEU CLAMOR",
+      "before": "CHEGUE À TUA PRESENÇA O MEU CLAMOR",
+      "after": "CHEGUE À TUA PRESENÇA MEU CLAMOR"
+    },
+    {
+      "html": "COMO CONDENADOS A MORTE",
+      "before": "COMO CONDENADOS A MORTE",
+      "after": "COMO CONDENADOS À MORTE"
+    },
+    {
+      "html": "DAYENU",
+      "before": "DAYENÚ",
+      "after": "DAYENU"
+    },
+    {
+      "html": "ELI ELI LAMA SABATANI",
+      "before": "ELÍ, ELÍ, LAMÁ SABATANI",
+      "after": "ELI, ELI, LAMÁ SABACTANI"
+    },
+    {
+      "html": "EM MEIO A MULTIDAO",
+      "before": "EM MEIO A MULTIDÃO",
+      "after": "EM MEIO À MULTIDÃO"
+    },
+    {
+      "html": "ESCUTAI ILHAS DE LONGE",
+      "before": "ESCUTAI ILHAS DE LONGE",
+      "after": "ESCUTAI, ILHAS DE LONGE"
+    },
+    {
+      "html": "ESTAO ROTAS MINHAS ATADURAS",
+      "before": "ESTÃO ROTAS MINHAS ATADURAS",
+      "after": "CARMEN 63"
+    },
+    {
+      "html": "IMPROPERIOS",
+      "before": "IMPROPERIOS",
+      "after": "IMPROPÉRIOS"
+    },
+    {
+      "html": "LEVANTO MEUS OLHOS PARA OS MONTES",
+      "before": "LEVANTO MEUS OLHOS PARA OS MONTES",
+      "after": "LEVANTO OS MEUS OLHOS PARA OS MONTES"
+    },
+    {
+      "html": "O MESSIAS LEAO PARA VENCER",
+      "before": "O MESSIAS LEÃO PARA VENCER",
+      "after": "O MESSIAS, LEÃO PARA VENCER"
+    },
+    {
+      "html": "O MORTE ONDE ESTA TUA VITORIA",
+      "before": "Ó MORTE, ONDE ESTÁ TUA VITÓRIA",
+      "after": "Ó MORTE, ONDE ESTÁ A TUA VITÓRIA?"
+    },
+    {
+      "html": "ORACAO EUCARISTICA II",
+      "before": "ORAÇÃO EUCARISTICA II",
+      "after": "ORAÇÃO EUCARÍSTICA II"
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "before": "OS MENINOS DE BELEM",
+      "after": "OS MENINOS DE BELÉM"
+    },
+    {
+      "html": "PARA TI MORADA SANTA",
+      "before": "PARA TI MORADA SANTA",
+      "after": "PARA TI, MORADA SANTA"
+    },
+    {
+      "html": "ROUBASTE MEU CORACAO",
+      "before": "ROUBASTE MEU CORAÇÃO",
+      "after": "ROUBASTE O MEU CORAÇÃO"
+    },
+    {
+      "html": "SEDUZISTE ME SENHOR",
+      "before": "SEDUZISTE-ME SENHOR",
+      "after": "SEDUZISTE-ME, SENHOR"
+    },
+    {
+      "html": "SENHOR NAO ME CORRIJAS NA SUA COLERA",
+      "before": "SENHOR, NÃO ME CORRIJAS NA SUA CÓLERA",
+      "after": "SENHOR, NÃO ME CORRIJAS NA TUA CÓLERA"
+    },
+    {
+      "html": "TU QUE ES FIEL",
+      "before": "TU QUE ÉS FIEL",
+      "after": "TU, QUE ÉS FIEL"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "e4a9a7e1bb498d0b072197070efa04e8f8b2f7a49fa99894588c277bc7539729"
+}

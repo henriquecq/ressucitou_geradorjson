@@ -1,0 +1,86 @@
+{
+  "edition": 2026,
+  "scope": "Complete source-based transcription of the two Eucharistic prayers, including all continuation pages, both HTML variants.",
+  "privacy": "PDF and private renderings remain outside the repository. No PDF assets embedded.",
+  "sourcePages": {
+    "ORACAO EUCARISTICA II": [
+      220,
+      221,
+      222
+    ],
+    "ORACAO EUCARISTICA IV": [
+      223,
+      224,
+      225,
+      226
+    ]
+  },
+  "preservedContract": [
+    "monospace",
+    "white-space:pre",
+    "font-size:12px",
+    "@transp@",
+    "@capot@",
+    "uppercase H1",
+    "#FF0000 chords",
+    "yellow liturgical category background"
+  ],
+  "notes": [
+    "Old inferred headings were removed because the 2026 sheets do not print them.",
+    "Recited rubrics in prayer II are red/italic and have no invented chords.",
+    "Normal BIS blocks use side brackets and black labels; extended expands the indicated block once with assembly role.",
+    "Prayer II includes both doxology melodies and Sunday-only optional passage/footnote.",
+    "Names retain red N./...N placeholders."
+  ],
+  "sheets": [
+    {
+      "html": "ORACAO EUCARISTICA II",
+      "title": "ORAÇÃO EUCARÍSTICA II",
+      "subtitle": "Modelo I",
+      "lyricRows": 109,
+      "chordTokens": 125,
+      "repeatBlocks": [
+        [
+          22,
+          26,
+          "BIS A."
+        ]
+      ],
+      "variants": {
+        "normal": {
+          "sha256": "e02ca39b8a751e1bf76e2eb892224592d4427efcf59391b8dd656a62de7fd2dd"
+        },
+        "estendido": {
+          "sha256": "6906c60e0bde0895844664fc3e6b96a47553b99a13512e3f16064515e1d4f8dc"
+        }
+      }
+    },
+    {
+      "html": "ORACAO EUCARISTICA IV",
+      "title": "ORAÇÃO EUCARÍSTICA IV",
+      "subtitle": "(1988)",
+      "lyricRows": 144,
+      "chordTokens": 160,
+      "repeatBlocks": [
+        [
+          56,
+          59,
+          "BIS"
+        ],
+        [
+          93,
+          95,
+          "BIS"
+        ]
+      ],
+      "variants": {
+        "normal": {
+          "sha256": "0c51c82a4d7e731e3a3b0760ab54a1b0898b742fd43e797dce6e11522205fe65"
+        },
+        "estendido": {
+          "sha256": "8ae6c1ebdbcd7b6301b6e24534d4aaa367e0ddca061035fecdf6f2dd95b2eaae"
+        }
+      }
+    }
+  ]
+}

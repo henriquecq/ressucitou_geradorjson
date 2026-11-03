@@ -1,0 +1,1167 @@
+[
+  {
+    "html": "MUITO ME PERSEGUIRAM",
+    "title": "MUITO ME PERSEGUIRAM",
+    "subtitle": "Salmo 129 (128)",
+    "color": "#FFFFFF",
+    "capo": "",
+    "sourcePages": [
+      130
+    ],
+    "rows": [
+      {
+        "text": "Muito me perseguiram desde a juventude,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            34,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 92.7
+      },
+      {
+        "text": "muito me perseguiram, que o diga Israel.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            37,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 116.7
+      },
+      {
+        "text": "MUITO ME PERSEGUIRAM",
+        "role": "A.",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 130,
+        "sourceY": 152.7
+      },
+      {
+        "text": "DESDE A JUVENTUDE,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            14,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 176.7
+      },
+      {
+        "text": "MUITO ME PERSEGUIRAM,",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 130,
+        "sourceY": 200.7
+      },
+      {
+        "text": "MAS NÃO PUDERAM COMIGO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            18,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 224.7
+      },
+      {
+        "text": "Sobre as minhas costas araram aradores,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            33,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 260.7
+      },
+      {
+        "text": "sobre as minhas costas alongaram seus sulcos.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            38,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 284.7
+      },
+      {
+        "text": "SOBRE AS MINHAS COSTAS",
+        "role": "A.",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 130,
+        "sourceY": 320.7
+      },
+      {
+        "text": "ARARAM ARADORES,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 344.7
+      },
+      {
+        "text": "SOBRE AS MINHAS COSTAS",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 130,
+        "sourceY": 368.7
+      },
+      {
+        "text": "ALONGARAM SEUS SULCOS.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            15,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 392.7
+      },
+      {
+        "text": "Mas o Senhor, que é justo,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            20,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 428.7
+      },
+      {
+        "text": "cortou as rédeas dos malvados.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            24,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 452.7
+      },
+      {
+        "text": "Mas o Senhor, que é justo,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            20,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 488.7
+      },
+      {
+        "text": "cortou as rédeas dos malvados.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            23,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 512.7
+      },
+      {
+        "text": "Retrocedam os que odeiam Sião,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            25,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 92.7
+      },
+      {
+        "text": "retrocedam os que odeiam Sião!",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            25,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 116.7
+      },
+      {
+        "text": "RETROCEDAM OS QUE ODEIAM SIÃO,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            25,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 152.7
+      },
+      {
+        "text": "RETROCEDAM OS QUE ODEIAM SIÃO!",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            25,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 176.7
+      },
+      {
+        "text": "Que sejam como a erva que",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 212.7
+      },
+      {
+        "text": "cresce no telhado,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            13,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 236.7
+      },
+      {
+        "text": "como a erva que seca",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 130,
+        "sourceY": 260.7
+      },
+      {
+        "text": "antes de arrancá-la!",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            14,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 284.7
+      },
+      {
+        "text": "Dela não enche a mão o ceifeiro,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            26,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 320.7
+      },
+      {
+        "text": "dela o que enfeixa não enche o seu regaço.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            37,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 344.7
+      },
+      {
+        "text": "RETROCEDAM OS QUE ODEIAM SIÃO, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            25,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 380.7
+      },
+      {
+        "text": "MUITO ME PERSEGUIRAM ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "sourcePage": 130,
+        "sourceY": 416.7
+      }
+    ],
+    "expansions": {
+      "26": [
+        18,
+        20
+      ],
+      "27": [
+        2,
+        6
+      ]
+    }
+  },
+  {
+    "html": "POR AMOR DE MEUS AMIGOS",
+    "title": "POR AMOR DE MEUS AMIGOS",
+    "subtitle": "Salmo 122 (121) - Canto popular hebraico",
+    "color": "#FFFFFF",
+    "capo": "Braçadeira 2º Traste",
+    "sourcePages": [
+      154
+    ],
+    "rows": [
+      {
+        "text": "Por amor de meus amigos,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            18,
+            "La-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 92.7
+      },
+      {
+        "text": "por amor de meus irmãos,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            19,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 116.7
+      },
+      {
+        "text": "deixa-me que hoje te diga:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 140.7
+      },
+      {
+        "text": "A paz contigo!",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            8,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 164.7
+      },
+      {
+        "text": "Que alegria quando me disseram:",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 200.7
+      },
+      {
+        "text": "“Vamos para a Casa do Senhor!”",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            24,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 224.7
+      },
+      {
+        "text": "OS NOSSOS PÉS JÁ ESTÃO PISANDO",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            25,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 248.7
+      },
+      {
+        "text": "AS TUAS PORTAS, JERUSALÉM!",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            22,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 272.7
+      },
+      {
+        "text": "JERUSALÉM, JERUSALÉM,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 308.7
+      },
+      {
+        "text": "DE NOVO REEDIFICADA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            3,
+            "La-"
+          ],
+          [
+            15,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 332.7
+      },
+      {
+        "text": "JERUSALÉM, JERUSALÉM,",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 154,
+        "sourceY": 356.7
+      },
+      {
+        "text": "DE NOVO REEDIFICADA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            3,
+            "Si7"
+          ],
+          [
+            15,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 380.7
+      },
+      {
+        "text": "JERUSALÉM, JERUSALÉM,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 416.7
+      },
+      {
+        "text": "DE NOVO REEDIFICADA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            3,
+            "La-"
+          ],
+          [
+            15,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 440.7
+      },
+      {
+        "text": "JERUSALÉM, JERUSALÉM,",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 154,
+        "sourceY": 464.7
+      },
+      {
+        "text": "DE NOVO REEDIFICADA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            3,
+            "Si7"
+          ],
+          [
+            15,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 488.7
+      },
+      {
+        "text": "Por amor ...     ... A paz contigo!",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            30,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 92.7
+      },
+      {
+        "text": "Para lá sobem as tribos,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 128.7
+      },
+      {
+        "text": "as tribos do Senhor.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "La-"
+          ],
+          [
+            15,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 152.7
+      },
+      {
+        "text": "CONFORME O COSTUME DE ISRAEL",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            26,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 176.7
+      },
+      {
+        "text": "PARA CANTAR AO SENHOR.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            18,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 200.7
+      },
+      {
+        "text": "JERUSALÉM, JERUSALÉM, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 236.7
+      },
+      {
+        "text": "Por amor ...     ... A paz contigo!",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            30,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 272.7
+      },
+      {
+        "text": "Pedi a paz, pedi a paz",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 308.7
+      },
+      {
+        "text": "para Jerusalém:",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            11,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 332.7
+      },
+      {
+        "text": "QUE ESTEJA A PAZ, QUE ESTEJA A PAZ",
+        "role": "A.",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 154,
+        "sourceY": 356.7
+      },
+      {
+        "text": "COM AQUELES QUE TE AMAM.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            6,
+            "Si7"
+          ],
+          [
+            19,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 380.7
+      },
+      {
+        "text": "JERUSALÉM, JERUSALÉM, ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 416.7
+      },
+      {
+        "text": "LA LALALALALA, LA LALALALALA",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 452.7
+      },
+      {
+        "text": "LA LA LALALA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            8,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 476.7
+      },
+      {
+        "text": "LA LALALALALA, LA LALALALALA",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 500.7
+      },
+      {
+        "text": "LA LA LALALA.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Si7"
+          ],
+          [
+            8,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 154,
+        "sourceY": 524.7
+      }
+    ],
+    "expansions": {
+      "16": [
+        0,
+        4
+      ],
+      "21": [
+        8,
+        16
+      ],
+      "22": [
+        0,
+        4
+      ],
+      "27": [
+        8,
+        16
+      ]
+    }
+  },
+  {
+    "html": "SALVE RAINHA",
+    "title": "SALVE RAINHA",
+    "subtitle": "Hino lat. «Salve Regina»",
+    "color": "#FFFFFF",
+    "capo": "",
+    "sourcePages": [
+      167
+    ],
+    "rows": [
+      {
+        "text": "Salve Rainha, Mãe de misericórdia,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            14,
+            "La-"
+          ],
+          [
+            27,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 92.7
+      },
+      {
+        "text": "SALVE RAINHA, MÃE DE MISERICÓRDIA,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            14,
+            "La-"
+          ],
+          [
+            27,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 116.7
+      },
+      {
+        "text": "vida, doçura e esperança nossa.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            25,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 152.7
+      },
+      {
+        "text": "Salve!",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 176.7
+      },
+      {
+        "text": "A vós bradamos, os degredados filhos de Eva.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "La-"
+          ],
+          [
+            40,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 200.7
+      },
+      {
+        "text": "A vós suspiramos, gemendo e chorando,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "La-"
+          ],
+          [
+            30,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 224.7
+      },
+      {
+        "text": "neste vale de lágrimas.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            14,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 248.7
+      },
+      {
+        "text": "NESTE VALE DE LÁGRIMAS.",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            14,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 272.7
+      },
+      {
+        "text": "Eia, pois, Senhora, Advogada nossa.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            20,
+            "Fa"
+          ],
+          [
+            29,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 308.7
+      },
+      {
+        "text": "Esses vossos olhos misericordiosos a nós volvei,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            44,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 332.7
+      },
+      {
+        "text": "e, depois deste desterro, mostrai-nos Jesus,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            40,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 356.7
+      },
+      {
+        "text": "bendito fruto do vosso ventre.",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 167,
+        "sourceY": 380.7
+      },
+      {
+        "text": "Ó clemente! Ó piedosa! Ó doce, Virgem Maria!",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            17,
+            "La-"
+          ],
+          [
+            40,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 404.7
+      },
+      {
+        "text": "Ó CLEMENTE! Ó PIEDOSA! Ó DOCE, VIRGEM MARIA!",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            17,
+            "La-"
+          ],
+          [
+            40,
+            "Mi-"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 428.7
+      },
+      {
+        "text": "Rogai por nós, Santa Mãe de Deus!",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            28,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 464.7
+      },
+      {
+        "text": "Para que sejamos dignos das promessas",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            31,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 488.7
+      },
+      {
+        "text": "de Jesus, de Jesus Cristo.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 167,
+        "sourceY": 512.7
+      }
+    ],
+    "expansions": {}
+  }
+]

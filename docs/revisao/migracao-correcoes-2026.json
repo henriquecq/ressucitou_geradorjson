@@ -1,0 +1,49 @@
+{
+  "source_repository": "otaviogrrd/Ressuscitou_Flutter",
+  "source_commit": "124e2207a52e1fadacd75c387308c5efeaeaa70f",
+  "source_file": "assets/reviewed_html_corrections.json",
+  "changes": [
+    {
+      "html": "NAO ESTA AQUI RESSUSCITOU",
+      "variant": "html_base64",
+      "sha256_before": "b9efa46eda377c9ad081c6ba0344548e2c10eb0db730746dad85d1ebd4abae42",
+      "sha256_after": "2192ed8efe6186114a214ef04df4f3e2b9f4fc18006ed960dec6746cf441d290",
+      "substitutions": 1
+    },
+    {
+      "html": "NAO ESTA AQUI RESSUSCITOU",
+      "variant": "ext_base64",
+      "sha256_before": "b9efa46eda377c9ad081c6ba0344548e2c10eb0db730746dad85d1ebd4abae42",
+      "sha256_after": "2192ed8efe6186114a214ef04df4f3e2b9f4fc18006ed960dec6746cf441d290",
+      "substitutions": 1
+    },
+    {
+      "html": "VIRGEM DA MARAVILHA",
+      "variant": "html_base64",
+      "sha256_before": "e9ca96d5b1d8850cd98dff735dfcb61111c9e85efb2f52e61501e5f84d080e26",
+      "sha256_after": "a11841c99d87e34489034a5f2fce79daafdfd592a67d5a724be0db975180a263",
+      "substitutions": 1
+    },
+    {
+      "html": "VIRGEM DA MARAVILHA",
+      "variant": "ext_base64",
+      "sha256_before": "c62f4b5629ef7b949f73887f4b50da6e3759ac0fbb49031f085bb66bda96b9f6",
+      "sha256_after": "40a973393c90e9aeaee8a6d248bfd2a73dd3e25fad4606e45767ab3e680653d1",
+      "substitutions": 1
+    },
+    {
+      "html": "CREDO",
+      "variant": "html_base64",
+      "sha256_before": "aebef758a357bacc3440ece3d650a43f663fcdc5fe681a4f44e8b76d92d1e0ef",
+      "sha256_after": "88348e3f3b3e92772df373dd5a6456ba17a8012a6435d899f1f42235e662de39",
+      "substitutions": 2
+    },
+    {
+      "html": "CREDO",
+      "variant": "ext_base64",
+      "sha256_before": "aebef758a357bacc3440ece3d650a43f663fcdc5fe681a4f44e8b76d92d1e0ef",
+      "sha256_after": "88348e3f3b3e92772df373dd5a6456ba17a8012a6435d899f1f42235e662de39",
+      "substitutions": 2
+    }
+  ]
+}

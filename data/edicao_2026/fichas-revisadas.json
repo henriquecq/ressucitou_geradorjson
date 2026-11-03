@@ -1,0 +1,4839 @@
+[
+  {
+    "html": "CANTAI A DEUS",
+    "page": 58,
+    "title": "CANTAI A DEUS",
+    "subtitle": "Salmo 68 (67)",
+    "color": "#FFFFFF",
+    "rows": [
+      {
+        "text": "CANTAI A DEUS,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "TOCAI AO SEU NOME.",
+        "bold": true,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "CANTAI A DEUS,",
+        "bold": true,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "APLAINAI O CAMINHO",
+        "bold": true,
+        "notes": [
+          [
+            13,
+            "Re-9"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "AO CAVALEIRO DAS NUVENS.",
+        "bold": true,
+        "notes": [
+          [
+            17,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "“Senhor” é seu Nome,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "exultai diante Dele.",
+        "bold": false,
+        "notes": [
+          [
+            1,
+            "Re-9"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Pai dos órfãos,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "defensor das viúvas, é Deus.",
+        "bold": false,
+        "notes": [
+          [
+            23,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Aos mais pobres, faz habitar em sua casa,",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "Re-9"
+          ],
+          [
+            36,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "aos cativos, Ele os livra com alegria.",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Re-9"
+          ],
+          [
+            32,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "LEVANTA-SE DEUS,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "SEUS INIMIGOS SE DISPERSAM;",
+        "bold": true,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "OS JUSTOS SE REJUBILAM",
+        "bold": true,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "E CANTAM DE ALEGRIA.",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Re-9"
+          ],
+          [
+            18,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "CANTAI A DEUS, ...",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      }
+    ],
+    "repeatBlocks": [
+      [
+        0,
+        5
+      ]
+    ],
+    "refrainLength": 5,
+    "expandRefrain": true,
+    "diagrams": [
+      {
+        "label": "Re-9",
+        "dots": [
+          [
+            1,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "html": "PREFACIO DA PASCOA I",
+    "page": 230,
+    "title": "PREFÁCIO PARA O TEMPO PASCAL",
+    "subtitle": "Prefácio da Páscoa I",
+    "color": "#FFF4B3",
+    "rows": [
+      {
+        "text": "O Senhor esteja convosco.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            20,
+            "La-"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "ELE ESTÁ NO MEIO DE NÓS.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            21,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Corações ao alto.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            12,
+            "Mi"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "O NOSSO CORAÇÃO ESTÁ EM DEUS.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            25,
+            "Mi"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Demos graças ao Senhor nosso Deus.",
+        "bold": false,
+        "notes": [
+          [
+            30,
+            "La-"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "É NOSSO DEVER E NOSSA SALVAÇÃO.",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Sol"
+          ],
+          [
+            28,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "É NOSSO DEVER E NOSSA SALVAÇÃO.",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Sol"
+          ],
+          [
+            28,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Na verdade, é digno e justo,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            15,
+            "Re-"
+          ],
+          [
+            25,
+            "La-"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "é nosso dever e salvação",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ],
+          [
+            21,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "proclamar vossa glória, ó Pai, em todo tempo,",
+        "bold": false,
+        "notes": [
+          [
+            25,
+            "Re-"
+          ],
+          [
+            40,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "mas, com maior júbilo, louvar-vos nesta noite",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            40,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "porque Cristo, nossa Páscoa, foi imolado.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            36,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "É Ele o verdadeiro Cordeiro,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            23,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "que tirou o pecado do mundo;",
+        "bold": false,
+        "notes": [
+          [
+            23,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "MORRENDO,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "DESTRUIU A NOSSA MORTE,",
+        "bold": true,
+        "notes": [
+          [
+            17,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "E, RESSURGINDO,",
+        "bold": true,
+        "notes": [
+          [
+            9,
+            "Fa"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "RESTAUROU A VIDA.",
+        "bold": true,
+        "notes": [
+          [
+            12,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Por isso, transbordando de alegria pascal,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            38,
+            "Sol"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "exulta a criação por toda a terra;",
+        "bold": false,
+        "notes": [
+          [
+            28,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "também as Virtudes celestes",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "e as Potestades angélicas",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "proclamam um hino à vossa glória,",
+        "bold": false,
+        "notes": [
+          [
+            26,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "cantando, cantando a uma só voz.",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "La-"
+          ],
+          [
+            13,
+            "Fa"
+          ],
+          [
+            28,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SANTO, SANTO, SANTO ...",
+        "bold": true,
+        "notes": [],
+        "role": "A."
+      }
+    ],
+    "repeatBlocks": [
+      [
+        14,
+        18
+      ]
+    ],
+    "rubric": "Cantar o Santo do Tempo Pascal ou outro."
+  },
+  {
+    "html": "PREFACIO DO ADVENTO II",
+    "page": 231,
+    "title": "PREFÁCIO PARA O ADVENTO E NATAL",
+    "subtitle": "Prefácio do Advento IIA*",
+    "color": "#FFF4B3",
+    "rows": [
+      {
+        "text": "O Senhor esteja convosco.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            20,
+            "La-"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "ELE ESTÁ NO MEIO DE NÓS.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            21,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Corações ao alto.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            12,
+            "Mi"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "O NOSSO CORAÇÃO ESTÁ EM DEUS.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            24,
+            "Mi"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Demos graças ao Senhor nosso Deus.",
+        "bold": false,
+        "notes": [
+          [
+            30,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "É NOSSO DEVER E NOSSA SALVAÇÃO.",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Sol"
+          ],
+          [
+            28,
+            "La-"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "É NOSSO DEVER E NOSSA SALVAÇÃO.",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Sol"
+          ],
+          [
+            28,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Na verdade, é digno e justo",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            22,
+            "Sol"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "é nosso dever e salvação",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "dar-vos graças, sempre e em todo lugar,",
+        "bold": false,
+        "notes": [
+          [
+            10,
+            "Do"
+          ],
+          [
+            35,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Senhor, Pai santo, Deus eterno e todo-poderoso,",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "por Cristo, Senhor nosso.",
+        "bold": false,
+        "notes": [
+          [
+            20,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Nós vos louvamos, bendizemos e glorificamos",
+        "bold": false,
+        "notes": [
+          [
+            38,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "pelo mistério da Virgem Maria, Mãe de Deus.",
+        "bold": false,
+        "notes": [
+          [
+            38,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Em Maria, mãe de todos os seres humanos,",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Do"
+          ],
+          [
+            34,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "a maternidade, livre do pecado e da morte,",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "Sol"
+          ],
+          [
+            36,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "se abre para uma nova vida.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            22,
+            "Mi"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "Se grande era a nossa culpa,",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "Fa"
+          ],
+          [
+            22,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "bem maior se apresenta a vossa misericórdia",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            38,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "em Jesus Cristo, nosso Salvador.",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "Fa"
+          ],
+          [
+            28,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Por isso, enquanto esperamos a sua chegada,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "unidos aos Anjos e a todos os Santos,",
+        "bold": false,
+        "notes": [
+          [
+            30,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "cheios de esperança e alegria,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "nós vos louvamos, cantando a uma só voz:",
+        "bold": false,
+        "notes": [
+          [
+            36,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SANTO, SANTO, SANTO ...",
+        "bold": true,
+        "notes": [],
+        "role": "A."
+      }
+    ],
+    "rubric": "Cantar o Santo do tempo litúrgico correspondente.",
+    "footnote": "* Melodia adaptável para os prefácios do Advento e Natal."
+  },
+  {
+    "html": "SALMODIA PARA O SALMO RESPONSORIAL",
+    "page": 235,
+    "title": "SALMODIA PARA O SALMO RESPONSORIAL",
+    "subtitle": "XXII Domingo do Tempo Comum - Ano A - Salmo 63(62)",
+    "color": "#FFF4B3",
+    "rows": [
+      {
+        "text": "SOIS VÓS, Ó SENHOR,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            15,
+            "La-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "O MEU DEUS!",
+        "bold": true,
+        "notes": [
+          [
+            6,
+            "Si7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "DESDE A AURORA ANSIOSO VOS BUSCO!",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Do"
+          ],
+          [
+            27,
+            "Si7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Sois vós, ó Senhor, o meu Deus!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            26,
+            "Si7"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "Desde a aurora ansioso vos busco!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            27,
+            "Si7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "A minh’alma tem sede de vós,",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Do"
+          ],
+          [
+            24,
+            "Si7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "como terra sedenta e sem água!.",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Do"
+          ],
+          [
+            25,
+            "Si7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SOIS VÓS, Ó SENHOR, ...",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            15,
+            "La-"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      },
+      {
+        "text": "Venho, assim, contemplar-vos no templo,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            32,
+            "Si7"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "para ver vossa glória e poder.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            27,
+            "Si7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Vosso amor vale mais do que a vida:",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ],
+          [
+            30,
+            "Si7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "e por isso meus lábios vos louvam.",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Do"
+          ],
+          [
+            27,
+            "Si7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SOIS VÓS, Ó SENHOR, ...",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            15,
+            "La-"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      }
+    ],
+    "repeatBlocks": [
+      [
+        0,
+        3
+      ]
+    ],
+    "refrainLength": 3,
+    "expandRefrain": true
+  },
+  {
+    "html": "ALEGRIA NASCEU O SALVADOR",
+    "page": 38,
+    "title": "ALEGRIA, NASCEU O SALVADOR",
+    "subtitle": "Cântico de Natal (Kiko Argüello)",
+    "color": "#FFFFFF",
+    "rows": [
+      {
+        "text": "Um anjo veio do céu",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "trazendo uma grande notícia:",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Hoje nasceu para nós",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ],
+          [
+            16,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "nasceu o Salvador!",
+        "bold": false,
+        "notes": [
+          [
+            3,
+            "La"
+          ],
+          [
+            14,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "ALEGRIA, ALEGRIA, ALEGRIA,",
+        "bold": true,
+        "notes": [
+          [
+            4,
+            "Fa"
+          ],
+          [
+            22,
+            "La"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "NASCEU O SALVADOR",
+        "bold": true,
+        "notes": [
+          [
+            3,
+            "Sib"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "DEITADO EM UMA MANJEDOURA",
+        "bold": true,
+        "notes": [
+          [
+            4,
+            "Reb"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "ELE É O CRISTO, O SENHOR!",
+        "bold": true,
+        "notes": [
+          [
+            21,
+            "Do7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Envolto em belas faixas",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "e deitado em uma manjedoura!",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Este será o sinal",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ],
+          [
+            14,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "de que Ele é o Senhor!",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "La"
+          ],
+          [
+            18,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "ALEGRIA, ALEGRIA, ALEGRIA, ...",
+        "bold": true,
+        "notes": [
+          [
+            4,
+            "Fa"
+          ],
+          [
+            22,
+            "La"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      },
+      {
+        "text": "Ao estábulo em Belém",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "chegaram os pastores.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Vêm trazendo presentes",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ],
+          [
+            16,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "a Jesus, o Salvador,",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "La"
+          ],
+          [
+            16,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "ALEGRIA, ALEGRIA, ALEGRIA, ...",
+        "bold": true,
+        "notes": [
+          [
+            4,
+            "Fa"
+          ],
+          [
+            22,
+            "La"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      },
+      {
+        "text": "Encontraram Maria,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "encontraram José.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "O boi, o asno e o menino,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ],
+          [
+            20,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "pois se chamará Emanuel.",
+        "bold": false,
+        "notes": [
+          [
+            8,
+            "La"
+          ],
+          [
+            19,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "ALEGRIA, ALEGRIA, ALEGRIA, ...",
+        "bold": true,
+        "notes": [
+          [
+            5,
+            "Fa"
+          ],
+          [
+            22,
+            "La"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      },
+      {
+        "text": "O boi reconhece o seu dono,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "o burrinho sua manjedoura.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Porém, Israel, não conhece,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ],
+          [
+            21,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "não conhece o seu Senhor.",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "La"
+          ],
+          [
+            20,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "ALEGRIA, ALEGRIA, ALEGRIA, ...",
+        "bold": true,
+        "notes": [
+          [
+            5,
+            "Fa"
+          ],
+          [
+            22,
+            "La"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      }
+    ],
+    "legacyArchive": false,
+    "refrainStart": 4,
+    "refrainLength": 4,
+    "expandRefrain": true,
+    "repeatBlocks": [
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        8,
+        10
+      ],
+      [
+        10,
+        12
+      ],
+      [
+        13,
+        15
+      ],
+      [
+        15,
+        17
+      ],
+      [
+        18,
+        20
+      ],
+      [
+        20,
+        22
+      ],
+      [
+        23,
+        25
+      ],
+      [
+        25,
+        27
+      ]
+    ],
+    "repeatLabels": {
+      "8": "BIS"
+    },
+    "diagrams": [
+      {
+        "label": "Reb",
+        "dots": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "html": "CRISTO E A LUZ",
+    "page": 72,
+    "title": "CRISTO É A LUZ",
+    "subtitle": "João 8, 12; 14,6",
+    "color": "#FFFFFF",
+    "rows": [
+      {
+        "text": "Cristo é a Luz.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "CRISTO É A LUZ.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Cristo é a Luz.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "CRISTO É A LUZ.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "ELE É A SALVAÇÃO.",
+        "bold": true,
+        "notes": [
+          [
+            14,
+            "Do"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Cristo é o Caminho.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "CRISTO É O CAMINHO.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Cristo é o Caminho.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "CRISTO É O CAMINHO.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "ELE É A SALVAÇÃO.",
+        "bold": true,
+        "notes": [
+          [
+            14,
+            "Do"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Cristo é a Verdade.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "CRISTO É A VERDADE.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Cristo é a Verdade.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "CRISTO É A VERDADE.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "ELE É A SALVAÇÃO.",
+        "bold": true,
+        "notes": [
+          [
+            14,
+            "Do"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Cristo é a Vida.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "CRISTO É A VIDA.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Cristo é a Vida.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "CRISTO É A VIDA.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "ELE É A SALVAÇÃO.",
+        "bold": true,
+        "notes": [
+          [
+            14,
+            "Do"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Cristo é a Luz.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "CRISTO É O CAMINHO.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Cristo é a Verdade.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "CRISTO É A VIDA.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "ELE É A SALVAÇÃO.",
+        "bold": true,
+        "notes": [
+          [
+            14,
+            "Do"
+          ]
+        ],
+        "role": ""
+      }
+    ],
+    "legacyArchive": false
+  },
+  {
+    "html": "SEQUENCIA DE CORPUS CHRISTI",
+    "page": 176,
+    "title": "SEQUÊNCIA DE CORPUS CHRISTI",
+    "subtitle": "São Tomás de Aquino, séc. XIII",
+    "color": "#FFFFFF",
+    "rows": [
+      {
+        "text": "TERRA, EXULTA DE ALEGRIA,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            21,
+            "Re-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "LOUVA TEU PASTOR E GUIA,",
+        "bold": true,
+        "notes": [
+          [
+            20,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "COM TEUS HINOS, TUA VOZ!",
+        "bold": true,
+        "notes": [
+          [
+            4,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Tanto possas, tanto ouses,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            20,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "em louvá-lo não repouses:",
+        "bold": false,
+        "notes": [
+          [
+            19,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "sempre excede o teu louvor!",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Hoje a Igreja te convida:",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            20,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "ao pão vivo que dá vida",
+        "bold": false,
+        "notes": [
+          [
+            19,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "vem com ela celebrar!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Este pão que o mundo creia!",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Por Jesus, na santa ceia,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "foi entregue aos que escolheu.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Nosso júbilo cantemos,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "nosso amor manifestemos,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "pois transborda o coração!",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Quão solene a festa, o dia,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "que da santa Eucaristia",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "nos recorda a instituição!",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "TERRA, EXULTA DE ALEGRIA,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            21,
+            "Re-"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      },
+      {
+        "text": "Novo Rei e nova mesa,",
+        "bold": false,
+        "notes": [],
+        "role": "S."
+      },
+      {
+        "text": "nova Páscoa e realeza,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "foi-se a Páscoa dos judeus.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Era sombra o antigo povo,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "o que é velho cede ao novo:",
+        "bold": false,
+        "notes": [],
+        "role": "S."
+      },
+      {
+        "text": "foge a noite, chega a luz.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "O que o Cristo fez na ceia,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "manda à Igreja que o rodeia",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "repeti-lo até voltar.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Seu preceito conhecemos:",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "pão e vinho consagremos",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "para nossa salvação.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Faz-se carne o pão de trigo,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "faz-se sangue o vinho amigo:",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "deve-o crer todo cristão.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "TERRA, EXULTA DE ALEGRIA, ...",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            21,
+            "Re-"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      },
+      {
+        "text": "Se não vês nem compreendes,",
+        "bold": false,
+        "notes": [],
+        "role": "S."
+      },
+      {
+        "text": "gosto e vista tu transcendes,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "elevado pela fé.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Pão e vinho, eis o que vemos;",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "mas ao Cristo é que nós temos",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "em tão ínfimos sinais...",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Alimento verdadeiro,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "permanece o Cristo inteiro",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "quer no vinho, quer no pão.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "É por todos recebido,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "não em parte ou dividido,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "pois inteiro é que se dá!",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Um ou mil comungam dele,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "tanto este quanto aquele:",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "multiplica-se o Senhor.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "TERRA, EXULTA DE ALEGRIA, ...",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            21,
+            "Re-"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      },
+      {
+        "text": "Dá-se ao bom como ao perverso,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            24,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "mas o efeito é bem diverso:",
+        "bold": false,
+        "notes": [
+          [
+            22,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "vida e morte traz em si...",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Pensa bem: igual comida,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "se ao que é bom enche de vida,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "traz a morte para o mau.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Eis a hóstia dividida...",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Quem hesita, quem duvida?",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Como é toda o autor da vida,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "a partícula também.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Jesus não é atingido:",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "o sinal que é partido;",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "mas não é diminuído,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "nem se muda o que contém.",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "** Eis o pão que os anjos comem",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "transformado em pão do homem;",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "só os filhos o consomem:",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "não será lançado aos cães!",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "TERRA, EXULTA DE ALEGRIA, ...",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            17,
+            "Re-"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      },
+      {
+        "text": "Em sinais prefigurado,",
+        "bold": false,
+        "notes": [],
+        "role": "S."
+      },
+      {
+        "text": "por Abraão foi imolado,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "no cordeiro aos pais foi dado,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "no deserto foi maná...",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Bom Pastor, pão de verdade,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "piedade, ó Jesus, piedade,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "conservai-nos na unidade,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "extingui nossa orfandade,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "transportai-nos para o Pai!",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Aos mortais dando comida,",
+        "bold": false,
+        "notes": [],
+        "role": "S."
+      },
+      {
+        "text": "dais também o pão da vida;",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "que a família assim nutrida",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "seja um dia reunida",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "aos convivas lá do céu!",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "TERRA, EXULTA DE ALEGRIA, ...",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            20,
+            "Re-"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      }
+    ],
+    "legacyArchive": false,
+    "pages": [
+      176,
+      177
+    ],
+    "refrainLength": 3,
+    "expandRefrain": true,
+    "footnote": "** Na forma mais longa ou na forma abreviada, a partir de: ** Eis o pão ..."
+  },
+  {
+    "html": "ACLAMACOES AS ORACOES DOS FIEIS",
+    "page": 205,
+    "title": "ACLAMAÇÕES ÀS ORAÇÕES DOS FIÉIS",
+    "subtitle": "",
+    "color": "#FFF4B3",
+    "rows": [
+      {
+        "text": "MODELO I",
+        "heading": true
+      },
+      {
+        "text": "Nós vos pedimos, Senhor.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            20,
+            "Re"
+          ],
+          [
+            23,
+            "Sol"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "NÓS VOS PEDIMOS, SENHOR.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            20,
+            "Mi-"
+          ],
+          [
+            22,
+            "Si7"
+          ],
+          [
+            23,
+            "Mi-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "MODELO II",
+        "heading": true
+      },
+      {
+        "text": "ESCUTAI-NOS, Ó SENHOR.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            13,
+            "Re"
+          ],
+          [
+            18,
+            "Mi-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "MODELO III - Mesma melodia do Modelo I",
+        "heading": true
+      },
+      {
+        "text": "LEMBRAI-VOS DE NÓS,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            16,
+            "Re"
+          ],
+          [
+            18,
+            "Sol"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "AGORA QUE ESTAIS EM VOSSO REINO.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            27,
+            "Mi-"
+          ],
+          [
+            30,
+            "Si7"
+          ],
+          [
+            31,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "MODELO IV",
+        "heading": true
+      },
+      {
+        "text": "OUVE, PAI, O GRITO DO TEU POVO.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            6,
+            "La-"
+          ],
+          [
+            11,
+            "Si7"
+          ],
+          [
+            26,
+            "Mi-"
+          ]
+        ],
+        "role": "A."
+      }
+    ],
+    "legacyArchive": false
+  },
+  {
+    "html": "SALMODIA PARA O EVANGELHO",
+    "page": 233,
+    "title": "SALMODIA PARA O EVANGELHO",
+    "subtitle": "Jo 3,11-20",
+    "color": "#FFF4B3",
+    "rows": [
+      {
+        "text": "O Senhor esteja convosco,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            19,
+            "Si7"
+          ],
+          [
+            22,
+            "Mi-"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "ELE ESTÁ NO MEIO DE NÓS.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            20,
+            "Mi-"
+          ],
+          [
+            22,
+            "Si7"
+          ],
+          [
+            23,
+            "Mi-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Proclamação do Evangelho de Jesus Cristo, segundo São João.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            54,
+            "Si7"
+          ],
+          [
+            57,
+            "Mi-"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "GLÓRIA A VÓS, SENHOR.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            16,
+            "Mi-"
+          ],
+          [
+            19,
+            "Si7"
+          ],
+          [
+            20,
+            "Mi-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Naquele tempo, disse Jesus:",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "«Em verdade, em verdade, te digo: falamos do que sabemos",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "e damos testemunho do que vimos,",
+        "bold": false,
+        "notes": [
+          [
+            27,
+            "Si7"
+          ],
+          [
+            30,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "porém não acolheis o nosso testemunho.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            32,
+            "Mi-"
+          ],
+          [
+            35,
+            "Si7"
+          ],
+          [
+            37,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Se não credes quando vos falo das coisas da terra,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "como crereis quando vos falar das coisas do céu?",
+        "bold": false,
+        "notes": [
+          [
+            44,
+            "Si7"
+          ],
+          [
+            47,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Ninguém subiu ao céu, a não ser aquele que desceu do céu, o Filho do Homem.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            69,
+            "Mi-"
+          ],
+          [
+            72,
+            "Si7"
+          ],
+          [
+            74,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Como Moisés levantou a serpente no deserto,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "assim é necessário que seja levantado o Filho do Homem,",
+        "bold": false,
+        "notes": [
+          [
+            49,
+            "Mi-"
+          ],
+          [
+            52,
+            "Re"
+          ],
+          [
+            54,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "a fim de que todo aquele que crer tenha nele vida eterna.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            50,
+            "Mi-"
+          ],
+          [
+            54,
+            "Si7"
+          ],
+          [
+            56,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Pois Deus amou tanto o mundo, que entregou o seu Filho único,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            55,
+            "Mi-"
+          ],
+          [
+            59,
+            "Re"
+          ],
+          [
+            60,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "para que todo o que nele crê não pereça, mas tenha vida eterna».",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            57,
+            "Mi-"
+          ],
+          [
+            61,
+            "Si7"
+          ],
+          [
+            62,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": ".",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "[...]",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Palavra da salvação.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            16,
+            "Mi-"
+          ],
+          [
+            19,
+            "Re"
+          ],
+          [
+            19,
+            "Sol"
+          ]
+        ],
+        "role": "P."
+      },
+      {
+        "text": "GLÓRIA A VÓS, SENHOR.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            16,
+            "Mi-"
+          ],
+          [
+            19,
+            "Si7"
+          ],
+          [
+            20,
+            "Mi-"
+          ]
+        ],
+        "role": "A."
+      }
+    ],
+    "legacyArchive": false
+  },
+  {
+    "html": "SALMODIA PARA O ROSARIO",
+    "page": 234,
+    "title": "SALMODIA PARA O ROSÁRIO",
+    "subtitle": "",
+    "color": "#FFF4B3",
+    "rows": [
+      {
+        "text": "AVE MARIA",
+        "heading": true
+      },
+      {
+        "text": "Ave Maria, cheia de graça, o Senhor é convosco,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "bendita sois vós entre as mulheres",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "e bendito é o fruto do vosso ventre, Jesus.",
+        "bold": false,
+        "notes": [
+          [
+            39,
+            "Si7"
+          ],
+          [
+            42,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SANTA MARIA, MÃE DE DEUS,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "ROGAI POR NÓS PECADORES,",
+        "bold": true,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "AGORA E NA HORA DA NOSSA MORTE. AMÉM.",
+        "bold": true,
+        "notes": [
+          [
+            33,
+            "Mi-"
+          ],
+          [
+            35,
+            "Si7"
+          ],
+          [
+            36,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "GLÓRIA",
+        "heading": true
+      },
+      {
+        "text": "Glória ao Pai, e ao Filho, e ao Espírito Santo.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            42,
+            "Re"
+          ],
+          [
+            44,
+            "Sol"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "ASSIM COMO ERA NO PRINCÍCIO, AGORA E SEMPRE. AMÉM.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            46,
+            "Mi-"
+          ],
+          [
+            48,
+            "Si7"
+          ],
+          [
+            49,
+            "Mi-"
+          ]
+        ],
+        "role": "A."
+      }
+    ],
+    "legacyArchive": false
+  },
+  {
+    "html": "SALMODIAS PARA AS LAUDES",
+    "page": 236,
+    "title": "SALMODIAS PARA AS LAUDES",
+    "subtitle": "",
+    "color": "#FFF4B3",
+    "rows": [
+      {
+        "text": "SALMODIA I - Sl 8",
+        "heading": true
+      },
+      {
+        "text": "Ó Senhor nosso Deus, como é grande",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "vosso nome por todo o universo!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            25,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "DESDOBRASTES NOS CÉUS VOSSA GLÓRIA",
+        "bold": true,
+        "notes": [],
+        "role": "A."
+      },
+      {
+        "text": "COM GRANDEZA, ESPLENDOR, MAJESTADE.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            30,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "O perfeito louvor vos é dado",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            24,
+            "La-"
+          ],
+          [
+            27,
+            "Mi-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "pelos lábios dos mais pequeninos,",
+        "bold": false,
+        "notes": [],
+        "role": "",
+        "annotation": "FLEXA"
+      },
+      {
+        "text": "de crianças que a mãe amamenta.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            25,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "EIS A FORÇA QUE OPONDES AOS MAUS,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "REDUZINDO O INIMIGO AO SILÊNCIO.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            25,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SALMODIA II - Sl 5 (Braçadeira 3º Traste)",
+        "heading": true
+      },
+      {
+        "text": "Escutai, ó Senhor Deus, minhas palavras,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ],
+          [
+            35,
+            "La7"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "ATENDEI O MEU GEMIDO!",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ],
+          [
+            16,
+            "La7"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "Ficai atento ao clamor da minha prece,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            32,
+            "La7"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "Ó MEU REI E MEU SENHOR!",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sib7"
+          ],
+          [
+            20,
+            "La7"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "SALMODIA III - Sl 32(33)",
+        "heading": true
+      },
+      {
+        "text": "Ó justos, alegrai-vos no Senhor!:",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "Aos retos fica bem glorificá-lo.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ],
+          [
+            26,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "DAI GRAÇAS AO SENHOR AO SOM DA HARPA,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "NA LIRA DE DEZ CORDAS CELEBRAI-O.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ],
+          [
+            26,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Cantai para o Senhor um canto novo,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "com arte sustentai a louvação!",
+        "bold": false,
+        "notes": [],
+        "role": "",
+        "annotation": "ALTA"
+      },
+      {
+        "text": "POIS RETA É A PALAVRA DO SENHOR,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "E TUDO O QUE ELE FAZ MERECE FÉ.",
+        "bold": true,
+        "notes": [
+          [
+            28,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SALMODIA IV - Sl 8",
+        "heading": true
+      },
+      {
+        "text": "Ó Senhor nosso Deus, como é grande",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "vosso nome por todo o universo!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa#-"
+          ],
+          [
+            25,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "DESDOBRASTES NOS CÉUS VOSSA GLÓRIA",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "COM GRANDEZA, ESPLENDOR, MAJESTADE.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa#-"
+          ],
+          [
+            31,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "O perfeito louvor vos é dado",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La"
+          ],
+          [
+            24,
+            "Fa#-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "pelos lábios dos mais pequeninos,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La"
+          ]
+        ],
+        "role": "",
+        "annotation": "FLEXA"
+      },
+      {
+        "text": "de crianças que a mãe amamenta.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa#-"
+          ],
+          [
+            26,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "EIS A FORÇA QUE OPONDES AOS MAUS,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "REDUZINDO O INIMIGO AO SILÊNCIO.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa#-"
+          ],
+          [
+            26,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SALMODIA V - Sl 28(29)",
+        "heading": true
+      },
+      {
+        "text": "Filhos de Deus, tributai ao Senhor,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            31,
+            "La7"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "TRIBUTAI-LHE A GLÓRIA E O PODER!",
+        "bold": true,
+        "notes": [],
+        "role": "A."
+      },
+      {
+        "text": "Dai-lhe a glória devida ao seu nome,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol-"
+          ],
+          [
+            32,
+            "La7"
+          ],
+          [
+            34,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "ADORAI-O COM SANTO ORNAMENTO!",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sib7"
+          ],
+          [
+            24,
+            "La7"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "SALMODIA VI* - Sl 8",
+        "heading": true
+      },
+      {
+        "text": "Ó Senhor nosso Deus, como é grande",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "vosso nome por todo o universo!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            25,
+            "Do"
+          ],
+          [
+            29,
+            "Do7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "DESDOBRASTES NOS CÉUS VOSSA GLÓRIA",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "COM GRANDEZA, ESPLENDOR, MAJESTADE.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            31,
+            "Do"
+          ],
+          [
+            33,
+            "Do7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "O perfeito louvor vos é dado",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "pelos lábios dos mais pequeninos,",
+        "bold": false,
+        "notes": [],
+        "role": "",
+        "annotation": "FLEXA"
+      },
+      {
+        "text": "de crianças que a mãe amamenta.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            25,
+            "Do"
+          ],
+          [
+            28,
+            "Do7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "EIS A FORÇA QUE OPONDES AOS MAUS,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "REDUZINDO O INIMIGO AO SILÊNCIO.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            25,
+            "Do"
+          ],
+          [
+            28,
+            "Do7"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SALMODIA VII - Sl 1",
+        "heading": true
+      },
+      {
+        "text": "Feliz é todo aquele que não anda",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            28,
+            "Re"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "conforme os conselhos dos perversos;",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            29,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "QUE NÃO ENTRA NO CAMINHO DOS MALVADOS",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            33,
+            "Re"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "NEM JUNTO AOS ZOMBADORES VAI SENTAR-SE.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            33,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SALMODIA VIII - Sl 22(23)",
+        "heading": true
+      },
+      {
+        "text": "O Senhor é o pastor que me conduz;",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "não me falta coisa alguma.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re"
+          ],
+          [
+            21,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "PELOS PRADOS E CAMPINAS VERDEJANTES",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "ELE ME LEVA A DESCANSAR.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ],
+          [
+            21,
+            "Si-"
+          ],
+          [
+            23,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Para as águas repousantes me encaminha,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi-"
+          ],
+          [
+            34,
+            "Re"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "e restaura as minhas forças.",
+        "bold": false,
+        "notes": [
+          [
+            22,
+            "Mi-"
+          ]
+        ],
+        "role": "",
+        "annotation": "ALTA"
+      },
+      {
+        "text": "ELE ME GUIA PELO CAMINHO MAIS SEGURO,",
+        "bold": true,
+        "notes": [],
+        "role": "A."
+      },
+      {
+        "text": "PELA HONRA DO SEU NOME.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ],
+          [
+            19,
+            "Si-"
+          ],
+          [
+            20,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SALMODIA IX - Sl 149",
+        "heading": true
+      },
+      {
+        "text": "Cantai ao Senhor Deus um canto novo",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            32,
+            "Sol"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "e o seu louvor na assembleia dos fiéis!",
+        "bold": false,
+        "notes": [
+          [
+            35,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "ALEGRE-SE ISRAEL EM QUEM O FEZ,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            28,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "E SIÃO SE REJUBILE NO SEU REI!",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            27,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Com danças glorifiquem o seu nome,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "toquem harpa e tambor em sua honra!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            30,
+            "La-"
+          ]
+        ],
+        "role": "",
+        "annotation": "ALTA"
+      },
+      {
+        "text": "PORQUE, DE FATO, O SENHOR AMA SEU POVO",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            34,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "E COROA COM VITÓRIA OS SEUS HUMILDES.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Sol"
+          ],
+          [
+            31,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SALMODIA X - Sl 8",
+        "heading": true
+      },
+      {
+        "text": "Ó Senhor nosso Deus, como é grande",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "vosso nome por todo o universo!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            25,
+            "Sol"
+          ],
+          [
+            29,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "DESDOBRASTES NOS CÉUS VOSSA GLÓRIA",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "COM GRANDEZA, ESPLENDOR, MAJESTADE.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            30,
+            "Sol"
+          ],
+          [
+            33,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "O perfeito louvor vos é dado",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            24,
+            "Mi-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "pelos lábios dos mais pequeninos,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "",
+        "annotation": "FLEXA"
+      },
+      {
+        "text": "de crianças que a mãe amamenta.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            25,
+            "Sol"
+          ],
+          [
+            28,
+            "Mi-"
+          ]
+        ],
+        "role": ""
+      }
+    ],
+    "legacyArchive": false,
+    "pages": [
+      236,
+      237
+    ],
+    "footnote": "* Do início da etapa do Pai-Nosso, nos tempos do Advento e Quaresma.\n* Depois de algum tempo, pode-se introduzir alguma outra salmodia."
+  },
+  {
+    "html": "ONDE TE ESCONDESTE AMADO",
+    "page": 266,
+    "title": "ONDE TE ESCONDESTE, AMADO",
+    "subtitle": "Canto espiritual de São João da Cruz (séc. XVI)",
+    "color": "#d6ffba",
+    "rows": [
+      {
+        "text": "Onde te escondeste, amado,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "e me deixaste com gemido?",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Como o cervo fugiste,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "havendo-me ferido;",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "saí, por ti, clamando, e eras já ido.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            16,
+            "Fa"
+          ],
+          [
+            33,
+            "Mi"
+          ],
+          [
+            36,
+            "Fa7 13"
+          ],
+          [
+            36,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Pastores que subirdes",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "além, pelas malhadas, ao outeiro,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "por ventura virdes",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "aquele a quem mais quero,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "dizei-lhe que adoeço, peno e morro.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            16,
+            "Fa"
+          ],
+          [
+            30,
+            "Mi"
+          ],
+          [
+            32,
+            "Fa7 13"
+          ],
+          [
+            34,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Buscando meus amores,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "irei por esses montes e ribeiras;",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "não colherei as flores,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "nem temerei as feras,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "e passarei os fortes e as fronteiras.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            15,
+            "Fa"
+          ],
+          [
+            30,
+            "Mi"
+          ],
+          [
+            34,
+            "Fa7 13"
+          ],
+          [
+            36,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Ó bosques e espessuras,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "plantados pela mão do meu Amado!",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "Ó prado de verduras,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "de flores esmaltado,",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "dizei-me se por vós ele há passado!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            12,
+            "Fa"
+          ],
+          [
+            30,
+            "Mi"
+          ],
+          [
+            32,
+            "Fa7 13"
+          ],
+          [
+            34,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "MIL GRAÇAS DERRAMANDO,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "A."
+      },
+      {
+        "text": "PASSOU POR ESSES SOUTOS COM PRESTEZA,",
+        "bold": true,
+        "notes": [
+          [
+            32,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "E, ENQUANTO OS IA OLHANDO,",
+        "bold": true,
+        "notes": [
+          [
+            20,
+            "Fa"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SÓ COM SUA FIGURA",
+        "bold": true,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "A TODOS REVESTIU SUA FORMOSURA.",
+        "bold": true,
+        "notes": [
+          [
+            26,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Ai, quem poderá curar-me!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "Acaba de entregar-te já deveras;",
+        "bold": false,
+        "notes": [
+          [
+            26,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "não queiras enviar-me",
+        "bold": false,
+        "notes": [],
+        "role": ""
+      },
+      {
+        "text": "mais mensageiro algum,",
+        "bold": false,
+        "notes": [
+          [
+            18,
+            "Sol"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "pois não sabem dizer-me o que desejo.",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Fa"
+          ],
+          [
+            32,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Ai, Ai!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa7 13"
+          ],
+          [
+            6,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "MIL GRAÇAS DERRAMANDO, ...",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      }
+    ],
+    "legacyArchive": false,
+    "refrainStart": 20,
+    "refrainLength": 5,
+    "expandRefrain": true,
+    "diagrams": [
+      {
+        "label": "Fa 7 13",
+        "dots": [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "html": "SUBA O ESPOSO AO LENHO DO SEU TALAMO",
+    "page": 268,
+    "title": "SUBA O ESPOSO AO LENHO DO SEU TÁLAMO",
+    "subtitle": "Hino (São Quodvultdeus)",
+    "color": "#d6ffba",
+    "rows": [
+      {
+        "text": "SUBA O ESPOSO,",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            9,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "SUBA, AO LENHO DO SEU TÁLAMO;",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ],
+          [
+            22,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SUBA O NOSSO ESPOSO,",
+        "bold": true,
+        "notes": [
+          [
+            15,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "AO LEITO, AO LEITO DO SEU TÁLAMO.",
+        "bold": true,
+        "notes": [
+          [
+            3,
+            "Mi"
+          ],
+          [
+            26,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Durma, morrendo, e abra-se seu lado,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            32,
+            "Re-"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "e saia a Igreja virgem.",
+        "bold": false,
+        "notes": [
+          [
+            2,
+            "Mi"
+          ],
+          [
+            16,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Ferido no seu lado logo saiu",
+        "bold": false,
+        "notes": [
+          [
+            25,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "sangue e água, sangue e água.",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "Mi"
+          ],
+          [
+            24,
+            "La-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Água, com que a esposa foi lavada,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            29,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "sangue que recebe como dote.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            23,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "Dorme Adão e é criada Eva,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            22,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "morre Cristo e é formada a Igreja.",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Fa"
+          ],
+          [
+            28,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SUBA O ESPOSO, ...",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            9,
+            "Re-"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      },
+      {
+        "text": "Oh, que grande sacramento destas bodas!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            34,
+            "Mi"
+          ]
+        ],
+        "role": "S."
+      },
+      {
+        "text": "Que mistério este Esposo e esta esposa!",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Re-"
+          ],
+          [
+            34,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "A esposa toma o véu",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "quando morre seu Esposo,",
+        "bold": false,
+        "notes": [
+          [
+            19,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "e o Esposo une-se à esposa",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ],
+          [
+            22,
+            "Re-"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "quando da morte se separa.",
+        "bold": false,
+        "notes": [
+          [
+            21,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "E, quando o Esposo é elevado aos Céus,",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "a esposa torna-se fecunda sobre toda a terra.",
+        "bold": false,
+        "notes": [
+          [
+            39,
+            "Mi"
+          ]
+        ],
+        "role": ""
+      },
+      {
+        "text": "SUBA O ESPOSO, ...",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La-"
+          ],
+          [
+            9,
+            "Re-"
+          ]
+        ],
+        "role": "A.",
+        "abbreviatedRefrain": true
+      }
+    ],
+    "legacyArchive": false,
+    "repeatBlocks": [
+      [
+        0,
+        4
+      ]
+    ],
+    "refrainLength": 4,
+    "expandRefrain": true,
+    "intro": "Braçadeira 3º Traste"
+  }
+]

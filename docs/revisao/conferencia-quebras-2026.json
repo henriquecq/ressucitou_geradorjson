@@ -1,0 +1,3701 @@
+{
+  "edition": 2026,
+  "scope": "Independent line-break review of all236songs/472variants using physical PDF lines by column and continuation pages; applied exact matches and visually adjudicated markup cases. Not certification of all lyrics/punctuation/harmony.",
+  "reviewedSongCount": 236,
+  "reviewedVariantCount": 472,
+  "method": [
+    "Independent PDF and HTML break-pattern inventory before executor application.",
+    "Cross-check365split and70join decisions, then73general reflows.",
+    "35private source crops visually inspected for74markup proposals;72unique operations applied.",
+    "Final contextual correction of O Senhor é minha luz e salvação and Muito me perseguiram; four occurrences of printed La7 independently visually confirmed.",
+    "Final preservation checks retain lyric character stream except explicitly approved Aclamai punctuation/capitalization; roles, asterisk counts, BIS labels and all embedded diagram URIs preserved."
+  ],
+  "preservationExceptions": [
+    {
+      "html": "ACLAMAI O SENHOR",
+      "reason": "User-requested punctuation and capitalization corrected by root."
+    },
+    {
+      "html": "O SENHOR E MINHA LUZ E SALVACAO",
+      "reason": "First chord of four refrain occurrences corrected Re- to La7 and all four refrain chord anchors reset to printed ESPERA start; independently visually confirmed."
+    }
+  ],
+  "remainingCandidateCount": 12,
+  "remainingSongCount": 7,
+  "limitations": [
+    "Remaining candidates are contextual parser matches, abbreviated/full refrain differences or a subtitle; they are not confirmed errors and were not applied automatically.",
+    "Word changes and punctuation outside explicit user request were preserved, not copied from normalization.",
+    "PDF and private renders were never added to repository."
+  ],
+  "songs": [
+    {
+      "html": "A CABANA DOS PASTORES",
+      "page": 21,
+      "variants": {
+        "normal": {
+          "sha256": "b6e42e6d7e5410da24d32c613d789190f3124dbe1c5c28781dc8595b16f92d4d",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a8222b1cb262eecbcbc587ca655e85578a3ed8fa57eaf8045d9ae43d83ce5554",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A CEIFA DAS NACOES",
+      "page": 22,
+      "variants": {
+        "normal": {
+          "sha256": "d7c68545f8b53a2b935346b32024f869f012fd09ece594a5a5bd4269b89c311a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a7547160d67f1d7e11819c87572cdba18221be23a1c33d1a5434cff1bcd358af",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A CORDEIRA DE DEUS",
+      "page": 23,
+      "variants": {
+        "normal": {
+          "sha256": "622e026f7c0aaab3c05d9f4721f205c038ae67ce705f7e29ed5879fa6ec17143",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "4417dd1cbd89e17241e42e7e62a39e9be61aec6a232643b602a589d70e7193b1",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A ESPADA",
+      "page": 24,
+      "variants": {
+        "normal": {
+          "sha256": "823a45e3b8d075dbfb7d69355cc16754ae9ca1f341c77b6c4c915263587faa31",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "823a45e3b8d075dbfb7d69355cc16754ae9ca1f341c77b6c4c915263587faa31",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A MARCHA E DURA",
+      "page": 25,
+      "variants": {
+        "normal": {
+          "sha256": "bff397d91902fd43988f6daca5b3c81a37e46c8d98a643fb27353d7e08e1f99a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "bff397d91902fd43988f6daca5b3c81a37e46c8d98a643fb27353d7e08e1f99a",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A NINGUEM DEMOS OCASIAO DE TROPECO",
+      "page": 26,
+      "variants": {
+        "normal": {
+          "sha256": "3028d7c180b455f83531524afc1361d94f11e96b90c07582d08a75c6affa3c42",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "d415740a78d4db2ff86e1d63d910b46136fa63ab3adb513a4e9f011a7c3bfcac",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A TI LEVANTO MEUS OLHOS",
+      "page": 27,
+      "variants": {
+        "normal": {
+          "sha256": "f192a1e3de8d12ee5ee8353b6f5e41deb2d7f1e84a1b04e2f848a99b9449aef7",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "41b03bf9fc6d28fc1b5e18458617bf9eee5de7dea6096b6873ef0560fa11369f",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A TI SENHOR COM MINHA VOZ GRITANDO IMPLORO",
+      "page": 28,
+      "variants": {
+        "normal": {
+          "sha256": "195a813769470f17ec15687771f8666a701d5226bf44e0e1728b5a51679c7bbf",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "60a94cc4a6fb18694dc84f95b7899574e7e936d7ba94a42155805610db7a4e8a",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A TI SENHOR LEVANTO MINHA ALMA",
+      "page": 29,
+      "variants": {
+        "normal": {
+          "sha256": "e07c7639a18d0fdfcf5e2211804993f92562bfb74ae5ab3f8b93d04554df8bcb",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a182e0773661e81e2b11b1e001252b29e521888d17fd227992b33367851e35c3",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A TI SENHOR SE DEVE LOUVOR EM SIAO",
+      "page": 30,
+      "variants": {
+        "normal": {
+          "sha256": "51da836810c57e61c6cc535329bb337292f828bc42e3f480a64bf6fa24a918e2",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c78c0306671a046a68d9336b717ca1184f85f5afc844ca2363c896d091ce4561",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A VITIMA PASCAL",
+      "page": 31,
+      "variants": {
+        "normal": {
+          "sha256": "9efd22bc092b18c7c9ca96db170a75fbb04c7e4dd3968005d1dbaba6e514ba72",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "9efd22bc092b18c7c9ca96db170a75fbb04c7e4dd3968005d1dbaba6e514ba72",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A VOZ DO MEU AMADO",
+      "page": 32,
+      "variants": {
+        "normal": {
+          "sha256": "467b311ced0dcd740460a00c2fdc702b000014a6225633281d9f3647495566e1",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c8bf4d3191594cfda071d25f7cfa6935bda7d2ba7c8b32a2c99201143bb557d1",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ABBA PAI",
+      "page": 33,
+      "variants": {
+        "normal": {
+          "sha256": "3f7b4acbf994e9321206d291b524d3a0d81e68d77582e0778a28767753de64e2",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "3f7b4acbf994e9321206d291b524d3a0d81e68d77582e0778a28767753de64e2",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ABRAAO",
+      "page": 34,
+      "variants": {
+        "normal": {
+          "sha256": "987d1a68382e8a4c86ce23db7bbd3f7363625cf8f67237c6055be7f8d883a38d",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "2ea6df7248e1a5032d56f6331d199a978a2843a5390b8232cf662fb737bb647a",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ACLAMAI O SENHOR",
+      "page": 35,
+      "variants": {
+        "normal": {
+          "sha256": "109a061799c1a35a49292d06218702baf1b6a9641723c2dd40f5a016d3a2d00c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "9cd8ce847718114bfb25dc3d4f1591e648280670c38eece6b26f6bc7d8ea88ac",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "AKEDA",
+      "page": 36,
+      "variants": {
+        "normal": {
+          "sha256": "d7f1e8a2287feeb886b9087f158ae58e7459ff98c144cc16229cffaa49592183",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "56e35a23481684e639120280820dcb5a747b425c9bad3d0b4bb3dda9a88effa4",
+          "candidates": [
+            {
+              "lines": [
+                48,
+                50
+              ],
+              "pdfPage": 36,
+              "pdfY": [
+                251.1
+              ],
+              "htmlBreaks": [
+                15,
+                6
+              ],
+              "pdfBreaks": [
+                21
+              ],
+              "before": [
+                "\"Ata-me, ata-me forte,",
+                "meu pai,"
+              ],
+              "after": [
+                "“Ata-me,  ata-me  forte,  meu Pai,"
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Expanded lowercase abbreviated refrain does not have one identical source occurrence; retain user text and avoid matching uppercase response."
+            },
+            {
+              "lines": [
+                50,
+                52
+              ],
+              "pdfPage": 36,
+              "pdfY": [
+                419.1
+              ],
+              "htmlBreaks": [
+                6,
+                15
+              ],
+              "pdfBreaks": [
+                21
+              ],
+              "before": [
+                "meu pai,",
+                "que eu não resista.\""
+              ],
+              "after": [
+                "MEU PAI, QUE EU NÃO RESISTA”."
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Expanded lowercase abbreviated refrain does not have one identical source occurrence; retain user text and avoid matching uppercase response."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "html": "ALCAI O PORTAS",
+      "page": 37,
+      "variants": {
+        "normal": {
+          "sha256": "24d5b4cb4f4f2e1714d1d342ef8c0f0a2bfc7a83a9ebcaa8750795f65d6c510f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "71e3536f6f6945ebcf63bd014eccfd80697d9106908d18ea94964ab706546acb",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ALEGRIA NASCEU O SALVADOR",
+      "page": 38,
+      "variants": {
+        "normal": {
+          "sha256": "e59c0e091c97fbef49eee190db100b8163ba830d46053e09f67453a16abd3c85",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "ed0a8a580520bc3beaaea50be27679fb8b6e7399b80943eaf0502ed9be5accd8",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ALELUIA BENDIZEI O SENHOR",
+      "page": 39,
+      "variants": {
+        "normal": {
+          "sha256": "8674e5566b7256bec0e0f2edc93f88aea9b36be8f38b6cb64194552e90efaaa9",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "792741d65e470aa5bf556c39e49d9d76018d4485f82e5e5855e8f630fda68601",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ALELUIA JA CHEGOU O REINO",
+      "page": 40,
+      "variants": {
+        "normal": {
+          "sha256": "6928c0bf6e261036b38d96fa8f4d57b4fd1ce50e41c5b906cc699f51cb782653",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "67e970e96ecd4c094fb03c52b8d0657f03598f3e92b1d6915b005ff244f9b6bb",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ALELUIA LOUVAI O SENHOR",
+      "page": 41,
+      "variants": {
+        "normal": {
+          "sha256": "94f7a865feb9e53767b861aed25e6b247d6464f85f9bb1669bee3bef50831332",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e67699ee2e075b83f117d9fd9fc56bc9382fd33112c4cb374ab9e002ca64d38c",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "AMO O SENHOR",
+      "page": 42,
+      "variants": {
+        "normal": {
+          "sha256": "41140fdae108ef091ac44e3349fec62ce9d81ab8ded75bae46e80fc947e9cd0f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "fba9db76d8ea802c4f74ada5aa0558332b1ca33fd6ed68c6455f9e9389651dd1",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "AO DESPERTAR",
+      "page": 43,
+      "variants": {
+        "normal": {
+          "sha256": "7eab8c9ca3f6b9a41519fec77820fedae41325eb6a195d3a661f8dd25cfc98b2",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "3be243dc2c13c9ad6a423b823f69c6348697d8e87e8cba1a38c5d26c6a1f183f",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "AS ARMAS DA LUZ",
+      "page": 44,
+      "variants": {
+        "normal": {
+          "sha256": "4dce7ff29e70f646fc762a2581cb733b94936dc79dd794c3fb84a18a9fa29e81",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "611eb22de81fe3196144e1beab7b219902f899afdd2c39e0fdc76b0dc1f6e7d0",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ASSIM FALA O AMEM",
+      "page": 45,
+      "variants": {
+        "normal": {
+          "sha256": "51dcee1c57b1adae6aad52c36e860b0520de22a1ca74cb6c60a1f1c1db9180d9",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "014fa85d1872df19831f99238a7d3a0c493424cb724ce549ce3697f16bf7c83d",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ATE QUANDO",
+      "page": 46,
+      "variants": {
+        "normal": {
+          "sha256": "025038b088d3f1138d63e998c645d3fdc154c367364024b859b33b75e654c374",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e788afb48c0d7323d94d744af36120f28ebfbc9a9518932e967fe9146c9d746a",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "AVE MARIA I",
+      "page": 47,
+      "variants": {
+        "normal": {
+          "sha256": "db2b991a49769b6750ea8b587d2edb1e6981c4e257105917ecfb008c700ba606",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "db2b991a49769b6750ea8b587d2edb1e6981c4e257105917ecfb008c700ba606",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "AVE MARIA II 1984",
+      "page": 48,
+      "variants": {
+        "normal": {
+          "sha256": "e1cf4e872e44e3b9ca288259441465e972177b8b60a0d5b2a80d60315b182f00",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e1cf4e872e44e3b9ca288259441465e972177b8b60a0d5b2a80d60315b182f00",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "BABILONIA CRIMINAL",
+      "page": 49,
+      "variants": {
+        "normal": {
+          "sha256": "057ba7735652f218b274aa14c889e8697d112873849f0a3ba6df7c46632095ff",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "868524831dc698bfb345222f14462dddc596dc4d7eb9bb9c9902a1005b7059c3",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "BALAAO",
+      "page": 50,
+      "variants": {
+        "normal": {
+          "sha256": "724f75da0b92fcf7ce08401f181a6a46c2cf46097e2a06b1f6c273d62313975d",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "7c57a7bebbe016206dab0b8d382a43dd1c171c9d8918e9712879523bf54a11d3",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "BENDIREI O SENHOR EM TODO TEMPO",
+      "page": 51,
+      "variants": {
+        "normal": {
+          "sha256": "62116dfc0c5a4ac99ecc2905324c615b9d974248707e942c4766e3793c5cb9ff",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "2991dd8b01762765fd03f60012b874b22c3ea1c3242d694318c3c94f42dd6c15",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "BENDITA ES TU MARIA",
+      "page": 52,
+      "variants": {
+        "normal": {
+          "sha256": "14c09e7b9cb7d3e2152c9b38b4daff5123e3d5892b4bad7368421d04e4be66cb",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "32dbf65d4e8a55c744ba88f07fcaa9bea9fec61f496f331449f5b12b3266aea4",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "BENDITO SEJA DEUS",
+      "page": 53,
+      "variants": {
+        "normal": {
+          "sha256": "3d613b66f8b99a4ea5907b633b7ed0fbc8b8af8f31b51168e95613711da336f7",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c7364d3670deff46d332c787980bf66bfe010076ad9762be866489da4f4bbd66",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "BENDITO SEJAS SENHOR",
+      "page": 54,
+      "variants": {
+        "normal": {
+          "sha256": "d911639cf402709b5b7a114075dd269ea0fd28a83fe04a37d0aca582f8066692",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "68f4c2d07278d8d278668f9b04ab6afae0215f515a8165d02d98b14b77a369aa",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "BENDIZE MINHA ALMA A IAHWEH",
+      "page": 55,
+      "variants": {
+        "normal": {
+          "sha256": "ebc78e17e6f9cca6e9061532e0a16f401a4c9cb44573e00a83f23d72a890203f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "42702d6b6e1257f2a454691f8a2437b61ee5745ca8347ae5bec0f405d4912a7c",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "BENEDICTUS",
+      "page": 56,
+      "variants": {
+        "normal": {
+          "sha256": "67ded3b26f758e80810c3b6ad80f3871d65a4182c9983c814950ee735ab00442",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "51c893631557d13a03b0b252744fa8b57e199e6d1cf1fe41523a69bfe7f35864",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CANTA A IAHWEH JERUSALEM",
+      "page": 57,
+      "variants": {
+        "normal": {
+          "sha256": "0836c7e48918752b930ccf22285bc7f0e194ef2fd2f0d5bde5f94a7106b04708",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "f87990e1e4570e65450f3d48f6adb9f9729203d6531186c60162508d246a2567",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CANTAI A DEUS",
+      "page": 58,
+      "variants": {
+        "normal": {
+          "sha256": "71cab30d08be8ec277dd49e958d482fa6e5f0adeb48eae8a14717d73c2771822",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "af34013c914d56a3fd758a31a7e2aaa7f6830cce6efa8ac742740691c1b07b30",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CANTICO DE ANA",
+      "page": 59,
+      "variants": {
+        "normal": {
+          "sha256": "95bb2efa66d4643155fa8147d35e30341f322c2a66746d8cbeba50a8fc8b4e4a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "cf6dbca1ab3e7ac4e1597cd9d05b177a31c5c490a4dadee541ab960f9b85c991",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CANTICO DOS TRES JOVENS",
+      "page": 60,
+      "variants": {
+        "normal": {
+          "sha256": "8579c2e3ea090998812091e692dc07b770be55b6fdb4f291e26d7072cb064b2f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "2c132815d9c12c4560a755c5f000ed060c4820354e497cd951022d676a7edd3a",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CANTO DE MOISES",
+      "page": 61,
+      "variants": {
+        "normal": {
+          "sha256": "eb58419a0ddcfc03a71f2e9c2df1233922e425e4f672978721fc2a8f72822a2f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "f2cf7f069f5a7a4309bc3de7d4ce2d3b8bda6749b75c87b2513e6574cd4c9295",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CARITAS CHRISTI URGET NOS",
+      "page": 62,
+      "variants": {
+        "normal": {
+          "sha256": "6112a407eb3d17550770711b470161fcf75c0045b6a3ad23c64f65cd776ccf32",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "f7a973ac7b07678a9cb756394bee09ab3784d194998e4865ce7aa1ddfa8e48d8",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ESTAO ROTAS MINHAS ATADURAS",
+      "page": 63,
+      "variants": {
+        "normal": {
+          "sha256": "d3e219ddc5623194142363c4771dc2371a67fea70fed700b270804a7afa9d478",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "82beb33da385393c64cb81d63d2fb89032896d758b2b037fbe8f43fbbc7af5bc",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CHEGUE A TUA PRESENCA O MEU CLAMOR",
+      "page": 64,
+      "variants": {
+        "normal": {
+          "sha256": "29f4e8b1b3f36bc7ad6233baf2a72c13d792ac8ad7da9b05f74d15b8a1c2be4d",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "542c07a1eb9fe6e438376942233078b8549f3c2f9451e333e2b3724b6f52a9e3",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "COMO A CORCA",
+      "page": 65,
+      "variants": {
+        "normal": {
+          "sha256": "5ded7ca8383ce2fcb4277be36cf30a19afad4294c86d191ea47bb9eb5d1ff5b7",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "4066a1bc34fa9640100bfd1013c8bbdb020a5d4b49ce679036122521245260ab",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "COMO CONDENADOS A MORTE",
+      "page": 66,
+      "variants": {
+        "normal": {
+          "sha256": "ed65beddcddee0fcdaf50cb9fcc0f8b7751be6f04d5f0817df7266478755def4",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "db28035c690d77a6afee4f3f8ad610d1ad3099a37cfb5e884a7926125c8111ed",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "COMO E MARAVILHOSO",
+      "page": 67,
+      "variants": {
+        "normal": {
+          "sha256": "05d9ba44f17879d1212e2db4300a4f207a7e1bfbb7b23fa7403a0dcc76666c46",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "27db7ba8fbd1d4bac9794fceb09a236eb2eac9ea60a7d3dbc024ad5afa6d49ce",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "COMO OVELHA QUE VE",
+      "page": 68,
+      "variants": {
+        "normal": {
+          "sha256": "eb2e70750cd2c379914fdaa6c7446edcb14eaff51a37a39a838b7d86967d9493",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "20abdba2b1fc303206d728ba7b63e0b0158a0e0be282178e39c1bd46fcafd192",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "COMO SAO AMAVEIS TUAS MORADAS",
+      "page": 69,
+      "variants": {
+        "normal": {
+          "sha256": "3fd7dd01e52b805c0a730f1eaf25717af19cfa19c39cf432b043d2cd7bfb0d90",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e6a5b538fa4678a0580bf4b13bff0c57c4c047a4186ebe6b1a55c80d0bbe911f",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CONFESSEI A TI O MEU PECADO",
+      "page": 70,
+      "variants": {
+        "normal": {
+          "sha256": "5ca70287ee7e6fa439b58469a5d17349be4e5fe8b23bc262b343a43b8fec2020",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "b726135b362b81d56d7c358d89957f30641f7e6ea9dcdcdc1d2537156c194c40",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CONSOLAI O MEU POVO",
+      "page": 71,
+      "variants": {
+        "normal": {
+          "sha256": "5b048de156e8c33a117f64f72240d6ebce1c132491d9624ef5919c8c6853efd0",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "5656e60a1b7aec55a8bf0a2bb18a380037e9dd3eb7b2a48d2bff94bfa0e3fc43",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CRISTO E A LUZ",
+      "page": 72,
+      "variants": {
+        "normal": {
+          "sha256": "429d8d19c56d53f717f152fcbd75ea889d73fc67da6b08cf0f2868b6d86fd5c2",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "429d8d19c56d53f717f152fcbd75ea889d73fc67da6b08cf0f2868b6d86fd5c2",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "DAYENU",
+      "page": 73,
+      "variants": {
+        "normal": {
+          "sha256": "39cbe0b444c96a53daf3486b40df2b0f6609aed07662af565a3ca6b7837898e2",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "5431abeb8c858fe25fd621a4259ebb4933009b72aa7204ddddf007db9f0bd184",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "DE PROFUNDIS",
+      "page": 75,
+      "variants": {
+        "normal": {
+          "sha256": "2e52b70c379e7f667f9210a8e266626ac139433c16dd13efb66c52ea029fa939",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "836fc0dcad7dac50a65590465c0fcce5815bfe33ef76bb01cb57d63ec557c6c7",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "DIA DE REPOUSO",
+      "page": 76,
+      "variants": {
+        "normal": {
+          "sha256": "8988bb7042b5fbaff4c1b0b9397e0eb048bbc5aef4bd76ffaf46348c0b164cf6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "b765d6c0bbb666dcd97f91382f7c6c98cb8418e05d26090af088cdebeb54aa8f",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "DIANTE DOS ANJOS",
+      "page": 77,
+      "variants": {
+        "normal": {
+          "sha256": "ba8d95b5ec999bd31d9707d2b40b779c68fff03c9585642f430930a66144ac4e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e40b4b4ee803a231f024fe8add2cb735a844921ea08275f1be36ad2432f48ad5",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "DIZ O SENHOR AO MEU SENHOR",
+      "page": 78,
+      "variants": {
+        "normal": {
+          "sha256": "932e5f7a268a41275898c33170939b6ad3cbe82560b71024037b9933e9c2583d",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "b1060939c784bdc6ee3224379e74630eaa91c398b401b1656741dac74f267301",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "DIZEI AOS DE CORACAO CANSADO",
+      "page": 79,
+      "variants": {
+        "normal": {
+          "sha256": "a04a6b7b3efe3a81b2151253eec7b9fc389b33b6b9e5dcc909b108646009239e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a04a6b7b3efe3a81b2151253eec7b9fc389b33b6b9e5dcc909b108646009239e",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "E PACIENTE",
+      "page": 80,
+      "variants": {
+        "normal": {
+          "sha256": "f762d687c2b53c908e41548dca11fcf9f1ba982725a8089491c231992afff836",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "65fe6610d6e9da23530961a061b2fa624dc7e3a1b037b91a8a6858b16127c163",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "EIS O MEU SERVO",
+      "page": 81,
+      "variants": {
+        "normal": {
+          "sha256": "d8f3819c7d7716aa19f86b7b7cbfe54bee33513559505e627a1848f1385b7fd2",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "d8f3819c7d7716aa19f86b7b7cbfe54bee33513559505e627a1848f1385b7fd2",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "EIS ME AQUI QUE VENHO EM BREVE",
+      "page": 82,
+      "variants": {
+        "normal": {
+          "sha256": "6a4c64500e086b60ae8610730d2c0214d3c3c4be0b6843da7ce88a44cd7c310f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "f7399839ebe0f3c13fb447a9072d84c955d6ebd053e095c9e7da89db33d641a1",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ELI ELI LAMA SABATANI",
+      "page": 83,
+      "variants": {
+        "normal": {
+          "sha256": "c8c148f4777c8ec93715b20bb34aa8b90fe470ae22755a772aa72b9453dac4f6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "5a127904ee5154e542564b8ddc20c146192859dbd4c56791b2fddc4686b25c01",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "EM MEIO A MULTIDAO",
+      "page": 84,
+      "variants": {
+        "normal": {
+          "sha256": "fc0db8ccfca9ea2c182ac7975f537fbb042d951f0962edbd659c605cea5dff29",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "9d11afe9cf6d458851bc08297e99a682f01cfb77a68bcb1286457c2f2450a415",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "EM TUA LUZ SENHOR VEMOS A LUZ",
+      "page": 85,
+      "variants": {
+        "normal": {
+          "sha256": "385bee61bc91444e3ad1a60d16014d0fe3debc306f82693b11fb04f94588a903",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e1669f66f17f6f5eec68cffb16bd760a21adff809b3bc50d96e03f43288751c6",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "EM UMA NOITE ESCURA",
+      "page": 86,
+      "variants": {
+        "normal": {
+          "sha256": "bb9dd18bd4457b3600d7d3eff68264a3e59051b6319c9b732398d0d2dec1a134",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "3887993960d427acbc1ecc1128142a376dd184fd72bc7494d40dfc8c1344a089",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ENCONTRARAM SE DOIS ANJOS",
+      "page": 87,
+      "variants": {
+        "normal": {
+          "sha256": "ea4296f6165758c9c6d84d5161dda78db7ca84585bd67eaa73b2acf012bff8e3",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "ea4296f6165758c9c6d84d5161dda78db7ca84585bd67eaa73b2acf012bff8e3",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ESCONDE ME NO OCULTO DE TUA TENDA",
+      "page": 88,
+      "variants": {
+        "normal": {
+          "sha256": "46dcdef7de75fb402bc7aea54b9b28862c6e0584772e7301100a5f53924c00b4",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "5a2ad6d49f5b3ef7c7f183c95009f50f47e52f5c9260ca2e879883564e792ad8",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ESCUTAI ILHAS DE LONGE",
+      "page": 89,
+      "variants": {
+        "normal": {
+          "sha256": "d8b55acbeaf6c4e6b819b01c899dde8d484dc33a67399dca2c4c13652550386f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "0aac5a81b0047bb36ccf882219934cccd8c9835124d367a9475443edb740620f",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ESPEREI ESPEREI NO SENHOR",
+      "page": 90,
+      "variants": {
+        "normal": {
+          "sha256": "19620fb08927d63c2f80482a9b94ad5466d345cab203baed0bb4c7708fb65b25",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "7157b279abb28e28da23377981bd99ce300372766a0722add26d25baec557c93",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ESTE E O DIA QUE FEZ O SENHOR",
+      "page": 91,
+      "variants": {
+        "normal": {
+          "sha256": "81ca0931bb3659979d0f3134e42e50aea2278cd5c5e2d561e5bef1c63875d3ee",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "1801889fb3496ed4c7e3c3207871ab3933e4a1d0559197a7063bbcebf3c6add6",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ESTE E O MEU MANDAMENTO",
+      "page": 92,
+      "variants": {
+        "normal": {
+          "sha256": "a38c030fd8f0608d3289bff748a2da4945efa20fbc8c581c97da8935eafb8bf3",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "cc6526ff1baef028f8f0401b7719dabc8de6ac144e4ee3a57651e15c135e3e63",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ESTENDO MINHAS MAOS",
+      "page": 93,
+      "variants": {
+        "normal": {
+          "sha256": "18d62fb16fb7c7117eab242bc2bb0a7434c2d1089cecb0bf13dfd7703dea3dee",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e828c930fd0f255e95b2f007c75b4e6d5a46ba2cf01a89c8d2408bc95652e7e5",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ESTOU CHAMANDO TE",
+      "page": 94,
+      "variants": {
+        "normal": {
+          "sha256": "123bef3c2613c15575907a769e6f563e7ba1f73c47148c932dae93458da7229c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "45c130c9bf42e9cf2c9add36de93e9dffd8857277daf11b346dc4c18fef5caeb",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "EU TE AMO SENHOR",
+      "page": 95,
+      "variants": {
+        "normal": {
+          "sha256": "2fdf53f9cd01b4a6a9db9cfeaa934a3238097db91674abb2fe4dafdb55bb806c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "6fdfaac290fd3fa2763e56ccca6988c77ff2dbe6141505b1cca47bc45e3ea42e",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "EU VENHO REUNIR",
+      "page": 96,
+      "variants": {
+        "normal": {
+          "sha256": "10d2b1a1982a05a792d11c6e739f6af6c774230064ae40ac1abea078a9468f6f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "3623df327ca97383f953fdc01acae01c1d6965a0523f7567c389c572abb6e8f0",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "EVENU SHALOM ALEHEM",
+      "page": 97,
+      "variants": {
+        "normal": {
+          "sha256": "e2030df7d19e63c2e852db538b0d82596ad8fa2024fc2d05aa18cd65935b2c88",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c15c7df25f4aa470c92154aba8999844f3a24c9c77c8f45d4ba17f4805221ed2",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "EXULTAI, JUSTOS, NO SENHOR",
+      "page": 98,
+      "variants": {
+        "normal": {
+          "sha256": "27de2942ca59d34e27321b98c57b1786e900516624e2681470a54f0879a0c6d6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e5517d538c7e74907e62742528679238c0e1fd34bb7bb8f91b17f763d3583a35",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "FELICIDADE PARA O HOMEM",
+      "page": 99,
+      "variants": {
+        "normal": {
+          "sha256": "45d52a23c26e7e0aac3ba7c9abd27082bc0b55c1c1a903c9c8c1604bfa04d04f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "12939dd8c9fb10efbd99c64793baf20ccb2f29c801d1082f7ed01efe832e8ea7",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "FELIZ O HOMEM",
+      "page": 100,
+      "variants": {
+        "normal": {
+          "sha256": "0a479d2744f98758ed2baf7fb9b466f51c4672f6f38a4bdfd16a38105e7c8216",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "ee6849a9c6a28ac91849c9190c1ca4fd4245595d4a12c746a1ae55b5288b6671",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "FILHAS DE JERUSALEM",
+      "page": 101,
+      "variants": {
+        "normal": {
+          "sha256": "2f06487aedb91b984c67ed2e0a7849c1948204331a998a80b0475fd50a3f2fd6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "b6506fe6adfb2a53ef73793c63b11ba49123de9f4bc46379ee18c428a5068526",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "FOGE O MEU AMADO",
+      "page": 102,
+      "variants": {
+        "normal": {
+          "sha256": "b4a516f8924c1256464b74b7ee9a064671911a6dcd801329829947f7001d782e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "b2778c29e617f56b3088e0340080c3b643a09a5a87e7d9f482088fecbe3d2a3e",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "GRACAS A IAHWEH",
+      "page": 103,
+      "variants": {
+        "normal": {
+          "sha256": "82fd34f49f755570eae9895314eaf22bd7d5c2e0e0df672a90deae2173e36541",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "bcc643a036cab73d364d7ff245e566ed60837c5f8f243aa87ce7278013816a60",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "GRITAI JUBILOSOS",
+      "page": 104,
+      "variants": {
+        "normal": {
+          "sha256": "f089a12b42e09f3b8b350971a7edba605117424669f2ee7ef3dc9f2077bd53c6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "0670c877d7d5a05a715f766fb1712d480240de096410c68ce9a1afa39373515c",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "HINO A CARIDADE",
+      "page": 105,
+      "variants": {
+        "normal": {
+          "sha256": "1d04ef31640a5d66ab598edf3fdf0585a832cb38d4d5eaff089412743adbfece",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "cf5ef5899e5db1dd037470070de5098fdbed4a6e57895cbe3f1b1311967f18ba",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "HINO A CRISTO LUZ",
+      "page": 106,
+      "variants": {
+        "normal": {
+          "sha256": "d79a0da23e5433385a1c1b52f1e4c43d5a4bda3e266cbf892abd091738e81a80",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a033f506b0d340c3aba301b0cad74dcbcf9d0556fe1d0e459abd97d8b5b88b57",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "HINO A KENOSIS",
+      "page": 107,
+      "variants": {
+        "normal": {
+          "sha256": "a57e8c3289db5ce40fc93acf1db3ec488ac1f06adc10f0167eaf49e6835b48f7",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "630d9a039f6c1968eb1e97e2de8547ef82c93b0ceb24c154beaa808ae1d8af30",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "HINO DA ASCENSAO",
+      "page": 108,
+      "variants": {
+        "normal": {
+          "sha256": "27b9667e0e8c288eaef528307eddc82ca933895b2f02badc1fbfe004aef4feaa",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "2ec1b45ad8564389e52e9863ddd58ca5e756dde90b06e90f5df8a985c6ead570",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "HINO DA PASCOA",
+      "page": 109,
+      "variants": {
+        "normal": {
+          "sha256": "0b86baf7e3969159885c3d02deaf9ffbf370d7a9b5bf14506c33179a7c2b372e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "33008eda4c16bf19dbdcc36f08645b5f2cfbcee15b414d290f3c45d470aae9df",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "HINO DO ADVENTO",
+      "page": 110,
+      "variants": {
+        "normal": {
+          "sha256": "ff1de304444d19374d6b847b3a15ca316c7f6a1606ff69aab0d8d10b23f48d12",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "ff1de304444d19374d6b847b3a15ca316c7f6a1606ff69aab0d8d10b23f48d12",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "IAHWEH TU ES MEU DEUS",
+      "page": 111,
+      "variants": {
+        "normal": {
+          "sha256": "f41ed02dc0c4e21c6a6ec389fa39a6991a8d9c8313bacf81c2910c19f175ac87",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "448aeb6bad94ca082911613849504dcd4d50316ffd0c4050749ab257954b9dfa",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "IDE E ANUNCIAI A MEUS IRMAOS",
+      "page": 112,
+      "variants": {
+        "normal": {
+          "sha256": "01045b503ab6221fea6e0ecc9fd51363fcbc39ef9e5e93a5b954edb27c77d660",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "1ae6a6575a2c6f76bf78583497a8b3693dab0d604a9d45681f8a9f027e29dd7e",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "IMPROPERIOS",
+      "page": 113,
+      "variants": {
+        "normal": {
+          "sha256": "5133db9bb692d8577a773edb747aa18a9dd13d64a18a9d0eac93b5a710882127",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "193c6143ca2bd93308106f4686f23fe8e1a5a2d3669fc4c829fce3bb1e12e6a8",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "JA VEM O MEU DEUS",
+      "page": 114,
+      "variants": {
+        "normal": {
+          "sha256": "81fe110311e2b97a5552d977662fe5efb677995656938b8ca55f3dbb0b04f05e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "737d76afca8f7054cd07d5eeae4a8c36782dd8728f6ae1437f39ba47755e8707",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "JERUSALEM RECONSTRUIDA",
+      "page": 115,
+      "variants": {
+        "normal": {
+          "sha256": "0e03d2a678f5430b47bbecf4396e09c4a9ce70348ef164afd7541b01c24e7812",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "5fe949f563c4be971a608570f3a9d7ca5bd8736938952a8d3b33f931b5bb1fdb",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "JESUS PERCORRIA TODAS AS CIDADES",
+      "page": 116,
+      "variants": {
+        "normal": {
+          "sha256": "514beccc67553bafa10a645429d824fa6b54cf94fe3bfb490e440a717eea690d",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e2148fa579d0698fc74e85e1c96a37543d227fa7d165f9be451968a377e02186",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "LEVA ME AO CEU",
+      "page": 117,
+      "variants": {
+        "normal": {
+          "sha256": "e9fbdf35ab5bd26f0fcd1b12ab8b0f64d2a2f29fccedcc385474da82c2148730",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "3ff267b0842387a63ed7dc4449e9e7cadd7698192779b1287ebb241e67a6f94e",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "LEVANTO MEUS OLHOS PARA OS MONTES",
+      "page": 118,
+      "variants": {
+        "normal": {
+          "sha256": "c6e678662bc3422c963890a23ba1ea42c61ce697c7e0d185f620d3b983c18415",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "9dcb43bec1130f3856cc0946deafc78830d23bff6b3c8b90187c8ff3e776b4e2",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "LOUVAI O SENHOR",
+      "page": 119,
+      "variants": {
+        "normal": {
+          "sha256": "b47996b7595bcf070208997dc3fcb3cb523053968359adc3eda36336f69f934c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "9c749e3961af0f4cdb900547798787a4a03a7202a41474e4d368a1def582a491",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "LOUVAI O SENHOR NOS CEUS",
+      "page": 120,
+      "variants": {
+        "normal": {
+          "sha256": "d3f9ea14818a96ddf2f4a4c35b7c19cc170f08732a6afdca358a23409c61866c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "d3f9ea14818a96ddf2f4a4c35b7c19cc170f08732a6afdca358a23409c61866c",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "MAGNIFICAT",
+      "page": 121,
+      "variants": {
+        "normal": {
+          "sha256": "d40fa1ca0423d4c81ac0936747f60ced88f5dc43b070f887a02064403255f35b",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "946479807225c74cf70c6a4de05520275a820d1e5a2c0a4e90f3a9a6725e82d8",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "MARIA CASA DA BENCAO",
+      "page": 122,
+      "variants": {
+        "normal": {
+          "sha256": "77ff2be9274814006be49c9eac2360fbcf51c7544a673633ad8554a72b49d5a7",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "d968b03744778abf975c462004c538fc08b39e9f07ef6bf8b3ea468b3d629562",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "MARIA DE JASNA GORA",
+      "page": 123,
+      "variants": {
+        "normal": {
+          "sha256": "5b070353128967e052c7748d8ecd539ed3aae8addca8cb822365e1533c50fc05",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "2e42ac2d6a1025a14b304ea056e6577121b215c12fecc58c497dd0866ccde0bd",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "MARIA MAE DA IGREJA",
+      "page": 124,
+      "variants": {
+        "normal": {
+          "sha256": "28ccaef3dbab279347c004a8801070cad23365e483d87e09f0e520edd2b328ce",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "80f29738dc3775f66efab8dff5c389ea1847d7b795751053c7be77e2673603b3",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "MARIA MAE DO CAMINHO ARDENTE",
+      "page": 125,
+      "variants": {
+        "normal": {
+          "sha256": "dc1cb85fd8d49911383532041c9d689a4d93e637751447d53d19dce7c5f7666e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "42798782aae4501590630b9e85993514025e8301ea65c7e4b10187378a71aa88",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "MARIA PEQUENA MARIA",
+      "page": 126,
+      "variants": {
+        "normal": {
+          "sha256": "8e027b92cd9b6a809a263ce472343dccaed57ff702eb86a8b2c59db4217b89dc",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c0c3ae58f206d6aa77decac983ec58c4c9cc69686fa0cb1a213415d453ef8c4b",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "MARIA POMBA INCORRUPTA",
+      "page": 127,
+      "variants": {
+        "normal": {
+          "sha256": "8b8deefebd831190baf5f00c5d7c27147a5b0ef84ab9cea75e4ebd0fb5926cdd",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "ec86a720ca95581f9551250c0ec2a499fe1e6c0c0f3c3bdbac4d23a5af7b37c7",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "MISERICORDIA MINHA MISERICORDIA",
+      "page": 128,
+      "variants": {
+        "normal": {
+          "sha256": "affb1388f9e7ef0b9e5c804c5df3973a1cfa6c1a3f5cb98482313a2f6e507a6a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "87b607dc6391b4853353bc5d0540354471f3819cd769942d9b013d495402e002",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "MOSTRAR ME AS O CAMINHO DA VIDA",
+      "page": 129,
+      "variants": {
+        "normal": {
+          "sha256": "4f60c22158cc0686733b6ef8e0b41fcb25d3dee9214a1ee22f87b8c199889134",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "5c7c2dd8f3c3192777db41defc3e7a5a6126702ad51f3187e31e0ed863c75a12",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "MUITO ME PERSEGUIRAM",
+      "page": 130,
+      "variants": {
+        "normal": {
+          "sha256": "a312670e35e658fda044fee43d56ff59c95d53d4e0ae4b1136162fa79c015c7d",
+          "candidates": [
+            {
+              "lines": [
+                21,
+                24,
+                26
+              ],
+              "pdfPage": 130,
+              "pdfY": [
+                215.1,
+                251.1
+              ],
+              "htmlBreaks": [
+                19,
+                19,
+                14
+              ],
+              "pdfBreaks": [
+                19,
+                33
+              ],
+              "before": [
+                "MAS NÃO PUDERAM COMIGO.",
+                "SOBRE AS MINHAS COSTAS",
+                "ARARAM ARADORES,"
+              ],
+              "after": [
+                "MAS NÃO PUDERAM COMIGO.",
+                "Sobre as minhas costas araram aradores,"
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Cantor lowercase one-line and assembly uppercase two-line responses are distinct occurrences. The corrected uppercase response stays in two lines."
+            }
+          ]
+        },
+        "estendido": {
+          "sha256": "fc74b4444413505c36e248a994d58d8e6d6092c6e899a4c68a30236e41a11673",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "NAO ESTA AQUI RESSUSCITOU",
+      "page": 131,
+      "variants": {
+        "normal": {
+          "sha256": "ce3b91763e574a0c23fa4fc606680939d048ea8fc0964b443814034d806cc698",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "ce3b91763e574a0c23fa4fc606680939d048ea8fc0964b443814034d806cc698",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "NAO HA NELE APARENCIA",
+      "page": 132,
+      "variants": {
+        "normal": {
+          "sha256": "1415982a59ec026636e9fdc24a4de900651f18cce0a08278d6f70817ef0b67f0",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "6d75e2cfd0f939c3c370ae5d8239d322d15cd37de8f248b731e9594e9010abc1",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "NOLI ME TANGERE",
+      "page": 133,
+      "variants": {
+        "normal": {
+          "sha256": "8dda4550091277081d29badef9204f2497980275f2aed7159da607b2dacce946",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "ce5b39f97aa62efe000cfd176684e224f6d8eaba4dcc15194ecb6f9c8c18c867",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O CEUS CHOVEI DO ALTO",
+      "page": 134,
+      "variants": {
+        "normal": {
+          "sha256": "4b479d569252ae1d8ad913ce02ef123bad88510f49b90b4e7977e3ee4c59e81a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "1d30bdb3c3a9adc258307cd3c10abb7804d8cfc473a51a0b4e7fdf911614b446",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O COMBATE ESCATOLOGICO",
+      "page": 135,
+      "variants": {
+        "normal": {
+          "sha256": "91840a1711f296d3bfc816c135eb1b580941ede25b59638992a99ad1179a9b87",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "4ed7022ed66338d7dc8fc43e61da9cd5b11b9cd8cb0276b2ea91964926956faa",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O DEUS PELO TEU NOME SALVA-ME",
+      "page": 136,
+      "variants": {
+        "normal": {
+          "sha256": "bff848a2463a5a87a58b4a4e97ab7ddadc16964863f4112c408b56d6ef6807e9",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e806731e506bd13f0e9599b2b4d4e1ca0ce6127581416e6ef67e820899e68c50",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O DEUS TU ES MEU DEUS",
+      "page": 137,
+      "variants": {
+        "normal": {
+          "sha256": "eeacf6d5c91dabf65b9edc8a64ebe0d29560f5b9678c753abf39d92fe48c83f8",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "9e25dc83c3c234976b39b07b418711dc591c00c55b1fa1fea93fbdcd66fa4a5b",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O ESPIRITO DO SENHOR ESTA SOBRE MIM",
+      "page": 138,
+      "variants": {
+        "normal": {
+          "sha256": "e3652a39d82bceb8e1e26bf8dfc3aeda6c3ac6fd634766d5279ae819875b11c6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "cc00d2caee53a28590f60f89d6117fd7148e10238255e31c8a3be834956aa1bc",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O JESUS MEU AMOR",
+      "page": 139,
+      "variants": {
+        "normal": {
+          "sha256": "337ec3a4839fd65a17ff5c7c6e59d54ccd207526c2134916aac6952eab70033b",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c304b81357b1659f002647c3f67420cfeb18979f91b73827b1afe3f017745431",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O LAGAREIRO",
+      "page": 140,
+      "variants": {
+        "normal": {
+          "sha256": "55273fbc4966a245d1156d9dcf8cd631450591cd66a3a3f211673284453dfcb0",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "997eae142a3fddf5ec359080f6573bd4aa6b36ff1b5b45a6075551e9a468821f",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O MESSIAS LEAO PARA VENCER",
+      "page": 141,
+      "variants": {
+        "normal": {
+          "sha256": "e50ed2afb55f7eb647e8d7774db8deeeeb8340a36ab085d6b4dfa4cbe97bba00",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e5107c40280fc2ac1e3ed99a531b8ed41d879eb170062a99b4f9e54e9043217e",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O MORTE ONDE ESTA TUA VITORIA",
+      "page": 142,
+      "variants": {
+        "normal": {
+          "sha256": "e31c4838e0bf902db1309336b90a26d45a0bdb8bbd18f70f8259b0bed9c30a24",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "6da968abca90a200600ef0ba8d264a50dc8c6e0081d89c3eec12cc0a639e3d0b",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O NESCIO PENSA QUE DEUS NAO EXISTE",
+      "page": 143,
+      "variants": {
+        "normal": {
+          "sha256": "cae5302d2001a0cc330608ebe292c03397faa8d93a83d06416df9a86099148ba",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "499456e00413b02d0f77d46c9a0aabc3e7e3440a2dbc9b6fbf014df0671f34ac",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O POVO QUE CAMINHAVA NAS TREVAS",
+      "page": 144,
+      "variants": {
+        "normal": {
+          "sha256": "e646fb170572243afbd57dc351d57ddbdd8d37261cd59da0ebdf3f3495417ef1",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "693259908e02c4887a59c64a55ee61f73f0b797d5745b18b4fa3e73c7f8c4af4",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O SENHOR ANUNCIA UMA NOTICIA",
+      "page": 145,
+      "variants": {
+        "normal": {
+          "sha256": "dc57d9302079ae3b5f83fa65f6ba855feed843150672ad22e4db3f8af964dda0",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "80893d5b9e8f4e453f03507a1fe78de4fd61b027acf87c88233e1422df51b5b2",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O SENHOR E MEU PASTOR",
+      "page": 146,
+      "variants": {
+        "normal": {
+          "sha256": "38afa8c55e0c8b49428623e58328f64024be32691983ee32c01f23e878d6eef9",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "cf94889bfdd202bf18e1e8e0eba95084b25b046bcfeac924045fd0fb69ab8e47",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O SENHOR E MINHA LUZ E SALVACAO",
+      "page": 147,
+      "variants": {
+        "normal": {
+          "sha256": "bd3300cea504c90271ef469dd433f0e3086a1629c05cc1792565f4eadeac634b",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "1304919a9665e401486558ec8e99693108d279749506f338c4dcb7232340eed4",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O SENHOR ME DEU",
+      "page": 148,
+      "variants": {
+        "normal": {
+          "sha256": "4a8810a81827e199e9236dc10767a3c43e8bb68dd238ea0dd75f4d9b3b4aa485",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "717c1af34de73e21fede6c113c5b58900378e93e49a473b853d4a8d4ddcf5230",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O SENHOR NOSSO DEUS",
+      "page": 149,
+      "variants": {
+        "normal": {
+          "sha256": "488bc56c84a5d8f7a8894187091761dfdec77fe6a411e1eb32030888fc8f6eb2",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "823995b78e6e48f17fee0d3ac0622609dbaa84c9f4165bbce49fd1df9cf795ce",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "OLHAI QUE ESTUPENDO",
+      "page": 150,
+      "variants": {
+        "normal": {
+          "sha256": "5474f28369e8f4374c25b756a4c881cce51b3afc7e685f8a6df0083a9a33f78b",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "10e3ebfe702fa9fc53eeed486b7c46776a5e7a9530ec83a662d5765f6b85bc3f",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "OS MENINOS DE BELEM",
+      "page": 151,
+      "variants": {
+        "normal": {
+          "sha256": "c1fb5b8c303420ff4a7c9e5a1e0cffbb57596ab135cbbe1309c738e49d23eb8d",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a08c7cfe3568b052370e1d4e644231866392de37fcccd66491f5942c436d1e18",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "PARA TI MORADA SANTA",
+      "page": 152,
+      "variants": {
+        "normal": {
+          "sha256": "d714df8891a56a293cebdd0ed49dff1e92ea13da2b298de85f1f8095565463c1",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "bfea7386564ded3d00bf4e4696e88fd32cf16f311a29ac39a5524804448750d1",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "PENTECOSTES",
+      "page": 153,
+      "variants": {
+        "normal": {
+          "sha256": "e77e5d1bf164b962d85d4b5d7598ee714168b7f8080884fd0851152cd83cc0b2",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "bc911d0bcd7081e63d221941f88098c00f90a9aa2047ab35ff0e9815fc70b0e1",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "POR AMOR DE MEUS AMIGOS",
+      "page": 154,
+      "variants": {
+        "normal": {
+          "sha256": "904ba073544a3d6dfb05b0135e0644836cb7635bd14695f78e4964ae16dfe78b",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "576546df5ed17a32395d3c0916a39f07f3b127c3b14adddc2ac6621c40be6f41",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "POR QUE CONFABULAM AS NACOES",
+      "page": 155,
+      "variants": {
+        "normal": {
+          "sha256": "33bec8df65d1c1dd1bb3d1cb3fadced8ebb6368b42139da59b731200b33db1a1",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a38d187afa20b6d7b7738d4bbe264191d09be4b638fb915145566d6c677e12a3",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "POR QUE ESTA NOITE E DIFERENTE",
+      "page": 156,
+      "variants": {
+        "normal": {
+          "sha256": "e34f0036cadbc647cad429f5c9c9ee87d80f04b893bc06c0b776e7580572326e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "82bd961f2e1f435a8e795a4dcc74413543e3e0b49c867fdf2e8ef5d7d9abf936",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "PORQUE O MEU JUGO E SUAVE",
+      "page": 157,
+      "variants": {
+        "normal": {
+          "sha256": "4fa3d7e04ddac3203040a29d152f573ea70d1dbaf3146b5f58299ef55f613bfe",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "0fb99d82410b01cf25f7b67e461f8f52f72081f4b7d1f9f917f91bdedfda7191",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "QUANDO ISRAEL SAIU DO EGITO",
+      "page": 158,
+      "variants": {
+        "normal": {
+          "sha256": "a5510f6435e1c679fd51abd5d0a2c9bdc041cc400e13211ecf84eca07933904a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "154b49f0000c976efbedb858faa96fd1bdc83bfe0d55ae6727d5ee3a8e97d991",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "QUANDO O SENHOR",
+      "page": 159,
+      "variants": {
+        "normal": {
+          "sha256": "c39af3529d95f8cd65f28d029344139f0b0a9e205b4519fca61604bc8ab43d2e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "1f1fc615c6c180bedfd0e4bfbe5d44cd4d5e4237b9f72772aac8cf5bfd56f1b4",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "QUE ESTUPENDO QUE ALEGRIA",
+      "page": 160,
+      "variants": {
+        "normal": {
+          "sha256": "8c3cbead1274ab0d96749c512a8f54cf93f8ef8bab62282d82af21d921d969d6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "8e9ad93b3e6f7d5cd56bfbd8d22b902bf50c715e28606f81b718bace5c8db357",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "QUEM E ESTA QUE SOBE DO DESERTO",
+      "page": 161,
+      "variants": {
+        "normal": {
+          "sha256": "72fc31146ba408056d7e6f001b86efbc0459e47bfeec4a07da2dd9b7a1c1b451",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a6a61080a33e2a09c85f9fdfc2ca06545f57b26a219bfcd59a23824999e86383",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "QUEM NOS SEPARARA",
+      "page": 162,
+      "variants": {
+        "normal": {
+          "sha256": "9a268dbb405a61f91ebe0a9437d961c46de4f1629063c8ff7a704dc5703fe7ff",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c8ae8cfb90feeebec1551176d7ab9d10e392d028fa89fedb33cf124407e648b3",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "QUERO ANDAR",
+      "page": 163,
+      "variants": {
+        "normal": {
+          "sha256": "2edad8257072f30fddb94e5fd8ace3fbb655ee94d9e241daa86a2d8e423d5747",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "f9bf9e7953f51d7f17cf7e20e52c3a0e31636248fa55762a62d349a12872db3a",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "QUERO CANTAR",
+      "page": 164,
+      "variants": {
+        "normal": {
+          "sha256": "fbd66d7f43c87b357890d9d437a1734d3bbe5408abff5e6b09cb1c1800fd0335",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "2ee65f56778e244a3f49ba4c7ef9d2f10480fcf1c324a1e303f3ab4db7c94d12",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "RESSUSCITOU",
+      "page": 165,
+      "variants": {
+        "normal": {
+          "sha256": "08f5642eac715d6692cc0efb0d3a36c53f59197d77ba5aec8f372407a1fe0fda",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "0967dfc28534544ef38ebdacfd2b9a9ecb995da0f47f95e9cfa19f57bbe3f3b7",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "RESURREXIT",
+      "page": 166,
+      "variants": {
+        "normal": {
+          "sha256": "d1e4942365b67c687fa2434a867d2fc6de2121d843cc27626f3487af38327345",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "d1e4942365b67c687fa2434a867d2fc6de2121d843cc27626f3487af38327345",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SALVE RAINHA",
+      "page": 167,
+      "variants": {
+        "normal": {
+          "sha256": "dd3f258f52f6078b88283d55a020c26abf84af129033722e37c21cebcd357f95",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "dd3f258f52f6078b88283d55a020c26abf84af129033722e37c21cebcd357f95",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SALVE RAINHA DOS CEUS",
+      "page": 168,
+      "variants": {
+        "normal": {
+          "sha256": "6376cfb0725dfdd2c3bf5e5e69c5cc69fffd5603cf43862a0218527fc59f3cef",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a6c1d754d5ab1c6da957596e306c30685aa89cf630aadebc4a312e1cc33b84c9",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SE HOJE ESCUTARDES A SUA VOZ",
+      "page": 169,
+      "variants": {
+        "normal": {
+          "sha256": "a13ca2b4bc2a28bc718c02d2e613d6ca6823ff820f47d9fd640f7d0d29fbb270",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "6704806bfd208c7f9f5aa967b3a03887bc5e71d9304cd06ea456439afc5c39ac",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SE ME REFUGIEI NO SENHOR",
+      "page": 170,
+      "variants": {
+        "normal": {
+          "sha256": "b8bc9eb9868f9709e668cc55f13ab5391456586d5ee8bc9db638a10280fec87a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "28ef76a29ae131a42c3052b434c84cda8be291f3afb44e6d97a562df190dee90",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "page": 171,
+      "variants": {
+        "normal": {
+          "sha256": "c385ddd1c4a497415d9995dedab6d6bda58df1385b39135e06d91aadf6a49c47",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "24daf43e170db4cb1b6e2f19ce5fefab048cb77b7804207e8ed963cf178f50a7",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SE VOS RESSUSCITASTES COM CRISTO",
+      "page": 172,
+      "variants": {
+        "normal": {
+          "sha256": "f4abe7c8a71a7fa76971666f8574be20b1fc4fee5cd08064c262515d5eb2ef44",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "b1acf79fcdbbd1ade010939d6133d87e236c76d9f883f4822c6b4d66e431064a",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SEDUZISTE ME SENHOR",
+      "page": 173,
+      "variants": {
+        "normal": {
+          "sha256": "e7fc54e55a02fda3a55a196e7e3ee75b7790bf7b4db2a5593834363e0c65719f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "2dc6bb0caa396d45bad6cb6b70cb1a0011d1f59110b41b11fa9465cb80c602bf",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI",
+      "page": 174,
+      "variants": {
+        "normal": {
+          "sha256": "11499ca266282fcd2796ea5f7d4cc33eed2d1cba808fef41483a5606313838af",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "159019bc899c7f77671c574af291432e5fdde51bd4095fc0a52f4b6003dcf493",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SENHOR NAO ME CORRIJAS NA SUA COLERA",
+      "page": 175,
+      "variants": {
+        "normal": {
+          "sha256": "cf9bedff9650f592a2126c6cba95da7512c46b53e2c091b315f5ed772378eafb",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "39174dac01b3366b0301adb26e1e210d3a4d403f70826a10469cc551f212c6df",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SEQUENCIA DE CORPUS CHRISTI",
+      "page": 176,
+      "variants": {
+        "normal": {
+          "sha256": "0e10ff668bce6e007f2ea97678041f350589a6903e274e4f32027a708cd64f7f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "0821246d3092201ba0344c3d976ac18763d5e040087392a81221e7cf964c1fad",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SERMAO DA MONTANHA",
+      "page": 178,
+      "variants": {
+        "normal": {
+          "sha256": "c44dfd960c278729ce97316090c82038fae9340b682437f735dda8b7b1931362",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "3dc502a05c36623eee7e1b012c2bba79d91ca40ff1d99f3cb839d0b678f3d5c2",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SHLOM-LEJ MARIAM",
+      "page": 179,
+      "variants": {
+        "normal": {
+          "sha256": "00ce088c308889566305e96802faf6aeb45d9b355d6feb312d91db43d3d06761",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "699b6f718888cfd8937497c4ca02fdc8180e5f29dd92e9416dd888a9bd9b7051",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SIAO MAE DE TODOS OS POVOS",
+      "page": 180,
+      "variants": {
+        "normal": {
+          "sha256": "71e79692be61db99c21c715588fbe9923a7e5717116e63dfcf86d2241d1af539",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "16bf0bbe257a082a65d780dcc33bd3d3931e7e75ee77cb24178244cefb9a4b38",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SO A SO",
+      "page": 181,
+      "variants": {
+        "normal": {
+          "sha256": "df278727dc3b2b10600d9e73f8b068e30ea3e48acb8272a93781a0a3ed3d3233",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "b006e4699ea2d58b32cf47e66458d6ffb958e33ee5b67f215db6a27a95345fef",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SOBE DEUS ENTRE ACLAMACOES",
+      "page": 182,
+      "variants": {
+        "normal": {
+          "sha256": "faae09018338063867e0a32cc5541e70d3e19139c6e276ef09b1f4957496589e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "bde3327575e8a600274c61845be65fd2167830c002b3b8a2c86134858fcb4691",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "STABAT MATER DOLOROSA",
+      "page": 183,
+      "variants": {
+        "normal": {
+          "sha256": "0854f670e0aeab597bfdaddb2d05a24457845276be112abb71603d3dff423a80",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "3250a839e4e63736369a0d0ddf99c0ac47f795d9500047ecb262f9f4c21f9512",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "TU COBRISTE DE VERGONHA A MORTE",
+      "page": 184,
+      "variants": {
+        "normal": {
+          "sha256": "689ff0889c7aebfda94c051ce84ce4f6abdeed1f498957c5dd8de2aff3d75032",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "998e047fa8b34fd578ae50eafb5480b6afdb8c2cfe5425c294e6cbd29cd67cb9",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "TU ES DIGNO DE RECEBER O LIVRO",
+      "page": 185,
+      "variants": {
+        "normal": {
+          "sha256": "430ba378190856e708f16821c0835710862364fad552e859286d2cfc8bc082fe",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "f347ef6ebf4a26a57ba542554650c5d46310a97c907625cef96c7420bae36416",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "TU ES FORMOSO",
+      "page": 186,
+      "variants": {
+        "normal": {
+          "sha256": "6cddc5298261bd7ba95d81ebe02dbca05f6fef534edceeafeb7ffcbf9680405d",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "8321987e7f14eab530d973cbad097aff89b5e947145ff4ed438bd5580c4d92fa",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "TU QUE ES FIEL",
+      "page": 187,
+      "variants": {
+        "normal": {
+          "sha256": "e7c66b55ca9d0e6bca01f1503b7ec75ca0210fe75d5d42e68d82002e20792ce6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "7fff42a19ee608aa1e873fee86dc18c44ab6983340ea3830282f8c7f299e693f",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "UM GRANDE SINAL",
+      "page": 188,
+      "variants": {
+        "normal": {
+          "sha256": "dbde284afbbeebaa797d958cb46f1137786d17e2ef3852ac973c222f28cf42c9",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "d15feeff61771faafd444792a2556240ba56a023b382f53e03608a542087d435",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE",
+      "page": 189,
+      "variants": {
+        "normal": {
+          "sha256": "02ad422917dca58b0086e615a40d4bbf3b14ac84992a4cff17ad1f1b9712d723",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "539cd81fd61ab164f3ec9afdf6333b9f56a5a25c7959d65906b3f0e799132753",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "URI URI URI URA",
+      "page": 190,
+      "variants": {
+        "normal": {
+          "sha256": "d62f4cfd9876add52795268d8c0907d98f4898d44c109829a9937050973d220f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "d65e774f443c0387fafad1d339fa5ea9a14b70745a6e291c3480012065c69bc0",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "VAMOS JA PASTORES",
+      "page": 191,
+      "variants": {
+        "normal": {
+          "sha256": "3f2e627b4e67475d1b1ccd378b8e6b47449147001796a01046d4f12169990e9e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c19f86bb00d8d91cf0ab115fdec53a826b4b5f7aa266fa2385fa8c9d58c634aa",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "VEM DO LIBANO",
+      "page": 192,
+      "variants": {
+        "normal": {
+          "sha256": "6a30b178c8551fbefdb7701e740c0567392868b3fdda0315ebf46f0ae219f5a5",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a6b352ba5c1c8e1cd624f8acf7d97c450294eab47772a84c5a0fe2f6b6405081",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "VEM ESPIRITO SANTO",
+      "page": 193,
+      "variants": {
+        "normal": {
+          "sha256": "7ceb8f0c18109cbc43dd88491da8f9fcbe76830514ccf7c2a771a56970c766b2",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e96170fdf47c20fcb85806cd60c0b47cd343f462cf3fc5dddd6183111a41ddc5",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "VEM FILHO DO HOMEM",
+      "page": 194,
+      "variants": {
+        "normal": {
+          "sha256": "44e83e5abfab5b3f1c78a6f0b54f556107be8a0316df197f552bcbde54f2a75f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "489f0b827e00294421cef1b3deb1c2d2d0d07c588fd4e2a426f92c7cad14008c",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "VEM O SENHOR",
+      "page": 195,
+      "variants": {
+        "normal": {
+          "sha256": "22fbafbc6a66d213e49c8e8a1e5c9b845d8ca91924623be91ea905bd61507240",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "ca672a9bf03b13886799bca611a7a99aaa98f743fbfdf1a0e58ed67959b81c4d",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "VENI CREATOR",
+      "page": 196,
+      "variants": {
+        "normal": {
+          "sha256": "f85835895ef0c94e292ade62d8bf260afb86b0c4225e0f3f275d8449521334a5",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "fe766e1fbeb46b44d8985a996876710b092c58e9b8a9ef4b41dcbbf6b751410f",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "VIRGEM DA MARAVILHA",
+      "page": 197,
+      "variants": {
+        "normal": {
+          "sha256": "19b2001eb4864f9acf44104d236a1d911cf0cb863df2255692a47aece82ede9c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "233b849b8e07f101c76695169b5bac4bdeb4f7c519a215780fffb4bf0a2554a8",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "VIVEI ALEGRES",
+      "page": 198,
+      "variants": {
+        "normal": {
+          "sha256": "9021dc779ccf17a99e012ddab2e22f78348d1c9259dae8b179e78d8a1c405f7a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "664e8293f0326deb42298e16c6d7e301a7b8fccf94a08179957526c9efceb017",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "VOS SOIS A LUZ DO MUNDO",
+      "page": 199,
+      "variants": {
+        "normal": {
+          "sha256": "c310c8058aec186c9da6dc1f2aebf3a5df89675cc65bb3b1d92464d69a15e7b6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "b134cd70892a323d30e13e18084e5aacf3d10daa4d092dffa3ce99f667c7b397",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "VOS TOMAREI DENTRE AS NACOES",
+      "page": 200,
+      "variants": {
+        "normal": {
+          "sha256": "beeeab5e4c54edb4cceabc05c566925e7094def764ffe94c4ab9ba977918aa09",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a9e6c2fa83a31324b37df7495930f39c0498e94ee14648ec15d793edc4a6ffcf",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ZAQUEU",
+      "page": 201,
+      "variants": {
+        "normal": {
+          "sha256": "9b95af4271a56f565264d168d13c8eb255e41a8450453eb17d96960faa6ae4b4",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "5d3749fe54f60534a3bfd524b0d238b77d28b45516086477fcb134ee3afb3afc",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ALELUIA INTERLECCIONAL",
+      "page": 203,
+      "variants": {
+        "normal": {
+          "sha256": "eac187b0c6f6b7b2b18b3b9b80e6739afdedbf003751b05a7b20cdd871fa9936",
+          "candidates": [
+            {
+              "lines": [
+                43,
+                49
+              ],
+              "pdfPage": 203,
+              "pdfY": [
+                167.1
+              ],
+              "htmlBreaks": [
+                7,
+                21
+              ],
+              "pdfBreaks": [
+                28
+              ],
+              "before": [
+                "ALELUIA, ...",
+                "ALELUIA, ALELUIA, ALELUIA."
+              ],
+              "after": [
+                "ALELUIA, ALELUIA, ALELUIA, ALELUIA."
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Normal abbreviated refrain cannot be joined to the neighboring full refrain."
+            }
+          ]
+        },
+        "estendido": {
+          "sha256": "b39c02f687b0e3a4ac793d61cc7a602f698a9d70da6abb43f718f386c1fb493e",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ANTIFONA - VERSICULO ANTES DO EVANGELHO",
+      "page": 204,
+      "variants": {
+        "normal": {
+          "sha256": "036a4c5f86fd7dd0e498e86d3d1d95de82ef0ee3bd6ef18d729a3ca010b83aed",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "be21ae2b80900264386cec71edec95746160e3031b248666d0f5c3742292345a",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ACLAMACOES AS ORACOES DOS FIEIS",
+      "page": 205,
+      "variants": {
+        "normal": {
+          "sha256": "c969c5ba230de551937ba7e44ba1057ad02d14485382abd6696b0b31d2bb634c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c969c5ba230de551937ba7e44ba1057ad02d14485382abd6696b0b31d2bb634c",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ALELUIA PASCAL",
+      "page": 206,
+      "variants": {
+        "normal": {
+          "sha256": "269ca5f0e205190eb37d7babf0dfff232fb51203fc2fe7aa6d8b7f96dce7de51",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "269ca5f0e205190eb37d7babf0dfff232fb51203fc2fe7aa6d8b7f96dce7de51",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ALELUIA PASCAL II",
+      "page": 207,
+      "variants": {
+        "normal": {
+          "sha256": "a46dbab6920670703c97fe3979d605c424689a41eb1498ac32411ff86140a5c8",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a46dbab6920670703c97fe3979d605c424689a41eb1498ac32411ff86140a5c8",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "AMEM AMEM AMEM",
+      "page": 208,
+      "variants": {
+        "normal": {
+          "sha256": "4bc092f38cce829835d0b93e4c660e4b5b3da51465de04dccaebdf256020433f",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "43af7122557dd41d8746bf3bb3c2e15e843d7039a6d1a3c4821017ad4c33b13f",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ANAFORA DO SAL",
+      "page": 209,
+      "variants": {
+        "normal": {
+          "sha256": "d8ae4e215a9c0eb874d81a2ee2eb8e1c082f0402e9afdc8e9662e362243147f3",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "11c8e03810c87f61be98106780bff9485cd55be73aad2b5685a4c6f08731a3bc",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "BENCAO DA AGUA",
+      "page": 210,
+      "variants": {
+        "normal": {
+          "sha256": "fe75f1443e29babd8b4caae134c6ee7484fa866b4b498d23046e3099600f437e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "7b5af1f5bb834b7d2966c65d88583e8d8cf4236b7a458ddc93d8b90b59547e0d",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "BENCAO PENITENCIAL",
+      "page": 212,
+      "variants": {
+        "normal": {
+          "sha256": "a0fac9ff958948dd41cadc7f4bbc08900acd82b6a74a0bb0fc437f5ea04b43bc",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "81aaa83cf325ca7f7c9e72fb3bbd27e4dfa5cfd2072fdbef52d2aa7a9b2fe1aa",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CORDEIRO DE DEUS",
+      "page": 213,
+      "variants": {
+        "normal": {
+          "sha256": "e80cfe3c73903e1c9fe812e9f83599a18d28fee4f975d0e9e57847c28cfae93e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "73047751f53b7478dcadbee97a097a647d92273069bceed3d3d785d89088cfcd",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "CREDO",
+      "page": 214,
+      "variants": {
+        "normal": {
+          "sha256": "a10a87a4450bd717ed4cc853d565665c6bddb9a174faa90e424a7cc6cf5c9e33",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a10a87a4450bd717ed4cc853d565665c6bddb9a174faa90e424a7cc6cf5c9e33",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "GLORIA A DEUS NO ALTO DO CEU",
+      "page": 215,
+      "variants": {
+        "normal": {
+          "sha256": "7c91eb746b4c4fe5d69640054260aad1ee548006ce1aaba30a657b19e05e47b3",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c862d346a08eb73afde9fc2d7db4ae9d5531e8b97cae85b93dce5f6bd43de162",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "LADAINHA DE TODOS OS SANTOS",
+      "page": 216,
+      "variants": {
+        "normal": {
+          "sha256": "66e887612b930f5a9cc98bb19e34807ee3054eb9c24fc366253ed8d28bfe83c1",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "66e887612b930f5a9cc98bb19e34807ee3054eb9c24fc366253ed8d28bfe83c1",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "LADAINHA PENITENCIAL I",
+      "page": 218,
+      "variants": {
+        "normal": {
+          "sha256": "0f6928cac862da132897937744386fd255840afe8bfc44c0a0e5b1bf2d5a6001",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "e9074baaf271e1e7bb8b2481690304b681e466be26a7f5ee1e8ecd974a014327",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "LADAINHA PENITENCIAL II",
+      "page": 219,
+      "variants": {
+        "normal": {
+          "sha256": "21405b524759b9569a2e6fd44f255345a915e9c3c1a09b1d5baf6e0f78e61783",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "80e0aa3c5ba4c5032c720a42cad0e6306597caabf7734192d91e72c4140f90e7",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ORACAO EUCARISTICA II",
+      "page": 220,
+      "variants": {
+        "normal": {
+          "sha256": "6d7d558bc1e9417bcc4a478891b05347568cddd95a1716265134532035bb0888",
+          "candidates": [
+            {
+              "lines": [
+                151,
+                153
+              ],
+              "pdfPage": 221,
+              "pdfY": [
+                239.1
+              ],
+              "htmlBreaks": [
+                9,
+                9
+              ],
+              "pdfBreaks": [
+                18
+              ],
+              "before": [
+                "MARANATHÁ!",
+                "Maranathá!"
+              ],
+              "after": [
+                "MARANATHÁ! MARANATHÁ!"
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Cantor and assembly calls remain separate even when printed on the same physical baseline."
+            }
+          ]
+        },
+        "estendido": {
+          "sha256": "6d7d558bc1e9417bcc4a478891b05347568cddd95a1716265134532035bb0888",
+          "candidates": [
+            {
+              "lines": [
+                151,
+                153
+              ],
+              "pdfPage": 221,
+              "pdfY": [
+                239.1
+              ],
+              "htmlBreaks": [
+                9,
+                9
+              ],
+              "pdfBreaks": [
+                18
+              ],
+              "before": [
+                "MARANATHÁ!",
+                "Maranathá!"
+              ],
+              "after": [
+                "MARANATHÁ! MARANATHÁ!"
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Cantor and assembly calls remain separate even when printed on the same physical baseline."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "html": "ORACAO EUCARISTICA IV",
+      "page": 223,
+      "variants": {
+        "normal": {
+          "sha256": "0df647d17dd2b371ccddd081c78f047d02afea583299b6d6a9747ce55a608d17",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c97cc04616e49ad1f7c45e78763b822e91bfe961a7b6a92c337545f45d7c7bba",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "PAI NOSSO",
+      "page": 227,
+      "variants": {
+        "normal": {
+          "sha256": "1c5616e68c4de59cdf7398c4bc32c7705b6c368a89c78a34c1de08b22d35a52c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "1c5616e68c4de59cdf7398c4bc32c7705b6c368a89c78a34c1de08b22d35a52c",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "PRECONIO PASCAL",
+      "page": 228,
+      "variants": {
+        "normal": {
+          "sha256": "e7c8c330403352cef1ab9b757be7a48a5e05010d6b68e4f979ab22671170af20",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "eb56a9dd8653a9bb95798bfe28809c8dc2ed287cd14239fc83458ec5aa8638d8",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "PREFACIO DA PASCOA I",
+      "page": 230,
+      "variants": {
+        "normal": {
+          "sha256": "2f42e5ca75fa1c21de7bfe032097d95f8691242f056ade4824837acb06ca682b",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "b4adb8cea4324fcc50c96827010a672cb04e613f225300eef0d6448e82aa96a4",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "PREFACIO DO ADVENTO II",
+      "page": 231,
+      "variants": {
+        "normal": {
+          "sha256": "dca290828aa06e1baa11d6fd44313c5aff0e5e616b874d79eb3750ad5f571b54",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "dca290828aa06e1baa11d6fd44313c5aff0e5e616b874d79eb3750ad5f571b54",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SALMODIA PARA AS ORACOES UNIVERSAIS",
+      "page": 232,
+      "variants": {
+        "normal": {
+          "sha256": "a627f812ce65cd6323e967b2f6579b5c02bbfc97fedfc1858cc635ca2588c6af",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a627f812ce65cd6323e967b2f6579b5c02bbfc97fedfc1858cc635ca2588c6af",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SALMODIA PARA O EVANGELHO",
+      "page": 233,
+      "variants": {
+        "normal": {
+          "sha256": "a2e44ac919a0601c61b49cc50f6b2d90a5946112eca03751907994e6d929ac0c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "a2e44ac919a0601c61b49cc50f6b2d90a5946112eca03751907994e6d929ac0c",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SALMODIA PARA O ROSARIO",
+      "page": 234,
+      "variants": {
+        "normal": {
+          "sha256": "fcb284c15eb1bdbeeb3d0d4caa6b5743533a977c36a054c8df6bf21e123fdd93",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "fcb284c15eb1bdbeeb3d0d4caa6b5743533a977c36a054c8df6bf21e123fdd93",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SALMODIA PARA O SALMO RESPONSORIAL",
+      "page": 235,
+      "variants": {
+        "normal": {
+          "sha256": "86ab75d415334f39a3ff6e0a122c8567ab508714f7b12610fceb538fd8433cd7",
+          "candidates": [
+            {
+              "lines": [
+                4
+              ],
+              "pdfPage": 235,
+              "pdfY": [
+                83.1,
+                95.1
+              ],
+              "htmlBreaks": [
+                36
+              ],
+              "pdfBreaks": [
+                27,
+                9
+              ],
+              "before": [
+                "XXII Domingo do Tempo Comum - Ano A - Salmo 63(62)"
+              ],
+              "after": [
+                "XXII Domingo do Tempo Comum - Ano A -",
+                "Salmo 63(62)"
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Subtitle wrapping differs from print; not a lyric break. Header is kept as existing metadata."
+            }
+          ]
+        },
+        "estendido": {
+          "sha256": "4b8c41a50fadd8885f169e6a5085c7f840d814ff0aaa6a3b86c7b7c4911090c3",
+          "candidates": [
+            {
+              "lines": [
+                4
+              ],
+              "pdfPage": 235,
+              "pdfY": [
+                83.1,
+                95.1
+              ],
+              "htmlBreaks": [
+                36
+              ],
+              "pdfBreaks": [
+                27,
+                9
+              ],
+              "before": [
+                "XXII Domingo do Tempo Comum - Ano A - Salmo 63(62)"
+              ],
+              "after": [
+                "XXII Domingo do Tempo Comum - Ano A -",
+                "Salmo 63(62)"
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Subtitle wrapping differs from print; not a lyric break. Header is kept as existing metadata."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "html": "SALMODIAS PARA AS LAUDES",
+      "page": 236,
+      "variants": {
+        "normal": {
+          "sha256": "621e224a70b313bd2ed6bdc8b83c95e6fe95c01e5417f20a4595eb690898bc3a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "621e224a70b313bd2ed6bdc8b83c95e6fe95c01e5417f20a4595eb690898bc3a",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SANTO 1982",
+      "page": 238,
+      "variants": {
+        "normal": {
+          "sha256": "b1377bdf54cda5a9057ed57d7d84978800eab71cb589ad1f9bde3f6355f5bc4e",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "3fba3d2d98e1d511b212cc28df3d81d2c8604d98d1ce6fc4160be7cbe7c50418",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SANTO 1988",
+      "page": 239,
+      "variants": {
+        "normal": {
+          "sha256": "815e57ead5648e8ac7acb4332d360d42f21ca4888bf5c21f32a7622036bb6c7b",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "815e57ead5648e8ac7acb4332d360d42f21ca4888bf5c21f32a7622036bb6c7b",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SANTO HEBRAICO",
+      "page": 240,
+      "variants": {
+        "normal": {
+          "sha256": "65d179347152151beb4ffbc9ca1b2925dee9728e5809928ea7987cfb26e52fee",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "532691e7717995df1719818a238c57cbaa74dc29d92e3f49d9b1b2ca59e21727",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SANTO PALESTINA 74",
+      "page": 241,
+      "variants": {
+        "normal": {
+          "sha256": "4567bc86336a9126e1aa20280e09d8554929d3dcdd536d79faa87a0bbc66f91b",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "4d7ab1c12a20267327e5dd6cb8c2ca54d30e445e257132925a5cf31c2a4ac7ff",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SANTO PALOMERAS 65",
+      "page": 242,
+      "variants": {
+        "normal": {
+          "sha256": "1a0ae4e6c23061759dd8fd80dff1425dc285bebd9fff5ca877adea69315583b5",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "154f0c0c9a624705d8de65ba276294cb167810040b7457d5b87519d58f3d9a51",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SANTO ROMA 77",
+      "page": 243,
+      "variants": {
+        "normal": {
+          "sha256": "c3156a66f25a8e1aca31e6e51701aa5b1f64d90ee5d0ad173bcd6d3df123a2d6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "8375f3b6068a59bc7526fb067bd92724f7577ad7f87cb9887b9519625ef89dcc",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "TE DEUM",
+      "page": 244,
+      "variants": {
+        "normal": {
+          "sha256": "cbf3fcb8094acf29f0ee2c32f904bffc9c6dcd4fb2d10751c5f6bb0c47f42a1a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "f5984d05aecd4202440df2648e98d9df2e804c047c783db0d7abe4e2e5dbd2cb",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "COMO O IMPULSO QUE SENTE A IRA",
+      "page": 245,
+      "variants": {
+        "normal": {
+          "sha256": "d9d673ef763efd0b6069f578bdf1ad6474044fdab7fe9cffbd6f9d2e69ca4437",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "08549e65935c9be9c8839b341e42be4a63201c4b760ed387ade276f0487b9843",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "DEBORA",
+      "page": 246,
+      "variants": {
+        "normal": {
+          "sha256": "b797826d0791fd9cdebe04b269941ffad1e02a927de68487c9bda315492b9e5a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "929012edc03d419274af08f1073f6078014a2f91cf25762561645750be79184a",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "EIS QUE O NOSSO ESPELHO E O SENHOR",
+      "page": 247,
+      "variants": {
+        "normal": {
+          "sha256": "38932d51189e0da67551e98050be85791e2a3ea6335a5e211ad1494d7a43989c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "7f9a0662f13604cd51ac779ac8d0ee262006ce8b4ddd64030928d88583971386",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "HINO A CRUZ GLORIOSA",
+      "page": 248,
+      "variants": {
+        "normal": {
+          "sha256": "0fa531708d82279f8c06676989cf652e135f5d3efbdfa228ec4adca27e1ccfc1",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "17a313e456ca2ceccf976cb18ae6f591b218dda401901d8a99c54a94ee907cb4",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "JACO",
+      "page": 249,
+      "variants": {
+        "normal": {
+          "sha256": "73d8af32a18c4f6bfb6aacaf1cfe1a9f2aa31c9dc2631c251ce89e89fb267af1",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "73d8af32a18c4f6bfb6aacaf1cfe1a9f2aa31c9dc2631c251ce89e89fb267af1",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "NAO RESISTAIS AO MAL",
+      "page": 250,
+      "variants": {
+        "normal": {
+          "sha256": "f03820fdbc9bad3a192c88196504e3b265f6dd80fea1bd47aa4d03d97ff28c4a",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "4c547e63cc85b5df290b3fa5e2605997aa10e107b5bda0c2197550e21de82c75",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "NAO SOFRAS PELOS MALVADOS",
+      "page": 251,
+      "variants": {
+        "normal": {
+          "sha256": "da0405083ad6c0c84afffd0eedb5f93b0d740708d0d3d2d32711fba171da23eb",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c19b4668197e9dbd4f33d2f7a9f3f6cb8f309419bf9aec7d958799ec7f981d31",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "NINGUEM PODE SERVIR A DOIS SENHORES",
+      "page": 252,
+      "variants": {
+        "normal": {
+          "sha256": "2d7186bbfba39d85099289a341b90ee92b20f8939730285a8e6e46e175cbb422",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "fc79f3bddd7030a29b98656f262be72479631315e5f66a07a0f5deea6f41e542",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O MESMO DEUS",
+      "page": 253,
+      "variants": {
+        "normal": {
+          "sha256": "b14db833d2ac3d4f56ebe4cc08671289cc949ba82969f36131fdba5ecebc9205",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "6aef5e4b45fd68ef92813e86f4208fd4a409129450d35074162b5d1f87d2131d",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O SEMEADOR",
+      "page": 254,
+      "variants": {
+        "normal": {
+          "sha256": "6082f68f1395c4a28eab69caf3f02fdd319e8960ca98d868070e8ff1b3a1d047",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "639fdbcb8a0b8aa57ce066607a87764ef88d258b4c51cfc638e0942e50f39590",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "O SENHOR MEU CORACAO NAO E PRETENSIOSO",
+      "page": 255,
+      "variants": {
+        "normal": {
+          "sha256": "00544312b7f1c3b7800d1c051280557a3741ede77153fa369bbdec348d2c7b44",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "019f8fe82aa7ed6f27bd1e2c2497bb6cc6f7d27a24a2bdbb7d55eaa50682e649",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "QUANDO DORMIA",
+      "page": 256,
+      "variants": {
+        "normal": {
+          "sha256": "1b91c37abee21a7c2efd82f148b3b476e44c4d3df28b96a1d500ffbd4b5e67eb",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "9288cb9c9311177efc68c40acf58313774fac3e5e7593fb0215a79681408ce9e",
+          "candidates": [
+            {
+              "lines": [
+                81,
+                84,
+                86
+              ],
+              "pdfPage": 256,
+              "pdfY": [
+                347.1,
+                383.1
+              ],
+              "htmlBreaks": [
+                20,
+                12,
+                17
+              ],
+              "pdfBreaks": [
+                20,
+                29
+              ],
+              "before": [
+                "os guardas das muralhas.",
+                "EU VOS CONJURO,",
+                "FILHAS DE JERUSALÉM,"
+              ],
+              "after": [
+                "os guardas das muralhas.",
+                "EU VOS CONJURO, FILHAS DE JERUSALÉM, ..."
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Extended full refrain must not be collapsed to the abbreviated source refrain."
+            },
+            {
+              "lines": [
+                97,
+                100,
+                102
+              ],
+              "pdfPage": 256,
+              "pdfY": [
+                467.1,
+                503.1
+              ],
+              "htmlBreaks": [
+                20,
+                12,
+                17
+              ],
+              "pdfBreaks": [
+                20,
+                29
+              ],
+              "before": [
+                "ao te encontrar na porta.",
+                "EU VOS CONJURO,",
+                "FILHAS DE JERUSALÉM,"
+              ],
+              "after": [
+                "ao te encontrar na porta.",
+                "EU VOS CONJURO, FILHAS DE JERUSALÉM, ..."
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Extended full refrain must not be collapsed to the abbreviated source refrain."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "html": "SENHOR TU ME ESCRUTAS E CONHECES",
+      "page": 257,
+      "variants": {
+        "normal": {
+          "sha256": "cad2abd6cb400e3e3d095da95520e5a903e482672640830e5a2fa02b336f62ea",
+          "candidates": [
+            {
+              "lines": [
+                56,
+                58,
+                60,
+                62
+              ],
+              "pdfPage": 257,
+              "pdfY": [
+                347.1,
+                371.1,
+                395.1
+              ],
+              "htmlBreaks": [
+                30,
+                27,
+                14,
+                18
+              ],
+              "pdfBreaks": [
+                30,
+                27,
+                32
+              ],
+              "before": [
+                "E ISSO É CIÊNCIA MISTERIOSA PARA MIM,",
+                "CIÊNCIA QUE NÃO CHEGO A ENTENDER,",
+                "CIÊNCIA TÃO ALTA,",
+                "QUE EU NÃO COMPREENDO."
+              ],
+              "after": [
+                "E isso é ciência misteriosa para mim,",
+                "ciência que não chego a entender,",
+                "ciência tão alta, que eu não compreendo."
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Uppercase assembly response has four lines in print; candidate incorrectly matched lowercase cantor verse with three lines."
+            }
+          ]
+        },
+        "estendido": {
+          "sha256": "cad2abd6cb400e3e3d095da95520e5a903e482672640830e5a2fa02b336f62ea",
+          "candidates": [
+            {
+              "lines": [
+                56,
+                58,
+                60,
+                62
+              ],
+              "pdfPage": 257,
+              "pdfY": [
+                347.1,
+                371.1,
+                395.1
+              ],
+              "htmlBreaks": [
+                30,
+                27,
+                14,
+                18
+              ],
+              "pdfBreaks": [
+                30,
+                27,
+                32
+              ],
+              "before": [
+                "E ISSO É CIÊNCIA MISTERIOSA PARA MIM,",
+                "CIÊNCIA QUE NÃO CHEGO A ENTENDER,",
+                "CIÊNCIA TÃO ALTA,",
+                "QUE EU NÃO COMPREENDO."
+              ],
+              "after": [
+                "E isso é ciência misteriosa para mim,",
+                "ciência que não chego a entender,",
+                "ciência tão alta, que eu não compreendo."
+              ],
+              "disposition": "not-confirmed-error",
+              "reason": "Uppercase assembly response has four lines in print; candidate incorrectly matched lowercase cantor verse with three lines."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "html": "SENTA TE SOLITARIO E SILENCIOSO",
+      "page": 258,
+      "variants": {
+        "normal": {
+          "sha256": "2528e70fc7eaa17b680a7fbbca0d006c6e04ef42f4858f0636630af6684bbb0c",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "35356a07df22369c75ce0690315f3a4f4f2380af2dec44574345b17e0180d78d",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SHEMA ISRAEL",
+      "page": 259,
+      "variants": {
+        "normal": {
+          "sha256": "d0d9e318e045b3124a5b74b2f95d6bbd45b8f87f0c6b3e434ccff3052495d3c6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "f088e87a0454e7c43d0e55db51cf98f3b4836214717aaa808d89ac52000c404b",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "TU ES A MINHA ESPERANCA SENHOR",
+      "page": 260,
+      "variants": {
+        "normal": {
+          "sha256": "af399b5b2a63db3376bd79c298feb2af6036997ba460f669715fc2766193d173",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "6df2cefd0ecf349576adf973df004b1a95b067c21e065853d12c6549cbd4adfd",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A CEIA DO CORDEIRO",
+      "page": 261,
+      "variants": {
+        "normal": {
+          "sha256": "86038ac604aa06cb6febbea142b3ad8aabe1d11b1cc71bef83e3b8281ec27caa",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "05488a1a20b2dddb55b4b32340e8c9f3c981e83c08766533659fcd08211c5412",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "A POMBA VOOU",
+      "page": 262,
+      "variants": {
+        "normal": {
+          "sha256": "386d5fec9d87305f04b0ed42fdb926c8b499552c73248c94b90c71c05fc4ad58",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "afbac25b0822b7a43b71a0f6e5b392426f97f53f635d90aa69a85d7a8b26b292",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "COMO ESCORRE O MEL",
+      "page": 263,
+      "variants": {
+        "normal": {
+          "sha256": "5243c0382bf32e5065a717ec86d108376baa1dac02be9021df60a13de02cb7bf",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "40316aacc09bbd943c9ee6e45ca8801b139a30ae9c7f9bcc0287506a5b6dc7fa",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "COMO LIRIO ENTRE OS ESPINHOS",
+      "page": 264,
+      "variants": {
+        "normal": {
+          "sha256": "d8fae2cd1742b0a6ef63e532c76429bf36f35ca86a285139ff502b474f8665c0",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "c7905f95d5cf56589090d680bfc1d8f72a1cba026a348d1b1f96e754cd45e690",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "FORMOSA ES AMIGA MINHA",
+      "page": 265,
+      "variants": {
+        "normal": {
+          "sha256": "c2cb78c451ac53a240f87ff3cad6c6c12eb9970386fac308dae05b331d40aeb6",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "5f43ebad9b7a6ef4711742ea4c99ced2087f8ad61c2da5241b4f7ea698a9b534",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ONDE TE ESCONDESTE AMADO",
+      "page": 266,
+      "variants": {
+        "normal": {
+          "sha256": "516dac46f9c836c90f25a1e14bb5ae44cb88a624b6d949b9f2bf80802462c946",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "8a447fb75198bd6a8b8fee345a09fee622c225efb4e24e3fc611ac606db3c7be",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "ROUBASTE MEU CORACAO",
+      "page": 267,
+      "variants": {
+        "normal": {
+          "sha256": "e23d194b79d0535bc843f821cfd6f44cda42e8ecce345291580c5e2bd418d8f4",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "3d17aa4751e055572a47b67d7bedab46b29237c1a5a29fd586b4b9fc4ed0b5dd",
+          "candidates": []
+        }
+      }
+    },
+    {
+      "html": "SUBA O ESPOSO AO LENHO DO SEU TALAMO",
+      "page": 268,
+      "variants": {
+        "normal": {
+          "sha256": "f708c7904184b3ba5fd19102871db80817107381d7dd7321d254682436c723b2",
+          "candidates": []
+        },
+        "estendido": {
+          "sha256": "6353370f9d159b8d0f2468e14e04f44151d106f33c3d4af94b03eaac9c34a0cf",
+          "candidates": []
+        }
+      }
+    }
+  ],
+  "finalApproval": "Applied line-break lot independently checked within documented scope; no confirmed uncorrected error among approved proposals."
+}
