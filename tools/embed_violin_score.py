@@ -1,7 +1,7 @@
 """Embed the independently engraved violin staves; no PDF image is used."""
-import base64
 import re
 from pathlib import Path
+from themed_svg import themed_svg
 
 ROOT = Path(__file__).resolve().parents[1]
 START = '<!-- violin-score-start -->'
@@ -9,12 +9,12 @@ END = '<!-- violin-score-end -->'
 
 
 def markup():
-    rows = [START, '<div class="violin-score" style="white-space:normal;color:#000;margin:18px 0 0 28px;max-width:840px">', '<b>Para violino</b>']
+    rows = [START, '<FONT COLOR="#000000"><div class="violin-score" style="white-space:normal;margin:18px 0 0 28px;max-width:840px">', '<b>Para violino</b>']
     for number, marker in [(1, '*'), (2, '**')]:
         path = ROOT / f'data/edicao_2026/partituras/eu-te-amo-senhor-violino-{number}.svg'
-        data = base64.b64encode(path.read_bytes()).decode('ascii')
-        rows.append(f'<div style="margin-top:12px"><span style="color:#FF0000">{marker}</span><img alt="Partitura para violino, trecho {marker}" style="display:block;width:100%;height:auto;background:transparent" src="data:image/svg+xml;base64,{data}"></div>')
-    rows.extend(['</div>', END])
+        svg = themed_svg(path.read_text(encoding='utf8'), 'Partitura para violino, trecho '+marker)
+        rows.append(f'<div style="margin-top:12px"><font color="#FF0000">{marker}</font>'+svg+'</div>')
+    rows.extend(['</div></font>', END])
     return '\r\n'.join(rows)
 
 

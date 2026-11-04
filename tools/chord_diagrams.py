@@ -1,6 +1,6 @@
 """Render original, schematic guitar diagrams from string/fret facts (no PDF assets)."""
-import base64
 import html
+from themed_svg import themed_svg
 
 
 def diagram_svg(diagram):
@@ -29,6 +29,5 @@ def diagram_svg(diagram):
 def diagrams_markup(diagrams):
     images=[]
     for diagram in diagrams:
-        uri='data:image/svg+xml;base64,'+base64.b64encode(diagram_svg(diagram).encode('utf8')).decode('ascii')
-        images.append('<img alt="Diagrama de '+html.escape(diagram['label'],quote=True)+'" width="190" height="124" src="'+uri+'">')
+        images.append(themed_svg(diagram_svg(diagram), 'Diagrama de '+diagram['label'], width=190))
     return '<div class="book-diagrams" style="white-space:normal;display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 0 28px">'+''.join(images)+'</div>'
