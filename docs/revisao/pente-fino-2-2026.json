@@ -1,0 +1,1994 @@
+{
+  "baselineCommit": "54e8c259a009f2c85c055c31019f516a5d780525",
+  "publishedBaselineRevision": 64,
+  "localRevision": 65,
+  "scope": {
+    "catalogSongs": 236,
+    "variants": 472,
+    "method": "Three range audits, automated comparisons across active sheets and visual PDF confirmation of accepted findings. Browser rendering checks on changed HTML; not a claim of pixel identity or musical performance verification."
+  },
+  "changedSongs": 131,
+  "changedVariants": 262,
+  "changes": [
+    {
+      "html": "A CABANA DOS PASTORES",
+      "titulo": "A CABANA DOS PASTORES",
+      "numero": "21",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "2b25d424d5ec9496ff37762b7082bdb428c605d69eabd1bf9f9ca19210201811"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "566002b717ca1b6f1ad7fd302bd163f12c78170e969544253bf9ff642a8fa15a"
+        }
+      ]
+    },
+    {
+      "html": "A CEIFA DAS NACOES",
+      "titulo": "A CEIFA DAS NAÇÕES",
+      "numero": "22",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "cc6fc034247f1d686aff7c0fdfe3d3243f733a75cdec854b194bb2c9005706cd"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "7c55b5477ed1de9002174e7a4d7e5b40d9cb9c2b11075c69610c41505dd3c8b8"
+        }
+      ]
+    },
+    {
+      "html": "A CORDEIRA DE DEUS",
+      "titulo": "A CORDEIRA DE DEUS",
+      "numero": "23",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "d94a039f026db0285a3f7e06e18838fe129b125e6cdba400094ac308581604a1"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "b23674732379462eb98f9fdd3adcc334944fb5e8432988237a36fecdceb20d21"
+        }
+      ]
+    },
+    {
+      "html": "A MARCHA E DURA",
+      "titulo": "A MARCHA É DURA",
+      "numero": "25",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "188478048e240467aea245c3072fefef76c8e92ea3bea3f7c3a3395f5151b6c0"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "188478048e240467aea245c3072fefef76c8e92ea3bea3f7c3a3395f5151b6c0"
+        }
+      ]
+    },
+    {
+      "html": "A NINGUEM DEMOS OCASIAO DE TROPECO",
+      "titulo": "A NINGUÉM DEMOS OCASIÃO DE TROPEÇO",
+      "numero": "26",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "e88306920f1f42bb572fcd8a427f93339650802863d40ebe3b0bc4bbd6017a1e"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "f29956d5b86b360a9165736ac1fd524890f5338089c47c3e09cbb2f5a659cd9c"
+        }
+      ]
+    },
+    {
+      "html": "A TI LEVANTO MEUS OLHOS",
+      "titulo": "A TI LEVANTO MEUS OLHOS",
+      "numero": "27",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "7e3e8f9c21460d47737cb70ed41d7c9ea8b7697fe648cff4bcbc96be70fbc9aa"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "3c4722e74da745ebb44e1aeb2305e87b46dd812cdb25c30f8cea192d9ed4760f"
+        }
+      ]
+    },
+    {
+      "html": "A TI SENHOR COM MINHA VOZ GRITANDO IMPLORO",
+      "titulo": "A TI, SENHOR, COM MINHA VOZ GRITANDO IMPLORO",
+      "numero": "28",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "7e3a8f6ea18e015ab87666e2c834b75ff1d14dfe26e4157c29c8ae86b924fc1d"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "c67e4773c9befa66b8cb4a2e29d6511452d0edc4808c1256e851483b41f41803"
+        }
+      ]
+    },
+    {
+      "html": "A TI SENHOR SE DEVE LOUVOR EM SIAO",
+      "titulo": "A TI, SENHOR, SE DEVE O LOUVOR EM SIÃO",
+      "numero": "30",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "8748469b429252d88cbd73e3efc5d4c235ffb47f946d6211351cb7ed1190692f"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "70300fa8e2693a9c78f789b757f0513088cd8ccc2ed1ee209d483ff1081cff2e"
+        }
+      ]
+    },
+    {
+      "html": "A VITIMA PASCAL",
+      "titulo": "À VÍTIMA PASCAL",
+      "numero": "31",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "0c64dab8f64e915c725fb77497d4870af48a7697b5961c3c6a53e3ddf7c7c345"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "0c64dab8f64e915c725fb77497d4870af48a7697b5961c3c6a53e3ddf7c7c345"
+        }
+      ]
+    },
+    {
+      "html": "A VOZ DO MEU AMADO",
+      "titulo": "A VOZ DO MEU AMADO",
+      "numero": "32",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "e73d099158f1ff0a32d3cd71df6a0c33120d447117c5123ce51aad321227308c"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "009c08751304e44c8fd1283d14f33def0d0efa581827426b5565329f12992792"
+        }
+      ]
+    },
+    {
+      "html": "ABBA PAI",
+      "titulo": "ABBA, PAI",
+      "numero": "33",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "54cb09cf6a3df9d3d98362646fca6c2c4838a4be975f2b9f7c01e9dedc4cf412"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "54cb09cf6a3df9d3d98362646fca6c2c4838a4be975f2b9f7c01e9dedc4cf412"
+        }
+      ]
+    },
+    {
+      "html": "ABRAAO",
+      "titulo": "ABRAÃO",
+      "numero": "34",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "8f43b7779f7e1d773a5e0731f4d5891768d11bc9579d8b6f3fd1879e7d781cdc"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "7f9a670e7758a440d74cc3c5fb2038c9f5c5012affe09e8e45ea01cd5c3ec252"
+        }
+      ]
+    },
+    {
+      "html": "ALCAI O PORTAS",
+      "titulo": "ALÇAI, Ó PORTAS",
+      "numero": "37",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "35f253fd44d09d09814513ca4f4421e8a1bc76f074dd13c5aca7fefd44a2dbd4"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "f36d968314d34d52601673f9e529db6539b9d72995ab9034dc5c0a14f0e19da2"
+        }
+      ]
+    },
+    {
+      "html": "ALELUIA JA CHEGOU O REINO",
+      "titulo": "ALELUIA! JÁ CHEGOU O REINO",
+      "numero": "40",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "29f0776106c02bc31da3293708cf5dd06cc46bb05d278e614e05c125baf90607"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "b31fc5006614790975d16afe1665331cbea3298cc67f32b13434cdc87da836ba"
+        }
+      ]
+    },
+    {
+      "html": "AO DESPERTAR",
+      "titulo": "AO DESPERTAR",
+      "numero": "43",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "e4dd5f0baa8ca00c20305726882f415665d4b22033a63b3b855f6c0bd6285d09"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "8d57af0dff87fba58455d35c4643a41c217a4a123ac531f550af23fd209a9acb"
+        }
+      ]
+    },
+    {
+      "html": "AS ARMAS DA LUZ",
+      "titulo": "AS ARMAS DA LUZ",
+      "numero": "44",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "916386607c20dc7823c6a72fd727ce694b655f665f18db18d5a6db899bd44dd4"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "f60651749091653eaf4ba842863ad290a1d0d1009a9b58e16cad3c5646cd8868"
+        }
+      ]
+    },
+    {
+      "html": "ASSIM FALA O AMEM",
+      "titulo": "ASSIM FALA O AMÉM",
+      "numero": "45",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "aedd5807cc82c9ed749389e6e1f6965dcae7a751d061f0c552fb2c32ff2df13a"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "ca51fe1739126639299dce5a58f2aeac51bb0fe5c7c5d4a4f3aafb60e4373407"
+        }
+      ]
+    },
+    {
+      "html": "ATE QUANDO",
+      "titulo": "ATÉ QUANDO?",
+      "numero": "46",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "c3535223cb228914bfc2a201c65345023463a9b65739ca2bfac288c6d8c7094c"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "c9d431e73fbc86fe0a856ec0dc96a3a631e1efec38ea4e7b091d779c5bd80eae"
+        }
+      ]
+    },
+    {
+      "html": "AVE MARIA II 1984",
+      "titulo": "AVE MARIA II (1984)",
+      "numero": "48",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "8e3d7dc2208a98d729320e2371874e334209fa516e821fa2008df5a1efb83276"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "8e3d7dc2208a98d729320e2371874e334209fa516e821fa2008df5a1efb83276"
+        }
+      ]
+    },
+    {
+      "html": "BABILONIA CRIMINAL",
+      "titulo": "BABILÔNIA CRIMINAL",
+      "numero": "49",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "1efbdc5c1b5d2314fa880f62d566909a01c9290dd54d25ce93283f3b175fbca3"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "e8339b4814ec1c870ed74eac1ede5577ccd39fe0f3d11f5e589cd67e273cb192"
+        }
+      ]
+    },
+    {
+      "html": "BALAAO",
+      "titulo": "BALAÃO",
+      "numero": "50",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "a2abf06a7900ad91533f909214a27c95f9c4abed823471e1071b6520d67c35cb"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "e2ab23546cd35ac5d7913ba4108824ee53d6d50c91df48f3fe9a3a6740553dd2"
+        }
+      ]
+    },
+    {
+      "html": "BENDIREI O SENHOR EM TODO TEMPO",
+      "titulo": "BENDIREI O SENHOR EM TODO TEMPO",
+      "numero": "51",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "5a117ca3a840df1e2c834241bf383f9ddff9aed7f7ef5d2382fc9d8aa085e8c5"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "b4d5dc5248874115c5bf0d0f3f6894279c77b8db4884f8b41f7175c5e61192ce"
+        }
+      ]
+    },
+    {
+      "html": "BENDITO SEJA DEUS",
+      "titulo": "BENDITO SEJA DEUS",
+      "numero": "53",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "5a5c02726d8c0d6c14be274a149e9f4f3ab5c918b139ead54e2984525ec9713f"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "3f92c00256f18428f4bf1e8121fc6dbf16f66a1fb574a9b9a177bf0f81cbeb7b"
+        }
+      ]
+    },
+    {
+      "html": "BENEDICTUS",
+      "titulo": "BENEDICTUS",
+      "numero": "56",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "221bbb2288e94e96cccf9c2094a53f52d3ad7d79183ceb8bef74b3eddb382b8b"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "b417acfcee53c6c163a0281e6001a6699a5ac2194d9b119c994d3ed3d1477dec"
+        }
+      ]
+    },
+    {
+      "html": "CANTA A IAHWEH JERUSALEM",
+      "titulo": "CANTA A IAHWEH, JERUSALÉM",
+      "numero": "57",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "5c29be495a1ef4057be6890ddd3862062ff5b70ea3bc34a2021073f555d7f2ed"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "992c0c23080342ef9257599660f252d5432a4ad83d8780c0b74606580c368e9c"
+        }
+      ]
+    },
+    {
+      "html": "CANTICO DE ANA",
+      "titulo": "CÂNTICO DE ANA",
+      "numero": "59",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "94f3df663820bceb889c553f26ab08d81728e159a571aadacf8607d0f6162a2a"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "3669a13e2ef39bc4f91b081eeaa08e0accd253901fd3c2bc4c69cea482330cf4"
+        }
+      ]
+    },
+    {
+      "html": "CANTO DE MOISES",
+      "titulo": "CANTO DE MOISÉS",
+      "numero": "61",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "b5bde6669f8dc4e9e8206dd13fa9483263812ef9bfce96dec79069301c6e15b2"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "a4a014621c903d5e54918646894d1cd7d6eaca4b7939d7026e01d0ecc190816c"
+        }
+      ]
+    },
+    {
+      "html": "COMO A CORCA",
+      "titulo": "COMO A CORÇA",
+      "numero": "65",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "a393958fb76b983aa2f203c7e9a52930875782fd78140a9760f2b3fac7ec9664"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "6de28c3ad4fcddfb5b3350cef8fc8b8cc6290ca3825d262062e51431ad0909cf"
+        }
+      ]
+    },
+    {
+      "html": "COMO CONDENADOS A MORTE",
+      "titulo": "COMO CONDENADOS À MORTE",
+      "numero": "66",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "4a0fc69e3bff2a433663d3bd9e7c4b6de32f1fd2723a0f1fbab7536849b49350"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "931a04ecbd7bc78ca8ebfd6d749e404a30798f63a9ae5913fedaf69eb666cf67"
+        }
+      ]
+    },
+    {
+      "html": "COMO SAO AMAVEIS TUAS MORADAS",
+      "titulo": "COMO SÃO AMÁVEIS TUAS MORADAS",
+      "numero": "69",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "c7715ed5f1d7b43bf97308909ffba75c98a773ff8fc9fff9425dd17bea5b865a"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "99a4174fee766aa1e5edfda27136cbf6057fc2b71eb2253247898d9aaf9145d9"
+        }
+      ]
+    },
+    {
+      "html": "CONFESSEI A TI O MEU PECADO",
+      "titulo": "CONFESSEI A TI O MEU PECADO",
+      "numero": "70",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "5d811228e2c7033cd5063408ead67f29dbea28051001ffce078edb1f1fef2adb"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "8c13f7c9569e67c185a98c15713565e6839004b92acb4fc8e2835aae62bdd652"
+        }
+      ]
+    },
+    {
+      "html": "CONSOLAI O MEU POVO",
+      "titulo": "CONSOLAI O MEU POVO",
+      "numero": "71",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "44b1eb98b86842413a9bd951d7a37f965cef6d7f7f88e33d7cb0a33d913e29a5"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "b0bb6c88cfe352fb60078dbff49166f9abe903f616853b09a9f3d8086d2c0482"
+        }
+      ]
+    },
+    {
+      "html": "DE PROFUNDIS",
+      "titulo": "DE PROFUNDIS",
+      "numero": "75",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "e96f92f83797b85c2be292bdb815a584c34646231576c0a3a2c8beaacc71e434"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "ff732a5d6cef61f10c942a241f5a4cec05befdc9e611e46d554a23854cb49f46"
+        }
+      ]
+    },
+    {
+      "html": "DIA DE REPOUSO",
+      "titulo": "DIA DE REPOUSO",
+      "numero": "76",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "9985d197c7c855350577d506d2b0e6fed22b2d96a0efd4bcbc85ab75149a6a35"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "19df913e31f229c82e78eb2e55067162f3f0e46c6391e5618c8a65fcb2208460"
+        }
+      ]
+    },
+    {
+      "html": "E PACIENTE",
+      "titulo": "É PACIENTE",
+      "numero": "80",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "fd78eb280c76b346211aaa1952763c6a798ef22a4f95818da19ac6264d20ac15"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "93e023031e861e379503604e2f7d47118c814ebbf403b6d9c91a999d529305ef"
+        }
+      ]
+    },
+    {
+      "html": "EIS O MEU SERVO",
+      "titulo": "EIS O MEU SERVO",
+      "numero": "81",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "2729984790de8bc2c1d09b3f9f272d3a87ab5d9c9cc09c861a92d9e097364f89"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "2729984790de8bc2c1d09b3f9f272d3a87ab5d9c9cc09c861a92d9e097364f89"
+        }
+      ]
+    },
+    {
+      "html": "ELI ELI LAMA SABATANI",
+      "titulo": "ELI, ELI, LAMÁ SABACTANI",
+      "numero": "83",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "c17b006e7ebcb62898bf8fba4ceb7b2aaecc1b2353c236a157525b24fe6eb113"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "722f0f9338c857c87d58b12336780173ff36e5da5706e7d63a195b6f0ee7789f"
+        }
+      ]
+    },
+    {
+      "html": "EM MEIO A MULTIDAO",
+      "titulo": "EM MEIO À MULTIDÃO",
+      "numero": "84",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "04867d56a56e735aee3a2fbfd4b4768bf57b9805cdaccddae5c792059777b499"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "731306717ca1036a28fd93140354b7525aebfdf3ffd44d0989909b4dbfa6eb26"
+        }
+      ]
+    },
+    {
+      "html": "EM UMA NOITE ESCURA",
+      "titulo": "EM UMA NOITE ESCURA",
+      "numero": "86",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "a76c7cd69fcf94ca404cc21e7c838d59b0f711e5c7bd68abf66e83873ba6e2da"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "c931fb74c186f6a786741f35c27ef6f1755c92501a8a69f199d26219bf4eedeb"
+        }
+      ]
+    },
+    {
+      "html": "ESCUTAI ILHAS DE LONGE",
+      "titulo": "ESCUTAI, ILHAS DE LONGE",
+      "numero": "89",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "2e4fe984a7a65c020341b4bad00fac383e781c980aa61cbc1231c876fe79d3ea"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "d96347859594ef6119bfba5f46f8b023f696be5d8bf7fcd380fc009819494cf9"
+        }
+      ]
+    },
+    {
+      "html": "ESTE E O DIA QUE FEZ O SENHOR",
+      "titulo": "ESTE É O DIA QUE FEZ O SENHOR",
+      "numero": "91",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "f07268130adfd453d3854599b65cde64577227b3f068d0e17208feae2b7fa507"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "1366da408f5c59ca3d1daf0725a0d876a14daf2a2a15ae548acd2c4ec234a50d"
+        }
+      ]
+    },
+    {
+      "html": "ESTENDO MINHAS MAOS",
+      "titulo": "ESTENDO MINHAS MÃOS",
+      "numero": "93",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "7551302cde1c0033127f7ca0b525009da847faa77ed334b478582520e7c4fb4d"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "367fe03db5b2a0a594b47e0016fdd259cc5fe512dcb67de8d30c0e9119c6573a"
+        }
+      ]
+    },
+    {
+      "html": "ESTOU CHAMANDO TE",
+      "titulo": "ESTOU CHAMANDO-TE",
+      "numero": "94",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "39022e724785704db47b6b35eafaaa36f79f799df4b2b1e7e4719ef5a1d53759"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "abdfdb7f9501d80335d387da703263f6894346d1e77d5bd58758bdcd5393ae2c"
+        }
+      ]
+    },
+    {
+      "html": "EU TE AMO SENHOR",
+      "titulo": "EU TE AMO, SENHOR",
+      "numero": "95",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "364a0fa3e460e154714713133c139532f248262d52af12b9b60f05637282e235"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "163a6009ece6d0ec8dcd3abec6f72223cea0c1973cf30e917c61ce2b932e558d"
+        }
+      ]
+    },
+    {
+      "html": "EU VENHO REUNIR",
+      "titulo": "EU VENHO REUNIR",
+      "numero": "96",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "12322201e543449783d64a27394ffd8112c9ce01a242db27662bead2dcd895bf"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "0409cdd211a9bf9b878ed57e906b0efc0d2fa08fc1bcdc8e3a932c3626d6c928"
+        }
+      ]
+    },
+    {
+      "html": "EVENU SHALOM ALEHEM",
+      "titulo": "EVENU SHALOM ALEHEM",
+      "numero": "97",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "8f1926719738dbe74de094caa84cb1024446b75eff6e534a87cba348c75f00c5"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "f0ea909d570b0beb8e915a57eb1933091a0c7d5ba1ca718cae39321fa3a6a2f3"
+        }
+      ]
+    },
+    {
+      "html": "EXULTAI, JUSTOS, NO SENHOR",
+      "titulo": "EXULTAI, JUSTOS, NO SENHOR",
+      "numero": "98",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "607fb06496973e225f6cbda1f1843ddb223f50cd6404f80b34f28bd24aaaa8f2"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "d3aa22b7a7c402f078ba3e29493da922273c2b6f90df90b844da94b04051493c"
+        }
+      ]
+    },
+    {
+      "html": "FELIZ O HOMEM",
+      "titulo": "FELIZ O HOMEM",
+      "numero": "100",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "cfe115057e7e0325ddd552d9e1298c8a4bb57fa8d5ac27f43a18970f5bfeffea"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "fda77187638c6c2e2f179e941bb68a7b20fc34a5b37ae3a2f7dbc534cf29b0be"
+        }
+      ]
+    },
+    {
+      "html": "FILHAS DE JERUSALEM",
+      "titulo": "FILHAS DE JERUSALÉM",
+      "numero": "101",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "fc20db5b34887349bde57564fc3d5aeb0bf2b04c4190c65e6139e874e314a6d9"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "2cbaa69a4de3346a83e87a62f501a3ff507a2625f6ecc26898cf44d035fd5e72"
+        }
+      ]
+    },
+    {
+      "html": "GRITAI JUBILOSOS",
+      "titulo": "GRITAI JUBILOSOS",
+      "numero": "104",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "5ff5d0a17497215df1cec4603096d5f029f18661250c6b3c243bb328cbf4a801"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "862fcb3707c60dea755a00c082d23eab2c8f282a1b0985a047aab01bed39eb75"
+        }
+      ]
+    },
+    {
+      "html": "HINO A CARIDADE",
+      "titulo": "HINO À CARIDADE",
+      "numero": "105",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "36adbc63a190d725987ae4bef99c8ac663c07ca15d2b891ac780f694484fcc9d"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "2e449a65268081603c05ba638dcdd259f2bb2234a056a41b3dcd3afb9978778e"
+        }
+      ]
+    },
+    {
+      "html": "HINO A CRISTO LUZ",
+      "titulo": "HINO A CRISTO LUZ",
+      "numero": "106",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "d863305b65c6a23f7f70a5cacfcf597054a5dca50e3fe878edef3f58914a095a"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "c9cfe59d36d0c1fe931b1ea0237b0c408460582a20ab113d3204438f3cbe30e5"
+        }
+      ]
+    },
+    {
+      "html": "HINO A KENOSIS",
+      "titulo": "HINO À KENOSIS",
+      "numero": "107",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "df08198ae812d9f79ae2dce81d8348e515c81ceab3bac841e8000c4247d96417"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "6653c1910efb27b331b0cf2ed4f24db372304b69d912f9105013c725cf66d149"
+        }
+      ]
+    },
+    {
+      "html": "HINO DA ASCENSAO",
+      "titulo": "HINO DA ASCENSÃO",
+      "numero": "108",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "10dbc08d39d35b71ecf595e5ed6bdbae8500061e596e9507a431148d31b382f5"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "59f3167ebd8877f4c6c951101ef6a813ed71ef4f67a182ada0b128ca55c16889"
+        }
+      ]
+    },
+    {
+      "html": "HINO DA PASCOA",
+      "titulo": "HINO DA PÁSCOA",
+      "numero": "109",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "694aa6211a1951895e6acce8033f077e08059560a21c175802e0574e65d6a3fd"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "9ce0aafd450551de9d70756418ae67ccaae6cb942ffcf791440b814e6ca5da7b"
+        }
+      ]
+    },
+    {
+      "html": "HINO DO ADVENTO",
+      "titulo": "HINO DO ADVENTO",
+      "numero": "110",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "7c465a27976bc63fd10056037f67e3d092e9508150daf6fe1d67565024bb38e2"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "7c465a27976bc63fd10056037f67e3d092e9508150daf6fe1d67565024bb38e2"
+        }
+      ]
+    },
+    {
+      "html": "IDE E ANUNCIAI A MEUS IRMAOS",
+      "titulo": "IDE E ANUNCIAI A MEUS IRMÃOS",
+      "numero": "112",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "d58c760b131d2ba62c29574ac4fe81751355da8f81f7c7dfab8ad9a9a61278bd"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "aa326969256edf6f5d04a1e0b3144f9e1ded11410532dbe909f942a5370e4e4f"
+        }
+      ]
+    },
+    {
+      "html": "JA VEM O MEU DEUS",
+      "titulo": "JÁ VEM O MEU DEUS",
+      "numero": "114",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "1e9ad1299c87247692098e95ea89d306f0a22179db845d03a9639169296e15cc"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "a56623feb7e933b97619f2769b14440c25fccbe6d770c71257352e9ce5233b69"
+        }
+      ]
+    },
+    {
+      "html": "JERUSALEM RECONSTRUIDA",
+      "titulo": "JERUSALÉM RECONSTRUÍDA",
+      "numero": "115",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "8e1a733cf5b1523e6df068ec60fe41abc54028153ec37da87af545c47cac3315"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "6cc39bb7b0d0b6cd1136e8a032eebf156428ddfa6e4022ac2bee92ab4c8680bf"
+        }
+      ]
+    },
+    {
+      "html": "JESUS PERCORRIA TODAS AS CIDADES",
+      "titulo": "JESUS PERCORRIA TODAS AS CIDADES",
+      "numero": "116",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "b68d1f57e58edb23b7b4b96c383391e767cc45979d934b642b1e9e8848066692"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "9f80c33d5a5dffb37e878e1ddd28c692e3c773dfee296c21d47b82884edb48b1"
+        }
+      ]
+    },
+    {
+      "html": "LEVA ME AO CEU",
+      "titulo": "LEVA-ME AO CÉU",
+      "numero": "117",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "b500f521d9212fc56569648e415b8941292757db15df5846fe8ae30413c582c2"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "d9a8e90d85e2c5d99cb0f49949459b986a3c433cec277a82e6dee90a9202541c"
+        }
+      ]
+    },
+    {
+      "html": "LEVANTO MEUS OLHOS PARA OS MONTES",
+      "titulo": "LEVANTO OS MEUS OLHOS PARA OS MONTES",
+      "numero": "118",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "7599c59e7c91123117f2ed01e72691634f9f06f40d9cf6a1f3633d8a79aa7922"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "eb1534109ac7f7b35749c78f143286c881c3cb060fe112ca0c42b1fe91adf887"
+        }
+      ]
+    },
+    {
+      "html": "MARIA CASA DA BENCAO",
+      "titulo": "MARIA, CASA DA BÊNÇÃO",
+      "numero": "122",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "8a4bea2663d9b0ad930d81652ad1d49be2dccdd43313f2e2dd95eade6f5df382"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "8ca4beda825c28d911dc6afca0634b5686d243fd42f4fe7beeb1298e8f1d23b9"
+        }
+      ]
+    },
+    {
+      "html": "MARIA DE JASNA GORA",
+      "titulo": "MARIA DE JASNA GÖRA",
+      "numero": "123",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "d2125b3c7b0576d7cfac7c155857dc1e688102c387489161f2c14a49a555ea4f"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "52516aa7089683a9374339b9635612ce35c8351f57a731ca306a130ead3dee5a"
+        }
+      ]
+    },
+    {
+      "html": "MARIA MAE DA IGREJA",
+      "titulo": "MARIA, MÃE DA IGREJA",
+      "numero": "124",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "a91230b882abe92b119976b51d5ebc53a32a65b13978911f3844a0d0a1d4bd31"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "d8ccbe153de4b2e338f80758c8c0b8cca7126d5945a8c04ca825da47796cc086"
+        }
+      ]
+    },
+    {
+      "html": "MARIA PEQUENA MARIA",
+      "titulo": "MARIA, PEQUENA MARIA",
+      "numero": "126",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "304fc44a98f6abab212377671a7b89c7adee6b2adcf04c7ad9379c51d4fe0e50"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "fea47fbf25dc7500dc5269bf210a93e5e437645db58a4c39fdc9be580839154f"
+        }
+      ]
+    },
+    {
+      "html": "MARIA POMBA INCORRUPTA",
+      "titulo": "MARIA, POMBA INCORRUPTA",
+      "numero": "127",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "2364aa00f4c0149a78eba41564794686eeb377e273243f380abc1a08da026acf"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "303d785b801dc82ae2d4dacd72ceae66cf485fd00166a53f542f3153f39a632f"
+        }
+      ]
+    },
+    {
+      "html": "MISERICORDIA MINHA MISERICORDIA",
+      "titulo": "MISERICÓRDIA MINHA, MISERICÓRDIA",
+      "numero": "128",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "032a273053d40fce7b581a598453ad8664e5c2089e235c68f6718644e31e3823"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "fec6bf45dc0510c880d223cabb98b851ad05c20833d8a746d0260a91aa7887c3"
+        }
+      ]
+    },
+    {
+      "html": "MOSTRAR ME AS O CAMINHO DA VIDA",
+      "titulo": "MOSTRAR-ME-ÁS O CAMINHO DA VIDA",
+      "numero": "129",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "d0ee2a69f86dac01e0ce0177691686a2ab347d1dfb446cd408e543f24ef3fd10"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "a4881bc5d9b8e5bca2d757842070debebd6a5a1c511a7bdcfb70b04be5263b64"
+        }
+      ]
+    },
+    {
+      "html": "NAO HA NELE APARENCIA",
+      "titulo": "NÃO HÁ NELE APARÊNCIA",
+      "numero": "132",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "74ff1b89edcd280417ec1935fe25f215825650f13f129fcd5372c7524dd5a71a"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "bd108026fa7e2e7becdd3c403c378403aa08980fd05008e2accc93ea66fc9101"
+        }
+      ]
+    },
+    {
+      "html": "NOLI ME TANGERE",
+      "titulo": "NOLI ME TANGERE",
+      "numero": "133",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "d5ca3858311e4513cbd9a4c5eabb085b6a33790534a1a5c93e761d2c1dc807a4"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "d5ca3858311e4513cbd9a4c5eabb085b6a33790534a1a5c93e761d2c1dc807a4"
+        }
+      ]
+    },
+    {
+      "html": "O CEUS CHOVEI DO ALTO",
+      "titulo": "Ó CÉUS, CHOVEI DO ALTO",
+      "numero": "134",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "12c839c59f61d806c8f6812881dede9a80ddc5019cba48e65badc7cf34343a68"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "115928bc727d9820d63b239342a87213cd2c39039d1b8ebdc4576ee91d2ee351"
+        }
+      ]
+    },
+    {
+      "html": "O DEUS PELO TEU NOME SALVA-ME",
+      "titulo": "Ó DEUS, PELO TEU NOME, SALVA-ME",
+      "numero": "136",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "7d9b070e6cd9be6b3caee7036893e1155239156196768056195843e2200841a9"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "1f3e579c0bd780555c46c4c7f01b3499d78022dabeec6142634f0c78affd6cb3"
+        }
+      ]
+    },
+    {
+      "html": "O JESUS MEU AMOR",
+      "titulo": "Ó JESUS, MEU AMOR",
+      "numero": "139",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "21048150f5db7b75e2c57a079924fe2f5e8dfa4d44bf4ab1f783342878bf7a6e"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "d4c950b604320b8f9fd96829027681096a91a47871eef78ca81fae166106f3ef"
+        }
+      ]
+    },
+    {
+      "html": "O LAGAREIRO",
+      "titulo": "O LAGAREIRO",
+      "numero": "140",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "d0b84326fb8e1aa9af8b236795b7b291a1854fd33b83938aa8f3737097612b59"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "1dc25a5d94190243f1c0c1abb0bc271bc1b73203e7f92b8953e868d281097635"
+        }
+      ]
+    },
+    {
+      "html": "O MESSIAS LEAO PARA VENCER",
+      "titulo": "O MESSIAS, LEÃO PARA VENCER",
+      "numero": "141",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "798097c7e6367e9a62614800de6eb9c5573f40973350e1ebec54897c1918cbb2"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "410ac70288e1d9764a3653684a5f86838878ba70ed992324d48c63610e63ed25"
+        }
+      ]
+    },
+    {
+      "html": "O SENHOR ANUNCIA UMA NOTICIA",
+      "titulo": "O SENHOR ANUNCIA UMA NOTÍCIA",
+      "numero": "145",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "0a98df8e3f25d1ec9337d30533819e94783f1ba4aa5816a650bf97fa52b0c097"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "6b219b6a1110d06f67412a829bad91e7573a1dd04aa5561248215045e14d7cca"
+        }
+      ]
+    },
+    {
+      "html": "O SENHOR E MEU PASTOR",
+      "titulo": "O SENHOR É MEU PASTOR",
+      "numero": "146",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "7735135d4de6baa3f8645ee499a4fefb60b1639e80264ab40419b63b0c227ead"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "621fec627ac5aaf5d0bf65d01e0d55adbb18c5a6bcafd6601c2230310c9a91c2"
+        }
+      ]
+    },
+    {
+      "html": "O SENHOR ME DEU",
+      "titulo": "O SENHOR ME DEU",
+      "numero": "148",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "5b03d389880d98424f13b0a1ca85826a5c152962844498fe584cc585193d5e9e"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "b607fb2151ec75fc647776bb5561e1e68e14feaf0cd10f0cc4c3f2b4b7dd09bf"
+        }
+      ]
+    },
+    {
+      "html": "PARA TI MORADA SANTA",
+      "titulo": "PARA TI, MORADA SANTA",
+      "numero": "152",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "63df16b56c7c07e9ef0bf5ef5a614e9631ff2a62b186a1d9480685320f755b67"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "072672490f3d54d848c5cede1b682beadd9abe35b052da42485a29ef38dcdfb3"
+        }
+      ]
+    },
+    {
+      "html": "PENTECOSTES",
+      "titulo": "PENTECOSTES",
+      "numero": "153",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "4bcdc58463ef70464f87753ddf08963c6cdd62abc3555df878a65bb74f095846"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "0bae5eeb034104ca02abc6cf004e599e0eba67a7e0258e05ee1728a920335c22"
+        }
+      ]
+    },
+    {
+      "html": "POR QUE ESTA NOITE E DIFERENTE",
+      "titulo": "POR QUE ESTA NOITE É DIFERENTE",
+      "numero": "156",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "638d25d6bc14d0d6063b4044b1cc97ef92079b3bb87763613cb046f8a7e12ece"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "eb51230984e75781d51b9c1b283e176669dbbd83bef01afab4a10ce27b3a2a97"
+        }
+      ]
+    },
+    {
+      "html": "QUANDO ISRAEL SAIU DO EGITO",
+      "titulo": "QUANDO ISRAEL SAIU DO EGITO",
+      "numero": "158",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "0165053afe8ecd689191faf0c61087d30639f3cda42872e657849c1a0a0ed8a8"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "6a04b497bc8b428bd4acc90226232a6cd371c7a49ed1df3c07839c0da604ff47"
+        }
+      ]
+    },
+    {
+      "html": "QUANDO O SENHOR",
+      "titulo": "QUANDO O SENHOR",
+      "numero": "159",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "b029f21b60ed1ed6a8219b30fdf4edb56fcdea2042c58eb69d2a861c9d9fc1f7"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "becbf515eb1aa7e677ddb20766acdf3b012f1628d56bcbda273858d4338a9a7f"
+        }
+      ]
+    },
+    {
+      "html": "QUEM NOS SEPARARA",
+      "titulo": "QUEM NOS SEPARARÁ",
+      "numero": "162",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "cc68b13486843f14864ca661c08bc5c7c675e1c0b4bfef42569dffb8d20f10fb"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "bc107ec7d7f8ca4133bf8ba724071579276ad7b66b1ed8eda72599ea7da79d5c"
+        }
+      ]
+    },
+    {
+      "html": "QUERO ANDAR",
+      "titulo": "QUERO ANDAR",
+      "numero": "163",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "bc02d2b9a4662af5311c559734b074c886c6e8a3b18f72cdfebe858960d9ab73"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "c9063ce29b9834f65a3d9151e447788f3af3c8c7b935a63b9c45aef776f88eb5"
+        }
+      ]
+    },
+    {
+      "html": "QUERO CANTAR",
+      "titulo": "QUERO CANTAR",
+      "numero": "164",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "4959b5c4d2713d0a8888d65ee627e567e27a63f01f0a5802fdeccdc9b2621f79"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "83622d58f6efb37511b18ea773ce69f1ba583bc75bda321d218f6a68e8eb2a05"
+        }
+      ]
+    },
+    {
+      "html": "RESURREXIT",
+      "titulo": "RESURREXIT",
+      "numero": "166",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "f104504adff6c73339273ff6bf5ca532f0a925b6a19ae095c3a0421f44473868"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "f104504adff6c73339273ff6bf5ca532f0a925b6a19ae095c3a0421f44473868"
+        }
+      ]
+    },
+    {
+      "html": "SE HOJE ESCUTARDES A SUA VOZ",
+      "titulo": "SE HOJE ESCUTARDES A SUA VOZ",
+      "numero": "169",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "a52d63a077e957d28fcf099ff247b3a13a581aedff6cd866c9177a6855e330ee"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "7ee90aff21c80f10d106a4f30957c0ca5c6e11f19516cdc900f082ee5723dc78"
+        }
+      ]
+    },
+    {
+      "html": "SE O SENHOR NAO CONSTROI A CASA",
+      "titulo": "SE O SENHOR NÃO CONSTRÓI A CASA",
+      "numero": "171",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "d5ac410ee383f3b4a08a66f5b5c185fa34707fc4739033bb5e146125a25e44bc"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "7c3b03e3e7314d834c985de536b03ad756af5267bc71d30ee3a3bcc541935723"
+        }
+      ]
+    },
+    {
+      "html": "SE VOS RESSUSCITASTES COM CRISTO",
+      "titulo": "SE VÓS RESSUSCITASTES COM CRISTO",
+      "numero": "172",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "a9e83e841ee475d6cc17af31667e260a53d25e4bde532d32ed09563ee94db39b"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "62e026d80df9837e873a049526dc63b4a54dea21de5f1569faee233956edc78e"
+        }
+      ]
+    },
+    {
+      "html": "SEDUZISTE ME SENHOR",
+      "titulo": "SEDUZISTE-ME, SENHOR",
+      "numero": "173",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "2a43b0258bc899ef4cddb9a6f993c3f9cc9462fdde8811883530a666a41d833f"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "c161f6c2407cee0a6d92f087ec9e90d4ffcd7ec7062ba9cc0896bf3144557819"
+        }
+      ]
+    },
+    {
+      "html": "SENHOR AJUDA ME A NAO DUVIDAR DE TI",
+      "titulo": "SENHOR, AJUDA-ME A NÃO DUVIDAR DE TI",
+      "numero": "174",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "1f1dc1ff7cf43f97158600632dfaa07b017148058e5f229af2ab139abacaeb4b"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "ea7cf67dcf53ff0a47c3f74103ce793792e2944981d3d9d0d9fe7cef6e73e2ee"
+        }
+      ]
+    },
+    {
+      "html": "SENHOR NAO ME CORRIJAS NA SUA COLERA",
+      "titulo": "SENHOR, NÃO ME CORRIJAS NA TUA CÓLERA",
+      "numero": "175",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "b87c222bc6520b537f3d61eaa611498c36824b90ed406765c0bd60e23c729b73"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "f04a3512f4ac34055957543642aa1688f5c2b62430dbda2bed588aa6dd9a0fc5"
+        }
+      ]
+    },
+    {
+      "html": "SERMAO DA MONTANHA",
+      "titulo": "SERMÃO DA MONTANHA",
+      "numero": "178",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "8545aff627e442a7170634f806fb1989123bb286d968f4abe245cce480ca9977"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "3ce679ee10e9e4aca636cbd5b312d7595e5b30a1a0b117b7a2d69b2eecb9611b"
+        }
+      ]
+    },
+    {
+      "html": "SHLOM-LEJ MARIAM",
+      "titulo": "SHLOM-LEJ MARIAM",
+      "numero": "179",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "65b0f150b3d0a0e6fd1090dbf597c542998b498d186e105199287c105f8f145a"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "b6a7fa6ec8b3ddace40b233612a71aaa2d892b5c8538eaa7bed63717ee10e2f0"
+        }
+      ]
+    },
+    {
+      "html": "SIAO MAE DE TODOS OS POVOS",
+      "titulo": "SIÃO, MÃE DE TODOS OS POVOS",
+      "numero": "180",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "22ff43176dafb25964247fe820b3b9f6f5d8dcd4fc28ea7430d171a4068c5346"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "9013821c83be2faa56a0a0c158e2eb6d932c0b78eb031c964aea8ff1bd7fd39d"
+        }
+      ]
+    },
+    {
+      "html": "STABAT MATER DOLOROSA",
+      "titulo": "STABAT MATER DOLOROSA",
+      "numero": "183",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "856245c69f367340194ddf720f652cc468738043191e4d40f5c272b7d11868d4"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "e790eb1e36ee982f26a7f694ff61aa0f9a8323dd1476ba5f7bb9c0f9b706b28a"
+        }
+      ]
+    },
+    {
+      "html": "TU COBRISTE DE VERGONHA A MORTE",
+      "titulo": "TU COBRISTE DE VERGONHA A MORTE",
+      "numero": "184",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "f24acc2daef1e38328431c54d8fbc59cfbcf158ddbeae3ce69c06e9e2806b067"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "6313c7dff8446cfe829f8bc91597bdf9a572933692d6df779eafa8b33fd95921"
+        }
+      ]
+    },
+    {
+      "html": "TU ES FORMOSO",
+      "titulo": "TU ÉS FORMOSO",
+      "numero": "186",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "1729e89b15ae726c4195e818364b2bd048caf0a1fe6548e1d44c2907b9de203f"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "b5d28773d43a4942aeaeaa2e52fb6f650c53c566746ee36b007e1c0def24f5d1"
+        }
+      ]
+    },
+    {
+      "html": "TU QUE ES FIEL",
+      "titulo": "TU, QUE ÉS FIEL",
+      "numero": "187",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "7464f89f93b3753c33123fb5926bceba79ddeb979b8cea9e3b3739f296225aba"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "840552b8ab946402a3f693e08ba2eefb752c8dd3f69df52e8c31a82ca575e7dd"
+        }
+      ]
+    },
+    {
+      "html": "UM GRANDE SINAL",
+      "titulo": "UM GRANDE SINAL",
+      "numero": "188",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "bda31aee4f5e3ad182cb7b74c684ae128106e940f47787e4a3f246f518b50a61"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "9041c492300142c3dd43baf54c59ee7b05bd3f6e4bbc4e863f13db4a3345b0b2"
+        }
+      ]
+    },
+    {
+      "html": "UM REBENTO BROTA DO TRONCO DE JESSE",
+      "titulo": "UM REBENTO BROTA DO TRONCO DE JESSÉ",
+      "numero": "189",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "356a1404bdc90ce8924fdb6dc897832ab20e78cdb9185198af7b0b8e5953c5c0"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "35333875f518e6f19a3b30e19b29bcbb4c8cb7fb2659afb2911da870141909f9"
+        }
+      ]
+    },
+    {
+      "html": "URI URI URI URA",
+      "titulo": "URI, URI, URI, URÁ",
+      "numero": "190",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "2f108a518df7cfe5c3ab2841de462b7b02fd34c4ea664f96324119aa5ff94bd4"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "463a9f7a679ce0fd8ef7d2d6a553658b5eb6dacd52206ac667ba0cd50c80332f"
+        }
+      ]
+    },
+    {
+      "html": "VEM DO LIBANO",
+      "titulo": "VEM DO LÍBANO",
+      "numero": "192",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "433ba5ee726951974eb99ec7090309c9ebb32b88746864d7e2d5bc8f67d11f30"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "cae9eae37512d7240b0e87bcbc96cbeda06b1f8b96cc792aa822550eb81181e5"
+        }
+      ]
+    },
+    {
+      "html": "VEM ESPIRITO SANTO",
+      "titulo": "VEM, ESPÍRITO SANTO",
+      "numero": "193",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "c5722f0f70aa24c47a184ac671133964dc1017e3757bddef721162b53a5b6a07"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "3f70f7304793bfd12e87516cb882224994ad1227b227848c25a5ba48f17c3d52"
+        }
+      ]
+    },
+    {
+      "html": "VIRGEM DA MARAVILHA",
+      "titulo": "VIRGEM DA MARAVILHA",
+      "numero": "197",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "4b7d268768c207af20fa03392029077e24ec729f2c5c3ddbdbee557a8fb29662"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "581093700ac5fe2c16e425584f06564eed8b6649a02d3c9a09379e6ab1eaa89e"
+        }
+      ]
+    },
+    {
+      "html": "ZAQUEU",
+      "titulo": "ZAQUEU",
+      "numero": "201",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "3eaa8ed69831abfda37754aa44d6b95892652faa98683227abed9af1bfa1f831"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "8920ca310ea4741154f6789142ad85b189df7ccc4f7fce053b21a504719b28be"
+        }
+      ]
+    },
+    {
+      "html": "ALELUIA INTERLECCIONAL",
+      "titulo": "ACLAMAÇÃO AO EVANGELHO I",
+      "numero": "203",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "1d009b599bd1ea9267070aa40019117c1ce76e1e8652ef0ba851ed6289f610f9"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "03f62a62afe337ce4fc463eeee605ae89db5f155c9ee7fe5b6e43d7ed90b624f"
+        }
+      ]
+    },
+    {
+      "html": "ANTIFONA - VERSICULO ANTES DO EVANGELHO",
+      "titulo": "ACLAMAÇÃO AO EVANGELHO II",
+      "numero": "204",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "aada7b2152ba698147385c3191d25bb4ca6bd402ab7a9696640587728b73ef47"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "ce37c348a5d64f40761d7e20655e90ce80c812ca191af71a085c196764decdb4"
+        }
+      ]
+    },
+    {
+      "html": "ALELUIA PASCAL II",
+      "titulo": "ALELUIA PASCAL II",
+      "numero": "207",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "8aaf14989e860ad2edb398d5c6d8765b834983099099b2e18720bc91611ce864"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "8aaf14989e860ad2edb398d5c6d8765b834983099099b2e18720bc91611ce864"
+        }
+      ]
+    },
+    {
+      "html": "ANAFORA DO SAL",
+      "titulo": "ANÁFORA DO SAL",
+      "numero": "209",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "3cae073fbefaa4859a396da91f49de11051767d6446b1df80d217d1035d565c2"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "112e5250c0c6690c426f8eb847f3004d89ccfa7e700e8141bbd3020ee46f1d6e"
+        }
+      ]
+    },
+    {
+      "html": "BENCAO DA AGUA",
+      "titulo": "BÊNÇÃO DA ÁGUA",
+      "numero": "210",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "4187cff7d504ca25b0ca26cdfa9ce1607c1225e5b48f2d13a350a2bb7e0c14cb"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "0550f35b6f4f2f3828d510f5054a5e0a45edab034ad43513a4717db807a05f4f"
+        }
+      ]
+    },
+    {
+      "html": "BENCAO PENITENCIAL",
+      "titulo": "CELEBRAÇÃO PENITENCIAL",
+      "numero": "212",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "3216dfb06c8701f28f5498e67985234af913899a1a1462061ebdd12ddc662291"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "dd613d3dcbf4e1dd7a3fd72017958991542ee349e89b3ac854423c1a2368b7cc"
+        }
+      ]
+    },
+    {
+      "html": "CREDO",
+      "titulo": "CREDO",
+      "numero": "214",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "4b64ec24256d2a1c705dfe31d93650ec6bab515e5b6aa3fb127764939c1bac3d"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "4b64ec24256d2a1c705dfe31d93650ec6bab515e5b6aa3fb127764939c1bac3d"
+        }
+      ]
+    },
+    {
+      "html": "LADAINHA PENITENCIAL II",
+      "titulo": "LADAINHA PENITENCIAL II",
+      "numero": "219",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "c0e8ad981c3de80a1c2bfcd7e2a6707f8b5aaa076799d5f90c3f2064948d63a8"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "b2a24fb317f4e68dab40973c07cdcb7953fd0fd1a7d5c002a68f12ea0fa96610"
+        }
+      ]
+    },
+    {
+      "html": "PRECONIO PASCAL",
+      "titulo": "PRECÔNIO PASCAL",
+      "numero": "228",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "d5aacc317e2107f8443ecae4dcb5b626e813e1a7659442db8bf05a0641100696"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "d29896440854a2b8ef95353dc867ec40f4660eb5b92e387a03342368f63ccf59"
+        }
+      ]
+    },
+    {
+      "html": "SALMODIA PARA O SALMO RESPONSORIAL",
+      "titulo": "SALMODIA PARA O SALMO RESPONSORIAL",
+      "numero": "235",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "3d965680f427a9fa86fd1ad58be545c3162e8f719cda442ca3213354430c97e7"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "dd11e532bc8c62fbffde79fb9dc2144656a7f4666cbee59ec887a2e2926c9b17"
+        }
+      ]
+    },
+    {
+      "html": "TE DEUM",
+      "titulo": "TE DEUM",
+      "numero": "244",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "c420e296985aa6c18d7b12e87584b0385f199d58520400b323fa5e6f1a3d0a71"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "edcb06ea83ef5f0a88947cd823d2fae741bbbf41cada888dfa4dd94d042263c1"
+        }
+      ]
+    },
+    {
+      "html": "COMO O IMPULSO QUE SENTE A IRA",
+      "titulo": "COMO O IMPULSO QUE SENTE A IRA",
+      "numero": "245",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "e533702d33fd6176f8041a4d94d03b8276f023887089ac1b830c56116934d40b"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "cd5561c731e9ef67764d74dc240ba408d4f36037dd3f3b9fd62f67f5bfb718cf"
+        }
+      ]
+    },
+    {
+      "html": "HINO A CRUZ GLORIOSA",
+      "titulo": "HINO À CRUZ GLORIOSA",
+      "numero": "248",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "2127590ad573281a8ab3cb3ce00a398a0b33205839a552a96f89fd31cab39614"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "2d1717b6e9c05b33f5be02d13d61f70b872343e934852d34c6cce1ae6f919033"
+        }
+      ]
+    },
+    {
+      "html": "JACO",
+      "titulo": "JACÓ",
+      "numero": "249",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "eb55eda09147422c3840b53ec72fc50203f90c863a95c899f3859510df89673b"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "eb55eda09147422c3840b53ec72fc50203f90c863a95c899f3859510df89673b"
+        }
+      ]
+    },
+    {
+      "html": "NAO RESISTAIS AO MAL",
+      "titulo": "NÃO RESISTAIS AO MAL",
+      "numero": "250",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "008b00a03008bbe01fc17f7f1d90da310eebee332ef6392a9e26f1aec403c307"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "feb71f2beb2e7fd642ceb38d53e98160808f34f30161e156750e8d140df7c00c"
+        }
+      ]
+    },
+    {
+      "html": "NAO SOFRAS PELOS MALVADOS",
+      "titulo": "NÃO SOFRAS PELOS MALVADOS",
+      "numero": "251",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "81c361fa6d319307151275990db1e750eb343431981565dd14e6f8d12c96b6a0"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "8c54c91f30f8f45bd7f84caad4ab98a44024e1dfc1128516e339f4d23f0f8bf7"
+        }
+      ]
+    },
+    {
+      "html": "O SEMEADOR",
+      "titulo": "O SEMEADOR",
+      "numero": "254",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "38dff8de6cd7bf0bdb49a0fe32f9f6fd19f1b48a67627038bed11b3a13c29786"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "6bad3f19689c046f212877d509e0afcb7826817db763a7117d376303224a13a5"
+        }
+      ]
+    },
+    {
+      "html": "O SENHOR MEU CORACAO NAO E PRETENSIOSO",
+      "titulo": "Ó SENHOR, MEU CORAÇÃO NÃO É PRETENSIOSO",
+      "numero": "255",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "82c0a38e72236c597e950aac13fa3f6d7ed66fa7e40243b053b8bd7f1bfc9aec"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "5c2bf808e8f025e019a2c460648572be836d5734bcdfe275432abc378acedd4b"
+        }
+      ]
+    },
+    {
+      "html": "QUANDO DORMIA",
+      "titulo": "QUANDO DORMIA",
+      "numero": "256",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "3635f64f2bdeb670965964059acf2b7e67d2e6218619bcb502f244f087361156"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "da6d0b54f4d9d3e48d58c18ab06005460cecc3cf2a21e4a86b04100d471445d0"
+        }
+      ]
+    },
+    {
+      "html": "SENHOR TU ME ESCRUTAS E CONHECES",
+      "titulo": "SENHOR, TU ME ESCRUTAS E CONHECES",
+      "numero": "257",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "7b1a5e24cba3fd5f55b3d88838b7e7b560dd77a1fc1f3e3c121ea8b67bf752cf"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "7b1a5e24cba3fd5f55b3d88838b7e7b560dd77a1fc1f3e3c121ea8b67bf752cf"
+        }
+      ]
+    },
+    {
+      "html": "SHEMA ISRAEL",
+      "titulo": "SHEMÁ ISRAEL",
+      "numero": "259",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "2593292f256b6e9b112fe7886d7a24ac67902cb87ff23de2c1089d18caf4b671"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "1cbbe34ed420521c1911e2bba75ec03350cd1cbe38c4513ef149ecda8caf844a"
+        }
+      ]
+    },
+    {
+      "html": "A CEIA DO CORDEIRO",
+      "titulo": "À CEIA DO CORDEIRO",
+      "numero": "261",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "d4b365e19539cab622be9d06b5bc8be090209bb0a14023a9d2b472d89c0150b7"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "38333bc23c2b8a92b4e5410929d0228da1dda02410c5918a3f3dad51b02f5656"
+        }
+      ]
+    },
+    {
+      "html": "FORMOSA ES AMIGA MINHA",
+      "titulo": "FORMOSA ÉS, AMIGA MINHA",
+      "numero": "265",
+      "variants": [
+        {
+          "variant": "normal",
+          "sha256": "4b2285f7b211a1a7c265f527eb0aef7ab8a40904b8d24f64144a208ce775cf10"
+        },
+        {
+          "variant": "estendido",
+          "sha256": "b760db3bbdd01529468e47e618362e2911ec7a1138e6caa5537c40994fc4465d"
+        }
+      ]
+    }
+  ],
+  "browserChecked": 254,
+  "privatePdfPublished": false,
+  "checks": [
+    "catalog validation",
+    "edition/source reproducibility",
+    "classification and colors",
+    "reviewed treatment lines",
+    "24 Python tests",
+    "Dart revision tests",
+    "Dart analyze lib",
+    "git diff --check"
+  ],
+  "retainedHumanReview": [],
+  "humanDecisions": "Editorial and musical questions resolved with user; registry records decisions. PDF BIS displacements reported for editorial correction, not reproduced in HTML.",
+  "catalogSha256": "5dedbad4d2522072ec1f21c1f2119699625cc5bcfc52b7a0c116d3b503f6821a"
+}

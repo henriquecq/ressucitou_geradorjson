@@ -9,8 +9,8 @@
       "kind": "spelling",
       "printed": "Canto Epiritual negro",
       "suggested": "Canto Espiritual negro",
-      "currentPolicy": "HTML currently follows the printed subtitle; awaiting human decision.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved Espiritual on 2026-11-03; corrected both HTML variants.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -21,8 +21,8 @@
       "kind": "spelling",
       "printed": "para fazer a tua contade",
       "suggested": "para fazer a tua vontade",
-      "currentPolicy": "Correct vontade retained in HTML.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining correct vontade in both HTML variants on 2026-11-03.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -33,8 +33,8 @@
       "kind": "word-order",
       "printed": "porque compraste com teu o sangue",
       "suggested": "porque compraste com o teu sangue",
-      "currentPolicy": "Correct form retained, supported by other occurrences on the same page.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining com o teu sangue in both HTML variants on 2026-11-03.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -45,8 +45,8 @@
       "kind": "spelling",
       "printed": "A frangância dos teus perfumes",
       "suggested": "A fragrância dos teus perfumes",
-      "currentPolicy": "Correct fragrância retained in HTML.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining correct fragrância in both HTML variants on 2026-11-03.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -57,8 +57,8 @@
       "kind": "spelling",
       "printed": "é a frangrância do Líbano",
       "suggested": "é a fragrância do Líbano",
-      "currentPolicy": "Correct fragrância retained in HTML.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining correct fragrância in both HTML variants on 2026-11-03.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -69,8 +69,8 @@
       "kind": "possible-editorial-grammar",
       "printed": "Hino inspirado nos Kontákion de São Romano, o Melodista",
       "suggested": null,
-      "currentPolicy": "Preserve printed wording pending editorial assessment; grammatical suspicion is not a confirmed typo.",
-      "status": "human-review-requested",
+      "currentPolicy": "User explicitly approved preserving the printed subtitle, including nos Kontákion, on 2026-11-03.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -82,8 +82,8 @@
       "printed": "119",
       "suggested": "117",
       "sheetPage": 117,
-      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining actual sheet page 117 on 2026-11-03; page 13 index also confirms 117. Page 119 belongs to Louvai o Senhor.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -95,8 +95,8 @@
       "printed": "207",
       "suggested": "208",
       "sheetPage": 208,
-      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining actual sheet page 208 on 2026-11-03. Page 207 belongs to Aleluia Pascal II; indices on pages 9 and 14 confirm 208.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -108,8 +108,8 @@
       "printed": "149",
       "suggested": "147",
       "sheetPage": 147,
-      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining actual sheet page 147 on 2026-11-03. Page 149 belongs to Ó Senhor, nosso Deus.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -121,8 +121,8 @@
       "printed": "186",
       "suggested": "187",
       "sheetPage": 187,
-      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining actual sheet page 187 on 2026-11-03. Page 186 belongs to Tu és formoso.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -134,8 +134,8 @@
       "printed": "198",
       "suggested": "199",
       "sheetPage": 199,
-      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining actual sheet page 199 on 2026-11-03. Page 198 belongs to Vivei alegres.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -147,8 +147,8 @@
       "printed": "207",
       "suggested": "208",
       "sheetPage": 208,
-      "currentPolicy": "Actual sheet page retained in JSON; wrong printed reference not propagated.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining actual sheet page 208 on 2026-11-03. Page 207 belongs to Aleluia Pascal II; indices on pages 9 and 14 confirm 208.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -159,8 +159,8 @@
       "kind": "possible-accent-error",
       "printed": "Como oléo / COMO OLÉO",
       "suggested": "Como óleo / COMO ÓLEO",
-      "currentPolicy": "Correct óleo/ÓLEO retained in HTML; printed accent position recorded for human assessment.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved retaining correct óleo/ÓLEO in both HTML variants on 2026-11-03.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
       "imagesIncluded": false
     },
@@ -171,9 +171,38 @@
       "kind": "double-terminal-punctuation",
       "printed": "como terra sedenta e sem água!.",
       "suggested": "como terra sedenta e sem água!",
-      "currentPolicy": "Printed punctuation retained pending explicit human/editorial decision.",
-      "status": "human-review-requested",
+      "currentPolicy": "User approved removing the period after the exclamation mark on 2026-11-03; corrected structured source and both HTML variants.",
+      "status": "resolved-user-approved",
       "source": "Private Ressuscitou-2026.pdf, supplied locally by user",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-133-redundant-solist",
+      "page": 133,
+      "html": "NOLI ME TANGERE",
+      "kind": "possible-layout-error",
+      "printed": "S. que subo ao meu Pai / S. e vosso Pai,",
+      "suggested": "Use S. only at the beginning of the continuous soloist block.",
+      "status": "resolved-user-approved",
+      "currentPolicy": "User explicitly approved retaining only the first S. HTML already follows this grouping.",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-235-bis-alignment",
+      "page": 235,
+      "html": "SALMODIA PARA O SALMO RESPONSORIAL",
+      "kind": "bis-layout",
+      "status": "reported-for-pdf-correction",
+      "currentPolicy": "User reports displaced PDF bracket/BIS A. Align with the three-line initial refrain only. Keep HTML bracket aligned; do not reproduce the PDF displacement.",
+      "imagesIncluded": false
+    },
+    {
+      "id": "pdf-102-bis-alignment",
+      "page": 102,
+      "html": "FOGE O MEU AMADO",
+      "kind": "bis-layout",
+      "status": "reported-for-pdf-correction",
+      "currentPolicy": "User reports displaced PDF bracket/BIS. Align with the four-line refrain only. Keep HTML bracket aligned; do not reproduce the PDF displacement.",
       "imagesIncluded": false
     }
   ],
@@ -182,13 +211,24 @@
       "html": "EU TE AMO SENHOR",
       "page": 95,
       "kind": "untranscribed-violin-score",
-      "reason": "Faithful musical transcription still required; no source PDF image copied."
+      "reason": "User approved original musical engraving on 2026-11-03. Both violin excerpts manually transcribed with independent agent verification, engraved as SVG and embedded in both HTML variants. No PDF image assets used.",
+      "status": "resolved-user-approved",
+      "transcription": "data/edicao_2026/partituras/eu-te-amo-senhor-violino.json"
     },
     {
       "html": "LADAINHA PENITENCIAL II",
       "page": 219,
       "kind": "sustained-formula-versus-reattack",
-      "reason": "Printed initial chord may carry over subsequent invocations; expanded HTML reattacks require human musical interpretation. Not a confirmed printed error."
+      "reason": "User approved on 2026-11-03: normal follows printed grouped invocations, abbreviations and chords; extended repeats complete responses and their formula chords. No instruction about sustain or reattack inferred. Corrected pormeio typo and removed unsupported La major.",
+      "status": "resolved-user-approved"
+    },
+    {
+      "id": "html-023-remove-manual-melisma",
+      "page": 23,
+      "html": "A CORDEIRA DE DEUS",
+      "kind": "remove-manual-annotation",
+      "status": "resolved-user-approved",
+      "reason": "User requested removal of the manually added melisma annotation because it does not appear in 2026. Removed from both HTML variants."
     }
   ]
 }

@@ -1,0 +1,769 @@
+[
+  {
+    "html": "LEVA ME AO CEU",
+    "title": "LEVA-ME AO CÉU",
+    "subtitle": "Cf. Filipenses 1, 23",
+    "color": "#FFFFFF",
+    "capo": "",
+    "sourcePages": [
+      117
+    ],
+    "rows": [
+      {
+        "text": "LEVA-ME AO CÉU,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 92.7
+      },
+      {
+        "text": "LEVA-ME AO CÉU,",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 117,
+        "sourceY": 116.7
+      },
+      {
+        "text": "Ó SENHOR!",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do#-"
+          ],
+          [
+            5,
+            "Sol#"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 140.7
+      },
+      {
+        "text": "PORQUE MORRER,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            10,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 164.7
+      },
+      {
+        "text": "PORQUE MORRER",
+        "role": "",
+        "bold": true,
+        "notes": [],
+        "sourcePage": 117,
+        "sourceY": 188.7
+      },
+      {
+        "text": "É CERTAMENTE O MELHOR,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do#-"
+          ],
+          [
+            18,
+            "Sol#"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 212.7
+      },
+      {
+        "text": "É CERTAMENTE O MELHOR.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "La"
+          ],
+          [
+            18,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 236.7
+      },
+      {
+        "text": "ESTAR CONTIGO,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            9,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 260.7
+      },
+      {
+        "text": "ESTAR CONTIGO.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            9,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 284.7
+      },
+      {
+        "text": "Uma coisa te rogo,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 320.7
+      },
+      {
+        "text": "esta somente te peço:",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 117,
+        "sourceY": 344.7
+      },
+      {
+        "text": "não duvidar nunca do teu amor;",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do#-"
+          ],
+          [
+            26,
+            "Sol#"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 368.7
+      },
+      {
+        "text": "não duvidar nunca de ti.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La"
+          ],
+          [
+            20,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 392.7
+      },
+      {
+        "text": "Estar contigo,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 416.7
+      },
+      {
+        "text": "estar contigo.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            9,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 440.7
+      },
+      {
+        "text": "LEVA-ME AO CÉU ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 476.7
+      },
+      {
+        "text": "Ó que bom,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 92.7
+      },
+      {
+        "text": "ó que doce,",
+        "role": "",
+        "bold": false,
+        "notes": [],
+        "sourcePage": 117,
+        "sourceY": 116.7
+      },
+      {
+        "text": "foi para mim o teu amor,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do#-"
+          ],
+          [
+            20,
+            "Sol#"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 140.7
+      },
+      {
+        "text": "foi para mim o teu amor.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "La"
+          ],
+          [
+            20,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 164.7
+      },
+      {
+        "text": "Ó que bom,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Si7"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 188.7
+      },
+      {
+        "text": "Ó que doce.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            6,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 212.7
+      },
+      {
+        "text": "LEVA-ME AO CÉU ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 248.7
+      },
+      {
+        "text": "Uma coisa te rogo, ...",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 284.7
+      },
+      {
+        "text": "LEVA-ME AO CÉU ...",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Mi"
+          ]
+        ],
+        "sourcePage": 117,
+        "sourceY": 320.7
+      }
+    ],
+    "expansions": {
+      "15": [
+        0,
+        9
+      ],
+      "22": [
+        0,
+        9
+      ],
+      "23": [
+        9,
+        15
+      ],
+      "24": [
+        0,
+        9
+      ]
+    }
+  },
+  {
+    "html": "NOLI ME TANGERE",
+    "title": "NOLI ME TANGERE",
+    "subtitle": "João 20, 15-17",
+    "color": "#FFFFFF",
+    "capo": "",
+    "sourcePages": [
+      133
+    ],
+    "rows": [
+      {
+        "text": "Mulher, dize-me, por que choras?",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 92.7
+      },
+      {
+        "text": "Mulher, dize-me, por que choras?",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            25,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 116.7
+      },
+      {
+        "text": "A quem buscas?",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Do"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 140.7
+      },
+      {
+        "text": "A quem buscas?",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 164.7
+      },
+      {
+        "text": "A quem buscas?",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            7,
+            "Do"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 188.7
+      },
+      {
+        "text": "SENHOR, SE O TIVERES LEVADO TU,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Do"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 224.7
+      },
+      {
+        "text": "SENHOR, SE O TIVERES LEVADO TU,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            28,
+            "Fa"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 248.7
+      },
+      {
+        "text": "DIZE-ME ONDE O PUSESTE,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            17,
+            "Do"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 272.7
+      },
+      {
+        "text": "E EU O BUSCAREI,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Sol"
+          ],
+          [
+            12,
+            "Do"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 296.7
+      },
+      {
+        "text": "E EU O BUSCAREI.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            2,
+            "Sol"
+          ],
+          [
+            12,
+            "Do"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 320.7
+      },
+      {
+        "text": "Maria!",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa-"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 356.7
+      },
+      {
+        "text": "RABBUNI!",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            3,
+            "Do-"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 380.7
+      },
+      {
+        "text": "Maria!",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa-"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 404.7
+      },
+      {
+        "text": "RABBUNI!",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            3,
+            "Do-"
+          ],
+          [
+            6,
+            "Do"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 428.7
+      },
+      {
+        "text": "Noli me tangere! Não me toques,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sib"
+          ],
+          [
+            9,
+            "Do"
+          ],
+          [
+            17,
+            "Sib"
+          ],
+          [
+            25,
+            "Do"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 92.7
+      },
+      {
+        "text": "pois ainda não subi ao Pai.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Sib"
+          ],
+          [
+            23,
+            "Do"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 116.7
+      },
+      {
+        "text": "Vai e anuncia a meus irmãos.",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            0,
+            "Fa-"
+          ],
+          [
+            24,
+            "Do-"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 152.7
+      },
+      {
+        "text": "VAI E ANUNCIA A MEUS IRMÃOS,",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            0,
+            "Fa-"
+          ],
+          [
+            24,
+            "Do-"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 176.7
+      },
+      {
+        "text": "que subo ao meu Pai",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Sol#"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 212.7
+      },
+      {
+        "text": "e vosso Pai,",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            8,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 236.7
+      },
+      {
+        "text": "meu Deus e vosso Deus.",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "Sol#"
+          ],
+          [
+            17,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 260.7
+      },
+      {
+        "text": "QUE SUBO AO MEU PAI",
+        "role": "A.",
+        "bold": true,
+        "notes": [
+          [
+            5,
+            "Fa-"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 296.7
+      },
+      {
+        "text": "E VOSSO PAI,",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            8,
+            "Do-"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 320.7
+      },
+      {
+        "text": "MEU DEUS E VOSSO DEUS.",
+        "role": "",
+        "bold": true,
+        "notes": [
+          [
+            5,
+            "Fa-"
+          ],
+          [
+            18,
+            "Do-"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 344.7
+      },
+      {
+        "text": "Que subo ao meu Pai e vosso Pai,",
+        "role": "S.",
+        "bold": false,
+        "notes": [
+          [
+            5,
+            "Sol#"
+          ],
+          [
+            28,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 380.7
+      },
+      {
+        "text": "meu Deus e vosso Deus. (melisma)",
+        "role": "",
+        "bold": false,
+        "notes": [
+          [
+            4,
+            "Sol#"
+          ],
+          [
+            17,
+            "Sol"
+          ]
+        ],
+        "sourcePage": 133,
+        "sourceY": 404.7,
+        "rubric": true
+      }
+    ],
+    "expansions": {}
+  }
+]

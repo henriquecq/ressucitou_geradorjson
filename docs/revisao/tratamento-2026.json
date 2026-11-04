@@ -3122,7 +3122,7 @@
         {
           "line": 59,
           "before": "teu Filho batizado por João na água do Jordão,",
-          "after": "vosso Filho batizado por João na água do Jordão,"
+          "after": "vosso Filho, batizado por João, na água do Jordão,"
         },
         {
           "line": 93,
@@ -3152,7 +3152,7 @@
         {
           "line": 121,
           "before": "pela obra do teu Filho,",
-          "after": "sobre esta água pela obra do vosso Filho,",
+          "after": "sobre esta água, pela obra do vosso Filho,",
           "lineBreakReview": "2026 line reflow; treatment phrase unchanged"
         }
       ]
@@ -3191,7 +3191,7 @@
         {
           "line": 59,
           "before": "teu Filho batizado por João na água do Jordão,",
-          "after": "vosso Filho batizado por João na água do Jordão,"
+          "after": "vosso Filho, batizado por João, na água do Jordão,"
         },
         {
           "line": 107,
@@ -3221,7 +3221,7 @@
         {
           "line": 134,
           "before": "pela obra do teu Filho,",
-          "after": "sobre esta água pela obra do vosso Filho,",
+          "after": "sobre esta água, pela obra do vosso Filho,",
           "lineBreakReview": "2026 line reflow; treatment phrase unchanged"
         }
       ]
@@ -3444,167 +3444,199 @@
           "line": 15,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 20,
           "before": "S.  Senhor tem piedade.",
-          "after": "S.  Senhor tende piedade."
+          "after": "S.  Senhor tende piedade.",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 22,
           "before": "A.  SENHOR TEM PIEDADE",
-          "after": "A.  SENHOR TENDE PIEDADE"
+          "after": "A.  SENHOR TENDE PIEDADE",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 28,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "A.  TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 32,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 36,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 40,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 44,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 50,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 54,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 59,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 62,
           "before": "S.  Senhor, tem piedade.",
-          "after": "S.  Senhor, tende piedade."
+          "after": "S.  Senhor tende piedade.",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 64,
           "before": "A.  SENHOR TEM PIEDADE.",
-          "after": "A.  SENHOR TENDE PIEDADE."
+          "after": "A.  SENHOR TENDE PIEDADE",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 70,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "A.  TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 74,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 78,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 82,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 88,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 92,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 96,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 100,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 104,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 107,
           "before": "S.  Senhor tem piedade.",
-          "after": "S.  Senhor tende piedade."
+          "after": "S.  Senhor tende piedade.",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 109,
           "before": "A.  SENHOR TEM PIEDADE.",
-          "after": "A.  SENHOR TENDE PIEDADE."
+          "after": "A.  SENHOR TENDE PIEDADE",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 115,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "A.  TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 119,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 125,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 129,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 133,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 137,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 141,
           "before": "A.  TEM PIEDADE DE MIM, ...",
-          "after": "A.  TENDE PIEDADE DE MIM, ..."
+          "after": "TENDE PIEDADE DE MIM ...",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 144,
           "before": "S.  Senhor tem piedade.",
-          "after": "S.  Senhor tende piedade."
+          "after": "S.  Senhor tende piedade.",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 146,
           "before": "A.  SENHOR TEM PIEDADE.",
-          "after": "A.  SENHOR TENDE PIEDADE."
+          "after": "A.  SENHOR TENDE PIEDADE",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         }
       ]
     },
@@ -3616,191 +3648,199 @@
           "line": 15,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 20,
           "before": "S.  Senhor tem piedade.",
-          "after": "S.  Senhor tende piedade."
+          "after": "S.  Senhor tende piedade.",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 22,
           "before": "A.  SENHOR TEM PIEDADE",
-          "after": "A.  SENHOR TENDE PIEDADE"
+          "after": "A.  SENHOR TENDE PIEDADE",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 29,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 37,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 44,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 51,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 58,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 67,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 74,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 82,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 87,
           "before": "S.  Senhor, tem piedade.",
-          "after": "S.  Senhor, tende piedade."
+          "after": "S.  Senhor tende piedade.",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 89,
           "before": "A.  SENHOR TEM PIEDADE.",
-          "after": "A.  SENHOR TENDE PIEDADE."
+          "after": "A.  SENHOR TENDE PIEDADE",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 96,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 103,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 110,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 117,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 126,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 133,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 140,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 147,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 154,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 159,
           "before": "S.  Senhor tem piedade.",
-          "after": "S.  Senhor tende piedade."
+          "after": "S.  Senhor tende piedade.",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 161,
           "before": "A.  SENHOR TEM PIEDADE.",
-          "after": "A.  SENHOR TENDE PIEDADE."
+          "after": "A.  SENHOR TENDE PIEDADE",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 168,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 175,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 184,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 191,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 198,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 205,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 212,
           "before": "A.  TEM PIEDADE DE MIM,",
           "after": "A.  TENDE PIEDADE DE MIM, QUE SOU PECADOR.",
-          "sourceReview": "2026 complete response on one line"
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 217,
           "before": "S.  Senhor tem piedade.",
-          "after": "S.  Senhor tende piedade."
+          "after": "S.  Senhor tende piedade.",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         },
         {
           "line": 219,
           "before": "A.  SENHOR TEM PIEDADE.",
-          "after": "A.  SENHOR TENDE PIEDADE."
+          "after": "A.  SENHOR TENDE PIEDADE",
+          "sourceReview": "User approved printed normal grouping and complete extended responses, 2026-11-03."
         }
       ]
     },
