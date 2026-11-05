@@ -8,9 +8,9 @@ List<Canto> listCantos = [];
 
 Future<void> main() async {
   listCantos.add(Canto(1, "A CABANA DOS PASTORES", "A CABANA DOS PASTORES", "X", 1));
-  listCantos.add(Canto(2, "À CEIA DO CORDEIRO", "A CEIA DO CORDEIRO", "", 3));
+  listCantos.add(Canto(2, "À CEIA DO CORDEIRO", "A CEIA DO CORDEIRO", "X", 3));
   listCantos.add(Canto(3, "A CEIFA DAS NAÇÕES", "A CEIFA DAS NACOES", "X", 1));
-  listCantos.add(Canto(4, "A CORDEIRA DE DEUS", "A CORDEIRA DE DEUS", "", 1));
+  listCantos.add(Canto(4, "A CORDEIRA DE DEUS", "A CORDEIRA DE DEUS", "X", 1));
   listCantos.add(Canto(227, "A ESPADA", "A ESPADA", "X", 1));
   listCantos.add(Canto(5, "A MARCHA É DURA", "A MARCHA E DURA", "X", 1));
   listCantos.add(Canto(6, "A NINGUÉM DEMOS OCASIÃO DE TROPEÇO", "A NINGUEM DEMOS OCASIAO DE TROPECO", "X", 1));
@@ -21,7 +21,7 @@ Future<void> main() async {
   listCantos.add(Canto(11, "A TI, SENHOR, SE DEVE LOUVOR EM SIÃO", "A TI SENHOR SE DEVE LOUVOR EM SIAO", "X", 1));
   listCantos.add(Canto(12, "À VÍTIMA PASCAL", "A VITIMA PASCAL", "X", 1));
   listCantos.add(Canto(13, "A VOZ DO MEU AMADO", "A VOZ DO MEU AMADO", "X", 1));
-  listCantos.add(Canto(14, "ABBA, PAI", "ABBA PAI", "", 1));
+  listCantos.add(Canto(14, "ABBA, PAI", "ABBA PAI", "X", 1));
   listCantos.add(Canto(15, "ABRAÃO", "ABRAAO", "X", 1));
   listCantos.add(Canto(16, "ACLAMAI O SENHOR", "ACLAMAI O SENHOR", "X", 1));
   listCantos.add(Canto(17, "AKEDÁ", "AKEDA", "X", 1));
@@ -44,7 +44,7 @@ Future<void> main() async {
   listCantos.add(Canto(33, "AVE MARIA II (1984)", "AVE MARIA II 1984", "X", 1));
   listCantos.add(Canto(34, "BABILÔNIA CRIMINAL", "BABILONIA CRIMINAL", "X", 1));
   listCantos.add(Canto(35, "BALAÃO", "BALAAO", "X", 1));
-  listCantos.add(Canto(36, "BÊNÇÃO DA ÁGUA", "BENCAO DA AGUA", "", 4));
+  listCantos.add(Canto(36, "BÊNÇÃO DA ÁGUA", "BENCAO DA AGUA", "X", 4));
   listCantos.add(Canto(37, "BÊNÇÃO PENITENCIAL", "BENCAO PENITENCIAL", "", 4));
   listCantos.add(Canto(38, "BENDIREI O SENHOR EM TODO TEMPO", "BENDIREI O SENHOR EM TODO TEMPO", "X", 1));
   listCantos.add(Canto(39, "BENDITA ÉS TÚ, MARIA", "BENDITA ES TU MARIA", "X", 1));
@@ -53,7 +53,7 @@ Future<void> main() async {
   listCantos.add(Canto(42, "BENDIZE, MINHA ALMA, A IAHWEH", "BENDIZE MINHA ALMA A IAHWEH", "X", 1));
   listCantos.add(Canto(43, "BENEDICTUS", "BENEDICTUS", "X", 1));
   listCantos.add(Canto(44, "CANTA A IAHWEH, JERUSALÉM", "CANTA A IAHWEH JERUSALEM", "X", 1));
-  listCantos.add(Canto(45, "CANTAI A DEUS", "CANTAI A DEUS", "", 1));
+  listCantos.add(Canto(45, "CANTAI A DEUS", "CANTAI A DEUS", "X", 1));
   listCantos.add(Canto(46, "CÂNTICO DE ANA", "CANTICO DE ANA", "X", 1));
   listCantos.add(Canto(47, "CÂNTICO DOS TRÊS JOVENS", "CANTICO DOS TRES JOVENS", "X", 1));
   listCantos.add(Canto(48, "CANTO DE MOISÉS", "CANTO DE MOISES", "X", 1));
@@ -63,12 +63,12 @@ Future<void> main() async {
   listCantos.add(Canto(52, "COMO CONDENADOS A MORTE", "COMO CONDENADOS A MORTE", "X", 1));
   listCantos.add(Canto(53, "COMO É MARAVILHOSO", "COMO E MARAVILHOSO", "X", 1));
   listCantos.add(Canto(54, "COMO ESCORRE O MEL", "COMO ESCORRE O MEL", "", 3));
-  listCantos.add(Canto(55, "COMO LÍRIO ENTRE OS ESPINHOS", "COMO LIRIO ENTRE OS ESPINHOS", "", 3));
+  listCantos.add(Canto(55, "COMO LÍRIO ENTRE OS ESPINHOS", "COMO LIRIO ENTRE OS ESPINHOS", "X", 3));
   listCantos.add(Canto(56, "COMO O IMPULSO QUE SENTE A IRA", "COMO O IMPULSO QUE SENTE A IRA", "", 2));
   listCantos.add(Canto(57, "COMO OVELHA QUE VÊ", "COMO OVELHA QUE VE", "X", 1));
   listCantos.add(Canto(58, "COMO SÃO AMÁVEIS TUAS MORADAS", "COMO SAO AMAVEIS TUAS MORADAS", "X", 1));
   listCantos.add(Canto(59, "CONFESSEI A TI O MEU PECADO", "CONFESSEI A TI O MEU PECADO", "X", 1));
-  listCantos.add(Canto(60, "CONSOLAI O MEU POVO", "CONSOLAI O MEU POVO", "", 1));
+  listCantos.add(Canto(60, "CONSOLAI O MEU POVO", "CONSOLAI O MEU POVO", "X", 1));
   listCantos.add(Canto(61, "CORDEIRO DE DEUS", "CORDEIRO DE DEUS", "", 4));
   listCantos.add(Canto(62, "CREDO", "CREDO", "", 4));
   listCantos.add(Canto(63, "DAYENÚ", "DAYENU", "X", 1));
@@ -79,7 +79,7 @@ Future<void> main() async {
   listCantos.add(Canto(68, "DIZ O SENHOR AO MEU SENHOR", "DIZ O SENHOR AO MEU SENHOR", "X", 1));
   listCantos.add(Canto(69, "DIZEI AOS DE CORAÇÃO CANSADO", "DIZEI AOS DE CORACAO CANSADO", "X", 1));
   listCantos.add(Canto(70, "É PACIENTE", "E PACIENTE", "X", 1));
-  listCantos.add(Canto(71, "EIS O MEU SERVO", "EIS O MEU SERVO", "", 1));
+  listCantos.add(Canto(71, "EIS O MEU SERVO", "EIS O MEU SERVO", "X", 1));
   listCantos.add(Canto(72, "EIS QUE O NOSSO ESPELHO É O SENHOR", "EIS QUE O NOSSO ESPELHO E O SENHOR", "X", 2));
   listCantos.add(Canto(73, "EIS-ME AQUI QUE VENHO EM BREVE", "EIS ME AQUI QUE VENHO EM BREVE", "X", 1));
   listCantos.add(Canto(74, "ELÍ, ELÍ, LAMÁ SABATANI", "ELI ELI LAMA SABATANI", "X", 1));
@@ -88,7 +88,7 @@ Future<void> main() async {
   listCantos.add(Canto(76, "EM UMA NOITE ESCURA", "EM UMA NOITE ESCURA", "", 1));
   listCantos.add(Canto(77, "ENCONTRARAM-SE DOIS ANJOS", "ENCONTRARAM SE DOIS ANJOS", "X", 1));
   listCantos.add(Canto(78, "ESCONDE-ME NO OCULTO DE TUA TENDA", "ESCONDE ME NO OCULTO DE TUA TENDA", "X", 1));
-  listCantos.add(Canto(79, "ESCUTAI ILHAS DE LONGE", "ESCUTAI ILHAS DE LONGE", "", 1));
+  listCantos.add(Canto(79, "ESCUTAI ILHAS DE LONGE", "ESCUTAI ILHAS DE LONGE", "X", 1));
   listCantos.add(Canto(80, "ESPEREI, ESPEREI NO SENHOR", "ESPEREI ESPEREI NO SENHOR", "X", 1));
   listCantos.add(Canto(81, "ESTÃO ROTAS MINHAS ATADURAS", "ESTAO ROTAS MINHAS ATADURAS", "X", 1));
   listCantos.add(Canto(82, "ESTE É O DIA QUE FEZ O SENHOR", "ESTE E O DIA QUE FEZ O SENHOR", "X", 1));
@@ -104,7 +104,7 @@ Future<void> main() async {
   listCantos.add(Canto(92, "FILHAS DE JERUSALÉM", "FILHAS DE JERUSALEM", "X", 1));
   listCantos.add(Canto(93, "FOGE, Ó MEU AMADO", "FOGE O MEU AMADO", "X", 1));
   listCantos.add(Canto(94, "FORMOSA ÉS, AMIGA MINHA", "FORMOSA ES AMIGA MINHA", "", 3));
-  listCantos.add(Canto(95, "GLÓRIA A DEUS NO ALTO DO CÉU", "GLORIA A DEUS NO ALTO DO CEU", "", 4));
+  listCantos.add(Canto(95, "GLÓRIA A DEUS NO ALTO DO CÉU", "GLORIA A DEUS NO ALTO DO CEU", "X", 4));
   listCantos.add(Canto(96, "GRAÇAS A IAHWEH", "GRACAS A IAHWEH", "X", 1));
   listCantos.add(Canto(97, "GRITAI JUBILOSOS", "GRITAI JUBILOSOS", "X", 1));
   listCantos.add(Canto(98, "HINO À CARIDADE", "HINO A CARIDADE", "X", 1));
@@ -142,7 +142,7 @@ Future<void> main() async {
   listCantos.add(Canto(130, "NÃO ESTÁ AQUI, RESSUSCITOU", "NAO ESTA AQUI RESSUSCITOU", "X", 1));
   listCantos.add(Canto(131, "NÃO HÁ NELE APARÊNCIA", "NAO HA NELE APARENCIA", "X", 1));
   listCantos.add(Canto(132, "NÃO RESISTAIS AO MAL", "NAO RESISTAIS AO MAL", "X", 2));
-  listCantos.add(Canto(133, "NÃO SOFRAS PELOS MALVADOS", "NAO SOFRAS PELOS MALVADOS", "", 2));
+  listCantos.add(Canto(133, "NÃO SOFRAS PELOS MALVADOS", "NAO SOFRAS PELOS MALVADOS", "X", 2));
   listCantos.add(Canto(134, "NINGUÉM PODE SERVIR A DOIS SENHORES", "NINGUEM PODE SERVIR A DOIS SENHORES", "", 2));
   listCantos.add(Canto(135, "NOLI ME TANGERE", "NOLI ME TANGERE", "X", 1));
   listCantos.add(Canto(136, "Ó CÉUS, CHOVEI DO ALTO", "O CEUS CHOVEI DO ALTO", "X", 1));
@@ -151,13 +151,13 @@ Future<void> main() async {
   listCantos.add(Canto(139, "Ó DEUS, TU ÉS MEU DEUS", "O DEUS TU ES MEU DEUS", "X", 1));
   listCantos.add(Canto(140, "O ESPÍRITO DO SENHOR ESTÁ SOBRE MIM", "O ESPIRITO DO SENHOR ESTA SOBRE MIM", "X", 1));
   listCantos.add(Canto(141, "Ó JESUS, MEU AMOR", "O JESUS MEU AMOR", "X", 1));
-  listCantos.add(Canto(142, "O LAGAREIRO", "O LAGAREIRO", "", 1));
+  listCantos.add(Canto(142, "O LAGAREIRO", "O LAGAREIRO", "X", 1));
   listCantos.add(Canto(143, "O MESMO DEUS", "O MESMO DEUS", "X", 2));
   listCantos.add(Canto(144, "O MESSIAS LEÃO PARA VENCER", "O MESSIAS LEAO PARA VENCER", "X", 1));
   listCantos.add(Canto(145, "Ó MORTE, ONDE ESTÁ TUA VITÓRIA", "O MORTE ONDE ESTA TUA VITORIA", "X", 1));
   listCantos.add(Canto(146, "O NÉSCIO PENSA QUE DEUS NÃO EXISTE", "O NESCIO PENSA QUE DEUS NAO EXISTE", "X", 1));
   listCantos.add(Canto(147, "O POVO QUE CAMINHAVA NAS TREVAS", "O POVO QUE CAMINHAVA NAS TREVAS", "X", 1));
-  listCantos.add(Canto(148, "O SEMEADOR", "O SEMEADOR", "", 2));
+  listCantos.add(Canto(148, "O SEMEADOR", "O SEMEADOR", "X", 2));
   listCantos.add(Canto(149, "O SENHOR ANUNCIA UMA NOTÍCIA", "O SENHOR ANUNCIA UMA NOTICIA", "X", 1));
   listCantos.add(Canto(150, "O SENHOR É MEU PASTOR", "O SENHOR E MEU PASTOR", "X", 1));
   listCantos.add(Canto(151, "O SENHOR É MINHA LUZ E SALVAÇÃO", "O SENHOR E MINHA LUZ E SALVACAO", "X", 1));
@@ -165,7 +165,7 @@ Future<void> main() async {
   listCantos.add(Canto(153, "Ó SENHOR, MEU CORAÇÃO NÃO É PRETENSIOSO", "O SENHOR MEU CORACAO NAO E PRETENSIOSO", "X", 2));
   listCantos.add(Canto(154, "Ó SENHOR, NOSSO DEUS", "O SENHOR NOSSO DEUS", "X", 1));
   listCantos.add(Canto(155, "OLHAI QUE ESTUPENDO", "OLHAI QUE ESTUPENDO", "X", 1));
-  listCantos.add(Canto(156, "ORAÇÃO EUCARISTICA II", "ORACAO EUCARISTICA II", "", 4));
+  listCantos.add(Canto(156, "ORAÇÃO EUCARISTICA II", "ORACAO EUCARISTICA II", "X", 4));
   listCantos.add(Canto(157, "ORAÇÃO EUCARÍSTICA IV", "ORACAO EUCARISTICA IV", "", 4));
   listCantos.add(Canto(158, "OS MENINOS DE BELEM", "OS MENINOS DE BELEM", "X", 1));
   listCantos.add(Canto(159, "PAI NOSSO", "PAI NOSSO", "", 4));
@@ -173,14 +173,14 @@ Future<void> main() async {
   listCantos.add(Canto(161, "PENTECOSTES", "PENTECOSTES", "X", 1));
   listCantos.add(Canto(162, "POR AMOR DE MEUS AMIGOS", "POR AMOR DE MEUS AMIGOS", "X", 1));
   listCantos.add(Canto(163, "POR QUE CONFABULAM AS NAÇÕES?", "POR QUE CONFABULAM AS NACOES", "X", 1));
-  listCantos.add(Canto(164, "POR QUE ESTA NOITE É DIFERENTE", "POR QUE ESTA NOITE E DIFERENTE", "", 1));
+  listCantos.add(Canto(164, "POR QUE ESTA NOITE É DIFERENTE", "POR QUE ESTA NOITE E DIFERENTE", "X", 1));
   listCantos.add(Canto(165, "PORQUE O MEU JUGO É SUAVE", "PORQUE O MEU JUGO E SUAVE", "X", 1));
   listCantos.add(Canto(168, "PRECÔNIO PASCAL", "PRECONIO PASCAL", "X", 4));
-  listCantos.add(Canto(167, "PREFÁCIO DA PÁSCOA I", "PREFACIO DA PASCOA I", "", 4));
+  listCantos.add(Canto(167, "PREFÁCIO DA PÁSCOA I", "PREFACIO DA PASCOA I", "X", 4));
   listCantos.add(Canto(228, "PREFÁCIO DO ADVENTO I", "PREFACIO DO ADVENTO I", "", 4));
   listCantos.add(Canto(229, "PREFÁCIO DO ADVENTO II", "PREFACIO DO ADVENTO II", "", 4));
   listCantos.add(Canto(166, "PREFÁCIO DO NATAL DO SENHOR I", "PREFACIO DO NATAL DO SENHOR I", "", 4));
-  listCantos.add(Canto(170, "QUANDO DORMIA", "QUANDO DORMIA", "", 2));
+  listCantos.add(Canto(170, "QUANDO DORMIA", "QUANDO DORMIA", "X", 2));
   listCantos.add(Canto(171, "QUANDO ISRAEL SAIU DO EGITO", "QUANDO ISRAEL SAIU DO EGITO", "X", 1));
   listCantos.add(Canto(172, "QUANDO O SENHOR", "QUANDO O SENHOR", "X", 1));
   listCantos.add(Canto(173, "QUE ESTUPENDO, QUE ALEGRIA", "QUE ESTUPENDO QUE ALEGRIA", "X", 1));
@@ -195,12 +195,12 @@ Future<void> main() async {
   listCantos.add(Canto(182, "SALMODIA PARA O SALMO RESPONSORIAL", "SALMODIA PARA O SALMO RESPONSORIAL", "X", 4));
   listCantos.add(Canto(183, "SALVE RAINHA", "SALVE RAINHA", "X", 1));
   listCantos.add(Canto(184, "SALVE RAINHA DOS CÉUS", "SALVE RAINHA DOS CEUS", "X", 1));
-  listCantos.add(Canto(185, "SANTO 1982", "SANTO 1982", "", 4));
-  listCantos.add(Canto(186, "SANTO 1988", "SANTO 1988", "", 4));
-  listCantos.add(Canto(187, "SANTO HEBRAICO", "SANTO HEBRAICO", "", 4));
-  listCantos.add(Canto(188, "SANTO PALESTINA 74", "SANTO PALESTINA 74", "", 4));
-  listCantos.add(Canto(189, "SANTO PALOMERAS 65", "SANTO PALOMERAS 65", "", 4));
-  listCantos.add(Canto(190, "SANTO ROMA 77", "SANTO ROMA 77", "", 4));
+  listCantos.add(Canto(185, "SANTO 1982", "SANTO 1982", "X", 4));
+  listCantos.add(Canto(186, "SANTO 1988", "SANTO 1988", "X", 4));
+  listCantos.add(Canto(187, "SANTO HEBRAICO", "SANTO HEBRAICO", "X", 4));
+  listCantos.add(Canto(188, "SANTO PALESTINA 74", "SANTO PALESTINA 74", "X", 4));
+  listCantos.add(Canto(189, "SANTO PALOMERAS 65", "SANTO PALOMERAS 65", "X", 4));
+  listCantos.add(Canto(190, "SANTO ROMA 77", "SANTO ROMA 77", "X", 4));
   listCantos.add(Canto(191, "SE HOJE ESCUTARDES A SUA VOZ", "SE HOJE ESCUTARDES A SUA VOZ", "X", 1));
   listCantos.add(Canto(192, "SE ME REFUGIEI NO SENHOR", "SE ME REFUGIEI NO SENHOR", "X", 1));
   listCantos.add(Canto(193, "SE O SENHOR NÃO CONSTRÓI A CASA", "SE O SENHOR NAO CONSTROI A CASA", "X", 1));
@@ -219,7 +219,7 @@ Future<void> main() async {
   listCantos.add(Canto(206, "STABAT MATER DOLOROSA", "STABAT MATER DOLOROSA", "X", 1));
   listCantos.add(Canto(207, "TE DEUM", "TE DEUM", "X", 4));
   listCantos.add(Canto(208, "TU COBRISTE DE VERGONHA A MORTE", "TU COBRISTE DE VERGONHA A MORTE", "X", 1));
-  listCantos.add(Canto(209, "TU ÉS A MINHA ESPERANÇA, SENHOR", "TU ES A MINHA ESPERANCA SENHOR", "", 2));
+  listCantos.add(Canto(209, "TU ÉS A MINHA ESPERANÇA, SENHOR", "TU ES A MINHA ESPERANCA SENHOR", "X", 2));
   listCantos.add(Canto(210, "TU ÉS DIGNO DE RECEBER O LIVRO", "TU ES DIGNO DE RECEBER O LIVRO", "X", 1));
   listCantos.add(Canto(211, "TU ÉS FORMOSO", "TU ES FORMOSO", "X", 1));
   listCantos.add(Canto(212, "TU QUE ÉS FIEL", "TU QUE ES FIEL", "X", 1));
@@ -233,10 +233,10 @@ Future<void> main() async {
   listCantos.add(Canto(220, "VEM, FILHO DO HOMEM", "VEM FILHO DO HOMEM", "X", 1));
   listCantos.add(Canto(221, "VENI CREATOR", "VENI CREATOR", "X", 1));
   listCantos.add(Canto(222, "VIRGEM DA MARAVILHA", "VIRGEM DA MARAVILHA", "X", 1));
-  listCantos.add(Canto(223, "VIVEI ALEGRES", "VIVEI ALEGRES", "", 1));
+  listCantos.add(Canto(223, "VIVEI ALEGRES", "VIVEI ALEGRES", "X", 1));
   listCantos.add(Canto(224, "VÓS SOIS A LUZ DO MUNDO", "VOS SOIS A LUZ DO MUNDO", "X", 1));
   listCantos.add(Canto(225, "VOS TOMAREI DENTRE AS NAÇÕES", "VOS TOMAREI DENTRE AS NACOES", "X", 1));
-  listCantos.add(Canto(226, "ZAQUEU", "ZAQUEU", "", 1));
+  listCantos.add(Canto(226, "ZAQUEU", "ZAQUEU", "X", 1));
 
   listCantos.add(Canto(231, "ALEGRIA, NASCEU O SALVADOR", "ALEGRIA NASCEU O SALVADOR", "", 1));
   listCantos.add(Canto(232, "CRISTO É A LUZ", "CRISTO E A LUZ", "", 1));
